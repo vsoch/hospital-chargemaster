@@ -31,7 +31,9 @@ for the purpose of keeping the record.
 
 Each hospital has records kept in a subfolder in the [data](data) folder. Specifically,
 each subfolder is named according to the hospital name (made all lowercase, with spaces 
-replaced with `-`) and within that folder, you will find:
+replaced with `-`). If a subfolder begins with an underscore, it means that I wasn't
+able to find the charge list on the hospital site (and maybe you can help?) 
+Within that folder, you will find:
 
  - `scrape.py`: A script to scrape the data
  - `latest`: a folder with the last scraped (latest data files)
