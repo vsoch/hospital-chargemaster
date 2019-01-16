@@ -10,8 +10,7 @@ from bs4 import BeautifulSoup
 here = os.path.dirname(os.path.abspath(__file__))
 hospital_id = os.path.basename(here)
 
-url ='https://www.aurorahealthcare.org/patients-visitors/billing-payment/health-care-costs'
-prefix = "https://www.aurorahealthcare.org"
+url ='https://www.baptisthealthsystem.com/for-patients/insurance-billing/billing-insurance-questions'
 
 today = datetime.datetime.today().strftime('%Y-%m-%d')
 outdir = os.path.join(here, today)
@@ -25,22 +24,21 @@ soup = BeautifulSoup(response.text, 'lxml')
 records = []
 
 for entry in soup.find_all('a', href=True):
-    entry_name = entry.text.strip()
-    entry_uri = entry_name.lower().replace(' ','-')
-    hospital_url = prefix + entry['href']
-    if '.csv' in hospital_url:
-        response = requests.get(hospital_url)
+    download_url = entry['href']
+    if '.xlsx' in download_url:  
+        filename =  os.path.basename(download_url.split('?')[0])  
+
         # We want to get the original file, not write a new one
-        filename =  os.path.basename(hospital_url.split('?')[0])    
         output_file = os.path.join(outdir, filename)
-        os.system('wget -O %s %s' % (output_file, hospital_url))
+        os.system('wget -O "%s" "%s"' % (output_file, download_url))
 
         record = { 'hospital_id': hospital_id,
                    'filename': filename,
                    'date': today,
-                   'uri': entry_uri,
-                   'name': entry_name,
-                   'url': hospital_url }
+                   'uri': filename,
+                   'name': filename,
+                   'url': download_url }
+
         records.append(record)
 
 # Keep json record of all files included

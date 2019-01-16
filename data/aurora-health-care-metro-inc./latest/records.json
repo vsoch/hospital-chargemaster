@@ -118,5 +118,125 @@
         "uri": "aurora-west-allis-medical-center",
         "name": "Aurora West Allis Medical Center",
         "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/hospital-standard-charges/west-allis-standard-charges.csv?la=en&hash=C2C147B35814382E9DDA548253A66A8AB9897390"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "aurora-baycare-drg-avg-billed.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-baycare-medical-center",
+        "name": "Aurora BayCare Medical Center",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/drg/aurora-baycare-drg-avg-billed.csv?la=en&hash=89E92D944821E719BB0E65594C58F9B655C89201"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "burlington-drg-avg-billed.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-medical-center-in-burlington",
+        "name": "Aurora Medical Center in Burlington",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/drg/burlington-drg-avg-billed.csv?la=en&hash=C3F07993E4F18CBA3F72BD06FB1296E1336DFA99"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "grafton-drg-avg-billed.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-medical-center-in-grafton",
+        "name": "Aurora Medical Center in Grafton",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/drg/grafton-drg-avg-billed.csv?la=en&hash=17B0742204D69E0786B29BC25B97CC7FD9D035BA"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "kenosha-drg-avg-billed.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-medical-center-in-kenosha",
+        "name": "Aurora Medical Center in Kenosha",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/drg/kenosha-drg-avg-billed.csv?la=en&hash=7B70C4FB4B9C4112C00EC37849D463D2B3631029"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "lakeland-drg-avg-billed.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-lakeland-medical-center",
+        "name": "Aurora Lakeland Medical Center",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/drg/lakeland-drg-avg-billed.csv?la=en&hash=C32F3B6008FAA8D3F9323AC26DE9C11440D51B0E"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "manitowoc-drg-avg-billed.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-medical-center-in-manitowoc-county",
+        "name": "Aurora Medical Center in Manitowoc County",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/drg/manitowoc-drg-avg-billed.csv?la=en&hash=3C7E43A1AD720893CE25F6C5FCD6EFF3A90EE84E"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "oshkosh-drg-avg-billed.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-medical-center-in-oshkosh",
+        "name": "Aurora Medical Center in Oshkosh",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/drg/oshkosh-drg-avg-billed.csv?la=en&hash=CDB63DD70FDD298588BFF05F5B0E0720C85E51B8"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "aurora-psychiatric-hosptial-drg-avg-billed.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-psychiatric-hospital",
+        "name": "Aurora Psychiatric Hospital",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/drg/aurora-psychiatric-hosptial-drg-avg-billed.csv?la=en&hash=38970706D32429FB1FCAD9AC9BFEA5C36E0F6FC1"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "sheboygan-drg-avg-billed.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-sheboygan-memorial-medical-center",
+        "name": "Aurora Sheboygan Memorial Medical Center",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/drg/sheboygan-drg-avg-billed.csv?la=en&hash=25515A24242A7D07761522BFDB7DC5131F00D58B"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "sinai-drg-avg-billed.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-sinai-medical-center",
+        "name": "Aurora Sinai Medical Center",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/drg/sinai-drg-avg-billed.csv?la=en&hash=C572A632A1D43C4C156AB1E1957BAE7D5A074277"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "st-lukes-drg-avg-billed.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-st.-luke\u2019s-medical-center",
+        "name": "Aurora St. Luke\u2019s Medical Center",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/drg/st-lukes-drg-avg-billed.csv?la=en&hash=794BE4222E305F4AC9D1D5ACF7B234644BF998D4"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "south-shore-drg-avg-billed.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-st.-luke\u2019s-south-shore-medical-center",
+        "name": "Aurora St. Luke\u2019s South Shore Medical Center",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/drg/south-shore-drg-avg-billed.csv?la=en&hash=E534EFC40BE10947F6E1A568987226F877CCC790"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "summit-drg-avg-billed.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-medical-center-in-summit",
+        "name": "Aurora Medical Center in Summit",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/drg/summit-drg-avg-billed.csv?la=en&hash=E5AE9D07AA580EC3F1475CAFA0CFB09D9744F782"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "hartford-drg-avg-billed.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-medical-center-in-washington-county-(hartford)",
+        "name": "Aurora Medical Center in Washington County (Hartford)",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/drg/hartford-drg-avg-billed.csv?la=en&hash=5B869AE1F10344954FB0126DF72511112F09CEA3"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "west-allis-drg-avg-billed.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-west-allis-medical-center",
+        "name": "Aurora West Allis Medical Center",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/drg/west-allis-drg-avg-billed.csv?la=en&hash=F7723A89580CE34ECA0EEF6693F6433B9902E0A4"
     }
 ]

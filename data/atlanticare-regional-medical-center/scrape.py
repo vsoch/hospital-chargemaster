@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 
 here = os.path.dirname(os.path.abspath(__file__))
 hospital_id = os.path.basename(here)
+prefix = "https://www.atlanticare.org/"
 
 url ='https://www.atlanticare.org/patients-and-visitors/for-patients/billing-and-insurance/hospital-charge-list'
 
@@ -28,19 +29,18 @@ for entry in soup.find_all('a', href=True):
     if download_url.endswith('csv'):  
         entry_name = entry.text.strip()
         entry_uri = entry_name.lower().replace(' ','-')
-        response = requests.get(hospital_url)
 
         # We want to get the original file, not write a new one
-        filename =  os.path.basename(hospital_url.split('?')[0])    
+        filename =  os.path.basename(download_url.split('?')[0])    
         output_file = os.path.join(outdir, filename)
-        os.system('wget -O %s %s' % (output_file, hospital_url))
+        os.system('wget -O %s %s' % (output_file, download_url))
 
         record = { 'hospital_id': hospital_id,
                    'filename': filename,
                    'date': today,
                    'uri': entry_uri,
                    'name': entry_name,
-                   'url': hospital_url }
+                   'url': download_url }
 
         records.append(record)
 
