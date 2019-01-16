@@ -1,0 +1,122 @@
+[
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "aurora-baycare-standard-charges.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-baycare-medical-center",
+        "name": "Aurora BayCare Medical Center",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/hospital-standard-charges/aurora-baycare-standard-charges.csv?la=en&hash=6A2EBD5D7520ECE23192FD27A60A353DD79CC0A5"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "burlington-standard-charges.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-medical-center-in-burlington",
+        "name": "Aurora Medical Center in Burlington",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/hospital-standard-charges/burlington-standard-charges.csv?la=en&hash=27DE3DE0800EDA09C0BBC4837FD48583116FF0E4"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "grafton-standard-charges.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-medical-center-in-grafton",
+        "name": "Aurora Medical Center in Grafton",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/hospital-standard-charges/grafton-standard-charges.csv?la=en&hash=1589E392CB6FADC11C80C00C30D28B362B27C0E7"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "kenosha-standard-charges.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-medical-center-in-kenosha",
+        "name": "Aurora Medical Center in Kenosha",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/hospital-standard-charges/kenosha-standard-charges.csv?la=en&hash=A748836885A7DBA9CF6CE34180EB53A176566B60"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "lakeland-standard-charges.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-lakeland-medical-center",
+        "name": "Aurora Lakeland Medical Center",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/hospital-standard-charges/lakeland-standard-charges.csv?la=en&hash=8AD3C8E5C9BD034C24AE785E65C5D0B17A14457F"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "manitowoc-standard-charges.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-medical-center-in-manitowoc-county",
+        "name": "Aurora Medical Center in Manitowoc County",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/hospital-standard-charges/manitowoc-standard-charges.csv?la=en&hash=F8C7C03CB4A1EF60E8EF1CA6D04E18BF3182B155"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "oshkosh-standard-charges.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-medical-center-in-oshkosh",
+        "name": "Aurora Medical Center in Oshkosh",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/hospital-standard-charges/oshkosh-standard-charges.csv?la=en&hash=19BCF155D6CB34F30073AFD340B1FE87E61EF3EC"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "aurora-psychiatric-hospital-standard-charges.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-psychiatric-hospital",
+        "name": "Aurora Psychiatric Hospital",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/hospital-standard-charges/aurora-psychiatric-hospital-standard-charges.csv?la=en&hash=E1181F33DE4B3B20F88D435CF8745C047B336F77"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "sheboygan-standard-charges.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-sheboygan-memorial-medical-center",
+        "name": "Aurora Sheboygan Memorial Medical Center",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/hospital-standard-charges/sheboygan-standard-charges.csv?la=en&hash=F593C5780FDF11815F76F0AC4F03E97C4C5A003D"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "sinai-standard-charges.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-sinai-medical-center",
+        "name": "Aurora Sinai Medical Center",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/hospital-standard-charges/sinai-standard-charges.csv?la=en&hash=FCC877120FDFE0544B8ADF93439F4F79EBAE0B25"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "st-lukes-standard-charges.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-st.-luke\u2019s-medical-center",
+        "name": "Aurora St. Luke\u2019s Medical Center",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/hospital-standard-charges/st-lukes-standard-charges.csv?la=en&hash=BA786DFA44CD950D91B548B9D016EEC3643C1969"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "south-shore-standard-charges.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-st.-luke\u2019s-south-shore-medical-center",
+        "name": "Aurora St. Luke\u2019s South Shore Medical Center",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/hospital-standard-charges/south-shore-standard-charges.csv?la=en&hash=6D7F2D3277E4EC939DC5AB177E57317909B862AB"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "summit-standard-charges.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-medical-center-in-summit",
+        "name": "Aurora Medical Center in Summit",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/hospital-standard-charges/summit-standard-charges.csv?la=en&hash=E7FEF60891D4E65A042D0A875FE47A50AF924BB8"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "hartford-standard-charges.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-medical-center-in-washington-county-(hartford)",
+        "name": "Aurora Medical Center in Washington County (Hartford)",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/hospital-standard-charges/hartford-standard-charges.csv?la=en&hash=56DD674C1B34C894E140DBAFF1DF002432A67851"
+    },
+    {
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "filename": "west-allis-standard-charges.csv",
+        "date": "2019-01-16",
+        "uri": "aurora-west-allis-medical-center",
+        "name": "Aurora West Allis Medical Center",
+        "url": "https://www.aurorahealthcare.org/-/media/aurorahealthcareorg/documents/billing-insurance/hospital-standard-charges/west-allis-standard-charges.csv?la=en&hash=C2C147B35814382E9DDA548253A66A8AB9897390"
+    }
+]
