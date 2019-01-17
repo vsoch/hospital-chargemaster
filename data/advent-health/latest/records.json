@@ -1,0 +1,306 @@
+[
+    {
+        "hospital_id": "adventhealth-altamonte-springs",
+        "filename": "adventhealth-altamonte-springs-CFR.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-altamonte-springs",
+        "name": "AdventHealth Altamonte Springs",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/CFR.xml"
+    },
+    {
+        "hospital_id": "adventhealth-apopka",
+        "filename": "adventhealth-apopka-CFR.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-apopka",
+        "name": "AdventHealth Apopka",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/CFR.xml"
+    },
+    {
+        "hospital_id": "adventhealth-carrollwood",
+        "filename": "adventhealth-carrollwood-Carollwood.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-carrollwood",
+        "name": "AdventHealth Carrollwood",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Carollwood.xml"
+    },
+    {
+        "hospital_id": "adventhealth-celebration",
+        "filename": "adventhealth-celebration-CFR.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-celebration",
+        "name": "AdventHealth Celebration",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/CFR.xml"
+    },
+    {
+        "hospital_id": "adventhealth-connerton",
+        "filename": "adventhealth-connerton-Connerton.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-connerton",
+        "name": "AdventHealth Connerton",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Connerton.xml"
+    },
+    {
+        "hospital_id": "adventhealth-dade-city",
+        "filename": "adventhealth-dade-city-Dade%20City.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-dade-city",
+        "name": "AdventHealth Dade City",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Dade%20City.xml"
+    },
+    {
+        "hospital_id": "adventhealth-daytona-beach",
+        "filename": "adventhealth-daytona-beach-Daytona.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-daytona-beach",
+        "name": "AdventHealth Daytona Beach",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Daytona.xml"
+    },
+    {
+        "hospital_id": "adventhealth-deland",
+        "filename": "adventhealth-deland-DeLand.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-deland",
+        "name": "AdventHealth DeLand",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/DeLand.xml"
+    },
+    {
+        "hospital_id": "adventhealth-east-orlando",
+        "filename": "adventhealth-east-orlando-CFR.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-east-orlando",
+        "name": "AdventHealth East Orlando",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/CFR.xml"
+    },
+    {
+        "hospital_id": "adventhealth-fish-memorial",
+        "filename": "adventhealth-fish-memorial-Fish.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-fish-memorial",
+        "name": "AdventHealth Fish Memorial",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Fish.xml"
+    },
+    {
+        "hospital_id": "adventhealth-for-children",
+        "filename": "adventhealth-for-children-CFR.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-for-children",
+        "name": "AdventHealth for Children",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/CFR.xml"
+    },
+    {
+        "hospital_id": "adventhealth-kissimmee",
+        "filename": "adventhealth-kissimmee-CFR.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-kissimmee",
+        "name": "AdventHealth Kissimmee",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/CFR.xml"
+    },
+    {
+        "hospital_id": "adventhealth-lake-placid",
+        "filename": "adventhealth-lake-placid-Heartland.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-lake-placid",
+        "name": "AdventHealth Lake Placid",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Heartland.xml"
+    },
+    {
+        "hospital_id": "adventhealth-new-smyrna-beach",
+        "filename": "adventhealth-new-smyrna-beach-New%20Smyrna%20Beach.xml  ",
+        "date": "2019-01-17",
+        "uri": "adventhealth-new-smyrna-beach",
+        "name": "AdventHealth New Smyrna Beach",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/New%20Smyrna%20Beach.xml  "
+    },
+    {
+        "hospital_id": "adventhealth-north-pinellas",
+        "filename": "adventhealth-north-pinellas-North%20Pinellas.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-north-pinellas",
+        "name": "AdventHealth North Pinellas",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/North%20Pinellas.xml"
+    },
+    {
+        "hospital_id": "adventhealth-ocala",
+        "filename": "adventhealth-ocala-Ocala.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-ocala",
+        "name": "AdventHealth Ocala",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Ocala.xml"
+    },
+    {
+        "hospital_id": "adventhealth-orlando",
+        "filename": "adventhealth-orlando-CFR.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-orlando",
+        "name": "AdventHealth Orlando",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/CFR.xml"
+    },
+    {
+        "hospital_id": "adventhealth-palm-coast",
+        "filename": "adventhealth-palm-coast-Palm%20Coast.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-palm-coast",
+        "name": "AdventHealth Palm Coast",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Palm%20Coast.xml"
+    },
+    {
+        "hospital_id": "adventhealth-sebring",
+        "filename": "adventhealth-sebring-Heartland.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-sebring",
+        "name": "AdventHealth Sebring",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Heartland.xml"
+    },
+    {
+        "hospital_id": "adventhealth-tampa",
+        "filename": "adventhealth-tampa-Tampa.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-tampa",
+        "name": "AdventHealth Tampa",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Tampa.xml"
+    },
+    {
+        "hospital_id": "adventhealth-waterman",
+        "filename": "adventhealth-waterman-Waterman.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-waterman",
+        "name": "AdventHealth Waterman",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Waterman.xml"
+    },
+    {
+        "hospital_id": "adventhealth-wauchula",
+        "filename": "adventhealth-wauchula-Heartland.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-wauchula",
+        "name": "AdventHealth Wauchula",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Heartland.xml"
+    },
+    {
+        "hospital_id": "adventhealth-wesley-chapel",
+        "filename": "adventhealth-wesley-chapel-Wesley%20Chapel.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-wesley-chapel",
+        "name": "AdventHealth Wesley Chapel",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Wesley%20Chapel.xml"
+    },
+    {
+        "hospital_id": "adventhealth-winter-garden",
+        "filename": "adventhealth-winter-garden-CFR.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-winter-garden",
+        "name": "AdventHealth Winter Garden",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/CFR.xml"
+    },
+    {
+        "hospital_id": "adventhealth-winter-park",
+        "filename": "adventhealth-winter-park-CFR.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-winter-park",
+        "name": "AdventHealth Winter Park",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/CFR.xml"
+    },
+    {
+        "hospital_id": "adventhealth-zephyrhills",
+        "filename": "adventhealth-zephyrhills-Zephyrhills.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-zephyrhills",
+        "name": "AdventHealth Zephyrhills",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Zephyrhills.xml"
+    },
+    {
+        "hospital_id": "adventhealth-gordon",
+        "filename": "adventhealth-gordon-Gordon.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-gordon",
+        "name": "AdventHealth Gordon",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Gordon.xml"
+    },
+    {
+        "hospital_id": "adventhealth-murray",
+        "filename": "adventhealth-murray-Murray.xml ",
+        "date": "2019-01-17",
+        "uri": "adventhealth-murray",
+        "name": "AdventHealth Murray",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Murray.xml "
+    },
+    {
+        "hospital_id": "adventhealth-lenexa",
+        "filename": "adventhealth-lenexa-Shawnee%20Mission.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-lenexa",
+        "name": "AdventHealth Lenexa",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Shawnee%20Mission.xml"
+    },
+    {
+        "hospital_id": "adventhealth-shawnee-mission",
+        "filename": "adventhealth-shawnee-mission-Shawnee%20Mission.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-shawnee-mission",
+        "name": "AdventHealth Shawnee Mission",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Shawnee%20Mission.xml"
+    },
+    {
+        "hospital_id": "adventhealth-south-overland-park",
+        "filename": "adventhealth-south-overland-park-Shawnee%20Mission.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-south-overland-park",
+        "name": "AdventHealth South Overland Park",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Shawnee%20Mission.xml"
+    },
+    {
+        "hospital_id": "adventhealth-manchester",
+        "filename": "adventhealth-manchester-Manchester.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-manchester",
+        "name": "AdventHealth Manchester",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Manchester.xml"
+    },
+    {
+        "hospital_id": "adventhealth-hendersonville",
+        "filename": "adventhealth-hendersonville-Hendersonville.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-hendersonville",
+        "name": "AdventHealth Hendersonville",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Hendersonville.xml"
+    },
+    {
+        "hospital_id": "adventhealth-central-texas",
+        "filename": "adventhealth-central-texas-Central%20Texas.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-central-texas",
+        "name": "AdventHealth Central Texas",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Central%20Texas.xml"
+    },
+    {
+        "hospital_id": "adventhealth-rollins-brook",
+        "filename": "adventhealth-rollins-brook-Rollins%20Brook.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-rollins-brook",
+        "name": "AdventHealth Rollins Brook",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Rollins%20Brook.xml"
+    },
+    {
+        "hospital_id": "central-texas-medical-center",
+        "filename": "central-texas-medical-center-CTMC.xml",
+        "date": "2019-01-17",
+        "uri": "central-texas-medical-center",
+        "name": "Central Texas Medical Center",
+        "url": "https://www.adventhealth.comhttps://adventhealth.com/sites/default/files/CDM/CTMC.xml"
+    },
+    {
+        "hospital_id": "texas-health-huguley-hospital",
+        "filename": "texas-health-huguley-hospital-Huguley.xml",
+        "date": "2019-01-17",
+        "uri": "texas-health-huguley-hospital",
+        "name": "Texas Health Huguley Hospital",
+        "url": "https://www.adventhealth.comhttps://adventhealth.com/sites/default/files/CDM/Huguley.xml"
+    },
+    {
+        "hospital_id": "adventhealth-durand",
+        "filename": "adventhealth-durand-Durand.xml",
+        "date": "2019-01-17",
+        "uri": "adventhealth-durand",
+        "name": "AdventHealth Durand",
+        "url": "https://www.adventhealth.com/sites/default/files/CDM/Durand.xml"
+    }
+]

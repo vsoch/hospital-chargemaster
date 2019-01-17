@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "jfk-medical-center",
+        "filename": "EastFloridaDivision_JFKMedicalCenter_DRG.csv",
+        "date": "2019-01-17",
+        "uri": "EastFloridaDivision_JFKMedicalCenter_DRG.csv",
+        "name": "EastFloridaDivision_JFKMedicalCenter_DRG.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/EastFloridaDivision_JFKMedicalCenter_DRG.csv"
+    },
+    {
+        "hospital_id": "jfk-medical-center",
+        "filename": "EastFloridaDivision_JFKMedicalCenter_CM.csv",
+        "date": "2019-01-17",
+        "uri": "EastFloridaDivision_JFKMedicalCenter_CM.csv",
+        "name": "EastFloridaDivision_JFKMedicalCenter_CM.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/EastFloridaDivision_JFKMedicalCenter_CM.csv"
+    }
+]

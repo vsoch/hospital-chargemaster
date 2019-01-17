@@ -1,0 +1,66 @@
+[
+    {
+        "hospital_id": "huntsville-hospital",
+        "filename": "Huntsville-Charge-Level-Price-List.csv",
+        "date": "2019-01-17",
+        "uri": "Huntsville-Charge-Level-Price-List.csv",
+        "name": "Huntsville-Charge-Level-Price-List.csv",
+        "url": "https://www.huntsvillehospital.org/images/pricetransparency/Huntsville-Charge-Level-Price-List.csv"
+    },
+    {
+        "hospital_id": "huntsville-hospital",
+        "filename": "Huntsville-Inpatient-Average-of-Charges-by-DRG.csv",
+        "date": "2019-01-17",
+        "uri": "Huntsville-Inpatient-Average-of-Charges-by-DRG.csv",
+        "name": "Huntsville-Inpatient-Average-of-Charges-by-DRG.csv",
+        "url": "https://www.huntsvillehospital.org/images/pricetransparency/Huntsville-Inpatient-Average-of-Charges-by-DRG.csv"
+    },
+    {
+        "hospital_id": "huntsville-hospital",
+        "filename": "Athens-Charge-Level-Price-List.csv",
+        "date": "2019-01-17",
+        "uri": "Athens-Charge-Level-Price-List.csv",
+        "name": "Athens-Charge-Level-Price-List.csv",
+        "url": "https://www.huntsvillehospital.org/images/pricetransparency/Athens-Charge-Level-Price-List.csv"
+    },
+    {
+        "hospital_id": "huntsville-hospital",
+        "filename": "Athens-Inpatient-Average-of-Charges-by-DRG.csv",
+        "date": "2019-01-17",
+        "uri": "Athens-Inpatient-Average-of-Charges-by-DRG.csv",
+        "name": "Athens-Inpatient-Average-of-Charges-by-DRG.csv",
+        "url": "https://www.huntsvillehospital.org/images/pricetransparency/Athens-Inpatient-Average-of-Charges-by-DRG.csv"
+    },
+    {
+        "hospital_id": "huntsville-hospital",
+        "filename": "Decatur-Morgan-Charge-Level-Price-List.csv",
+        "date": "2019-01-17",
+        "uri": "Decatur-Morgan-Charge-Level-Price-List.csv",
+        "name": "Decatur-Morgan-Charge-Level-Price-List.csv",
+        "url": "https://www.huntsvillehospital.org/images/pricetransparency/Decatur-Morgan-Charge-Level-Price-List.csv"
+    },
+    {
+        "hospital_id": "huntsville-hospital",
+        "filename": "Decatur-Inpatient-Average-of-Charges-by-DRG.csv",
+        "date": "2019-01-17",
+        "uri": "Decatur-Inpatient-Average-of-Charges-by-DRG.csv",
+        "name": "Decatur-Inpatient-Average-of-Charges-by-DRG.csv",
+        "url": "https://www.huntsvillehospital.org/images/pricetransparency/Decatur-Inpatient-Average-of-Charges-by-DRG.csv"
+    },
+    {
+        "hospital_id": "huntsville-hospital",
+        "filename": "HKRB-Charge-Level-Price-List.csv",
+        "date": "2019-01-17",
+        "uri": "HKRB-Charge-Level-Price-List.csv",
+        "name": "HKRB-Charge-Level-Price-List.csv",
+        "url": "https://www.huntsvillehospital.org/images/pricetransparency/HKRB-Charge-Level-Price-List.csv"
+    },
+    {
+        "hospital_id": "huntsville-hospital",
+        "filename": "HKRB-Inpatient-Average-of-Charges-by-DRG.csv",
+        "date": "2019-01-17",
+        "uri": "HKRB-Inpatient-Average-of-Charges-by-DRG.csv",
+        "name": "HKRB-Inpatient-Average-of-Charges-by-DRG.csv",
+        "url": "https://www.huntsvillehospital.org/images/pricetransparency/HKRB-Inpatient-Average-of-Charges-by-DRG.csv"
+    }
+]

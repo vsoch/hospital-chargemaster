@@ -1,0 +1,34 @@
+[
+    {
+        "hospital_id": "kennestone-hospital",
+        "filename": "WSAlternates.txt",
+        "date": "2019-01-17",
+        "uri": "WSAlternates.txt",
+        "name": "WSAlternates.txt",
+        "url": "https://www.wellstar.org/about-us/policies-procedures/Documents/chargemasters/WSAlternates.txt"
+    },
+    {
+        "hospital_id": "kennestone-hospital",
+        "filename": "WSMedications.txt",
+        "date": "2019-01-17",
+        "uri": "WSMedications.txt",
+        "name": "WSMedications.txt",
+        "url": "https://www.wellstar.org/about-us/policies-procedures/Documents/chargemasters/WSMedications.txt"
+    },
+    {
+        "hospital_id": "kennestone-hospital",
+        "filename": "WSProcedures.txt",
+        "date": "2019-01-17",
+        "uri": "WSProcedures.txt",
+        "name": "WSProcedures.txt",
+        "url": "https://www.wellstar.org/about-us/policies-procedures/Documents/chargemasters/WSProcedures.txt"
+    },
+    {
+        "hospital_id": "kennestone-hospital",
+        "filename": "WSSupplies.txt",
+        "date": "2019-01-17",
+        "uri": "WSSupplies.txt",
+        "name": "WSSupplies.txt",
+        "url": "https://www.wellstar.org/about-us/policies-procedures/Documents/chargemasters/WSSupplies.txt"
+    }
+]

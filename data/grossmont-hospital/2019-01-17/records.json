@@ -1,0 +1,2210 @@
+[
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "womens-servicesSGH4018.xlsx",
+        "date": "2019-01-17",
+        "uri": "antenatal-testing-program",
+        "name": "Antenatal testing program",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4018.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "womens-servicesSGH4011.xlsx",
+        "date": "2019-01-17",
+        "uri": "labor-and-delivery",
+        "name": "Labor and delivery",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4011.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "womens-servicesSGH4019.xlsx",
+        "date": "2019-01-17",
+        "uri": "lactation-program",
+        "name": "Lactation program",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4019.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "womens-servicesSGH4012.xlsx",
+        "date": "2019-01-17",
+        "uri": "surgical-gynecology-program",
+        "name": "Surgical gynecology program",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4012.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "womens-servicesSGH4140.xlsx",
+        "date": "2019-01-17",
+        "uri": "ultrasound-perinatal",
+        "name": "Ultrasound perinatal",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4140.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "womens-servicesSGH4016.xlsx",
+        "date": "2019-01-17",
+        "uri": "women's-center-recovery",
+        "name": "Women's Center recovery",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4016.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "pharmacySGH4171.xlsx",
+        "date": "2019-01-17",
+        "uri": "pharmacy",
+        "name": "Pharmacy",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4171.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "pharmacySGH4179.xlsx",
+        "date": "2019-01-17",
+        "uri": "pharmacy-medication-management",
+        "name": "Pharmacy medication management",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4179.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "standard-charges2018-DRG-Files-for-Sharp-update-2019-01-04-com.xlsx",
+        "date": "2019-01-17",
+        "uri": "standard-charges-for-2019",
+        "name": "Standard Charges for 2019",
+        "url": "https://www.sharp.com/chargemaster/upload/2018-DRG-Files-for-Sharp-update-2019-01-04-com.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "emergencySGH4231.xlsx",
+        "date": "2019-01-17",
+        "uri": "emergency",
+        "name": "Emergency",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4231.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "emergencySGH4238.xlsx",
+        "date": "2019-01-17",
+        "uri": "pre-hospital-ems",
+        "name": "Pre-hospital EMS",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4238.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3150.xlsx",
+        "date": "2019-01-17",
+        "uri": "adult-behavioral-health",
+        "name": "Adult behavioral health",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3150.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3342.xlsx",
+        "date": "2019-01-17",
+        "uri": "behavioral-health-locked-unit",
+        "name": "Behavioral health locked unit",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3342.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3140.xlsx",
+        "date": "2019-01-17",
+        "uri": "inpatient-psychiatric-programs",
+        "name": "Inpatient psychiatric programs",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3140.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3201.xlsx",
+        "date": "2019-01-17",
+        "uri": "inpatient-rehabilitation-unit-3201",
+        "name": "Inpatient rehabilitation unit 3201",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3201.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3205.xlsx",
+        "date": "2019-01-17",
+        "uri": "inpatient-rehabilitation-unit-3205",
+        "name": "Inpatient rehabilitation unit 3205",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3205.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3030.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3030",
+        "name": "Intermediate care unit 3030",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3030.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3030.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3031",
+        "name": "Intermediate care unit 3031",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3030.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3033.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3033",
+        "name": "Intermediate care unit 3033",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3033.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3082.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3082",
+        "name": "Intermediate care unit 3082",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3082.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3156.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3156",
+        "name": "Intermediate care unit 3156",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3156.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3157.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3157",
+        "name": "Intermediate care unit 3157",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3157.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3158.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3158",
+        "name": "Intermediate care unit 3158",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3158.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3011.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical-intensive-care-unit",
+        "name": "Medical intensive care unit",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3011.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3083.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3083",
+        "name": "Medical/surgical 3083",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3083.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3084.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3084",
+        "name": "Medical/surgical 3084",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3084.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3085.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3085",
+        "name": "Medical/surgical 3085",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3085.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3086.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3086",
+        "name": "Medical/surgical 3086",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3086.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3089.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3089",
+        "name": "Medical/surgical 3089",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3089.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3181.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3181",
+        "name": "Medical/surgical 3181",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3181.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3360.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3360",
+        "name": "Medical/surgical 3360",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3360.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3172.xlsx",
+        "date": "2019-01-17",
+        "uri": "neonatal-intensive-care-unit",
+        "name": "Neonatal intensive care unit",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3172.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3171.xlsx",
+        "date": "2019-01-17",
+        "uri": "nursery",
+        "name": "Nursery",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3171.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3163.xlsx",
+        "date": "2019-01-17",
+        "uri": "obgyn-acute-care-unit",
+        "name": "OBGYN acute care unit",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3163.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3162.xlsx",
+        "date": "2019-01-17",
+        "uri": "obstetrical-special-services",
+        "name": "Obstetrical special services",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3162.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3012.xlsx",
+        "date": "2019-01-17",
+        "uri": "sicu-3012",
+        "name": "SICU 3012",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3012.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3016.xlsx",
+        "date": "2019-01-17",
+        "uri": "sicu-3016",
+        "name": "SICU 3016",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3016.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3200.xlsx",
+        "date": "2019-01-17",
+        "uri": "snf-distinct-part",
+        "name": "SNF distinct part",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3200.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4102.xlsx",
+        "date": "2019-01-17",
+        "uri": "blood-bank-products",
+        "name": "Blood bank products",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4102.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4065.xlsx",
+        "date": "2019-01-17",
+        "uri": "clinical-laboratory",
+        "name": "Clinical laboratory",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4065.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4063.xlsx",
+        "date": "2019-01-17",
+        "uri": "lab-copley-clinical",
+        "name": "Lab Copley clinical",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4063.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4062.xlsx",
+        "date": "2019-01-17",
+        "uri": "lap-copley-microbiology",
+        "name": "Lap Copley microbiology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4062.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4073.xlsx",
+        "date": "2019-01-17",
+        "uri": "lab-copley-pathology",
+        "name": "Lab Copley pathology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4073.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4066.xlsx",
+        "date": "2019-01-17",
+        "uri": "lab-send-out-tests",
+        "name": "Lab send out tests",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4066.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4070.xlsx",
+        "date": "2019-01-17",
+        "uri": "pathology",
+        "name": "Pathology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4070.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4421.xlsx",
+        "date": "2019-01-17",
+        "uri": "computerized-tomography-(ct)-scanning",
+        "name": "Computerized tomography (CT) scanning",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4421.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4420.xlsx",
+        "date": "2019-01-17",
+        "uri": "ct-scanning-op",
+        "name": "CT scanning OP",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4420.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4142.xlsx",
+        "date": "2019-01-17",
+        "uri": "general-radiology",
+        "name": "General radiology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4142.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4425.xlsx",
+        "date": "2019-01-17",
+        "uri": "magnetic-resonance-imaging-(mri)",
+        "name": "Magnetic resonance imaging (MRI)",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4425.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4424.xlsx",
+        "date": "2019-01-17",
+        "uri": "mri-op",
+        "name": "MRI OP",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4424.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4160.xlsx",
+        "date": "2019-01-17",
+        "uri": "nuclear-medicine",
+        "name": "Nuclear medicine",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4160.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4162.xlsx",
+        "date": "2019-01-17",
+        "uri": "positron-emission-tomography-(pet)",
+        "name": "Positron emission tomography (PET)",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4162.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4442.xlsx",
+        "date": "2019-01-17",
+        "uri": "radiology-op",
+        "name": "Radiology OP",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4442.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4144.xlsx",
+        "date": "2019-01-17",
+        "uri": "radiology-special-procedures",
+        "name": "Radiology special procedures",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4144.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4443.xlsx",
+        "date": "2019-01-17",
+        "uri": "radiology-ultrasound-op",
+        "name": "Radiology ultrasound OP",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4443.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4143.xlsx",
+        "date": "2019-01-17",
+        "uri": "ultrasound",
+        "name": "Ultrasound",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4143.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4041.xlsx",
+        "date": "2019-01-17",
+        "uri": "anesthesiology",
+        "name": "Anesthesiology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4041.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4091.xlsx",
+        "date": "2019-01-17",
+        "uri": "endoscopy-services",
+        "name": "Endoscopy services",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4091.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4035.xlsx",
+        "date": "2019-01-17",
+        "uri": "outpatient-surgical-center",
+        "name": "Outpatient Surgical Center",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4035.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4021.xlsx",
+        "date": "2019-01-17",
+        "uri": "surgery/operating-room",
+        "name": "Surgery/operating room",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4021.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4029.xlsx",
+        "date": "2019-01-17",
+        "uri": "surgery-recovery",
+        "name": "Surgery recovery",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4029.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4052.xlsx",
+        "date": "2019-01-17",
+        "uri": "surgery-supplies",
+        "name": "Surgery supplies",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4052.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4112.xlsx",
+        "date": "2019-01-17",
+        "uri": "vascular-access-services",
+        "name": "Vascular access services",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4112.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4801.xlsx",
+        "date": "2019-01-17",
+        "uri": "audiology",
+        "name": "Audiology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4801.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4349.xlsx",
+        "date": "2019-01-17",
+        "uri": "bhs-dual-recovery-program",
+        "name": "BHS dual recovery program",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4349.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4234.xlsx",
+        "date": "2019-01-17",
+        "uri": "care-clinic-op",
+        "name": "Care Clinic OP",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4234.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4417.xlsx",
+        "date": "2019-01-17",
+        "uri": "diabetes",
+        "name": "Diabetes",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4417.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4190.xlsx",
+        "date": "2019-01-17",
+        "uri": "dialysis",
+        "name": "Dialysis",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4190.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4418.xlsx",
+        "date": "2019-01-17",
+        "uri": "electroconvulsive-therapy",
+        "name": "Electroconvulsive therapy",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4418.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4130.xlsx",
+        "date": "2019-01-17",
+        "uri": "electroencephalography-(eeg)",
+        "name": "Electroencephalography (EEG)",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4130.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4181.xlsx",
+        "date": "2019-01-17",
+        "uri": "hyperbaric-oxygen-therapy",
+        "name": "Hyperbaric oxygen therapy",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4181.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4332.xlsx",
+        "date": "2019-01-17",
+        "uri": "nutrition-services",
+        "name": "Nutrition services",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4332.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4411.xlsx",
+        "date": "2019-01-17",
+        "uri": "outpatient-psychiatric-department",
+        "name": "Outpatient Psychiatric Department",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4411.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4180.xlsx",
+        "date": "2019-01-17",
+        "uri": "respiratory-therapy",
+        "name": "Respiratory therapy",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4180.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4290.xlsx",
+        "date": "2019-01-17",
+        "uri": "sleep-disorders-center",
+        "name": "Sleep Disorders Center",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4290.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4014.xlsx",
+        "date": "2019-01-17",
+        "uri": "triage/uc",
+        "name": "Triage/UC",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4014.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4273.xlsx",
+        "date": "2019-01-17",
+        "uri": "wound-care",
+        "name": "Wound care",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4273.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "cardiologySGH4116.xlsx",
+        "date": "2019-01-17",
+        "uri": "cardiac-rehabilitation",
+        "name": "Cardiac rehabilitation",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4116.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "cardiologySGH4440.xlsx",
+        "date": "2019-01-17",
+        "uri": "heart-catheterization-lab",
+        "name": "Heart catheterization lab",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4440.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "cardiologySGH4113.xlsx",
+        "date": "2019-01-17",
+        "uri": "noninvasive-cardiology",
+        "name": "Noninvasive cardiology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4113.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "cardiologySGH4175.xlsx",
+        "date": "2019-01-17",
+        "uri": "vascular-access-services",
+        "name": "Vascular access services",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4175.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4210.xlsx",
+        "date": "2019-01-17",
+        "uri": "occupational-therapy-clinic",
+        "name": "Occupational therapy clinic",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4210.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4211.xlsx",
+        "date": "2019-01-17",
+        "uri": "occupational-therapy-treatment",
+        "name": "Occupational therapy treatment",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4211.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4411.xlsx",
+        "date": "2019-01-17",
+        "uri": "outpatient-psychiatric-services",
+        "name": "Outpatient psychiatric services",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4411.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4200.xlsx",
+        "date": "2019-01-17",
+        "uri": "physical-therapy-clinic",
+        "name": "Physical therapy clinic",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4200.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4201.xlsx",
+        "date": "2019-01-17",
+        "uri": "physical-therapy-general-treatment",
+        "name": "Physical therapy general treatment",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4201.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4185.xlsx",
+        "date": "2019-01-17",
+        "uri": "pulmonary-rehab",
+        "name": "Pulmonary rehab",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4185.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4221.xlsx",
+        "date": "2019-01-17",
+        "uri": "speech-therapy",
+        "name": "Speech therapy",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4221.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "oncologySGH4176.xlsx",
+        "date": "2019-01-17",
+        "uri": "oncology-infusion",
+        "name": "Oncology infusion",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4176.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "oncologySGH4178.xlsx",
+        "date": "2019-01-17",
+        "uri": "oncology-transfusion",
+        "name": "Oncology transfusion",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4178.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "oncologySGH4152.xlsx",
+        "date": "2019-01-17",
+        "uri": "radiation-oncology-treatment",
+        "name": "Radiation oncology treatment",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4152.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "suppliesSGH4058.xlsx",
+        "date": "2019-01-17",
+        "uri": "central-supply",
+        "name": "Central supply",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4058.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "womens-servicesSGH4018.xlsx",
+        "date": "2019-01-17",
+        "uri": "antenatal-testing-program",
+        "name": "Antenatal testing program",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4018.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "womens-servicesSGH4011.xlsx",
+        "date": "2019-01-17",
+        "uri": "labor-and-delivery",
+        "name": "Labor and delivery",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4011.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "womens-servicesSGH4019.xlsx",
+        "date": "2019-01-17",
+        "uri": "lactation-program",
+        "name": "Lactation program",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4019.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "womens-servicesSGH4012.xlsx",
+        "date": "2019-01-17",
+        "uri": "surgical-gynecology-program",
+        "name": "Surgical gynecology program",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4012.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "womens-servicesSGH4140.xlsx",
+        "date": "2019-01-17",
+        "uri": "ultrasound-perinatal",
+        "name": "Ultrasound perinatal",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4140.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "womens-servicesSGH4016.xlsx",
+        "date": "2019-01-17",
+        "uri": "women's-center-recovery",
+        "name": "Women's Center recovery",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4016.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "pharmacySGH4171.xlsx",
+        "date": "2019-01-17",
+        "uri": "pharmacy",
+        "name": "Pharmacy",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4171.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "pharmacySGH4179.xlsx",
+        "date": "2019-01-17",
+        "uri": "pharmacy-medication-management",
+        "name": "Pharmacy medication management",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4179.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "standard-charges2018-DRG-Files-for-Sharp-update-2019-01-04-com.xlsx",
+        "date": "2019-01-17",
+        "uri": "standard-charges-for-2019",
+        "name": "Standard Charges for 2019",
+        "url": "https://www.sharp.com/chargemaster/upload/2018-DRG-Files-for-Sharp-update-2019-01-04-com.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "emergencySGH4231.xlsx",
+        "date": "2019-01-17",
+        "uri": "emergency",
+        "name": "Emergency",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4231.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "emergencySGH4238.xlsx",
+        "date": "2019-01-17",
+        "uri": "pre-hospital-ems",
+        "name": "Pre-hospital EMS",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4238.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3150.xlsx",
+        "date": "2019-01-17",
+        "uri": "adult-behavioral-health",
+        "name": "Adult behavioral health",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3150.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3342.xlsx",
+        "date": "2019-01-17",
+        "uri": "behavioral-health-locked-unit",
+        "name": "Behavioral health locked unit",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3342.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3140.xlsx",
+        "date": "2019-01-17",
+        "uri": "inpatient-psychiatric-programs",
+        "name": "Inpatient psychiatric programs",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3140.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3201.xlsx",
+        "date": "2019-01-17",
+        "uri": "inpatient-rehabilitation-unit-3201",
+        "name": "Inpatient rehabilitation unit 3201",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3201.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3205.xlsx",
+        "date": "2019-01-17",
+        "uri": "inpatient-rehabilitation-unit-3205",
+        "name": "Inpatient rehabilitation unit 3205",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3205.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3030.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3030",
+        "name": "Intermediate care unit 3030",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3030.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3030.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3031",
+        "name": "Intermediate care unit 3031",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3030.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3033.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3033",
+        "name": "Intermediate care unit 3033",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3033.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3082.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3082",
+        "name": "Intermediate care unit 3082",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3082.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3156.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3156",
+        "name": "Intermediate care unit 3156",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3156.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3157.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3157",
+        "name": "Intermediate care unit 3157",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3157.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3158.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3158",
+        "name": "Intermediate care unit 3158",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3158.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3011.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical-intensive-care-unit",
+        "name": "Medical intensive care unit",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3011.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3083.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3083",
+        "name": "Medical/surgical 3083",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3083.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3084.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3084",
+        "name": "Medical/surgical 3084",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3084.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3085.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3085",
+        "name": "Medical/surgical 3085",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3085.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3086.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3086",
+        "name": "Medical/surgical 3086",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3086.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3089.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3089",
+        "name": "Medical/surgical 3089",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3089.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3181.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3181",
+        "name": "Medical/surgical 3181",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3181.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3360.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3360",
+        "name": "Medical/surgical 3360",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3360.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3172.xlsx",
+        "date": "2019-01-17",
+        "uri": "neonatal-intensive-care-unit",
+        "name": "Neonatal intensive care unit",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3172.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3171.xlsx",
+        "date": "2019-01-17",
+        "uri": "nursery",
+        "name": "Nursery",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3171.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3163.xlsx",
+        "date": "2019-01-17",
+        "uri": "obgyn-acute-care-unit",
+        "name": "OBGYN acute care unit",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3163.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3162.xlsx",
+        "date": "2019-01-17",
+        "uri": "obstetrical-special-services",
+        "name": "Obstetrical special services",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3162.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3012.xlsx",
+        "date": "2019-01-17",
+        "uri": "sicu-3012",
+        "name": "SICU 3012",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3012.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3016.xlsx",
+        "date": "2019-01-17",
+        "uri": "sicu-3016",
+        "name": "SICU 3016",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3016.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3200.xlsx",
+        "date": "2019-01-17",
+        "uri": "snf-distinct-part",
+        "name": "SNF distinct part",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3200.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4102.xlsx",
+        "date": "2019-01-17",
+        "uri": "blood-bank-products",
+        "name": "Blood bank products",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4102.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4065.xlsx",
+        "date": "2019-01-17",
+        "uri": "clinical-laboratory",
+        "name": "Clinical laboratory",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4065.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4063.xlsx",
+        "date": "2019-01-17",
+        "uri": "lab-copley-clinical",
+        "name": "Lab Copley clinical",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4063.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4062.xlsx",
+        "date": "2019-01-17",
+        "uri": "lap-copley-microbiology",
+        "name": "Lap Copley microbiology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4062.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4073.xlsx",
+        "date": "2019-01-17",
+        "uri": "lab-copley-pathology",
+        "name": "Lab Copley pathology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4073.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4066.xlsx",
+        "date": "2019-01-17",
+        "uri": "lab-send-out-tests",
+        "name": "Lab send out tests",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4066.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4070.xlsx",
+        "date": "2019-01-17",
+        "uri": "pathology",
+        "name": "Pathology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4070.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4421.xlsx",
+        "date": "2019-01-17",
+        "uri": "computerized-tomography-(ct)-scanning",
+        "name": "Computerized tomography (CT) scanning",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4421.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4420.xlsx",
+        "date": "2019-01-17",
+        "uri": "ct-scanning-op",
+        "name": "CT scanning OP",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4420.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4142.xlsx",
+        "date": "2019-01-17",
+        "uri": "general-radiology",
+        "name": "General radiology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4142.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4425.xlsx",
+        "date": "2019-01-17",
+        "uri": "magnetic-resonance-imaging-(mri)",
+        "name": "Magnetic resonance imaging (MRI)",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4425.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4424.xlsx",
+        "date": "2019-01-17",
+        "uri": "mri-op",
+        "name": "MRI OP",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4424.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4160.xlsx",
+        "date": "2019-01-17",
+        "uri": "nuclear-medicine",
+        "name": "Nuclear medicine",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4160.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4162.xlsx",
+        "date": "2019-01-17",
+        "uri": "positron-emission-tomography-(pet)",
+        "name": "Positron emission tomography (PET)",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4162.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4442.xlsx",
+        "date": "2019-01-17",
+        "uri": "radiology-op",
+        "name": "Radiology OP",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4442.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4144.xlsx",
+        "date": "2019-01-17",
+        "uri": "radiology-special-procedures",
+        "name": "Radiology special procedures",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4144.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4443.xlsx",
+        "date": "2019-01-17",
+        "uri": "radiology-ultrasound-op",
+        "name": "Radiology ultrasound OP",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4443.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4143.xlsx",
+        "date": "2019-01-17",
+        "uri": "ultrasound",
+        "name": "Ultrasound",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4143.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4041.xlsx",
+        "date": "2019-01-17",
+        "uri": "anesthesiology",
+        "name": "Anesthesiology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4041.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4091.xlsx",
+        "date": "2019-01-17",
+        "uri": "endoscopy-services",
+        "name": "Endoscopy services",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4091.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4035.xlsx",
+        "date": "2019-01-17",
+        "uri": "outpatient-surgical-center",
+        "name": "Outpatient Surgical Center",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4035.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4021.xlsx",
+        "date": "2019-01-17",
+        "uri": "surgery/operating-room",
+        "name": "Surgery/operating room",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4021.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4029.xlsx",
+        "date": "2019-01-17",
+        "uri": "surgery-recovery",
+        "name": "Surgery recovery",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4029.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4052.xlsx",
+        "date": "2019-01-17",
+        "uri": "surgery-supplies",
+        "name": "Surgery supplies",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4052.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4112.xlsx",
+        "date": "2019-01-17",
+        "uri": "vascular-access-services",
+        "name": "Vascular access services",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4112.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4801.xlsx",
+        "date": "2019-01-17",
+        "uri": "audiology",
+        "name": "Audiology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4801.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4349.xlsx",
+        "date": "2019-01-17",
+        "uri": "bhs-dual-recovery-program",
+        "name": "BHS dual recovery program",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4349.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4234.xlsx",
+        "date": "2019-01-17",
+        "uri": "care-clinic-op",
+        "name": "Care Clinic OP",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4234.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4417.xlsx",
+        "date": "2019-01-17",
+        "uri": "diabetes",
+        "name": "Diabetes",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4417.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4190.xlsx",
+        "date": "2019-01-17",
+        "uri": "dialysis",
+        "name": "Dialysis",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4190.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4418.xlsx",
+        "date": "2019-01-17",
+        "uri": "electroconvulsive-therapy",
+        "name": "Electroconvulsive therapy",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4418.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4130.xlsx",
+        "date": "2019-01-17",
+        "uri": "electroencephalography-(eeg)",
+        "name": "Electroencephalography (EEG)",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4130.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4181.xlsx",
+        "date": "2019-01-17",
+        "uri": "hyperbaric-oxygen-therapy",
+        "name": "Hyperbaric oxygen therapy",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4181.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4332.xlsx",
+        "date": "2019-01-17",
+        "uri": "nutrition-services",
+        "name": "Nutrition services",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4332.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4411.xlsx",
+        "date": "2019-01-17",
+        "uri": "outpatient-psychiatric-department",
+        "name": "Outpatient Psychiatric Department",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4411.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4180.xlsx",
+        "date": "2019-01-17",
+        "uri": "respiratory-therapy",
+        "name": "Respiratory therapy",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4180.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4290.xlsx",
+        "date": "2019-01-17",
+        "uri": "sleep-disorders-center",
+        "name": "Sleep Disorders Center",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4290.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4014.xlsx",
+        "date": "2019-01-17",
+        "uri": "triage/uc",
+        "name": "Triage/UC",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4014.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4273.xlsx",
+        "date": "2019-01-17",
+        "uri": "wound-care",
+        "name": "Wound care",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4273.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "cardiologySGH4116.xlsx",
+        "date": "2019-01-17",
+        "uri": "cardiac-rehabilitation",
+        "name": "Cardiac rehabilitation",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4116.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "cardiologySGH4440.xlsx",
+        "date": "2019-01-17",
+        "uri": "heart-catheterization-lab",
+        "name": "Heart catheterization lab",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4440.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "cardiologySGH4113.xlsx",
+        "date": "2019-01-17",
+        "uri": "noninvasive-cardiology",
+        "name": "Noninvasive cardiology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4113.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "cardiologySGH4175.xlsx",
+        "date": "2019-01-17",
+        "uri": "vascular-access-services",
+        "name": "Vascular access services",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4175.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4210.xlsx",
+        "date": "2019-01-17",
+        "uri": "occupational-therapy-clinic",
+        "name": "Occupational therapy clinic",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4210.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4211.xlsx",
+        "date": "2019-01-17",
+        "uri": "occupational-therapy-treatment",
+        "name": "Occupational therapy treatment",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4211.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4411.xlsx",
+        "date": "2019-01-17",
+        "uri": "outpatient-psychiatric-services",
+        "name": "Outpatient psychiatric services",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4411.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4200.xlsx",
+        "date": "2019-01-17",
+        "uri": "physical-therapy-clinic",
+        "name": "Physical therapy clinic",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4200.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4201.xlsx",
+        "date": "2019-01-17",
+        "uri": "physical-therapy-general-treatment",
+        "name": "Physical therapy general treatment",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4201.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4185.xlsx",
+        "date": "2019-01-17",
+        "uri": "pulmonary-rehab",
+        "name": "Pulmonary rehab",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4185.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4221.xlsx",
+        "date": "2019-01-17",
+        "uri": "speech-therapy",
+        "name": "Speech therapy",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4221.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "oncologySGH4176.xlsx",
+        "date": "2019-01-17",
+        "uri": "oncology-infusion",
+        "name": "Oncology infusion",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4176.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "oncologySGH4178.xlsx",
+        "date": "2019-01-17",
+        "uri": "oncology-transfusion",
+        "name": "Oncology transfusion",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4178.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "oncologySGH4152.xlsx",
+        "date": "2019-01-17",
+        "uri": "radiation-oncology-treatment",
+        "name": "Radiation oncology treatment",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4152.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "suppliesSGH4058.xlsx",
+        "date": "2019-01-17",
+        "uri": "central-supply",
+        "name": "Central supply",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4058.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "womens-servicesSGH4018.xlsx",
+        "date": "2019-01-17",
+        "uri": "antenatal-testing-program",
+        "name": "Antenatal testing program",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4018.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "womens-servicesSGH4011.xlsx",
+        "date": "2019-01-17",
+        "uri": "labor-and-delivery",
+        "name": "Labor and delivery",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4011.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "womens-servicesSGH4019.xlsx",
+        "date": "2019-01-17",
+        "uri": "lactation-program",
+        "name": "Lactation program",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4019.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "womens-servicesSGH4012.xlsx",
+        "date": "2019-01-17",
+        "uri": "surgical-gynecology-program",
+        "name": "Surgical gynecology program",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4012.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "womens-servicesSGH4140.xlsx",
+        "date": "2019-01-17",
+        "uri": "ultrasound-perinatal",
+        "name": "Ultrasound perinatal",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4140.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "womens-servicesSGH4016.xlsx",
+        "date": "2019-01-17",
+        "uri": "women's-center-recovery",
+        "name": "Women's Center recovery",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4016.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "pharmacySGH4171.xlsx",
+        "date": "2019-01-17",
+        "uri": "pharmacy",
+        "name": "Pharmacy",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4171.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "pharmacySGH4179.xlsx",
+        "date": "2019-01-17",
+        "uri": "pharmacy-medication-management",
+        "name": "Pharmacy medication management",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4179.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "standard-charges2018-DRG-Files-for-Sharp-update-2019-01-04-com.xlsx",
+        "date": "2019-01-17",
+        "uri": "standard-charges-for-2019",
+        "name": "Standard Charges for 2019",
+        "url": "https://www.sharp.com/chargemaster/upload/2018-DRG-Files-for-Sharp-update-2019-01-04-com.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "emergencySGH4231.xlsx",
+        "date": "2019-01-17",
+        "uri": "emergency",
+        "name": "Emergency",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4231.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "emergencySGH4238.xlsx",
+        "date": "2019-01-17",
+        "uri": "pre-hospital-ems",
+        "name": "Pre-hospital EMS",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4238.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3150.xlsx",
+        "date": "2019-01-17",
+        "uri": "adult-behavioral-health",
+        "name": "Adult behavioral health",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3150.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3342.xlsx",
+        "date": "2019-01-17",
+        "uri": "behavioral-health-locked-unit",
+        "name": "Behavioral health locked unit",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3342.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3140.xlsx",
+        "date": "2019-01-17",
+        "uri": "inpatient-psychiatric-programs",
+        "name": "Inpatient psychiatric programs",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3140.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3201.xlsx",
+        "date": "2019-01-17",
+        "uri": "inpatient-rehabilitation-unit-3201",
+        "name": "Inpatient rehabilitation unit 3201",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3201.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3205.xlsx",
+        "date": "2019-01-17",
+        "uri": "inpatient-rehabilitation-unit-3205",
+        "name": "Inpatient rehabilitation unit 3205",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3205.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3030.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3030",
+        "name": "Intermediate care unit 3030",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3030.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3030.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3031",
+        "name": "Intermediate care unit 3031",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3030.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3033.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3033",
+        "name": "Intermediate care unit 3033",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3033.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3082.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3082",
+        "name": "Intermediate care unit 3082",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3082.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3156.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3156",
+        "name": "Intermediate care unit 3156",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3156.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3157.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3157",
+        "name": "Intermediate care unit 3157",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3157.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3158.xlsx",
+        "date": "2019-01-17",
+        "uri": "intermediate-care-unit-3158",
+        "name": "Intermediate care unit 3158",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3158.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3011.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical-intensive-care-unit",
+        "name": "Medical intensive care unit",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3011.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3083.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3083",
+        "name": "Medical/surgical 3083",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3083.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3084.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3084",
+        "name": "Medical/surgical 3084",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3084.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3085.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3085",
+        "name": "Medical/surgical 3085",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3085.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3086.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3086",
+        "name": "Medical/surgical 3086",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3086.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3089.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3089",
+        "name": "Medical/surgical 3089",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3089.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3181.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3181",
+        "name": "Medical/surgical 3181",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3181.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3360.xlsx",
+        "date": "2019-01-17",
+        "uri": "medical/surgical-3360",
+        "name": "Medical/surgical 3360",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3360.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3172.xlsx",
+        "date": "2019-01-17",
+        "uri": "neonatal-intensive-care-unit",
+        "name": "Neonatal intensive care unit",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3172.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3171.xlsx",
+        "date": "2019-01-17",
+        "uri": "nursery",
+        "name": "Nursery",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3171.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3163.xlsx",
+        "date": "2019-01-17",
+        "uri": "obgyn-acute-care-unit",
+        "name": "OBGYN acute care unit",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3163.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3162.xlsx",
+        "date": "2019-01-17",
+        "uri": "obstetrical-special-services",
+        "name": "Obstetrical special services",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3162.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3012.xlsx",
+        "date": "2019-01-17",
+        "uri": "sicu-3012",
+        "name": "SICU 3012",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3012.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3016.xlsx",
+        "date": "2019-01-17",
+        "uri": "sicu-3016",
+        "name": "SICU 3016",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3016.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "acute-care-room-boardSGH3200.xlsx",
+        "date": "2019-01-17",
+        "uri": "snf-distinct-part",
+        "name": "SNF distinct part",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH3200.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4102.xlsx",
+        "date": "2019-01-17",
+        "uri": "blood-bank-products",
+        "name": "Blood bank products",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4102.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4065.xlsx",
+        "date": "2019-01-17",
+        "uri": "clinical-laboratory",
+        "name": "Clinical laboratory",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4065.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4063.xlsx",
+        "date": "2019-01-17",
+        "uri": "lab-copley-clinical",
+        "name": "Lab Copley clinical",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4063.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4062.xlsx",
+        "date": "2019-01-17",
+        "uri": "lap-copley-microbiology",
+        "name": "Lap Copley microbiology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4062.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4073.xlsx",
+        "date": "2019-01-17",
+        "uri": "lab-copley-pathology",
+        "name": "Lab Copley pathology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4073.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4066.xlsx",
+        "date": "2019-01-17",
+        "uri": "lab-send-out-tests",
+        "name": "Lab send out tests",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4066.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "laboratorySGH4070.xlsx",
+        "date": "2019-01-17",
+        "uri": "pathology",
+        "name": "Pathology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4070.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4421.xlsx",
+        "date": "2019-01-17",
+        "uri": "computerized-tomography-(ct)-scanning",
+        "name": "Computerized tomography (CT) scanning",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4421.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4420.xlsx",
+        "date": "2019-01-17",
+        "uri": "ct-scanning-op",
+        "name": "CT scanning OP",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4420.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4142.xlsx",
+        "date": "2019-01-17",
+        "uri": "general-radiology",
+        "name": "General radiology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4142.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4425.xlsx",
+        "date": "2019-01-17",
+        "uri": "magnetic-resonance-imaging-(mri)",
+        "name": "Magnetic resonance imaging (MRI)",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4425.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4424.xlsx",
+        "date": "2019-01-17",
+        "uri": "mri-op",
+        "name": "MRI OP",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4424.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4160.xlsx",
+        "date": "2019-01-17",
+        "uri": "nuclear-medicine",
+        "name": "Nuclear medicine",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4160.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4162.xlsx",
+        "date": "2019-01-17",
+        "uri": "positron-emission-tomography-(pet)",
+        "name": "Positron emission tomography (PET)",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4162.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4442.xlsx",
+        "date": "2019-01-17",
+        "uri": "radiology-op",
+        "name": "Radiology OP",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4442.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4144.xlsx",
+        "date": "2019-01-17",
+        "uri": "radiology-special-procedures",
+        "name": "Radiology special procedures",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4144.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4443.xlsx",
+        "date": "2019-01-17",
+        "uri": "radiology-ultrasound-op",
+        "name": "Radiology ultrasound OP",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4443.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "radiologySGH4143.xlsx",
+        "date": "2019-01-17",
+        "uri": "ultrasound",
+        "name": "Ultrasound",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4143.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4041.xlsx",
+        "date": "2019-01-17",
+        "uri": "anesthesiology",
+        "name": "Anesthesiology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4041.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4091.xlsx",
+        "date": "2019-01-17",
+        "uri": "endoscopy-services",
+        "name": "Endoscopy services",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4091.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4035.xlsx",
+        "date": "2019-01-17",
+        "uri": "outpatient-surgical-center",
+        "name": "Outpatient Surgical Center",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4035.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4021.xlsx",
+        "date": "2019-01-17",
+        "uri": "surgery/operating-room",
+        "name": "Surgery/operating room",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4021.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4029.xlsx",
+        "date": "2019-01-17",
+        "uri": "surgery-recovery",
+        "name": "Surgery recovery",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4029.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4052.xlsx",
+        "date": "2019-01-17",
+        "uri": "surgery-supplies",
+        "name": "Surgery supplies",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4052.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "surgerySGH4112.xlsx",
+        "date": "2019-01-17",
+        "uri": "vascular-access-services",
+        "name": "Vascular access services",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4112.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4801.xlsx",
+        "date": "2019-01-17",
+        "uri": "audiology",
+        "name": "Audiology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4801.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4349.xlsx",
+        "date": "2019-01-17",
+        "uri": "bhs-dual-recovery-program",
+        "name": "BHS dual recovery program",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4349.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4234.xlsx",
+        "date": "2019-01-17",
+        "uri": "care-clinic-op",
+        "name": "Care Clinic OP",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4234.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4417.xlsx",
+        "date": "2019-01-17",
+        "uri": "diabetes",
+        "name": "Diabetes",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4417.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4190.xlsx",
+        "date": "2019-01-17",
+        "uri": "dialysis",
+        "name": "Dialysis",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4190.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4418.xlsx",
+        "date": "2019-01-17",
+        "uri": "electroconvulsive-therapy",
+        "name": "Electroconvulsive therapy",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4418.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4130.xlsx",
+        "date": "2019-01-17",
+        "uri": "electroencephalography-(eeg)",
+        "name": "Electroencephalography (EEG)",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4130.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4181.xlsx",
+        "date": "2019-01-17",
+        "uri": "hyperbaric-oxygen-therapy",
+        "name": "Hyperbaric oxygen therapy",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4181.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4332.xlsx",
+        "date": "2019-01-17",
+        "uri": "nutrition-services",
+        "name": "Nutrition services",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4332.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4411.xlsx",
+        "date": "2019-01-17",
+        "uri": "outpatient-psychiatric-department",
+        "name": "Outpatient Psychiatric Department",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4411.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4180.xlsx",
+        "date": "2019-01-17",
+        "uri": "respiratory-therapy",
+        "name": "Respiratory therapy",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4180.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4290.xlsx",
+        "date": "2019-01-17",
+        "uri": "sleep-disorders-center",
+        "name": "Sleep Disorders Center",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4290.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4014.xlsx",
+        "date": "2019-01-17",
+        "uri": "triage/uc",
+        "name": "Triage/UC",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4014.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "other-servicesSGH4273.xlsx",
+        "date": "2019-01-17",
+        "uri": "wound-care",
+        "name": "Wound care",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4273.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "cardiologySGH4116.xlsx",
+        "date": "2019-01-17",
+        "uri": "cardiac-rehabilitation",
+        "name": "Cardiac rehabilitation",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4116.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "cardiologySGH4440.xlsx",
+        "date": "2019-01-17",
+        "uri": "heart-catheterization-lab",
+        "name": "Heart catheterization lab",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4440.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "cardiologySGH4113.xlsx",
+        "date": "2019-01-17",
+        "uri": "noninvasive-cardiology",
+        "name": "Noninvasive cardiology",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4113.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "cardiologySGH4175.xlsx",
+        "date": "2019-01-17",
+        "uri": "vascular-access-services",
+        "name": "Vascular access services",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4175.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4210.xlsx",
+        "date": "2019-01-17",
+        "uri": "occupational-therapy-clinic",
+        "name": "Occupational therapy clinic",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4210.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4211.xlsx",
+        "date": "2019-01-17",
+        "uri": "occupational-therapy-treatment",
+        "name": "Occupational therapy treatment",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4211.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4411.xlsx",
+        "date": "2019-01-17",
+        "uri": "outpatient-psychiatric-services",
+        "name": "Outpatient psychiatric services",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4411.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4200.xlsx",
+        "date": "2019-01-17",
+        "uri": "physical-therapy-clinic",
+        "name": "Physical therapy clinic",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4200.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4201.xlsx",
+        "date": "2019-01-17",
+        "uri": "physical-therapy-general-treatment",
+        "name": "Physical therapy general treatment",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4201.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4185.xlsx",
+        "date": "2019-01-17",
+        "uri": "pulmonary-rehab",
+        "name": "Pulmonary rehab",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4185.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "rehabilitationSGH4221.xlsx",
+        "date": "2019-01-17",
+        "uri": "speech-therapy",
+        "name": "Speech therapy",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4221.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "oncologySGH4176.xlsx",
+        "date": "2019-01-17",
+        "uri": "oncology-infusion",
+        "name": "Oncology infusion",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4176.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "oncologySGH4178.xlsx",
+        "date": "2019-01-17",
+        "uri": "oncology-transfusion",
+        "name": "Oncology transfusion",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4178.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "oncologySGH4152.xlsx",
+        "date": "2019-01-17",
+        "uri": "radiation-oncology-treatment",
+        "name": "Radiation oncology treatment",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4152.xlsx"
+    },
+    {
+        "hospital_id": "grossmont-hospital",
+        "filename": "suppliesSGH4058.xlsx",
+        "date": "2019-01-17",
+        "uri": "central-supply",
+        "name": "Central supply",
+        "url": "https://www.sharp.com/chargemaster/grossmont/upload/SGH4058.xlsx"
+    }
+]

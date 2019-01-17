@@ -1,0 +1,42 @@
+[
+    {
+        "hospital_id": "henry-ford-hospital",
+        "filename": "hfhwb122018.xlsx",
+        "date": "2019-01-17",
+        "uri": "henry-ford-hospital/henry-ford-west-bloomfield/henry-ford-kingswood",
+        "name": "Henry Ford Hospital/Henry Ford West Bloomfield/Henry Ford Kingswood",
+        "url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/billing/hfhwb122018.xlsx?la=en"
+    },
+    {
+        "hospital_id": "henry-ford-hospital",
+        "filename": "hf-wyn-dec-2018.xlsx",
+        "date": "2019-01-17",
+        "uri": "henry-ford-wyandotte",
+        "name": "Henry Ford Wyandotte",
+        "url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/billing/hf-wyn-dec-2018.xlsx?la=en"
+    },
+    {
+        "hospital_id": "henry-ford-hospital",
+        "filename": "hfm-dec-2018.xlsx",
+        "date": "2019-01-17",
+        "uri": "henry-ford-macomb",
+        "name": "Henry Ford Macomb",
+        "url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/billing/hfm-dec-2018.xlsx?la=en"
+    },
+    {
+        "hospital_id": "henry-ford-hospital",
+        "filename": "hfa-master-charge-list.xlsx",
+        "date": "2019-01-17",
+        "uri": "henry-ford-allegiance-health",
+        "name": "Henry Ford Allegiance Health",
+        "url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/billing/hfa-master-charge-list.xlsx?la=en"
+    },
+    {
+        "hospital_id": "henry-ford-hospital",
+        "filename": "hfahcarelink122018.xlsx",
+        "date": "2019-01-17",
+        "uri": "henry-ford-allegiance-specialty-hospital",
+        "name": "Henry Ford Allegiance Specialty Hospital",
+        "url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/billing/hfahcarelink122018.xlsx?la=en"
+    }
+]
