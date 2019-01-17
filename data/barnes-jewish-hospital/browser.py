@@ -193,7 +193,7 @@ class ScraperRobot(BrowserRobot):
             print("parsing %s" % url)
 
             # Get the page, wait 2 seconds for loading
-            self.get_and_wait(url)
+            self.get_and_wait(url, 5)
 
             javascript = "return document.getElementsByTagName('table')";
             result = self.browser.execute_script(javascript)
@@ -209,6 +209,7 @@ class ScraperRobot(BrowserRobot):
             else:
                 break
 
+            print(len(rows))
             page+=1
 
         return rows

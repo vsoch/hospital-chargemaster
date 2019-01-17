@@ -1,0 +1,106 @@
+[
+    {
+        "hospital_id": "brigham-and-womens-hospital",
+        "filename": "BWH-Standard-Charges.zip",
+        "date": "2019-01-16",
+        "uri": "hospital-charge-data",
+        "name": "Hospital charge data",
+        "url": "https://www.partners.org/Assets/Documents/For-Patients/Financial-Assistance-Billing/Hospital-Charges/BWH-Standard-Charges.zip"
+    },
+    {
+        "hospital_id": "brigham-and-womens-hospital",
+        "filename": "MGH-Standard-Charges.zip",
+        "date": "2019-01-16",
+        "uri": "hospital-charge-data",
+        "name": "Hospital charge data",
+        "url": "https://www.partners.org/Assets/Documents/For-Patients/Financial-Assistance-Billing/Hospital-Charges/MGH-Standard-Charges.zip"
+    },
+    {
+        "hospital_id": "brigham-and-womens-hospital",
+        "filename": "BWFH-Standard-Charges.zip",
+        "date": "2019-01-16",
+        "uri": "hospital-charge-data",
+        "name": "Hospital charge data",
+        "url": "https://www.partners.org/Assets/Documents/For-Patients/Financial-Assistance-Billing/Hospital-Charges/BWFH-Standard-Charges.zip"
+    },
+    {
+        "hospital_id": "brigham-and-womens-hospital",
+        "filename": "CDH-Standard-Charges.zip",
+        "date": "2019-01-16",
+        "uri": "hospital-charge-data",
+        "name": "Hospital charge data",
+        "url": "https://www.partners.org/Assets/Documents/For-Patients/Financial-Assistance-Billing/Hospital-Charges/CDH-Standard-Charges.zip"
+    },
+    {
+        "hospital_id": "brigham-and-womens-hospital",
+        "filename": "MVH-Standard-Charges.zip",
+        "date": "2019-01-16",
+        "uri": "hospital-charge-data",
+        "name": "Hospital charge data",
+        "url": "https://www.partners.org/Assets/Documents/For-Patients/Financial-Assistance-Billing/Hospital-Charges/MVH-Standard-Charges.zip"
+    },
+    {
+        "hospital_id": "brigham-and-womens-hospital",
+        "filename": "MCL-Standard-Charges.zip",
+        "date": "2019-01-16",
+        "uri": "hospital-charge-data",
+        "name": "Hospital charge data",
+        "url": "https://www.partners.org/Assets/Documents/For-Patients/Financial-Assistance-Billing/Hospital-Charges/MCL-Standard-Charges.zip"
+    },
+    {
+        "hospital_id": "brigham-and-womens-hospital",
+        "filename": "NCH-Standard-Charges.zip",
+        "date": "2019-01-16",
+        "uri": "hospital-charge-data",
+        "name": "Hospital charge data",
+        "url": "https://www.partners.org/Assets/Documents/For-Patients/Financial-Assistance-Billing/Hospital-Charges/NCH-Standard-Charges.zip"
+    },
+    {
+        "hospital_id": "brigham-and-womens-hospital",
+        "filename": "NWH-Standard-Charges.zip",
+        "date": "2019-01-16",
+        "uri": "hospital-charge-data",
+        "name": "Hospital charge data",
+        "url": "https://www.partners.org/Assets/Documents/For-Patients/Financial-Assistance-Billing/Hospital-Charges/NWH-Standard-Charges.zip"
+    },
+    {
+        "hospital_id": "brigham-and-womens-hospital",
+        "filename": "NSMC-Standard-Charges.zip",
+        "date": "2019-01-16",
+        "uri": "hospital-charge-data",
+        "name": "Hospital charge data",
+        "url": "https://www.partners.org/Assets/Documents/For-Patients/Financial-Assistance-Billing/Hospital-Charges/NSMC-Standard-Charges.zip"
+    },
+    {
+        "hospital_id": "brigham-and-womens-hospital",
+        "filename": "SRH-Standard-Charges.zip",
+        "date": "2019-01-16",
+        "uri": "spaulding-rehabilitation-hospital-charge-data",
+        "name": "Spaulding Rehabilitation Hospital charge data",
+        "url": "https://www.partners.org/Assets/Documents/For-Patients/Financial-Assistance-Billing/Hospital-Charges/SRH-Standard-Charges.zip"
+    },
+    {
+        "hospital_id": "brigham-and-womens-hospital",
+        "filename": "SRB-Standard-Charges.zip",
+        "date": "2019-01-16",
+        "uri": "spaulding-rehabilitation-hospital-brighton-charge-data",
+        "name": "Spaulding Rehabilitation Hospital Brighton charge data",
+        "url": "https://www.partners.org/Assets/Documents/For-Patients/Financial-Assistance-Billing/Hospital-Charges/SRB-Standard-Charges.zip"
+    },
+    {
+        "hospital_id": "brigham-and-womens-hospital",
+        "filename": "SCC-Standard-Charges.zip",
+        "date": "2019-01-16",
+        "uri": "spaulding-rehabilitation-hospital-cape-cod-charge-data",
+        "name": "Spaulding Rehabilitation Hospital Cape Cod charge data",
+        "url": "https://www.partners.org/Assets/Documents/For-Patients/Financial-Assistance-Billing/Hospital-Charges/SCC-Standard-Charges.zip"
+    },
+    {
+        "hospital_id": "brigham-and-womens-hospital",
+        "filename": "SHC-Standard-Charges.zip",
+        "date": "2019-01-16",
+        "uri": "spaulding-hospital-for-continuing-medical-care-cambridge-charge-data",
+        "name": "Spaulding Hospital for Continuing Medical Care Cambridge charge data",
+        "url": "https://www.partners.org/Assets/Documents/For-Patients/Financial-Assistance-Billing/Hospital-Charges/SHC-Standard-Charges.zip"
+    }
+]
