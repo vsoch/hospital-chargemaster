@@ -43,7 +43,8 @@ Within that folder, you will find:
 
 The first iteration was run locally (to test the scraping). One significantly different
 scraper is the [oshpd-ca](data/oshpd-ca) folder, which includes over 795 hospitals! Way to go
-California!
+California! Additionlly, [avent-health](data/advent-health) provides (xml) charge lists
+for a ton of states.
 
 #### Why do you have some redundant code?
 

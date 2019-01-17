@@ -1,0 +1,114 @@
+[
+    {
+        "hospital_id": "geisinger-medical-center",
+        "filename": "CDM-Geisinger-Medical-Ctr-01-01-19.zip",
+        "date": "2019-01-17",
+        "uri": "geisinger-medical-center",
+        "name": "Geisinger Medical Center",
+        "url": "https://www.geisinger.org/-/media/OneGeisinger/pdfs/ghs/patient-care/patients-and-visitors/billing-and-insurance/hosp-charges-csv/CDM-Geisinger-Medical-Ctr-01-01-19.zip?la=en"
+    },
+    {
+        "hospital_id": "geisinger-medical-center",
+        "filename": "CDM-Geisinger-Wyoming-Valley-Med-Ctr-01-01-19.zip",
+        "date": "2019-01-17",
+        "uri": "geisinger-wyoming-valley-medical-center",
+        "name": "Geisinger Wyoming Valley Medical Center",
+        "url": "https://www.geisinger.org/-/media/OneGeisinger/pdfs/ghs/patient-care/patients-and-visitors/billing-and-insurance/hosp-charges-csv/CDM-Geisinger-Wyoming-Valley-Med-Ctr-01-01-19.zip?la=en"
+    },
+    {
+        "hospital_id": "geisinger-medical-center",
+        "filename": "CDM-Geisinger-Community-Medical-Ctr-01-01-19.zip",
+        "date": "2019-01-17",
+        "uri": "geisinger-community-medical-center",
+        "name": "Geisinger Community Medical Center",
+        "url": "https://www.geisinger.org/-/media/OneGeisinger/pdfs/ghs/patient-care/patients-and-visitors/billing-and-insurance/hosp-charges-csv/CDM-Geisinger-Community-Medical-Ctr-01-01-19.zip?la=en"
+    },
+    {
+        "hospital_id": "geisinger-medical-center",
+        "filename": "CDM-Geisinger-Bloomsburg-Hospital-01-01-19.zip",
+        "date": "2019-01-17",
+        "uri": "geisinger-bloomsburg-hospital",
+        "name": "Geisinger Bloomsburg Hospital",
+        "url": "https://www.geisinger.org/-/media/OneGeisinger/pdfs/ghs/patient-care/patients-and-visitors/billing-and-insurance/hosp-charges-csv/CDM-Geisinger-Bloomsburg-Hospital-01-01-19.zip?la=en"
+    },
+    {
+        "hospital_id": "geisinger-medical-center",
+        "filename": "CDM-Geisinger-Holy-Spirit-Hospital-01-01-19.zip",
+        "date": "2019-01-17",
+        "uri": "geisinger-holy-spirit-hospital",
+        "name": "Geisinger Holy Spirit Hospital",
+        "url": "https://www.geisinger.org/-/media/OneGeisinger/pdfs/ghs/patient-care/patients-and-visitors/billing-and-insurance/hosp-charges-csv/CDM-Geisinger-Holy-Spirit-Hospital-01-01-19.zip?la=en"
+    },
+    {
+        "hospital_id": "geisinger-medical-center",
+        "filename": "CDM-Geisinger-Lewistown-Hospital-01-01-19.zip",
+        "date": "2019-01-17",
+        "uri": "geisinger-lewistown-hospital",
+        "name": "Geisinger Lewistown Hospital",
+        "url": "https://www.geisinger.org/-/media/OneGeisinger/pdfs/ghs/patient-care/patients-and-visitors/billing-and-insurance/hosp-charges-csv/CDM-Geisinger-Lewistown-Hospital-01-01-19.zip?la=en"
+    },
+    {
+        "hospital_id": "geisinger-medical-center",
+        "filename": "CDM-Geisinger-Jersey-Shore-Hospital-01-01-19.zip",
+        "date": "2019-01-17",
+        "uri": "geisinger-jersey-shore-hospital",
+        "name": "Geisinger Jersey Shore Hospital ",
+        "url": "https://www.geisinger.org/-/media/OneGeisinger/pdfs/ghs/patient-care/patients-and-visitors/billing-and-insurance/hosp-charges-csv/CDM-Geisinger-Jersey-Shore-Hospital-01-01-19.zip?la=en"
+    },
+    {
+        "hospital_id": "geisinger-medical-center",
+        "filename": "CDM-Geisinger-Medical-Center-Hospital-Pharm-01-01-19.zip",
+        "date": "2019-01-17",
+        "uri": "geisinger-medical-center",
+        "name": "Geisinger Medical Center",
+        "url": "https://www.geisinger.org/-/media/OneGeisinger/pdfs/ghs/patient-care/patients-and-visitors/billing-and-insurance/pharm-charges-csv/CDM-Geisinger-Medical-Center-Hospital-Pharm-01-01-19.zip?la=en"
+    },
+    {
+        "hospital_id": "geisinger-medical-center",
+        "filename": "CDM-Geisinger-Wyoming-Valley-Hospital-Pharm-01-01-19.zip",
+        "date": "2019-01-17",
+        "uri": "geisinger-wyoming-valley-medical-center",
+        "name": "Geisinger Wyoming Valley Medical Center",
+        "url": "https://www.geisinger.org/-/media/OneGeisinger/pdfs/ghs/patient-care/patients-and-visitors/billing-and-insurance/pharm-charges-csv/CDM-Geisinger-Wyoming-Valley-Hospital-Pharm-01-01-19.zip?la=en"
+    },
+    {
+        "hospital_id": "geisinger-medical-center",
+        "filename": "CDM-Geisinger-CMC-Pharm-01-01-19.zip",
+        "date": "2019-01-17",
+        "uri": "geisinger-community-medical-center",
+        "name": "Geisinger Community Medical Center",
+        "url": "https://www.geisinger.org/-/media/OneGeisinger/pdfs/ghs/patient-care/patients-and-visitors/billing-and-insurance/pharm-charges-csv/CDM-Geisinger-CMC-Pharm-01-01-19.zip?la=en"
+    },
+    {
+        "hospital_id": "geisinger-medical-center",
+        "filename": "CDM-Geisinger-Bloomsburg-Hospital-Pharm-01-01-19.zip",
+        "date": "2019-01-17",
+        "uri": "geisinger-bloomsburg-hospital",
+        "name": "Geisinger Bloomsburg Hospital",
+        "url": "https://www.geisinger.org/-/media/OneGeisinger/pdfs/ghs/patient-care/patients-and-visitors/billing-and-insurance/pharm-charges-csv/CDM-Geisinger-Bloomsburg-Hospital-Pharm-01-01-19.zip?la=en"
+    },
+    {
+        "hospital_id": "geisinger-medical-center",
+        "filename": "CDM-Geisinger-Holy-Spirit-Hospital-Pharm-01-01-19.zip",
+        "date": "2019-01-17",
+        "uri": "geisinger-holy-spirit-hospital",
+        "name": "Geisinger Holy Spirit Hospital",
+        "url": "https://www.geisinger.org/-/media/OneGeisinger/pdfs/ghs/patient-care/patients-and-visitors/billing-and-insurance/pharm-charges-csv/CDM-Geisinger-Holy-Spirit-Hospital-Pharm-01-01-19.zip?la=en"
+    },
+    {
+        "hospital_id": "geisinger-medical-center",
+        "filename": "CDM-Geisinger-Lewistown-Hospital-Pharm-01-01-19.zip",
+        "date": "2019-01-17",
+        "uri": "geisinger-lewistown-hospital",
+        "name": "Geisinger Lewistown Hospital",
+        "url": "https://www.geisinger.org/-/media/OneGeisinger/pdfs/ghs/patient-care/patients-and-visitors/billing-and-insurance/pharm-charges-csv/CDM-Geisinger-Lewistown-Hospital-Pharm-01-01-19.zip?la=en"
+    },
+    {
+        "hospital_id": "geisinger-medical-center",
+        "filename": "CDM-Geisinger-Jersey-Shore-Hospital-Pharm-01-01-19.zip",
+        "date": "2019-01-17",
+        "uri": "geisinger-jersey-shore-hospital",
+        "name": "Geisinger Jersey Shore Hospital",
+        "url": "https://www.geisinger.org/-/media/OneGeisinger/pdfs/ghs/patient-care/patients-and-visitors/billing-and-insurance/pharm-charges-csv/CDM-Geisinger-Jersey-Shore-Hospital-Pharm-01-01-19.zip?la=en"
+    }
+]

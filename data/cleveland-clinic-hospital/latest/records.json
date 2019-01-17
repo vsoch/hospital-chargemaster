@@ -1,0 +1,98 @@
+[
+    {
+        "hospital_id": "cleveland-clinic-hospital",
+        "filename": "main-campus-hospital-patient-price-list.pdf",
+        "date": "2019-01-17",
+        "uri": "clevelandclinicmaincampus",
+        "name": "Cleveland Clinic Main Campus",
+        "url": "https://my.clevelandclinic.org/-/scassets/files/org/locations/price-lists/main-campus-hospital-patient-price-list.ashx"
+    },
+    {
+        "hospital_id": "cleveland-clinic-hospital",
+        "filename": "akron-general-patient-price-list.pdf",
+        "date": "2019-01-17",
+        "uri": "akrongeneral",
+        "name": "Akron General",
+        "url": "https://my.clevelandclinic.org/-/scassets/files/org/locations/price-lists/akron-general-patient-price-list.ashx"
+    },
+    {
+        "hospital_id": "cleveland-clinic-hospital",
+        "filename": "avon-hospital-patient-price-list.pdf",
+        "date": "2019-01-17",
+        "uri": "avonhospital",
+        "name": "Avon Hospital",
+        "url": "https://my.clevelandclinic.org/-/scassets/files/org/locations/price-lists/avon-hospital-patient-price-list.ashx"
+    },
+    {
+        "hospital_id": "cleveland-clinic-hospital",
+        "filename": "euclid-hospital-patient-price-list.pdf",
+        "date": "2019-01-17",
+        "uri": "euclidhospital",
+        "name": "Euclid Hospital",
+        "url": "https://my.clevelandclinic.org/-/scassets/files/org/locations/price-lists/euclid-hospital-patient-price-list.ashx"
+    },
+    {
+        "hospital_id": "cleveland-clinic-hospital",
+        "filename": "fairvew-hospital-patient-price-list.pdf",
+        "date": "2019-01-17",
+        "uri": "fairviewhospital",
+        "name": "Fairview Hospital",
+        "url": "https://my.clevelandclinic.org/-/scassets/files/org/locations/price-lists/fairvew-hospital-patient-price-list.ashx"
+    },
+    {
+        "hospital_id": "cleveland-clinic-hospital",
+        "filename": "hillcrest-hospital-patient-price-list.pdf",
+        "date": "2019-01-17",
+        "uri": "hillcresthospital",
+        "name": "Hillcrest Hospital",
+        "url": "https://my.clevelandclinic.org/-/scassets/files/org/locations/price-lists/hillcrest-hospital-patient-price-list.ashx"
+    },
+    {
+        "hospital_id": "cleveland-clinic-hospital",
+        "filename": "lodi-hospital-patient-price-list.pdf",
+        "date": "2019-01-17",
+        "uri": "lodihospital",
+        "name": "Lodi Hospital",
+        "url": "https://my.clevelandclinic.org/-/scassets/files/org/locations/price-lists/lodi-hospital-patient-price-list.ashx"
+    },
+    {
+        "hospital_id": "cleveland-clinic-hospital",
+        "filename": "lutheran-hospital-patient-price-list.pdf",
+        "date": "2019-01-17",
+        "uri": "lutheranhospital",
+        "name": "Lutheran Hospital",
+        "url": "https://my.clevelandclinic.org/-/scassets/files/org/locations/price-lists/lutheran-hospital-patient-price-list.ashx"
+    },
+    {
+        "hospital_id": "cleveland-clinic-hospital",
+        "filename": "marymount-hospital-patient-price-list.pdf",
+        "date": "2019-01-17",
+        "uri": "marymounthospital",
+        "name": "Marymount Hospital",
+        "url": "https://my.clevelandclinic.org/-/scassets/files/org/locations/price-lists/marymount-hospital-patient-price-list.ashx"
+    },
+    {
+        "hospital_id": "cleveland-clinic-hospital",
+        "filename": "medina-hospital-patient-price-list.pdf",
+        "date": "2019-01-17",
+        "uri": "medinahospital",
+        "name": "Medina Hospital",
+        "url": "https://my.clevelandclinic.org/-/scassets/files/org/locations/price-lists/medina-hospital-patient-price-list.ashx"
+    },
+    {
+        "hospital_id": "cleveland-clinic-hospital",
+        "filename": "south-pointe-hospital-patient-price-list.pdf",
+        "date": "2019-01-17",
+        "uri": "southpointehospital",
+        "name": "South Pointe Hospital",
+        "url": "https://my.clevelandclinic.org/-/scassets/files/org/locations/price-lists/south-pointe-hospital-patient-price-list.ashx"
+    },
+    {
+        "hospital_id": "cleveland-clinic-hospital",
+        "filename": "union-hospital-patient-price-list.pdf",
+        "date": "2019-01-17",
+        "uri": "unionhospital",
+        "name": "Union Hospital",
+        "url": "https://my.clevelandclinic.org/-/scassets/files/org/locations/price-lists/union-hospital-patient-price-list.ashx"
+    }
+]

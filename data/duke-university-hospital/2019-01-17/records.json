@@ -1,0 +1,50 @@
+[
+    {
+        "hospital_id": "duke-university-hospital",
+        "filename": "duh_compliant_cy19.xlsx",
+        "date": "2019-01-17",
+        "uri": "duke-university-hospital",
+        "name": "Duke University Hospital",
+        "url": "https://www.dukehealth.org/sites/default/files/duh_compliant_cy19.xlsx"
+    },
+    {
+        "hospital_id": "duke-university-hospital",
+        "filename": "drah_compliant_cy19.xlsx",
+        "date": "2019-01-17",
+        "uri": "duke-raleigh-hospital",
+        "name": "Duke Raleigh Hospital",
+        "url": "https://www.dukehealth.org/sites/default/files/drah_compliant_cy19.xlsx"
+    },
+    {
+        "hospital_id": "duke-university-hospital",
+        "filename": "drh_compliant_cy19.xlsx",
+        "date": "2019-01-17",
+        "uri": "duke-regional-hospital",
+        "name": "Duke Regional Hospital",
+        "url": "https://www.dukehealth.org/sites/default/files/drh_compliant_cy19.xlsx"
+    },
+    {
+        "hospital_id": "duke-university-hospital",
+        "filename": "duh_ip_drgs_web.xlsx",
+        "date": "2019-01-17",
+        "uri": "duke-university-hospital-inpatient-services",
+        "name": "Duke University Hospital Inpatient Services",
+        "url": "https://www.dukehealth.org/sites/default/files/duh_ip_drgs_web.xlsx"
+    },
+    {
+        "hospital_id": "duke-university-hospital",
+        "filename": "drah_ip_drgs_web.xlsx",
+        "date": "2019-01-17",
+        "uri": "duke-raleigh-hospital-inpatient-services",
+        "name": "Duke Raleigh Hospital Inpatient Services",
+        "url": "https://www.dukehealth.org/sites/default/files/drah_ip_drgs_web.xlsx"
+    },
+    {
+        "hospital_id": "duke-university-hospital",
+        "filename": "drh_ip_drgs_web.xlsx",
+        "date": "2019-01-17",
+        "uri": "duke-regional-hospital-inpatient-services",
+        "name": "Duke Regional Hospital Inpatient Services",
+        "url": "https://www.dukehealth.org/sites/default/files/drh_ip_drgs_web.xlsx"
+    }
+]
