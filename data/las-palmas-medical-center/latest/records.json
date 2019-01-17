@@ -1,0 +1,34 @@
+[
+    {
+        "hospital_id": "las-palmas-medical-center",
+        "filename": "CentralAndWestTexasDivision_DelSolMedicalCenter_DRG.csv",
+        "date": "2019-01-17",
+        "uri": "CentralAndWestTexasDivision_DelSolMedicalCenter_DRG.csv",
+        "name": "CentralAndWestTexasDivision_DelSolMedicalCenter_DRG.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/CentralAndWestTexasDivision_DelSolMedicalCenter_DRG.csv"
+    },
+    {
+        "hospital_id": "las-palmas-medical-center",
+        "filename": "CentralAndWestTexasDivision_LasPalmasMedicalCenter_DRG.csv",
+        "date": "2019-01-17",
+        "uri": "CentralAndWestTexasDivision_LasPalmasMedicalCenter_DRG.csv",
+        "name": "CentralAndWestTexasDivision_LasPalmasMedicalCenter_DRG.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/CentralAndWestTexasDivision_LasPalmasMedicalCenter_DRG.csv"
+    },
+    {
+        "hospital_id": "las-palmas-medical-center",
+        "filename": "CentralAndWestTexasDivision_DelSolMedicalCenter_CM.csv",
+        "date": "2019-01-17",
+        "uri": "CentralAndWestTexasDivision_DelSolMedicalCenter_CM.csv",
+        "name": "CentralAndWestTexasDivision_DelSolMedicalCenter_CM.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/CentralAndWestTexasDivision_DelSolMedicalCenter_CM.csv"
+    },
+    {
+        "hospital_id": "las-palmas-medical-center",
+        "filename": "CentralAndWestTexasDivision_LasPalmasMedicalCenter_CM.csv",
+        "date": "2019-01-17",
+        "uri": "CentralAndWestTexasDivision_LasPalmasMedicalCenter_CM.csv",
+        "name": "CentralAndWestTexasDivision_LasPalmasMedicalCenter_CM.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/CentralAndWestTexasDivision_LasPalmasMedicalCenter_CM.csv"
+    }
+]

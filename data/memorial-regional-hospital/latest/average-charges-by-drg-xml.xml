@@ -1,0 +1,3678 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Created>2006-09-16T00:00:00Z</Created>
+  <LastSaved>2018-12-28T16:19:30Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <RemovePersonalInformation/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>17440</WindowHeight>
+  <WindowWidth>28040</WindowWidth>
+  <WindowTopX>5160</WindowTopX>
+  <WindowTopY>3040</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="&quot;$&quot;#,##0_);[Red]\(&quot;$&quot;#,##0\)"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="724" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="15">
+   <Column ss:Width="692"/>
+   <Column ss:Width="89"/>
+   <Column ss:Width="80"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">FINAL_DRG_NAME</Data></Cell>
+    <Cell><Data ss:Type="String">FINAL_DRG_CODE</Data></Cell>
+    <Cell><Data ss:Type="String">AVG_TOT_CHGS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ABORTION W D&amp;C, ASPIRATION CURETTAGE OR HYSTEROTOMY</Data></Cell>
+    <Cell><Data ss:Type="Number">770</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">33703</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ABORTION W/O D&amp;C</Data></Cell>
+    <Cell><Data ss:Type="Number">779</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">28740</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ACUTE &amp; SUBACUTE ENDOCARDITIS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">289</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">73787</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ACUTE &amp; SUBACUTE ENDOCARDITIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">288</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">187410</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ACUTE &amp; SUBACUTE ENDOCARDITIS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">290</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">46077</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ACUTE ADJUSTMENT REACTION &amp; PSYCHOSOCIAL DYSFUNCTION</Data></Cell>
+    <Cell><Data ss:Type="Number">880</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">66693</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">835</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">195918</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">834</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">462255</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">836</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">93813</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ACUTE MAJOR EYE INFECTIONS W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">121</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">44416</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ACUTE MAJOR EYE INFECTIONS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">122</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">21495</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">281</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">50590</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">280</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">89200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">282</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">41484</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ACUTE MYOCARDIAL INFARCTION, EXPIRED W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">284</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">18352</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ACUTE MYOCARDIAL INFARCTION, EXPIRED W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">283</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">133754</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ADMIT FOR RENAL DIALYSIS</Data></Cell>
+    <Cell><Data ss:Type="Number">685</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">36289</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ADRENAL &amp; PITUITARY PROCEDURES W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">614</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">115384</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ADRENAL &amp; PITUITARY PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">615</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">86804</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AFTERCARE W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">949</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">68535</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AFTERCARE W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">950</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">39340</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AFTERCARE, MUSCULOSKELETAL SYSTEM &amp; CONNECTIVE TISSUE W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">560</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">50180</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AFTERCARE, MUSCULOSKELETAL SYSTEM &amp; CONNECTIVE TISSUE W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">559</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">71480</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AFTERCARE, MUSCULOSKELETAL SYSTEM &amp; CONNECTIVE TISSUE W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">561</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">34805</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AICD GENERATOR PROCEDURES</Data></Cell>
+    <Cell><Data ss:Type="Number">245</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">163179</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AICD LEAD PROCEDURES</Data></Cell>
+    <Cell><Data ss:Type="Number">265</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">81369</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHABILITATION THERAPY W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">896</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">83811</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHABILITATION THERAPY W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">897</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">31472</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ALCOHOL/DRUG ABUSE OR DEPENDENCE, LEFT AMA</Data></Cell>
+    <Cell><Data ss:Type="Number">894</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">23368</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ALLERGIC REACTIONS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">915</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">105565</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ALLERGIC REACTIONS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">916</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">29602</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ALLOGENEIC BONE MARROW TRANSPLANT</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">713636</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AMPUTAT OF LOWER LIMB FOR ENDOCRINE,NUTRIT,&amp; METABOL DIS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">617</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">92202</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AMPUTAT OF LOWER LIMB FOR ENDOCRINE,NUTRIT,&amp; METABOL DIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">616</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">243225</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AMPUTAT OF LOWER LIMB FOR ENDOCRINE,NUTRIT,&amp; METABOL DIS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">618</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">86617</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB &amp; TOE W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">158145</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB &amp; TOE W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">239</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">248286</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB &amp; TOE W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">241</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">70080</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AMPUTATION FOR MUSCULOSKELETAL SYS &amp; CONN TISSUE DIS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">475</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">89427</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AMPUTATION FOR MUSCULOSKELETAL SYS &amp; CONN TISSUE DIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">474</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">165890</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AMPUTATION FOR MUSCULOSKELETAL SYS &amp; CONN TISSUE DIS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">476</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">86841</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ANAL &amp; STOMAL PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">348</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">70074</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ANAL &amp; STOMAL PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">347</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">254302</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ANAL &amp; STOMAL PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">349</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">52396</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ANGINA PECTORIS</Data></Cell>
+    <Cell><Data ss:Type="Number">311</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">25374</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">268</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">298283</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">269</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">151233</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">339</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">94202</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">338</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">103404</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">340</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">58532</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">342</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">79539</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">341</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">145238</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">343</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">52704</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ATHEROSCLEROSIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">302</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">80757</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ATHEROSCLEROSIS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">303</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">40006</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AUTOLOGOUS BONE MARROW TRANSPLANT  W CC/MCC OR T-CELL IMMUNOTHERAPY</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">281282</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AUTOLOGOUS BONE MARROW TRANSPLANT W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">231427</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BACK &amp; NECK PROC EXC SPINAL FUSION W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">519</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">90601</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BACK &amp; NECK PROC EXC SPINAL FUSION W MCC OR DISC DEVICE/NEUROSTIM</Data></Cell>
+    <Cell><Data ss:Type="Number">518</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">126126</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BACK &amp; NECK PROC EXC SPINAL FUSION W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">520</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">57645</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BACTERIAL &amp; TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">259769</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BACTERIAL &amp; TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">94</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">229771</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BACTERIAL &amp; TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">96</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">260401</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BEHAVIORAL &amp; DEVELOPMENTAL DISORDERS</Data></Cell>
+    <Cell><Data ss:Type="Number">886</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14505</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BENIGN PROSTATIC HYPERTROPHY W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">725</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">23106</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BENIGN PROSTATIC HYPERTROPHY W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">726</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">65734</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BILATERAL OR MULTIPLE MAJOR JOINT PROCS OF LOWER EXTREMITY W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">461</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">185508</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BILATERAL OR MULTIPLE MAJOR JOINT PROCS OF LOWER EXTREMITY W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">462</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">87203</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">409</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">138720</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">408</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">238952</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">410</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">88633</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BIOPSIES OF MUSCULOSKELETAL SYSTEM &amp; CONNECTIVE TISSUE W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">478</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">120496</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BIOPSIES OF MUSCULOSKELETAL SYSTEM &amp; CONNECTIVE TISSUE W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">477</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">161721</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BIOPSIES OF MUSCULOSKELETAL SYSTEM &amp; CONNECTIVE TISSUE W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">479</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">58252</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BONE DISEASES &amp; ARTHROPATHIES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">553</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">59103</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BONE DISEASES &amp; ARTHROPATHIES W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">554</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">32708</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BREAST BIOPSY, LOCAL EXCISION &amp; OTHER BREAST PROCEDURES W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">584</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">130581</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BREAST BIOPSY, LOCAL EXCISION &amp; OTHER BREAST PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">585</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">77867</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BRONCHITIS &amp; ASTHMA W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">202</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">58278</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BRONCHITIS &amp; ASTHMA W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">203</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">35108</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC ARREST, UNEXPLAINED W MCC OR PERIPHERAL EXTRACORPOREAL MEMBRANE OXYGENATION (ECMO)</Data></Cell>
+    <Cell><Data ss:Type="Number">296</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">67460</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC ARREST, UNEXPLAINED W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">298</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3263</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC ARRHYTHMIA &amp; CONDUCTION DISORDERS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">309</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">46916</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC ARRHYTHMIA &amp; CONDUCTION DISORDERS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">308</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">81058</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC ARRHYTHMIA &amp; CONDUCTION DISORDERS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">310</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">32069</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC CONGENITAL &amp; VALVULAR DISORDERS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">306</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">78417</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC CONGENITAL &amp; VALVULAR DISORDERS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">307</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">22437</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC DEFIB IMPLANT W CARDIAC CATH W AMI/HF/SHOCK W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">222</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">322464</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC DEFIB IMPLANT W CARDIAC CATH W AMI/HF/SHOCK W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">223</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">118543</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC DEFIB IMPLANT W CARDIAC CATH W/O AMI/HF/SHOCK W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">224</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">224251</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC DEFIB IMPLANT W CARDIAC CATH W/O AMI/HF/SHOCK W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">225</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">150898</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC DEFIBRILLATOR IMPLANT W/O CARDIAC CATH W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">226</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">172069</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC DEFIBRILLATOR IMPLANT W/O CARDIAC CATH W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">227</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">105715</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC PACEMAKER DEVICE REPLACEMENT W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">258</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">141209</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC PACEMAKER DEVICE REPLACEMENT W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">259</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">72984</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">261</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">71550</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">260</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">178624</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">262</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">52467</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC VALVE &amp; OTH MAJ CARDIOTHORACIC PROC W CARD CATH W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">217</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">353725</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC VALVE &amp; OTH MAJ CARDIOTHORACIC PROC W CARD CATH W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">216</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">532083</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC VALVE &amp; OTH MAJ CARDIOTHORACIC PROC W CARD CATH W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">218</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">332603</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC VALVE &amp; OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">220</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">291526</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC VALVE &amp; OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">219</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">474847</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CARDIAC VALVE &amp; OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">221</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">228822</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CAROTID ARTERY STENT PROCEDURE W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">181894</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CAROTID ARTERY STENT PROCEDURE W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">343607</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CAROTID ARTERY STENT PROCEDURE W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">122738</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CELLULITIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">602</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">93473</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CELLULITIS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">603</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">38861</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CERVICAL SPINAL FUSION W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">472</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">104376</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CERVICAL SPINAL FUSION W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">471</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">182259</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CERVICAL SPINAL FUSION W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">473</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">65832</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CESAREAN SECTION W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">765</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">45927</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CESAREAN SECTION W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">766</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">33802</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CHEMO W ACUTE LEUKEMIA AS SDX OR W HIGH DOSE CHEMO AGENT W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">837</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">231008</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CHEMO W ACUTE LEUKEMIA AS SDX W CC OR HIGH DOSE CHEMO AGENT</Data></Cell>
+    <Cell><Data ss:Type="Number">838</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">130573</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CHEMO W ACUTE LEUKEMIA AS SDX W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">839</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">62075</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">847</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">105350</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">846</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">166754</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">848</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">82480</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CHEST PAIN</Data></Cell>
+    <Cell><Data ss:Type="Number">313</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">37660</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">415</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">123048</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">414</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">156671</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">416</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">92111</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CHOLECYSTECTOMY W C.D.E. W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">412</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">139258</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CHOLECYSTECTOMY W C.D.E. W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">411</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">117559</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CHRONIC OBSTRUCTIVE PULMONARY DISEASE W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">191</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">56113</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CHRONIC OBSTRUCTIVE PULMONARY DISEASE W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">190</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">76579</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CHRONIC OBSTRUCTIVE PULMONARY DISEASE W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">192</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">39812</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CIRCULATORY DISORDERS EXCEPT AMI, W CARD CATH W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">286</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">108464</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CIRCULATORY DISORDERS EXCEPT AMI, W CARD CATH W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">287</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">60004</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CIRRHOSIS &amp; ALCOHOLIC HEPATITIS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">433</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">56904</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CIRRHOSIS &amp; ALCOHOLIC HEPATITIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">432</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">116547</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CIRRHOSIS &amp; ALCOHOLIC HEPATITIS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">434</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">27672</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">COAGULATION DISORDERS</Data></Cell>
+    <Cell><Data ss:Type="Number">813</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">230311</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">454</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">273255</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">453</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">406250</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">455</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">116464</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">COMPLICATED PEPTIC ULCER W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">381</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">71802</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">COMPLICATED PEPTIC ULCER W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">380</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">158213</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">COMPLICATED PEPTIC ULCER W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">382</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">65771</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">COMPLICATIONS OF TREATMENT W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">920</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">52996</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">COMPLICATIONS OF TREATMENT W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">919</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">80932</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">COMPLICATIONS OF TREATMENT W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">921</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">35367</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CONCUSSION W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">89</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">62718</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CONCUSSION W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">88</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">63647</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CONCUSSION W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">90</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">64689</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CONNECTIVE TISSUE DISORDERS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">546</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">75252</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CONNECTIVE TISSUE DISORDERS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">545</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">127612</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CONNECTIVE TISSUE DISORDERS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">547</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">45074</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CORONARY BYPASS W CARDIAC CATH W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">233</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">412857</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CORONARY BYPASS W CARDIAC CATH W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">234</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">312034</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CORONARY BYPASS W PTCA W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">231</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">409582</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CORONARY BYPASS W PTCA W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">232</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">461258</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CORONARY BYPASS W/O CARDIAC CATH W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">235</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">276542</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CORONARY BYPASS W/O CARDIAC CATH W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">236</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">261603</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CRANIAL &amp; PERIPHERAL NERVE DISORDERS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">73</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">100195</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CRANIAL &amp; PERIPHERAL NERVE DISORDERS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">74</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">55737</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CRANIAL/FACIAL PROCEDURES W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">131</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">131786</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CRANIAL/FACIAL PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">132</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">70675</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CRANIO W MAJOR DEV IMPL/ACUTE COMPLEX CNS PDX W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">215705</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CRANIOTOMY &amp; ENDOVASCULAR INTRACRANIAL PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">159584</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CRANIOTOMY &amp; ENDOVASCULAR INTRACRANIAL PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">243854</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CRANIOTOMY &amp; ENDOVASCULAR INTRACRANIAL PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">133687</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CRANIOTOMY FOR MULTIPLE SIGNIFICANT TRAUMA</Data></Cell>
+    <Cell><Data ss:Type="Number">955</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">380796</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CRANIOTOMY W MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PDX W MCC OR CHEMOTHERAPY IMPLANT OR EPILEPSY W NEUROSTIMULATOR</Data></Cell>
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">367031</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">D&amp;C, CONIZATION, LAPAROSCOPY &amp; TUBAL INTERRUPTION W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">744</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">70129</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">D&amp;C, CONIZATION, LAPAROSCOPY &amp; TUBAL INTERRUPTION W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">745</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">43152</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DEEP VEIN THROMBOPHLEBITIS W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">294</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">35083</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DEGENERATIVE NERVOUS SYSTEM DISORDERS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">89902</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DEGENERATIVE NERVOUS SYSTEM DISORDERS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">70797</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DENTAL &amp; ORAL DISEASES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">158</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">42043</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DENTAL &amp; ORAL DISEASES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">157</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">105746</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DENTAL &amp; ORAL DISEASES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">159</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">29517</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DEPRESSIVE NEUROSES</Data></Cell>
+    <Cell><Data ss:Type="Number">881</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">15226</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DIABETES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">638</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">51343</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DIABETES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">637</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">94266</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DIABETES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">639</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">32012</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DIGESTIVE MALIGNANCY W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">375</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">65074</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DIGESTIVE MALIGNANCY W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">374</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">85543</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DIGESTIVE MALIGNANCY W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">376</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">67464</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DISORDERS OF LIVER EXCEPT MALIG,CIRR,ALC HEPA W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">442</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">68544</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DISORDERS OF LIVER EXCEPT MALIG,CIRR,ALC HEPA W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">441</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">113092</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DISORDERS OF LIVER EXCEPT MALIG,CIRR,ALC HEPA W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">443</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">45055</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DISORDERS OF PANCREAS EXCEPT MALIGNANCY W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">439</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">56414</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DISORDERS OF PANCREAS EXCEPT MALIGNANCY W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">438</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">119566</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DISORDERS OF PANCREAS EXCEPT MALIGNANCY W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">440</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">35888</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DISORDERS OF PERSONALITY &amp; IMPULSE CONTROL</Data></Cell>
+    <Cell><Data ss:Type="Number">883</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">12885</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DISORDERS OF THE BILIARY TRACT W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">445</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">66066</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DISORDERS OF THE BILIARY TRACT W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">444</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">86639</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DISORDERS OF THE BILIARY TRACT W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">446</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">52392</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DYSEQUILIBRIUM</Data></Cell>
+    <Cell><Data ss:Type="Number">149</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">47604</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EAR, NOSE, MOUTH &amp; THROAT MALIGNANCY W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">147</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4782</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EAR, NOSE, MOUTH &amp; THROAT MALIGNANCY W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">146</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">45877</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EAR, NOSE, MOUTH &amp; THROAT MALIGNANCY W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">148</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19541</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ECMO OR TRACH W MV &gt;96 HRS OR PDX EXC FACE, MOUTH &amp; NECK W MAJ O.R.</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1123511</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ECTOPIC PREGNANCY</Data></Cell>
+    <Cell><Data ss:Type="Number">777</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">45640</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ENDOCRINE DISORDERS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">644</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">58387</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ENDOCRINE DISORDERS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">643</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">126757</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ENDOCRINE DISORDERS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">645</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">48388</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ENDOVASCULAR CARDIAC VALVE REPLACEMENT W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">266</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">332524</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ENDOVASCULAR CARDIAC VALVE REPLACEMENT W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">267</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">220511</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EPISTAXIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">69467</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EPISTAXIS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">151</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">26701</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ESOPHAGITIS, GASTROENT &amp; MISC DIGEST DISORDERS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">391</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">72172</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ESOPHAGITIS, GASTROENT &amp; MISC DIGEST DISORDERS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">392</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">47141</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">982</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">119399</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">981</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">225636</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">983</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">55916</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EXTRACRANIAL PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">38</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">118105</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EXTRACRANIAL PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">261006</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EXTRACRANIAL PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">39</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">71736</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EXTRAOCULAR PROCEDURES EXCEPT ORBIT</Data></Cell>
+    <Cell><Data ss:Type="Number">115</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">91362</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EXTREME IMMATURITY OR RESPIRATORY DISTRESS SYNDROME, NEONATE</Data></Cell>
+    <Cell><Data ss:Type="Number">790</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">462038</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">FALSE LABOR</Data></Cell>
+    <Cell><Data ss:Type="Number">780</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">15851</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">FEMALE REPRODUCTIVE SYSTEM RECONSTRUCTIVE PROCEDURES</Data></Cell>
+    <Cell><Data ss:Type="Number">748</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">37452</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">FEVER AND INFLAMMATORY CONDITIONS</Data></Cell>
+    <Cell><Data ss:Type="Number">864</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">53570</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">FOOT PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">504</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">90319</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">FOOT PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">503</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">81804</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">FOOT PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">505</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">63064</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">FRACTURES OF FEMUR W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">533</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">233877</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">FRACTURES OF FEMUR W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">534</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">46581</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">FRACTURES OF HIP &amp; PELVIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">535</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">42197</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">FRACTURES OF HIP &amp; PELVIS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">536</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">40156</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">FULL TERM NEONATE W MAJOR PROBLEMS</Data></Cell>
+    <Cell><Data ss:Type="Number">793</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">39985</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">FULL THICKNESS BURN W/O SKIN GRAFT OR INHAL INJ</Data></Cell>
+    <Cell><Data ss:Type="Number">934</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">44091</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">FX, SPRN, STRN &amp; DISL EXCEPT FEMUR, HIP, PELVIS &amp; THIGH W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">562</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">74911</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">FX, SPRN, STRN &amp; DISL EXCEPT FEMUR, HIP, PELVIS &amp; THIGH W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">563</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">49870</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">G.I. HEMORRHAGE W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">378</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">53822</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">G.I. HEMORRHAGE W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">377</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">89427</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">G.I. HEMORRHAGE W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">379</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">34282</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">G.I. OBSTRUCTION W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">389</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">48045</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">G.I. OBSTRUCTION W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">388</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">79437</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">G.I. OBSTRUCTION W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">390</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">35497</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HAND OR WRIST PROC, EXCEPT MAJOR THUMB OR JOINT PROC W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">513</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">76130</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HAND OR WRIST PROC, EXCEPT MAJOR THUMB OR JOINT PROC W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">514</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">54813</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HAND PROCEDURES FOR INJURIES</Data></Cell>
+    <Cell><Data ss:Type="Number">906</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">78514</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HEADACHES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">102</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">72565</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HEADACHES W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">103</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">58043</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HEART FAILURE &amp; SHOCK W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">292</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">44707</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HEART FAILURE &amp; SHOCK W MCC OR PERIPHERAL EXTRACORPOREAL MEMBRANE OXYGENATION (ECMO)</Data></Cell>
+    <Cell><Data ss:Type="Number">291</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">72723</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HEART FAILURE &amp; SHOCK W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">293</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">30378</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1987351</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1365636</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HEPATOBILIARY DIAGNOSTIC PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">421</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">59295</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HEPATOBILIARY DIAGNOSTIC PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">420</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">212197</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HEPATOBILIARY DIAGNOSTIC PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">422</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">50639</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HERNIA PROCEDURES EXCEPT INGUINAL &amp; FEMORAL W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">354</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">81897</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HERNIA PROCEDURES EXCEPT INGUINAL &amp; FEMORAL W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">353</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">141846</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HERNIA PROCEDURES EXCEPT INGUINAL &amp; FEMORAL W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">355</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">55842</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HIP &amp; FEMUR PROCEDURES EXCEPT MAJOR JOINT W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">481</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">81708</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HIP &amp; FEMUR PROCEDURES EXCEPT MAJOR JOINT W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">480</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">145936</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HIP &amp; FEMUR PROCEDURES EXCEPT MAJOR JOINT W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">482</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">65207</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HIV W EXTENSIVE O.R. PROCEDURE W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">969</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">343161</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HIV W EXTENSIVE O.R. PROCEDURE W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">970</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">52507</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HIV W MAJOR RELATED CONDITION W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">975</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">78145</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HIV W MAJOR RELATED CONDITION W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">974</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">203975</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HIV W MAJOR RELATED CONDITION W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">976</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">86628</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HIV W OR W/O OTHER RELATED CONDITION</Data></Cell>
+    <Cell><Data ss:Type="Number">977</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">89317</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HYPERTENSION W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">304</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">57494</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HYPERTENSION W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">305</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">43550</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HYPERTENSIVE ENCEPHALOPATHY W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">78</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">76310</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HYPERTENSIVE ENCEPHALOPATHY W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">77</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">135048</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HYPERTENSIVE ENCEPHALOPATHY W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">79</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">30246</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INBORN AND OTHER DISORDERS OF METABOLISM</Data></Cell>
+    <Cell><Data ss:Type="Number">642</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">145175</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INFECTIONS, FEMALE REPRODUCTIVE SYSTEM W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">758</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">62763</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INFECTIONS, FEMALE REPRODUCTIVE SYSTEM W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">757</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">40547</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INFECTIONS, FEMALE REPRODUCTIVE SYSTEM W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">759</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">43635</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INFECTIOUS &amp; PARASITIC DISEASES W O.R. PROCEDURE W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">854</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">124168</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INFECTIOUS &amp; PARASITIC DISEASES W O.R. PROCEDURE W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">853</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">335640</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INFECTIOUS &amp; PARASITIC DISEASES W O.R. PROCEDURE W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">855</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">78042</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">727</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">75114</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">728</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">42381</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INFLAMMATORY BOWEL DISEASE W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">386</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">55508</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INFLAMMATORY BOWEL DISEASE W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">385</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">84842</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INFLAMMATORY BOWEL DISEASE W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">387</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">43695</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INGUINAL &amp; FEMORAL HERNIA PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">351</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">65631</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INGUINAL &amp; FEMORAL HERNIA PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">350</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">103681</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INGUINAL &amp; FEMORAL HERNIA PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">352</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">52481</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INTERSTITIAL LUNG DISEASE W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">197</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">49811</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INTERSTITIAL LUNG DISEASE W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">196</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">84595</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INTERSTITIAL LUNG DISEASE W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">198</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">34615</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W CC OR TPA IN 24 HRS</Data></Cell>
+    <Cell><Data ss:Type="Number">65</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">68227</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">64</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">106407</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">66</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">62500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INTRACRANIAL VASCULAR PROCEDURES W PDX HEMORRHAGE W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">497698</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INTRACRANIAL VASCULAR PROCEDURES W PDX HEMORRHAGE W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">429656</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INTRACRANIAL VASCULAR PROCEDURES W PDX HEMORRHAGE W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">265378</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INTRAOCULAR PROCEDURES W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">116</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">77054</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INTRAOCULAR PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">117</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">43331</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ISCHEMIC STROKE, PRECEREBRAL OCCLUSION OR TRANSIENT ISCHEMIA W THROMBOLYTIC AGENT W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">62</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">204935</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ISCHEMIC STROKE, PRECEREBRAL OCCLUSION OR TRANSIENT ISCHEMIA W THROMBOLYTIC AGENT W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">251472</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ISCHEMIC STROKE, PRECEREBRAL OCCLUSION OR TRANSIENT ISCHEMIA W THROMBOLYTIC AGENT W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">197497</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KIDNEY &amp; URETER PROCEDURES FOR NEOPLASM W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">657</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">82534</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KIDNEY &amp; URETER PROCEDURES FOR NEOPLASM W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">656</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">163615</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KIDNEY &amp; URETER PROCEDURES FOR NEOPLASM W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">658</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">62446</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KIDNEY &amp; URETER PROCEDURES FOR NON-NEOPLASM W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">660</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">83757</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KIDNEY &amp; URETER PROCEDURES FOR NON-NEOPLASM W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">659</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">213079</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KIDNEY &amp; URETER PROCEDURES FOR NON-NEOPLASM W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">661</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">59584</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KIDNEY &amp; URINARY TRACT INFECTIONS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">689</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">73749</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KIDNEY &amp; URINARY TRACT INFECTIONS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">690</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">42223</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KIDNEY &amp; URINARY TRACT NEOPLASMS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">687</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">54027</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KIDNEY &amp; URINARY TRACT NEOPLASMS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">686</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">104983</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KIDNEY &amp; URINARY TRACT NEOPLASMS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">688</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19433</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KIDNEY &amp; URINARY TRACT SIGNS &amp; SYMPTOMS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">695</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">47103</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KIDNEY &amp; URINARY TRACT SIGNS &amp; SYMPTOMS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">696</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">41649</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KIDNEY TRANSPLANT</Data></Cell>
+    <Cell><Data ss:Type="Number">652</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">378577</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KNEE PROCEDURES W PDX OF INFECTION W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">486</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">122074</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KNEE PROCEDURES W PDX OF INFECTION W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">485</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">113444</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KNEE PROCEDURES W PDX OF INFECTION W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">487</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">60342</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KNEE PROCEDURES W/O PDX OF INFECTION W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">488</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">104419</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KNEE PROCEDURES W/O PDX OF INFECTION W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">489</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">67825</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">418</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">90050</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">417</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">110265</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">419</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">64549</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LIMB REATTACHMENT, HIP &amp; FEMUR PROC FOR MULTIPLE SIGNIFICANT TRAUMA</Data></Cell>
+    <Cell><Data ss:Type="Number">956</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">195484</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LOCAL EXCISION &amp; REMOVAL INT FIX DEVICES EXC HIP &amp; FEMUR W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">496</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">83587</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LOCAL EXCISION &amp; REMOVAL INT FIX DEVICES EXC HIP &amp; FEMUR W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">495</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">114210</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LOCAL EXCISION &amp; REMOVAL INT FIX DEVICES EXC HIP &amp; FEMUR W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">497</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">82247</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LOCAL EXCISION &amp; REMOVAL INT FIX DEVICES OF HIP &amp; FEMUR W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">498</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">181299</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LOWER EXTREM &amp; HUMER PROC EXCEPT HIP,FOOT,FEMUR W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">493</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">92587</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LOWER EXTREM &amp; HUMER PROC EXCEPT HIP,FOOT,FEMUR W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">492</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">173894</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LOWER EXTREM &amp; HUMER PROC EXCEPT HIP,FOOT,FEMUR W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">494</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">62347</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LYMPHOMA &amp; LEUKEMIA W MAJOR O.R. PROCEDURE W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">821</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">170502</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LYMPHOMA &amp; LEUKEMIA W MAJOR O.R. PROCEDURE W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">820</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">375540</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LYMPHOMA &amp; LEUKEMIA W MAJOR O.R. PROCEDURE W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">822</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">63433</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LYMPHOMA &amp; NON-ACUTE LEUKEMIA W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">841</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">140159</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LYMPHOMA &amp; NON-ACUTE LEUKEMIA W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">840</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">242641</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LYMPHOMA &amp; NON-ACUTE LEUKEMIA W OTHER PROC W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">824</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">195531</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LYMPHOMA &amp; NON-ACUTE LEUKEMIA W OTHER PROC W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">823</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">363655</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LYMPHOMA &amp; NON-ACUTE LEUKEMIA W OTHER PROC W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">825</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">112305</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">LYMPHOMA &amp; NON-ACUTE LEUKEMIA W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">842</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">70294</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR BLADDER PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">654</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">94205</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR BLADDER PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">653</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">223362</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR BLADDER PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">655</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">80658</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR CHEST PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">164</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">119034</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR CHEST PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">163</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">305037</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR CHEST PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">165</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">67849</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR CHEST TRAUMA W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">184</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">52985</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR CHEST TRAUMA W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">183</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">73567</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR CHEST TRAUMA W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">185</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">45010</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR ESOPHAGEAL DISORDERS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">369</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">67124</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR ESOPHAGEAL DISORDERS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">368</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">121695</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR ESOPHAGEAL DISORDERS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">370</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">35244</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR GASTROINTESTINAL DISORDERS &amp; PERITONEAL INFECTIONS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">372</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">57253</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR GASTROINTESTINAL DISORDERS &amp; PERITONEAL INFECTIONS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">371</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">132260</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR GASTROINTESTINAL DISORDERS &amp; PERITONEAL INFECTIONS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">373</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">41853</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR HEAD &amp; NECK PROCEDURES W CC/MCC OR MAJOR DEVICE</Data></Cell>
+    <Cell><Data ss:Type="Number">129</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">119165</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR HEAD &amp; NECK PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">130</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">75195</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS &amp; COAGUL W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">809</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">90989</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS &amp; COAGUL W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">808</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">171787</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS &amp; COAGUL W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">810</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">79087</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W MCC OR TOTAL ANKLE REPLACEMENT</Data></Cell>
+    <Cell><Data ss:Type="Number">469</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">131858</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">470</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">64238</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR JOINT/LIMB REATTACHMENT PROCEDURE OF UPPER EXTREMITIES</Data></Cell>
+    <Cell><Data ss:Type="Number">483</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">86537</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR MALE PELVIC PROCEDURES W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">707</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">61547</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR MALE PELVIC PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">708</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">57157</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR SHOULDER OR ELBOW JOINT PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">508</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">65837</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR SKIN DISORDERS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">595</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">213784</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR SKIN DISORDERS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">596</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">74788</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR SMALL &amp; LARGE BOWEL PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">330</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">115421</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR SMALL &amp; LARGE BOWEL PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">329</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">259080</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR SMALL &amp; LARGE BOWEL PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">331</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">74384</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAJOR THUMB OR JOINT PROCEDURES</Data></Cell>
+    <Cell><Data ss:Type="Number">506</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">36221</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">436</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">57142</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">435</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">95580</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">437</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">41441</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MALIGNANCY, FEMALE REPRODUCTIVE SYSTEM W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">755</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">57004</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MALIGNANCY, FEMALE REPRODUCTIVE SYSTEM W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">754</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">133125</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MALIGNANCY, MALE REPRODUCTIVE SYSTEM W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">723</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">69260</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MALIGNANCY, MALE REPRODUCTIVE SYSTEM W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">722</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">39757</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MALIGNANT BREAST DISORDERS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">598</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">85197</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MALIGNANT BREAST DISORDERS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">597</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">92137</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MALIGNANT BREAST DISORDERS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">599</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">23139</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MASTECTOMY FOR MALIGNANCY W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">582</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">90628</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MASTECTOMY FOR MALIGNANCY W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">583</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">79322</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MEDICAL BACK PROBLEMS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">551</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">118553</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MEDICAL BACK PROBLEMS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">552</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">56062</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MENSTRUAL &amp; OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">760</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">35915</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MENSTRUAL &amp; OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">761</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">21713</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MINOR BLADDER PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">663</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">98163</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MINOR BLADDER PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">662</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">156116</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MINOR BLADDER PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">664</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">33565</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MINOR SKIN DISORDERS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">606</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">79395</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MINOR SKIN DISORDERS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">607</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">37705</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MINOR SMALL &amp; LARGE BOWEL PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">345</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">74184</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MINOR SMALL &amp; LARGE BOWEL PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">344</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">215423</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MINOR SMALL &amp; LARGE BOWEL PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">346</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">46081</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MISC DISORDERS OF NUTRITION,METABOLISM,FLUIDS/ELECTROLYTES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">640</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">74442</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MISC DISORDERS OF NUTRITION,METABOLISM,FLUIDS/ELECTROLYTES W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">641</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">55621</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MOUTH PROCEDURES W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">137</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">66379</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MOUTH PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">138</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">45119</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MULTIPLE SCLEROSIS &amp; CEREBELLAR ATAXIA W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">63312</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MULTIPLE SCLEROSIS &amp; CEREBELLAR ATAXIA W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">105645</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MULTIPLE SCLEROSIS &amp; CEREBELLAR ATAXIA W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">55884</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">827</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">104633</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">826</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">264550</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">828</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">85745</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MYELOPROLIFERATIVE DISORDERS OR POORLY DIFFERENTIATED NEOPLASMS W OTHER PROCEDURE W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">829</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">369206</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MYELOPROLIFERATIVE DISORDERS OR POORLY DIFFERENTIATED NEOPLASMS W OTHER PROCEDURE W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">830</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">74763</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NEONATE W OTHER SIGNIFICANT PROBLEMS</Data></Cell>
+    <Cell><Data ss:Type="Number">794</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8945</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NEONATES, DIED OR TRANSFERRED TO ANOTHER ACUTE CARE FACILITY</Data></Cell>
+    <Cell><Data ss:Type="Number">789</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">185275</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NERVOUS SYSTEM NEOPLASMS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">68460</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NERVOUS SYSTEM NEOPLASMS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">66243</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NEUROLOGICAL EYE DISORDERS</Data></Cell>
+    <Cell><Data ss:Type="Number">123</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">76825</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NEUROSES EXCEPT DEPRESSIVE</Data></Cell>
+    <Cell><Data ss:Type="Number">882</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10130</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">98</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">153496</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">97</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">84035</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">99</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">89542</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NON-EXTENSIVE BURNS</Data></Cell>
+    <Cell><Data ss:Type="Number">935</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">28795</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">988</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">118249</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">987</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">243846</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">989</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">65143</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NON-MALIGNANT BREAST DISORDERS W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">600</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">38196</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NON-MALIGNANT BREAST DISORDERS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">601</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">33127</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NONSPECIFIC CEREBROVASCULAR DISORDERS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">71</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">106990</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NONSPECIFIC CEREBROVASCULAR DISORDERS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">91764</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NONSPECIFIC CEREBROVASCULAR DISORDERS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">72</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">39237</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NONSPECIFIC CVA &amp; PRECEREBRAL OCCLUSION W/O INFARCT W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">70206</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NONSPECIFIC CVA &amp; PRECEREBRAL OCCLUSION W/O INFARCT W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">68</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">88327</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NONTRAUMATIC STUPOR &amp; COMA W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">190256</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NONTRAUMATIC STUPOR &amp; COMA W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">81</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">43487</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NORMAL NEWBORN</Data></Cell>
+    <Cell><Data ss:Type="Number">795</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5384</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">940</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">77509</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">939</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">81623</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">941</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">73706</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">O.R. PROCEDURE W PRINCIPAL DIAGNOSES OF MENTAL ILLNESS</Data></Cell>
+    <Cell><Data ss:Type="Number">876</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">198141</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">O.R. PROCEDURES FOR OBESITY W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">620</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">66378</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">O.R. PROCEDURES FOR OBESITY W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">619</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">94377</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">O.R. PROCEDURES FOR OBESITY W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">621</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">53564</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ORBITAL PROCEDURES W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">113</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">104932</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ORGANIC DISTURBANCES &amp; INTELLECTUAL DISABILITY</Data></Cell>
+    <Cell><Data ss:Type="Number">884</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">38820</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OSTEOMYELITIS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">540</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">69869</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OSTEOMYELITIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">539</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">112712</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OSTEOMYELITIS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">541</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">31344</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER ANTEPARTUM DIAGNOSES W MEDICAL COMPLICATIONS</Data></Cell>
+    <Cell><Data ss:Type="Number">781</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">33427</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER ANTEPARTUM DIAGNOSES W/O MEDICAL COMPLICATIONS</Data></Cell>
+    <Cell><Data ss:Type="Number">782</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">15537</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER CARDIOTHORACIC PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">228</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">470395</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER CARDIOTHORACIC PROCEDURES W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">229</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">266468</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER CIRCULATORY SYSTEM DIAGNOSES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">315</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">61332</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER CIRCULATORY SYSTEM DIAGNOSES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">314</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">124086</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER CIRCULATORY SYSTEM DIAGNOSES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">316</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">65944</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER CIRCULATORY SYSTEM O.R. PROCEDURES</Data></Cell>
+    <Cell><Data ss:Type="Number">264</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">198694</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER DIGESTIVE SYSTEM DIAGNOSES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">394</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">51964</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER DIGESTIVE SYSTEM DIAGNOSES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">393</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">103550</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER DIGESTIVE SYSTEM DIAGNOSES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">395</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">40960</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">357</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">123377</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">356</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">174443</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">358</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">57221</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER DISORDERS OF NERVOUS SYSTEM W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">92</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">70483</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER DISORDERS OF NERVOUS SYSTEM W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">91</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">86477</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER DISORDERS OF NERVOUS SYSTEM W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">93</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">67269</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER DISORDERS OF THE EYE W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">124</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">114931</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER DISORDERS OF THE EYE W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">125</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">33378</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER EAR, NOSE, MOUTH &amp; THROAT DIAGNOSES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">155</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">54716</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER EAR, NOSE, MOUTH &amp; THROAT DIAGNOSES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">154</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">64542</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER EAR, NOSE, MOUTH &amp; THROAT DIAGNOSES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">156</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">33833</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER EAR, NOSE, MOUTH &amp; THROAT O.R. PROCEDURES W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">133</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">105398</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER EAR, NOSE, MOUTH &amp; THROAT O.R. PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">134</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">39265</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER ENDOCRINE, NUTRIT &amp; METAB O.R. PROC W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">629</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">108563</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER ENDOCRINE, NUTRIT &amp; METAB O.R. PROC W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">628</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">173301</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER FACTORS INFLUENCING HEALTH STATUS</Data></Cell>
+    <Cell><Data ss:Type="Number">951</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7112</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">749</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">128968</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">750</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">47369</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER HEART ASSIST SYSTEM IMPLANT</Data></Cell>
+    <Cell><Data ss:Type="Number">215</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">571895</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER HEPATOBILIARY OR PANCREAS O.R. PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">424</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">206460</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER HEPATOBILIARY OR PANCREAS O.R. PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">423</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">231555</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER INFECTIOUS &amp; PARASITIC DISEASES DIAGNOSES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">868</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">100331</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER INFECTIOUS &amp; PARASITIC DISEASES DIAGNOSES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">867</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">90944</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER INFECTIOUS &amp; PARASITIC DISEASES DIAGNOSES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">869</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">104974</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER INJURY, POISONING &amp; TOXIC EFFECT DIAG W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">922</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">92053</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER INJURY, POISONING &amp; TOXIC EFFECT DIAG W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">923</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">45958</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER KIDNEY &amp; URINARY TRACT DIAGNOSES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">699</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">56772</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER KIDNEY &amp; URINARY TRACT DIAGNOSES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">698</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">111536</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER KIDNEY &amp; URINARY TRACT DIAGNOSES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">700</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">63529</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER KIDNEY &amp; URINARY TRACT PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">674</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">113344</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER KIDNEY &amp; URINARY TRACT PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">673</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">162210</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER KIDNEY &amp; URINARY TRACT PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">675</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">83986</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MAJOR CARDIOVASCULAR PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">271</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">186615</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MAJOR CARDIOVASCULAR PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">270</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">293918</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MAJOR CARDIOVASCULAR PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">272</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">125842</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MALE REPRODUCTIVE SYSTEM DIAGNOSES W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">729</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">37335</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MALE REPRODUCTIVE SYSTEM DIAGNOSES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">730</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">45854</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC EXC MALIGNANCY W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">717</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">74380</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC FOR MALIGNANCY W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">715</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">487042</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MENTAL DISORDER DIAGNOSES</Data></Cell>
+    <Cell><Data ss:Type="Number">887</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7667</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MULTIPLE SIGNIFICANT TRAUMA W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">964</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">71144</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MULTIPLE SIGNIFICANT TRAUMA W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">963</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">142552</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MULTIPLE SIGNIFICANT TRAUMA W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">965</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">49391</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MUSCULOSKELET SYS &amp; CONN TISS O.R. PROC W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">516</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">96772</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MUSCULOSKELET SYS &amp; CONN TISS O.R. PROC W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">515</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">146623</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MUSCULOSKELET SYS &amp; CONN TISS O.R. PROC W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">517</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">64596</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MUSCULOSKELETAL SYS &amp; CONNECTIVE TISSUE DIAGNOSES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">565</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">57598</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MUSCULOSKELETAL SYS &amp; CONNECTIVE TISSUE DIAGNOSES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">564</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">75095</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MUSCULOSKELETAL SYS &amp; CONNECTIVE TISSUE DIAGNOSES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">566</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">31936</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">844</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">83244</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">843</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">108507</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">845</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">55880</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER O.R. PROC OF THE BLOOD &amp; BLOOD FORMING ORGANS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">803</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">97092</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER O.R. PROC OF THE BLOOD &amp; BLOOD FORMING ORGANS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">802</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">87994</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER O.R. PROC OF THE BLOOD &amp; BLOOD FORMING ORGANS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">804</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">62999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER O.R. PROCEDURES FOR INJURIES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">908</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">92912</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER O.R. PROCEDURES FOR INJURIES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">907</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">248542</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER O.R. PROCEDURES FOR INJURIES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">909</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">63118</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">958</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">149135</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">957</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">342575</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">959</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">106255</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER RESP SYSTEM O.R. PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">167</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">102903</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER RESP SYSTEM O.R. PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">166</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">223184</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER RESP SYSTEM O.R. PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">168</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">65721</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER RESPIRATORY SYSTEM DIAGNOSES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">205</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">64658</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER RESPIRATORY SYSTEM DIAGNOSES W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">206</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">45117</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER SKIN, SUBCUT TISS &amp; BREAST PROC W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">580</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">83262</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER SKIN, SUBCUT TISS &amp; BREAST PROC W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">579</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">151864</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER SKIN, SUBCUT TISS &amp; BREAST PROC W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">581</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">62393</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER VASCULAR PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">253</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">129153</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER VASCULAR PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">252</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">166569</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTHER VASCULAR PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">254</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">84311</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTITIS MEDIA &amp; URI W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">152</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">77859</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">OTITIS MEDIA &amp; URI W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">153</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">30431</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PANCREAS, LIVER &amp; SHUNT PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">406</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">146441</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PANCREAS, LIVER &amp; SHUNT PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">405</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">317705</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PANCREAS, LIVER &amp; SHUNT PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">407</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">80045</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PATHOLOGICAL FRACTURES &amp; MUSCULOSKELET &amp; CONN TISS MALIG W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">543</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">73171</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PATHOLOGICAL FRACTURES &amp; MUSCULOSKELET &amp; CONN TISS MALIG W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">542</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">158889</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PATHOLOGICAL FRACTURES &amp; MUSCULOSKELET &amp; CONN TISS MALIG W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">544</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">50475</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PELVIC EVISCERATION, RAD HYSTERECTOMY &amp; RAD VULVECTOMY W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">734</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">70435</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PELVIC EVISCERATION, RAD HYSTERECTOMY &amp; RAD VULVECTOMY W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">735</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">47133</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PENIS PROCEDURES W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">709</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">38368</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PENIS PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">710</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">38275</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERC CARDIOVASC PROC W DRUG-ELUTING STENT W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">247</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">80772</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERC CARDIOVASC PROC W NON-DRUG-ELUTING STENT W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">249</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">82340</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">176571</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">251</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">91511</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERCUTANEOUS CARDIOVASCULAR PROCEDURES W DRUG-ELUTING STENT W MCC OR 4+ ARTERIES OR STENTS</Data></Cell>
+    <Cell><Data ss:Type="Number">246</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">135414</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERCUTANEOUS CARDIOVASCULAR PROCEDURES W NON-DRUG-ELUTING STENT W MCC OR 4+ ARTERIES OR STENTS</Data></Cell>
+    <Cell><Data ss:Type="Number">248</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">202324</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERCUTANEOUS INTRACARDIAC PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">273</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">215502</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERCUTANEOUS INTRACARDIAC PROCEDURES W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">274</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">127893</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERIPH/CRANIAL NERVE &amp; OTHER NERV SYST PROC W CC OR PERIPH NEUROSTIM</Data></Cell>
+    <Cell><Data ss:Type="Number">41</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">121874</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERIPH/CRANIAL NERVE &amp; OTHER NERV SYST PROC W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">198697</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERIPH/CRANIAL NERVE &amp; OTHER NERV SYST PROC W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">42</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">99598</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERIPHERAL VASCULAR DISORDERS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">300</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">52654</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERIPHERAL VASCULAR DISORDERS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">299</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">81562</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERIPHERAL VASCULAR DISORDERS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">301</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">34558</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERITONEAL ADHESIOLYSIS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">336</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">99816</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERITONEAL ADHESIOLYSIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">335</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">235688</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERITONEAL ADHESIOLYSIS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">337</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">81259</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERMANENT CARDIAC PACEMAKER IMPLANT W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">243</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">94366</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERMANENT CARDIAC PACEMAKER IMPLANT W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">242</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">157344</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PERMANENT CARDIAC PACEMAKER IMPLANT W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">244</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">60799</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PLEURAL EFFUSION W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">187</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">66345</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PLEURAL EFFUSION W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">186</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">80819</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PLEURAL EFFUSION W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">188</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">55828</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PNEUMOTHORAX W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">49447</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PNEUMOTHORAX W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">199</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">131415</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PNEUMOTHORAX W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">201</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">32895</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">POISONING &amp; TOXIC EFFECTS OF DRUGS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">917</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">104656</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">POISONING &amp; TOXIC EFFECTS OF DRUGS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">918</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">40057</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">POSTOPERATIVE &amp; POST-TRAUMATIC INFECTIONS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">862</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">103051</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">POSTOPERATIVE &amp; POST-TRAUMATIC INFECTIONS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">863</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">54066</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">857</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">127444</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">856</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">235646</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">858</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">76574</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">POSTPARTUM &amp; POST ABORTION DIAGNOSES W O.R. PROCEDURE</Data></Cell>
+    <Cell><Data ss:Type="Number">769</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">88156</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">POSTPARTUM &amp; POST ABORTION DIAGNOSES W/O O.R. PROCEDURE</Data></Cell>
+    <Cell><Data ss:Type="Number">776</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">34602</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PREMATURITY W MAJOR PROBLEMS</Data></Cell>
+    <Cell><Data ss:Type="Number">791</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">92978</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PREMATURITY W/O MAJOR PROBLEMS</Data></Cell>
+    <Cell><Data ss:Type="Number">792</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">22184</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PROSTATECTOMY W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">666</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">92432</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PROSTATECTOMY W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">665</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">206325</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PROSTATECTOMY W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">667</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">55376</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PSYCHOSES</Data></Cell>
+    <Cell><Data ss:Type="Number">885</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">23856</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PULMONARY EDEMA &amp; RESPIRATORY FAILURE</Data></Cell>
+    <Cell><Data ss:Type="Number">189</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">84812</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PULMONARY EMBOLISM W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">175</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">117434</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PULMONARY EMBOLISM W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">176</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">58412</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RADIOTHERAPY</Data></Cell>
+    <Cell><Data ss:Type="Number">849</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">206445</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RECTAL RESECTION W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">333</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">81699</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RECTAL RESECTION W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">332</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">279348</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RECTAL RESECTION W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">334</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">75319</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RED BLOOD CELL DISORDERS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">811</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">80931</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RED BLOOD CELL DISORDERS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">812</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">40381</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RENAL FAILURE W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">683</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">52421</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RENAL FAILURE W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">682</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">91379</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RENAL FAILURE W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">684</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">31001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RESPIRATORY INFECTIONS &amp; INFLAMMATIONS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">178</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">86213</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RESPIRATORY INFECTIONS &amp; INFLAMMATIONS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">177</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">129380</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RESPIRATORY INFECTIONS &amp; INFLAMMATIONS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">179</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">51921</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RESPIRATORY NEOPLASMS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">181</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">66409</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RESPIRATORY NEOPLASMS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">180</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">107816</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RESPIRATORY NEOPLASMS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">182</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">18245</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RESPIRATORY SIGNS &amp; SYMPTOMS</Data></Cell>
+    <Cell><Data ss:Type="Number">204</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">39779</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT &lt;=96 HOURS</Data></Cell>
+    <Cell><Data ss:Type="Number">208</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">144342</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT &gt;96 HOURS OR PERIPHERAL EXTRACORPOREAL MEMBRANE OXYGENATION (ECMO)</Data></Cell>
+    <Cell><Data ss:Type="Number">207</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">336407</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RETICULOENDOTHELIAL &amp; IMMUNITY DISORDERS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">815</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">106201</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RETICULOENDOTHELIAL &amp; IMMUNITY DISORDERS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">814</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">137850</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RETICULOENDOTHELIAL &amp; IMMUNITY DISORDERS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">816</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">27576</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">REVISION OF HIP OR KNEE REPLACEMENT W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">467</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">113305</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">REVISION OF HIP OR KNEE REPLACEMENT W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">466</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">106451</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">REVISION OF HIP OR KNEE REPLACEMENT W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">468</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">81891</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SALIVARY GLAND PROCEDURES</Data></Cell>
+    <Cell><Data ss:Type="Number">139</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">81634</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SEIZURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">106968</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SEIZURES W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">101</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">32118</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SEPTIC ARTHRITIS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">549</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">44347</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SEPTIC ARTHRITIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">548</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">75356</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SEPTIC ARTHRITIS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">550</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">30834</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SEPTICEMIA OR SEVERE SEPSIS W MV &gt;96 HOURS OR PERIPHERAL EXTRACORPOREAL MEMBRANE OXYGENATION (ECMO)</Data></Cell>
+    <Cell><Data ss:Type="Number">870</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">375691</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SEPTICEMIA OR SEVERE SEPSIS W/O MV &gt;96 HOURS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">871</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">117567</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SEPTICEMIA OR SEVERE SEPSIS W/O MV &gt;96 HOURS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">872</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">62985</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SHOULDER,ELBOW OR FOREARM PROC,EXC MAJOR JOINT PROC W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">511</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">91348</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SHOULDER,ELBOW OR FOREARM PROC,EXC MAJOR JOINT PROC W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">510</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">114790</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SHOULDER,ELBOW OR FOREARM PROC,EXC MAJOR JOINT PROC W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">512</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">72174</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SIGNS &amp; SYMPTOMS OF MUSCULOSKELETAL SYSTEM &amp; CONN TISSUE W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">555</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">106193</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SIGNS &amp; SYMPTOMS OF MUSCULOSKELETAL SYSTEM &amp; CONN TISSUE W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">556</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">57978</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SIGNS &amp; SYMPTOMS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">947</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">120199</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SIGNS &amp; SYMPTOMS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">948</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">47645</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SIMPLE PNEUMONIA &amp; PLEURISY W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">194</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">51922</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SIMPLE PNEUMONIA &amp; PLEURISY W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">193</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">87935</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SIMPLE PNEUMONIA &amp; PLEURISY W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">195</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">35499</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SINUS &amp; MASTOID PROCEDURES W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">135</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">67371</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SKIN DEBRIDEMENT W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">571</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">71506</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SKIN DEBRIDEMENT W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">570</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">93791</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SKIN DEBRIDEMENT W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">572</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">53004</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">577</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">141028</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">576</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">73718</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">578</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">66762</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">574</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">113386</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">573</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">97692</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">575</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">45322</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SKIN GRAFTS &amp; WOUND DEBRID FOR ENDOC, NUTRIT &amp; METAB DIS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">623</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">125435</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SKIN GRAFTS &amp; WOUND DEBRID FOR ENDOC, NUTRIT &amp; METAB DIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">622</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">256614</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SKIN GRAFTS &amp; WOUND DEBRID FOR ENDOC, NUTRIT &amp; METAB DIS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">624</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">63534</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SKIN GRAFTS FOR INJURIES W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">904</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">195401</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SKIN GRAFTS FOR INJURIES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">905</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">119013</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SKIN ULCERS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">593</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">55434</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SKIN ULCERS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">592</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">74988</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SKIN ULCERS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">594</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">48370</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SOFT TISSUE PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">501</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">105133</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SOFT TISSUE PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">154835</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SOFT TISSUE PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">502</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">61149</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SPINAL DISORDERS &amp; INJURIES W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">91985</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SPINAL DISORDERS &amp; INJURIES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">32981</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SPINAL FUS EXC CERV W SPINAL CURV/MALIG/INFEC OR EXT FUS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">457</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">284437</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SPINAL FUS EXC CERV W SPINAL CURV/MALIG/INFEC OR EXT FUS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">456</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">382910</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SPINAL FUS EXC CERV W SPINAL CURV/MALIG/INFEC OR EXT FUS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">458</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">156949</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SPINAL FUSION EXCEPT CERVICAL W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">459</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">240274</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SPINAL FUSION EXCEPT CERVICAL W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">460</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">96918</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SPINAL PROCEDURES W CC OR SPINAL NEUROSTIMULATORS</Data></Cell>
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">127470</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SPINAL PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">328696</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SPINAL PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">67744</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SPLENECTOMY W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">800</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">125354</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SPLENECTOMY W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">799</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">259274</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SPLENECTOMY W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">801</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">56872</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SPRAINS, STRAINS, &amp; DISLOCATIONS OF HIP, PELVIS &amp; THIGH W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">538</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">36841</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STOMACH, ESOPHAGEAL &amp; DUODENAL PROC W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">327</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">123142</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STOMACH, ESOPHAGEAL &amp; DUODENAL PROC W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">326</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">302860</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STOMACH, ESOPHAGEAL &amp; DUODENAL PROC W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">328</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">54209</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SYNCOPE &amp; COLLAPSE</Data></Cell>
+    <Cell><Data ss:Type="Number">312</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">46674</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TENDONITIS, MYOSITIS &amp; BURSITIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">557</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">61854</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TENDONITIS, MYOSITIS &amp; BURSITIS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">558</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">35579</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TESTES PROCEDURES W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">711</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">82394</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TESTES PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">712</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">34662</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">THREATENED ABORTION</Data></Cell>
+    <Cell><Data ss:Type="Number">778</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19268</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">THYROID, PARATHYROID &amp; THYROGLOSSAL PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">626</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">90261</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">THYROID, PARATHYROID &amp; THYROGLOSSAL PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">625</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">283774</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">THYROID, PARATHYROID &amp; THYROGLOSSAL PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">627</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">42076</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRACH W MV &gt;96 HRS OR PDX EXC FACE, MOUTH &amp; NECK W/O MAJ O.R.</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">686228</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRACHEOSTOMY FOR FACE, MOUTH &amp; NECK DIAGNOSES OR LARYNGECTOMY W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">216990</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRACHEOSTOMY FOR FACE, MOUTH &amp; NECK DIAGNOSES OR LARYNGECTOMY W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">253122</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRACHEOSTOMY FOR FACE, MOUTH &amp; NECK DIAGNOSES OR LARYNGECTOMY W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">102185</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRANSIENT ISCHEMIA W/O THROMBOLYTIC</Data></Cell>
+    <Cell><Data ss:Type="Number">69</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">58533</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRANSURETHRAL PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">669</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">57158</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRANSURETHRAL PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">668</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">144134</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRANSURETHRAL PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">670</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">45883</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRANSURETHRAL PROSTATECTOMY W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">713</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">63640</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRANSURETHRAL PROSTATECTOMY W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">714</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">41795</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRAUMA TO THE SKIN, SUBCUT TISS &amp; BREAST W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">604</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">104486</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRAUMA TO THE SKIN, SUBCUT TISS &amp; BREAST W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">605</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">49452</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRAUMATIC INJURY W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">913</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">65620</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRAUMATIC INJURY W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">914</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">47762</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRAUMATIC STUPOR &amp; COMA, COMA &lt;1 HR W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">86</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">61572</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRAUMATIC STUPOR &amp; COMA, COMA &lt;1 HR W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">85</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">90199</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRAUMATIC STUPOR &amp; COMA, COMA &lt;1 HR W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">87</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">36327</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRAUMATIC STUPOR &amp; COMA, COMA &gt;1 HR W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">83</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">70799</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRAUMATIC STUPOR &amp; COMA, COMA &gt;1 HR W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">82</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">120240</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TRAUMATIC STUPOR &amp; COMA, COMA &gt;1 HR W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">84</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">48441</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">UNCOMPLICATED PEPTIC ULCER W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">383</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">92730</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">UNCOMPLICATED PEPTIC ULCER W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">384</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">52390</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">UNGROUPABLE</Data></Cell>
+    <Cell><Data ss:Type="Number">999</Data></Cell>
+    <Cell><Data ss:Type="String">$</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">UPPER LIMB &amp; TOE AMPUTATION FOR CIRC SYSTEM DISORDERS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">256</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">92108</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">UPPER LIMB &amp; TOE AMPUTATION FOR CIRC SYSTEM DISORDERS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">255</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">227996</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">URETHRAL PROCEDURES W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">671</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">69766</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">URETHRAL STRICTURE</Data></Cell>
+    <Cell><Data ss:Type="Number">697</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">47612</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">URINARY STONES W ESW LITHOTRIPSY W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">691</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">60635</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">URINARY STONES W ESW LITHOTRIPSY W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">692</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">43285</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">URINARY STONES W/O ESW LITHOTRIPSY W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">693</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">96182</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">URINARY STONES W/O ESW LITHOTRIPSY W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">694</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">42556</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">UTERINE &amp; ADNEXA PROC FOR NON-MALIGNANCY W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">742</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">56561</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">UTERINE &amp; ADNEXA PROC FOR NON-MALIGNANCY W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">743</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">41951</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">UTERINE &amp; ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">737</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">86949</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">UTERINE &amp; ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">736</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">197754</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">UTERINE &amp; ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">738</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">68775</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">UTERINE,ADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">740</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">63767</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">UTERINE,ADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">739</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">131635</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">UTERINE,ADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">741</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">47328</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">VAGINA, CERVIX &amp; VULVA PROCEDURES W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">746</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">75379</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">VAGINA, CERVIX &amp; VULVA PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">747</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">37795</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">VAGINAL DELIVERY W COMPLICATING DIAGNOSES</Data></Cell>
+    <Cell><Data ss:Type="Number">774</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">22207</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">VAGINAL DELIVERY W O.R. PROC EXCEPT STERIL &amp;/OR D&amp;C</Data></Cell>
+    <Cell><Data ss:Type="Number">768</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">78739</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">VAGINAL DELIVERY W STERILIZATION &amp;/OR D&amp;C</Data></Cell>
+    <Cell><Data ss:Type="Number">767</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">38697</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">VAGINAL DELIVERY W/O COMPLICATING DIAGNOSES</Data></Cell>
+    <Cell><Data ss:Type="Number">775</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">16592</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">VEIN LIGATION &amp; STRIPPING</Data></Cell>
+    <Cell><Data ss:Type="Number">263</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">60983</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">VENTRICULAR SHUNT PROCEDURES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">86870</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">VENTRICULAR SHUNT PROCEDURES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">200488</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">VENTRICULAR SHUNT PROCEDURES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">70837</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">VIRAL ILLNESS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">865</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">96312</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">VIRAL ILLNESS W/O MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">866</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">40544</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">VIRAL MENINGITIS W CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">75</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">82539</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">VIRAL MENINGITIS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">76</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">46063</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">WND DEBRID &amp; SKN GRFT EXC HAND, FOR MUSCULO-CONN TISS DIS W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">464</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">141536</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">WND DEBRID &amp; SKN GRFT EXC HAND, FOR MUSCULO-CONN TISS DIS W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">463</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">269096</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">WND DEBRID &amp; SKN GRFT EXC HAND, FOR MUSCULO-CONN TISS DIS W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">465</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">77465</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">WOUND DEBRIDEMENTS FOR INJURIES W CC</Data></Cell>
+    <Cell><Data ss:Type="Number">902</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">94632</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">WOUND DEBRIDEMENTS FOR INJURIES W MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">901</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">181747</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">WOUND DEBRIDEMENTS FOR INJURIES W/O CC/MCC</Data></Cell>
+    <Cell><Data ss:Type="Number">903</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">65393</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Selected/>
+   <TopRowVisible>940</TopRowVisible>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "memorial-regional-hospital",
+        "filename": "charge-master-xml.xml",
+        "date": "2019-01-17",
+        "uri": "charge-master-xml.xml",
+        "name": "charge-master-xml.xml",
+        "url": "https://www.mhs.net/-/media/mhs/files/patients-and-visitors/charge-master-xml.xml?la=en"
+    },
+    {
+        "hospital_id": "memorial-regional-hospital",
+        "filename": "average-charges-by-drg-xml.xml",
+        "date": "2019-01-17",
+        "uri": "average-charges-by-drg-xml.xml",
+        "name": "average-charges-by-drg-xml.xml",
+        "url": "https://www.mhs.net/-/media/mhs/files/patients-and-visitors/average-charges-by-drg-xml.xml?la=en"
+    }
+]

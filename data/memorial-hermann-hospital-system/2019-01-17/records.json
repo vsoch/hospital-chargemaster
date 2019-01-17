@@ -1,0 +1,98 @@
+[
+    {
+        "hospital_id": "memorial-hermann-hospital-system",
+        "filename": "tmc-ip-insured.csv",
+        "date": "2019-01-17",
+        "uri": "tmc-ip-insured.csv",
+        "name": "tmc-ip-insured.csv",
+        "url": "https://www.memorialhermann.org/uploadedfiles/_library_files/memorial_hermann/price_transparency/tmc-ip-insured.csv"
+    },
+    {
+        "hospital_id": "memorial-hermann-hospital-system",
+        "filename": "tmc-op-insured.csv",
+        "date": "2019-01-17",
+        "uri": "tmc-op-insured.csv",
+        "name": "tmc-op-insured.csv",
+        "url": "https://www.memorialhermann.org/uploadedfiles/_library_files/memorial_hermann/price_transparency/tmc-op-insured.csv"
+    },
+    {
+        "hospital_id": "memorial-hermann-hospital-system",
+        "filename": "community-ip-insured.csv",
+        "date": "2019-01-17",
+        "uri": "community-ip-insured.csv",
+        "name": "community-ip-insured.csv",
+        "url": "https://www.memorialhermann.org/uploadedfiles/_library_files/memorial_hermann/price_transparency/community-ip-insured.csv"
+    },
+    {
+        "hospital_id": "memorial-hermann-hospital-system",
+        "filename": "community-op-insured.csv",
+        "date": "2019-01-17",
+        "uri": "community-op-insured.csv",
+        "name": "community-op-insured.csv",
+        "url": "https://www.memorialhermann.org/uploadedfiles/_library_files/memorial_hermann/price_transparency/community-op-insured.csv"
+    },
+    {
+        "hospital_id": "memorial-hermann-hospital-system",
+        "filename": "parc-ip-insured.csv",
+        "date": "2019-01-17",
+        "uri": "parc-ip-insured.csv",
+        "name": "parc-ip-insured.csv",
+        "url": "https://www.memorialhermann.org/uploadedfiles/_library_files/memorial_hermann/price_transparency/parc-ip-insured.csv"
+    },
+    {
+        "hospital_id": "memorial-hermann-hospital-system",
+        "filename": "parc-op-insured.csv",
+        "date": "2019-01-17",
+        "uri": "parc-op-insured.csv",
+        "name": "parc-op-insured.csv",
+        "url": "https://www.memorialhermann.org/uploadedfiles/_library_files/memorial_hermann/price_transparency/parc-op-insured.csv"
+    },
+    {
+        "hospital_id": "memorial-hermann-hospital-system",
+        "filename": "tmc-ip-uninsured.csv",
+        "date": "2019-01-17",
+        "uri": "tmc-ip-uninsured.csv",
+        "name": "tmc-ip-uninsured.csv",
+        "url": "https://www.memorialhermann.org/uploadedfiles/_library_files/memorial_hermann/price_transparency/tmc-ip-uninsured.csv"
+    },
+    {
+        "hospital_id": "memorial-hermann-hospital-system",
+        "filename": "tmc-op-uninsured.csv",
+        "date": "2019-01-17",
+        "uri": "tmc-op-uninsured.csv",
+        "name": "tmc-op-uninsured.csv",
+        "url": "https://www.memorialhermann.org/uploadedfiles/_library_files/memorial_hermann/price_transparency/tmc-op-uninsured.csv"
+    },
+    {
+        "hospital_id": "memorial-hermann-hospital-system",
+        "filename": "community-ip-uninsured.csv",
+        "date": "2019-01-17",
+        "uri": "community-ip-uninsured.csv",
+        "name": "community-ip-uninsured.csv",
+        "url": "https://www.memorialhermann.org/uploadedfiles/_library_files/memorial_hermann/price_transparency/community-ip-uninsured.csv"
+    },
+    {
+        "hospital_id": "memorial-hermann-hospital-system",
+        "filename": "community-op-uninsured.csv",
+        "date": "2019-01-17",
+        "uri": "community-op-uninsured.csv",
+        "name": "community-op-uninsured.csv",
+        "url": "https://www.memorialhermann.org/uploadedfiles/_library_files/memorial_hermann/price_transparency/community-op-uninsured.csv"
+    },
+    {
+        "hospital_id": "memorial-hermann-hospital-system",
+        "filename": "parc-ip-uninsured.csv",
+        "date": "2019-01-17",
+        "uri": "parc-ip-uninsured.csv",
+        "name": "parc-ip-uninsured.csv",
+        "url": "https://www.memorialhermann.org/uploadedfiles/_library_files/memorial_hermann/price_transparency/parc-ip-uninsured.csv"
+    },
+    {
+        "hospital_id": "memorial-hermann-hospital-system",
+        "filename": "parc-op-uninsured.csv",
+        "date": "2019-01-17",
+        "uri": "parc-op-uninsured.csv",
+        "name": "parc-op-uninsured.csv",
+        "url": "https://www.memorialhermann.org/uploadedfiles/_library_files/memorial_hermann/price_transparency/parc-op-uninsured.csv"
+    }
+]
