@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "communityu-regional-medical-center",
+        "filename": "IP-DRG-Charges-CRMC_FHSH.xlsx",
+        "date": "2019-01-17",
+        "uri": "IP-DRG-Charges-CRMC_FHSH.xlsx",
+        "name": "IP-DRG-Charges-CRMC_FHSH.xlsx",
+        "url": "https://www.communitymedical.org/CMC/media/Corporate/Billing/IP-DRG-Charges-CRMC_FHSH.xlsx"
+    },
+    {
+        "hospital_id": "communityu-regional-medical-center",
+        "filename": "IP-DRG-Charges-CCMC.xlsx",
+        "date": "2019-01-17",
+        "uri": "IP-DRG-Charges-CCMC.xlsx",
+        "name": "IP-DRG-Charges-CCMC.xlsx",
+        "url": "https://www.communitymedical.org/CMC/media/Corporate/Billing/IP-DRG-Charges-CCMC.xlsx"
+    }
+]

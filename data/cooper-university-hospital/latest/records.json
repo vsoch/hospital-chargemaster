@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "cooper-university-hospital",
+        "filename": "Cooper-CM-list.csv",
+        "date": "2019-01-17",
+        "uri": "Cooper-CM-list.csv",
+        "name": "Cooper-CM-list.csv",
+        "url": "https://www.cooperhealth.org/sites/default/files/financial/Cooper-CM-list.csv"
+    },
+    {
+        "hospital_id": "cooper-university-hospital",
+        "filename": "DRG-Cooper.csv",
+        "date": "2019-01-17",
+        "uri": "DRG-Cooper.csv",
+        "name": "DRG-Cooper.csv",
+        "url": "https://www.cooperhealth.org/sites/default/files/financial/DRG-Cooper.csv"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "hospital_id": "cedars-sinai-medical-center",
+        "filename": "Cedars-Sinai-Charge-Description-Master.xlsx",
+        "date": "2019-01-17",
+        "uri": "Cedars-Sinai-Charge-Description-Master.xlsx",
+        "name": "Cedars-Sinai-Charge-Description-Master.xlsx",
+        "url": "https://www.cedars-sinai.org/content/dam/cedars-sinai/billing-insurance/documents/Cedars-Sinai-Charge-Description-Master.xlsx"
+    },
+    {
+        "hospital_id": "cedars-sinai-medical-center",
+        "filename": "25-common-op-procedures.xlsx",
+        "date": "2019-01-17",
+        "uri": "25-common-op-procedures.xlsx",
+        "name": "25-common-op-procedures.xlsx",
+        "url": "https://www.cedars-sinai.org/content/dam/cedars-sinai/billing-insurance/documents/25-common-op-procedures.xlsx"
+    },
+    {
+        "hospital_id": "cedars-sinai-medical-center",
+        "filename": "ms-drg-average-charges-2018.xlsx",
+        "date": "2019-01-17",
+        "uri": "ms-drg-average-charges-2018.xlsx",
+        "name": "ms-drg-average-charges-2018.xlsx",
+        "url": "https://www.cedars-sinai.org/content/dam/cedars-sinai/billing-insurance/documents/ms-drg-average-charges-2018.xlsx"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "carolinas-medical-center",
+        "filename": "Atrium-Health-Standard-Charges-As-Of-Jan-1-2019.csv",
+        "date": "2019-01-17",
+        "uri": "Atrium-Health-Standard-Charges-As-Of-Jan-1-2019.csv",
+        "name": "Atrium-Health-Standard-Charges-As-Of-Jan-1-2019.csv",
+        "url": "https://atriumhealth.org/-/media/chs/Files/for-patients-visitors/Atrium-Health-Standard-Charges-As-Of-Jan-1-2019.csv?la=en&hash=1A099974E77A81E64537B7330CB2D63ABFC18966"
+    },
+    {
+        "hospital_id": "carolinas-medical-center",
+        "filename": "Atrium-Health-DRG-Avg-Chgs-by-Facility-FY2016.csv",
+        "date": "2019-01-17",
+        "uri": "Atrium-Health-DRG-Avg-Chgs-by-Facility-FY2016.csv",
+        "name": "Atrium-Health-DRG-Avg-Chgs-by-Facility-FY2016.csv",
+        "url": "https://atriumhealth.org/-/media/chs/Files/for-patients-visitors/Atrium-Health-DRG-Avg-Chgs-by-Facility-FY2016.csv?la=en&hash=961599D095B3E153205F34C71DB7369053149E27"
+    }
+]

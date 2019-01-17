@@ -1,0 +1,50 @@
+[
+    {
+        "hospital_id": "covenant-health-system",
+        "filename": "CMS-Pricing-TCM.xlsx",
+        "date": "2019-01-17",
+        "uri": "covenantmedicalcenter",
+        "name": "Covenant Medical Center",
+        "url": "https://www.psjhealth.org/-/media/files/Providence-St-Joseph-Health/Pricing/Covenant/CMS-Pricing-TCM.xlsx"
+    },
+    {
+        "hospital_id": "covenant-health-system",
+        "filename": "CMS-Pricing-TLM.xlsx",
+        "date": "2019-01-17",
+        "uri": "covenanthospitallevelland",
+        "name": "Covenant Hospital Levelland",
+        "url": "https://www.psjhealth.org/-/media/files/Providence-St-Joseph-Health/Pricing/Covenant/CMS-Pricing-TLM.xlsx"
+    },
+    {
+        "hospital_id": "covenant-health-system",
+        "filename": "CMS-Pricing-TVM.xlsx",
+        "date": "2019-01-17",
+        "uri": "covenanthospitalplainview",
+        "name": "Covenant Hospital Plainview",
+        "url": "https://www.psjhealth.org/-/media/files/Providence-St-Joseph-Health/Pricing/Covenant/CMS-Pricing-TVM.xlsx"
+    },
+    {
+        "hospital_id": "covenant-health-system",
+        "filename": "Impact-by-MSDRG-SJH-TCM.xlsx",
+        "date": "2019-01-17",
+        "uri": "covenantmedicalcenter",
+        "name": "Covenant Medical Center",
+        "url": "https://www.psjhealth.org/-/media/files/Providence-St-Joseph-Health/Pricing/Covenant/Impact-by-MSDRG-SJH-TCM.xlsx"
+    },
+    {
+        "hospital_id": "covenant-health-system",
+        "filename": "Impact-by-MSDRG-SJH-TLM.xlsx",
+        "date": "2019-01-17",
+        "uri": "covenanthospitallevelland",
+        "name": "Covenant Hospital Levelland",
+        "url": "https://www.psjhealth.org/-/media/files/Providence-St-Joseph-Health/Pricing/Covenant/Impact-by-MSDRG-SJH-TLM.xlsx"
+    },
+    {
+        "hospital_id": "covenant-health-system",
+        "filename": "Impact-by-MSDRG-SJH-TVM.xlsx",
+        "date": "2019-01-17",
+        "uri": "covenanthospitalplainview",
+        "name": "Covenant Hospital Plainview",
+        "url": "https://www.psjhealth.org/-/media/files/Providence-St-Joseph-Health/Pricing/Covenant/Impact-by-MSDRG-SJH-TVM.xlsx"
+    }
+]

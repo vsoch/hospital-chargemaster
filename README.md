@@ -26,7 +26,6 @@ The file includes the following variables, separated by tabs::
 This represents the original set of hospitals that I obtained from a [compiled list](https://www.cms.gov/newsroom/fact-sheets/fiscal-year-fy-2019-medicare-hospital-inpatient-prospective-payment-system-ipps-and-long-term-acute-0), and is kept
 for the purpose of keeping the record.
 
-
 ### 2. Organize Data
 
 Each hospital has records kept in a subfolder in the [data](data) folder. Specifically,
@@ -36,14 +35,22 @@ able to find the charge list on the hospital site (and maybe you can help?)
 Within that folder, you will find:
 
  - `scrape.py`: A script to scrape the data
+ - `browser.py`: If we need to interact with a browser, we use selenium to do this.
  - `latest`: a folder with the last scraped (latest data files)
  - `YYYY-MM-DD` folders, where each folder includes:
    - `records.json` the complete list of records scraped for a particular data
-   - `*.csv`: the scraped data files.
+   - `*.csv` or `*.xlsx` or `*.json`: the scraped data files.
 
-The first iteration was run locally (to test the scraping).
+The first iteration was run locally (to test the scraping). One significantly different
+scraper is the [oshpd-ca](data/oshpd-ca) folder, which includes over 795 hospitals! Way to go
+California!
 
-**under development**
+#### Why do you have some redundant code?
+
+It is the case that the code in the scrape.py files (and browser.py) is redundant. We do this so
+that each folder is a modular solution to retrieve the data. If you are interested in just
+one hospital, you can use the folder on its own. The one exception is with the browser (Chrome)
+driver that is shared in the [drivers](drivers) folder at the root of the repository.
 
 ### 3. Automation
 
