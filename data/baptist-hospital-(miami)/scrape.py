@@ -7,37 +7,53 @@ import datetime
 import shutil
 from bs4 import BeautifulSoup
 
+# The drivers must be on path
+drivers = os.path.abspath('../../drivers')
+os.environ['PATH'] = "%s:%s" %(drivers, os.environ['PATH'])
+
+from browser import ScraperRobot
+driver = ScraperRobot()
+
 here = os.path.dirname(os.path.abspath(__file__))
 hospital_id = os.path.basename(here)
 
-url ='https://www.baptistjax.com/patient-info/billing-and-insurance-information/patient-cost-estimate-request/gross-charges'
+url = 'https://baptisthealth.net/en/facilities/baptist-hospital-miami/pages/pricing-information.aspx'
+
+driver.download(url)
+
 
 today = datetime.datetime.today().strftime('%Y-%m-%d')
 outdir = os.path.join(here, today)
 if not os.path.exists(outdir):
     os.mkdir(outdir)
 
-response = requests.get(url)
-soup = BeautifulSoup(response.text, 'lxml')
-
 # Each folder will have a list of records
 records = []
 
 for entry in soup.find_all('a', href=True):
-    download_url = entry['href']
-    if '.xlsx' in download_url:  
-        filename =  os.path.basename(download_url.split('?')[0])  
+    entry_url = entry['href']
+    if "hospitalpriceindex.com" in entry_url:
+        print(entry_url)
+
+        # Need to scrape this live
+        rows = driver.download(entry_url)
+        entry_name = entry.text
+        entry_uri = entry_name.strip().replace(' ','-')
+        filename =  os.path.basename('%s.csv' % entry_uri)  
 
         # We want to get the original file, not write a new one
         output_file = os.path.join(outdir, filename)
-        os.system('wget -O "%s" "%s"' % (output_file, download_url))
+        with open(output_file, 'w') as filey:
+            filey.writelines('charge_code,description,charge_amount\n')
+            for row in rows:
+                filey.writelines(','.join(row))
 
         record = { 'hospital_id': hospital_id,
                    'filename': filename,
                    'date': today,
-                   'uri': filename,
-                   'name': filename,
-                   'url': download_url }
+                   'uri': entry_uri,
+                   'name': entry_name,
+                   'url': entry_url }
 
         records.append(record)
 
