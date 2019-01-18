@@ -1,0 +1,74 @@
+[
+    {
+        "hospital_id": "north-carolina-baptist-hospital",
+        "filename": "CMS_Pricing_WFB.csv",
+        "date": "2019-01-18",
+        "uri": "wake-forest-baptist-medical-center",
+        "name": "Wake Forest Baptist Medical Center",
+        "url": "https://www.wakehealth.edu/-/media/WakeForest/Clinical/Files/Billing/CMS_Pricing_WFB.csv?la=en"
+    },
+    {
+        "hospital_id": "north-carolina-baptist-hospital",
+        "filename": "CMS_Pricing_WFB.csv",
+        "date": "2019-01-18",
+        "uri": "",
+        "name": "",
+        "url": "https://www.wakehealth.edu/-/media/WakeForest/Clinical/Files/Billing/CMS_Pricing_WFB.csv?la=en"
+    },
+    {
+        "hospital_id": "north-carolina-baptist-hospital",
+        "filename": "CMS_Pricing_LMC.csv",
+        "date": "2019-01-18",
+        "uri": "lexington-medical-medical-center",
+        "name": "Lexington Medical Medical Center",
+        "url": "https://www.wakehealth.edu/-/media/WakeForest/Clinical/Files/Billing/CMS_Pricing_LMC.csv?la=en"
+    },
+    {
+        "hospital_id": "north-carolina-baptist-hospital",
+        "filename": "CMS_Pricing_LMC.csv",
+        "date": "2019-01-18",
+        "uri": "",
+        "name": "",
+        "url": "https://www.wakehealth.edu/-/media/WakeForest/Clinical/Files/Billing/CMS_Pricing_LMC.csv?la=en"
+    },
+    {
+        "hospital_id": "north-carolina-baptist-hospital",
+        "filename": "CMS_Pricing_DMC.csv",
+        "date": "2019-01-18",
+        "uri": "davie-medical-center",
+        "name": "Davie Medical Center",
+        "url": "https://www.wakehealth.edu/-/media/WakeForest/Clinical/Files/Billing/CMS_Pricing_DMC.csv?la=en"
+    },
+    {
+        "hospital_id": "north-carolina-baptist-hospital",
+        "filename": "CMS_Pricing_DMC.csv",
+        "date": "2019-01-18",
+        "uri": "",
+        "name": "",
+        "url": "https://www.wakehealth.edu/-/media/WakeForest/Clinical/Files/Billing/CMS_Pricing_DMC.csv?la=en"
+    },
+    {
+        "hospital_id": "north-carolina-baptist-hospital",
+        "filename": "CMS_Pricing_HP.csv",
+        "date": "2019-01-18",
+        "uri": "high-point-medical-center",
+        "name": "High Point Medical Center",
+        "url": "https://www.wakehealth.edu/-/media/WakeForest/Clinical/Files/Billing/CMS_Pricing_HP.csv?la=en"
+    },
+    {
+        "hospital_id": "north-carolina-baptist-hospital",
+        "filename": "CMS_Pricing_HP.csv",
+        "date": "2019-01-18",
+        "uri": "",
+        "name": "",
+        "url": "https://www.wakehealth.edu/-/media/WakeForest/Clinical/Files/Billing/CMS_Pricing_HP.csv?la=en"
+    },
+    {
+        "hospital_id": "north-carolina-baptist-hospital",
+        "filename": "CMS_Pricing_WMC.csv",
+        "date": "2019-01-18",
+        "uri": "wilkes-medical-center",
+        "name": "Wilkes Medical Center",
+        "url": "https://www.wakehealth.edu/-/media/WakeForest/Clinical/Files/Billing/CMS_Pricing_WMC.csv?la=en"
+    }
+]

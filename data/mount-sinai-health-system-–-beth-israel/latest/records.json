@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "mount-sinai-health-system-\u2013-beth-israel",
+        "filename": "Chargemaster_MSL.xlsx",
+        "date": "2019-01-18",
+        "uri": "Chargemaster_MSL.xlsx",
+        "name": "Chargemaster_MSL.xlsx",
+        "url": "https://www.mountsinai.org/files/MSHealth/Assets/HS/About/Chargemaster_MSL.xlsx"
+    },
+    {
+        "hospital_id": "mount-sinai-health-system-\u2013-beth-israel",
+        "filename": "Average-Charge-by-DRG_MSL.xlsx",
+        "date": "2019-01-18",
+        "uri": "Average-Charge-by-DRG_MSL.xlsx",
+        "name": "Average-Charge-by-DRG_MSL.xlsx",
+        "url": "https://www.mountsinai.org/files/MSHealth/Assets/HS/About/Average Charge by DRG_MSL.xlsx"
+    }
+]

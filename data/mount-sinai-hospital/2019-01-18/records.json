@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "mount-sinai-hospital",
+        "filename": "Chargemaster_MSH.xlsx",
+        "date": "2019-01-18",
+        "uri": "Chargemaster_MSH.xlsx",
+        "name": "Chargemaster_MSH.xlsx",
+        "url": "https://www.mountsinai.org/files/MSHealth/Assets/HS/About/Chargemaster_MSH.xlsx"
+    },
+    {
+        "hospital_id": "mount-sinai-hospital",
+        "filename": "Average-Charges-by-DRG_MSH.xlsx",
+        "date": "2019-01-18",
+        "uri": "Average-Charges-by-DRG_MSH.xlsx",
+        "name": "Average-Charges-by-DRG_MSH.xlsx",
+        "url": "https://www.mountsinai.org/files/MSHealth/Assets/HS/About/Average Charges by DRG_MSH.xlsx"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "new-york-presbyterian-hospital",
+        "filename": "NewYork-Presbyterian-Hospital-Standard-Charges-2019.xlsx",
+        "date": "2019-01-18",
+        "uri": "NewYork-Presbyterian-Hospital-Standard-Charges-2019.xlsx",
+        "name": "NewYork-Presbyterian-Hospital-Standard-Charges-2019.xlsx",
+        "url": "https://www.nyp.org/documents/payingforcare/NewYork-Presbyterian-Hospital-Standard-Charges-2019.xlsx"
+    },
+    {
+        "hospital_id": "new-york-presbyterian-hospital",
+        "filename": "NYP-Charge-Per-Case-MS-DRG.xlsx",
+        "date": "2019-01-18",
+        "uri": "NYP-Charge-Per-Case-MS-DRG.xlsx",
+        "name": "NYP-Charge-Per-Case-MS-DRG.xlsx",
+        "url": "https://www.nyp.org/documents/payingforcare/NYP-Charge-Per-Case-MS-DRG.xlsx"
+    }
+]
