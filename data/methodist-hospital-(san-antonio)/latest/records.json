@@ -1,0 +1,130 @@
+[
+    {
+        "hospital_id": "methodist-hospital-(san-antonio)",
+        "filename": "SanAntonioDivision_MethodistHospitalSouth_DRG.csv",
+        "date": "2019-01-18",
+        "uri": "SanAntonioDivision_MethodistHospitalSouth_DRG.csv",
+        "name": "SanAntonioDivision_MethodistHospitalSouth_DRG.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/SanAntonioDivision_MethodistHospitalSouth_DRG.csv"
+    },
+    {
+        "hospital_id": "methodist-hospital-(san-antonio)",
+        "filename": "SanAntonioDivision_MethodistSpecialtyTransplantHosp_CM.csv",
+        "date": "2019-01-18",
+        "uri": "SanAntonioDivision_MethodistSpecialtyTransplantHosp_CM.csv",
+        "name": "SanAntonioDivision_MethodistSpecialtyTransplantHosp_CM.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/SanAntonioDivision_MethodistSpecialtyTransplantHosp_CM.csv"
+    },
+    {
+        "hospital_id": "methodist-hospital-(san-antonio)",
+        "filename": "SanAntonioDivision_MethodistHospitalSouth_CM.csv",
+        "date": "2019-01-18",
+        "uri": "SanAntonioDivision_MethodistHospitalSouth_CM.csv",
+        "name": "SanAntonioDivision_MethodistHospitalSouth_CM.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/SanAntonioDivision_MethodistHospitalSouth_CM.csv"
+    },
+    {
+        "hospital_id": "methodist-hospital-(san-antonio)",
+        "filename": "SanAntonioDivision_MethodistAmbulatorySurgeryHospital_CM.csv",
+        "date": "2019-01-18",
+        "uri": "SanAntonioDivision_MethodistAmbulatorySurgeryHospital_CM.csv",
+        "name": "SanAntonioDivision_MethodistAmbulatorySurgeryHospital_CM.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/SanAntonioDivision_MethodistAmbulatorySurgeryHospital_CM.csv"
+    },
+    {
+        "hospital_id": "methodist-hospital-(san-antonio)",
+        "filename": "SanAntonioDivision_MetropolitanMethodistHospital_CM.csv",
+        "date": "2019-01-18",
+        "uri": "SanAntonioDivision_MetropolitanMethodistHospital_CM.csv",
+        "name": "SanAntonioDivision_MetropolitanMethodistHospital_CM.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/SanAntonioDivision_MetropolitanMethodistHospital_CM.csv"
+    },
+    {
+        "hospital_id": "methodist-hospital-(san-antonio)",
+        "filename": "SanAntonioDivision_MethodistSpecialtyTransplantHosp_DRG.csv",
+        "date": "2019-01-18",
+        "uri": "SanAntonioDivision_MethodistSpecialtyTransplantHosp_DRG.csv",
+        "name": "SanAntonioDivision_MethodistSpecialtyTransplantHosp_DRG.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/SanAntonioDivision_MethodistSpecialtyTransplantHosp_DRG.csv"
+    },
+    {
+        "hospital_id": "methodist-hospital-(san-antonio)",
+        "filename": "SanAntonioDivision_MethodistHospital_DRG.csv",
+        "date": "2019-01-18",
+        "uri": "SanAntonioDivision_MethodistHospital_DRG.csv",
+        "name": "SanAntonioDivision_MethodistHospital_DRG.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/SanAntonioDivision_MethodistHospital_DRG.csv"
+    },
+    {
+        "hospital_id": "methodist-hospital-(san-antonio)",
+        "filename": "SanAntonioDivision_MethodistAmbulatorySurgeryHospital_DRG.csv",
+        "date": "2019-01-18",
+        "uri": "SanAntonioDivision_MethodistAmbulatorySurgeryHospital_DRG.csv",
+        "name": "SanAntonioDivision_MethodistAmbulatorySurgeryHospital_DRG.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/SanAntonioDivision_MethodistAmbulatorySurgeryHospital_DRG.csv"
+    },
+    {
+        "hospital_id": "methodist-hospital-(san-antonio)",
+        "filename": "SanAntonioDivision_NortheastMethodistHospital_CM.csv",
+        "date": "2019-01-18",
+        "uri": "SanAntonioDivision_NortheastMethodistHospital_CM.csv",
+        "name": "SanAntonioDivision_NortheastMethodistHospital_CM.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/SanAntonioDivision_NortheastMethodistHospital_CM.csv"
+    },
+    {
+        "hospital_id": "methodist-hospital-(san-antonio)",
+        "filename": "SanAntonioDivision_MethodistTexsanHospital_CM.csv",
+        "date": "2019-01-18",
+        "uri": "SanAntonioDivision_MethodistTexsanHospital_CM.csv",
+        "name": "SanAntonioDivision_MethodistTexsanHospital_CM.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/SanAntonioDivision_MethodistTexsanHospital_CM.csv"
+    },
+    {
+        "hospital_id": "methodist-hospital-(san-antonio)",
+        "filename": "SanAntonioDivision_MethodistStoneOakHospital_CM.csv",
+        "date": "2019-01-18",
+        "uri": "SanAntonioDivision_MethodistStoneOakHospital_CM.csv",
+        "name": "SanAntonioDivision_MethodistStoneOakHospital_CM.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/SanAntonioDivision_MethodistStoneOakHospital_CM.csv"
+    },
+    {
+        "hospital_id": "methodist-hospital-(san-antonio)",
+        "filename": "SanAntonioDivision_MethodistHospital_CM.csv",
+        "date": "2019-01-18",
+        "uri": "SanAntonioDivision_MethodistHospital_CM.csv",
+        "name": "SanAntonioDivision_MethodistHospital_CM.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/SanAntonioDivision_MethodistHospital_CM.csv"
+    },
+    {
+        "hospital_id": "methodist-hospital-(san-antonio)",
+        "filename": "SanAntonioDivision_NortheastMethodistHospital_DRG.csv",
+        "date": "2019-01-18",
+        "uri": "SanAntonioDivision_NortheastMethodistHospital_DRG.csv",
+        "name": "SanAntonioDivision_NortheastMethodistHospital_DRG.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/SanAntonioDivision_NortheastMethodistHospital_DRG.csv"
+    },
+    {
+        "hospital_id": "methodist-hospital-(san-antonio)",
+        "filename": "SanAntonioDivision_MethodistTexsanHospital_DRG.csv",
+        "date": "2019-01-18",
+        "uri": "SanAntonioDivision_MethodistTexsanHospital_DRG.csv",
+        "name": "SanAntonioDivision_MethodistTexsanHospital_DRG.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/SanAntonioDivision_MethodistTexsanHospital_DRG.csv"
+    },
+    {
+        "hospital_id": "methodist-hospital-(san-antonio)",
+        "filename": "SanAntonioDivision_MethodistStoneOakHospital_DRG.csv",
+        "date": "2019-01-18",
+        "uri": "SanAntonioDivision_MethodistStoneOakHospital_DRG.csv",
+        "name": "SanAntonioDivision_MethodistStoneOakHospital_DRG.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/SanAntonioDivision_MethodistStoneOakHospital_DRG.csv"
+    },
+    {
+        "hospital_id": "methodist-hospital-(san-antonio)",
+        "filename": "SanAntonioDivision_MetropolitanMethodistHospital_DRG.csv",
+        "date": "2019-01-18",
+        "uri": "SanAntonioDivision_MetropolitanMethodistHospital_DRG.csv",
+        "name": "SanAntonioDivision_MetropolitanMethodistHospital_DRG.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/SanAntonioDivision_MetropolitanMethodistHospital_DRG.csv"
+    }
+]

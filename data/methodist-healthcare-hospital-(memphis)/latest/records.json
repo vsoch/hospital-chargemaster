@@ -1,0 +1,34 @@
+[
+    {
+        "hospital_id": "methodist-healthcare-hospital-(memphis)",
+        "filename": "Methodist-Le-Bonheur-Healthcare-Chargemaster-2019.xlsx",
+        "date": "2019-01-18",
+        "uri": "methodist-le-bonheur\u00a0healthcare-chargemaster",
+        "name": "Methodist Le Bonheur\u00a0Healthcare Chargemaster",
+        "url": "https://www.methodisthealth.org/files/billing/Methodist-Le-Bonheur-Healthcare-Chargemaster-2019.xlsx"
+    },
+    {
+        "hospital_id": "methodist-healthcare-hospital-(memphis)",
+        "filename": "MLH 2019  EMERGENCY  RATES .xlsx",
+        "date": "2019-01-18",
+        "uri": "emergency-room-rates",
+        "name": "Emergency Room Rates",
+        "url": "https://www.methodisthealth.org/files/billing/MLH 2019  EMERGENCY  RATES .xlsx"
+    },
+    {
+        "hospital_id": "methodist-healthcare-hospital-(memphis)",
+        "filename": "MLH-2019-OPERATING-ROOM-RATES.xlsx",
+        "date": "2019-01-18",
+        "uri": "operating-room-rates",
+        "name": "Operating Room Rates",
+        "url": "https://www.methodisthealth.org/files/billing/MLH-2019-OPERATING-ROOM-RATES.xlsx"
+    },
+    {
+        "hospital_id": "methodist-healthcare-hospital-(memphis)",
+        "filename": "R-B-TEMPLATE-FOR-PRICE-TRANSPARENCY.xlsx",
+        "date": "2019-01-18",
+        "uri": "room-and-bed\u00a0rates",
+        "name": "Room and Bed\u00a0Rates",
+        "url": "https://www.methodisthealth.org/files/billing/R-B-TEMPLATE-FOR-PRICE-TRANSPARENCY.xlsx"
+    }
+]
