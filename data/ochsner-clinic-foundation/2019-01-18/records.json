@@ -1,0 +1,90 @@
+[
+    {
+        "hospital_id": "medical-center-jefferson-highway",
+        "filename": "Jeff-Hwy.csv",
+        "date": "2019-01-18",
+        "uri": "ochsner-medical-center---jefferson-highway",
+        "name": "Ochsner Medical Center - Jefferson Highway",
+        "url": "https://ochsner-craft.s3.amazonaws.com/www/static/Jeff-Hwy.csv"
+    },
+    {
+        "hospital_id": "baptist",
+        "filename": "Baptist.csv",
+        "date": "2019-01-18",
+        "uri": "ochsner-baptist",
+        "name": "Ochsner Baptist",
+        "url": "https://ochsner-craft.s3.amazonaws.com/www/static/Baptist.csv"
+    },
+    {
+        "hospital_id": "medical-center-west-bank-campus",
+        "filename": "Westbank.csv",
+        "date": "2019-01-18",
+        "uri": "ochsner-medical-center---west-bank-campus",
+        "name": "Ochsner Medical Center - West Bank Campus",
+        "url": "https://ochsner-craft.s3.amazonaws.com/www/static/Westbank.csv"
+    },
+    {
+        "hospital_id": "medical-center-kenner",
+        "filename": "Kenner.csv",
+        "date": "2019-01-18",
+        "uri": "ochsner-medical-center---kenner",
+        "name": "Ochsner Medical Center - Kenner",
+        "url": "https://ochsner-craft.s3.amazonaws.com/www/static/Kenner.csv"
+    },
+    {
+        "hospital_id": "medical-center-baton-rouge",
+        "filename": "Baton-Rouge.csv",
+        "date": "2019-01-18",
+        "uri": "ochsner-medical-center---baton-rouge",
+        "name": "Ochsner Medical Center - Baton Rouge",
+        "url": "https://ochsner-craft.s3.amazonaws.com/www/static/Baton-Rouge.csv"
+    },
+    {
+        "hospital_id": "billing-estimates-st-bernard-parish-hospital",
+        "filename": "St-Bernard.csv",
+        "date": "2019-01-18",
+        "uri": "st.-bernard-parish-hospital",
+        "name": "St. Bernard Parish Hospital",
+        "url": "https://ochsner-craft.s3.amazonaws.com/www/static/St-Bernard.csv"
+    },
+    {
+        "hospital_id": "billing-estimates-leonard-j-chabert-medical-center",
+        "filename": "Chabert.csv",
+        "date": "2019-01-18",
+        "uri": "leonard-j.-chabert-medical-center",
+        "name": "Leonard J. Chabert Medical Center",
+        "url": "https://ochsner-craft.s3.amazonaws.com/www/static/Chabert.csv"
+    },
+    {
+        "hospital_id": "billing-estimates-st-charles-parish-hospital",
+        "filename": "St-Charles.csv",
+        "date": "2019-01-18",
+        "uri": "st.-charles-parish-hospital",
+        "name": "St. Charles Parish Hospital",
+        "url": "https://ochsner-craft.s3.amazonaws.com/www/static/St-Charles.csv"
+    },
+    {
+        "hospital_id": "st-anne-hospital",
+        "filename": "St-Anne.csv",
+        "date": "2019-01-18",
+        "uri": "ochsner-st.-anne-hospital",
+        "name": "\r\n\r\nOchsner St. Anne Hospital",
+        "url": "https://ochsner-craft.s3.amazonaws.com/www/static/St-Anne.csv"
+    },
+    {
+        "hospital_id": "medical-center-hancock",
+        "filename": "Hancock.csv",
+        "date": "2019-01-18",
+        "uri": "ochsner-medical-center---hancock",
+        "name": "Ochsner Medical Center - Hancock",
+        "url": "https://ochsner-craft.s3.amazonaws.com/www/static/Hancock.csv"
+    },
+    {
+        "hospital_id": "medical-center-north-shore",
+        "filename": "Northshore.csv",
+        "date": "2019-01-18",
+        "uri": "ochsner-medical-center---north-shore",
+        "name": "Ochsner Medical Center - North Shore",
+        "url": "https://ochsner-craft.s3.amazonaws.com/www/static/Northshore.csv"
+    }
+]

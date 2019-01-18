@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "presbyterian-intercommunity-hospital",
+        "filename": "downey-charge-master-12-2018.xlsx",
+        "date": "2019-01-18",
+        "uri": "pih-health-hospital-\u2013-downey-[xls]",
+        "name": "PIH Health Hospital \u2013 Downey [XLS]",
+        "url": "https://www.pihhealth.org//app/files/public/4251/downey-charge-master-12-2018.xlsx"
+    },
+    {
+        "hospital_id": "presbyterian-intercommunity-hospital",
+        "filename": "whittier-charge-master-12-2018.xlsx",
+        "date": "2019-01-18",
+        "uri": "pih-health-hospital-\u2013-whittier-[xls]",
+        "name": "PIH Health Hospital \u2013 Whittier [XLS]",
+        "url": "https://www.pihhealth.org//app/files/public/4252/whittier-charge-master-12-2018.xlsx"
+    }
+]

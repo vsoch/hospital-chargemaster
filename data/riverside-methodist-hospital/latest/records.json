@@ -1,0 +1,58 @@
+[
+    {
+        "hospital_id": "riverside-methodist-hospital",
+        "filename": "doctors-dublin-grant-grovecity-riverside-charge-list.csv",
+        "date": "2019-01-18",
+        "uri": "csv",
+        "name": "CSV",
+        "url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/paying-for-care/cost-of-services/doctors-dublin-grant-grovecity-riverside-charge-list.csv"
+    },
+    {
+        "hospital_id": "riverside-methodist-hospital",
+        "filename": "grady-hospital-charge-list.csv",
+        "date": "2019-01-18",
+        "uri": "csv",
+        "name": "CSV",
+        "url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/paying-for-care/cost-of-services/grady-hospital-charge-list.csv"
+    },
+    {
+        "hospital_id": "riverside-methodist-hospital",
+        "filename": "hardin-hospital-charge-list.csv",
+        "date": "2019-01-18",
+        "uri": "csv",
+        "name": "CSV",
+        "url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/paying-for-care/cost-of-services/hardin-hospital-charge-list.csv"
+    },
+    {
+        "hospital_id": "riverside-methodist-hospital",
+        "filename": "marion-hospital-charge-list.csv",
+        "date": "2019-01-18",
+        "uri": "csv",
+        "name": "CSV",
+        "url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/paying-for-care/cost-of-services/marion-hospital-charge-list.csv"
+    },
+    {
+        "hospital_id": "riverside-methodist-hospital",
+        "filename": "mansfield-hospital-charge-list.csv",
+        "date": "2019-01-18",
+        "uri": "csv",
+        "name": "CSV",
+        "url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/paying-for-care/cost-of-services/mansfield-hospital-charge-list.csv"
+    },
+    {
+        "hospital_id": "riverside-methodist-hospital",
+        "filename": "shelby-hospital-charge-list.csv",
+        "date": "2019-01-18",
+        "uri": "csv",
+        "name": "CSV",
+        "url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/paying-for-care/cost-of-services/shelby-hospital-charge-list.csv"
+    },
+    {
+        "hospital_id": "riverside-methodist-hospital",
+        "filename": "obleness-hospital-charge-list.csv",
+        "date": "2019-01-18",
+        "uri": "csv",
+        "name": "CSV",
+        "url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/paying-for-care/cost-of-services/obleness-hospital-charge-list.csv"
+    }
+]

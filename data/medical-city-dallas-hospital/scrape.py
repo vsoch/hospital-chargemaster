@@ -32,7 +32,7 @@ output_file = os.path.join(outdir, filename)
 records = []
 with open(output_file, 'w') as filey:
     for row in entries:
-        filey.writelines(','.join(row))
+        filey.writelines(','.join(row) + '\n')
     record = { 'hospital_id': hospital_id,
                'filename': filename,
                'date': today,

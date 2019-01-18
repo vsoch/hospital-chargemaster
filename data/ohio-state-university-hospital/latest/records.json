@@ -1,0 +1,34 @@
+[
+    {
+        "hospital_id": "ohio-state-university-hospital",
+        "filename": "2019-price-transparency-cdmfinal.xlsx",
+        "date": "2019-01-18",
+        "uri": "2019-price-transparency-cdmfinal.xlsx",
+        "name": "2019-price-transparency-cdmfinal.xlsx",
+        "url": "https://wexnermedical.osu.edu/-/media/files/wexnermedical/patient-care/patient-and-visitor-guide/patient-pricing-lists/2019-price-transparency-cdmfinal.xlsx"
+    },
+    {
+        "hospital_id": "ohio-state-university-hospital",
+        "filename": "2019-price-transparency-pharmacyfinal.xlsx",
+        "date": "2019-01-18",
+        "uri": "2019-price-transparency-pharmacyfinal.xlsx",
+        "name": "2019-price-transparency-pharmacyfinal.xlsx",
+        "url": "https://wexnermedical.osu.edu/-/media/files/wexnermedical/patient-care/patient-and-visitor-guide/patient-pricing-lists/2019-price-transparency-pharmacyfinal.xlsx"
+    },
+    {
+        "hospital_id": "ohio-state-university-hospital",
+        "filename": "2019-price-transparency-supplyfinal.xlsx",
+        "date": "2019-01-18",
+        "uri": "2019-price-transparency-supplyfinal.xlsx",
+        "name": "2019-price-transparency-supplyfinal.xlsx",
+        "url": "https://wexnermedical.osu.edu/-/media/files/wexnermedical/patient-care/patient-and-visitor-guide/patient-pricing-lists/2019-price-transparency-supplyfinal.xlsx"
+    },
+    {
+        "hospital_id": "ohio-state-university-hospital",
+        "filename": "2019-price-transparency-drgfinal.xlsx",
+        "date": "2019-01-18",
+        "uri": "2019-price-transparency-drgfinal.xlsx",
+        "name": "2019-price-transparency-drgfinal.xlsx",
+        "url": "https://wexnermedical.osu.edu/-/media/files/wexnermedical/patient-care/patient-and-visitor-guide/patient-pricing-lists/2019-price-transparency-drgfinal.xlsx"
+    }
+]

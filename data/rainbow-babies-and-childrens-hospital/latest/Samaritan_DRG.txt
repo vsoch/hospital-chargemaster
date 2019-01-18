@@ -1,0 +1,238 @@
+Enc - MS DRG,Enc - MS DRG Desc,Sum of Average Charge
+4,"TRACH W MV >96 HRS OR PDX EXC FACE, MOUTH & NECK W/O MAJ O.R.",132482.69
+41,Periph/cranial nerve & other nerv syst proc w CC or periph neurostim,10592.2
+54,Nervous system neoplasms w MCC,2577.61
+57,Degenerative nervous system disorders w/o MCC,5474.51
+60,Multiple sclerosis & cerebellar ataxia w/o CC/MCC,24305.35
+64,Intracranial hemorrhage or cerebral infarction w MCC,41619.58
+65,INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W CC OR TPA IN 24 HRS,168683.14
+69,TRANSIENT ISCHEMIA W/O THROMBOLYTIC,99063.18
+70,Nonspecific cerebrovascular disorders w MCC,8497.73
+71,Nonspecific cerebrovascular disorders w CC,37730.55
+89,Concussion w CC,14036.93
+92,Other disorders of nervous system w CC,39951.55
+100,Seizures w MCC,9209.62
+149,Dysequilibrium,102410.22
+151,Epistaxis w/o MCC,2524.76
+152,Otitis media & URI w MCC,14985.57
+153,Otitis media & URI w/o MCC,21223.38
+154,"Other ear, nose, mouth & throat diagnoses w MCC",16996.82
+164,Major chest procedures w CC,24277.97
+166,Other resp system O.R. procedures w MCC,74344.82
+175,Pulmonary embolism w MCC,217474.87
+176,Pulmonary embolism w/o MCC,313704.47
+177,Respiratory infections & inflammations w MCC,329397.71
+178,Respiratory infections & inflammations w CC,55592.94
+179,Respiratory infections & inflammations w/o CC/MCC,14254.97
+180,Respiratory neoplasms w MCC,136540.08
+181,Respiratory neoplasms w CC,27484.4
+184,Major chest trauma w CC,75965
+186,Pleural effusion w MCC,44428.71
+187,Pleural effusion w CC,52803.95
+188,Pleural effusion w/o CC/MCC,31892.61
+189,Pulmonary edema & respiratory failure,845961.95
+190,Chronic obstructive pulmonary disease w MCC,773979.18
+191,Chronic obstructive pulmonary disease w CC,400994.44
+192,Chronic obstructive pulmonary disease w/o CC/MCC,25231.21
+193,Simple pneumonia & pleurisy w MCC,1287652.01
+194,Simple pneumonia & pleurisy w CC,564028.2
+195,Simple pneumonia & pleurisy w/o CC/MCC,89728.66
+197,Interstitial lung disease w CC,2570.2
+199,Pneumothorax w MCC,11550.77
+200,Pneumothorax w CC,66084.15
+201,Pneumothorax w/o CC/MCC,12045.29
+202,Bronchitis & asthma w CC/MCC,101045.67
+203,Bronchitis & asthma w/o CC/MCC,19783.38
+205,Other respiratory system diagnoses w MCC,18089.6
+206,Other respiratory system diagnoses w/o MCC,16561.65
+207,RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT >96 HOURS,80172.72
+207,RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT >96 HOURS OR PERIPHERAL EXTRACORPOREAL MEMBRANE OXYGENATION (ECMO),163825.69
+208,RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT <=96 HOURS,321056.03
+264,Other circulatory system O.R. procedures,14236.39
+280,"Acute myocardial infarction, discharged alive w MCC",384450.14
+281,"Acute myocardial infarction, discharged alive w CC",200918.93
+282,"Acute myocardial infarction, discharged alive w/o CC/MCC",29071.96
+283,"Acute myocardial infarction, expired w MCC",26904.95
+287,"Circulatory disorders except AMI, w card cath w/o MCC",29440.66
+291,Heart failure & shock w MCC,1222759.48
+291,HEART FAILURE & SHOCK W MCC OR PERIPHERAL EXTRACORPOREAL MEMBRANE OXYGENATION (ECMO),398226.08
+292,Heart failure & shock w CC,359652.3
+293,Heart failure & shock w/o CC/MCC,22530.36
+296,"CARDIAC ARREST, UNEXPLAINED W MCC OR PERIPHERAL EXTRACORPOREAL MEMBRANE OXYGENATION (ECMO)",30909.99
+299,Peripheral vascular disorders w MCC,10496.5
+300,Peripheral vascular disorders w CC,31157.64
+304,Hypertension w MCC,85449.34
+305,Hypertension w/o MCC,109155.59
+306,Cardiac congenital & valvular disorders w MCC,31472.69
+307,Cardiac congenital & valvular disorders w/o MCC,8217.3
+308,Cardiac arrhythmia & conduction disorders w MCC,367290.69
+309,Cardiac arrhythmia & conduction disorders w CC,509270.5
+310,Cardiac arrhythmia & conduction disorders w/o CC/MCC,160821.34
+312,Syncope & collapse,180312.93
+313,Chest pain,26963.43
+315,Other circulatory system diagnoses w CC,18941.63
+316,Other circulatory system diagnoses w/o CC/MCC,8202.4
+329,Major small & large bowel procedures w MCC,285210.02
+330,Major small & large bowel procedures w CC,218736.61
+331,Major small & large bowel procedures w/o CC/MCC,194544.94
+343,Appendectomy w/o complicated principal diag w/o CC/MCC,22680.05
+345,Minor small & large bowel procedures w CC,19572.66
+346,Minor small & large bowel procedures w/o CC/MCC,15714.09
+350,Inguinal & femoral hernia procedures w MCC,57281.21
+371,Major gastrointestinal disorders & peritoneal infections w MCC,38593.53
+372,Major gastrointestinal disorders & peritoneal infections w CC,107260.76
+373,Major gastrointestinal disorders & peritoneal infections w/o CC/MCC,69959.39
+374,Digestive malignancy w MCC,23187.83
+375,Digestive malignancy w CC,95413.82
+377,G.I. hemorrhage w MCC,194122.36
+378,G.I. hemorrhage w CC,535364.54
+379,G.I. hemorrhage w/o CC/MCC,36928.2
+381,Complicated peptic ulcer w CC,7798.92
+386,Inflammatory bowel disease w CC,43030.2
+388,G.I. obstruction w MCC,46107.68
+389,G.I. obstruction w CC,325776.92
+390,G.I. obstruction w/o CC/MCC,109059.39
+391,"Esophagitis, gastroent & misc digest disorders w MCC",92076.96
+392,"Esophagitis, gastroent & misc digest disorders w/o MCC",536380.9
+393,Other digestive system diagnoses w MCC,12932.28
+394,Other digestive system diagnoses w CC,215285.24
+395,Other digestive system diagnoses w/o CC/MCC,25856.35
+416,Cholecystectomy except by laparoscope w/o c.d.e. w/o CC/MCC,34362.98
+418,Laparoscopic cholecystectomy w/o c.d.e. w CC,89637.36
+419,Laparoscopic cholecystectomy w/o c.d.e. w/o CC/MCC,30149.64
+433,Cirrhosis & alcoholic hepatitis w CC,57074.89
+438,Disorders of pancreas except malignancy w MCC,37223.22
+439,Disorders of pancreas except malignancy w CC,107970.58
+440,Disorders of pancreas except malignancy w/o CC/MCC,84615.33
+441,"Disorders of liver except malig,cirr,alc hepa w MCC",41765.15
+442,"Disorders of liver except malig,cirr,alc hepa w CC",89964.32
+445,Disorders of the biliary tract w CC,86976.82
+446,Disorders of the biliary tract w/o CC/MCC,8139.9
+462,Bilateral or multiple major joint procs of lower extremity w/o MCC,235564.62
+467,Revision of hip or knee replacement w CC,274481.46
+468,Revision of hip or knee replacement w/o CC/MCC,41678.38
+469,MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W MCC OR TOTAL ANKLE REPLACEMENT,85178.84
+470,MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W/O MCC,3806492.49
+480,Hip & femur procedures except major joint w MCC,359343.69
+481,Hip & femur procedures except major joint w CC,368715.31
+482,Hip & femur procedures except major joint w/o CC/MCC,107939.14
+483,MAJOR JOINT/LIMB REATTACHMENT PROCEDURE OF UPPER EXTREMITIES,246850.73
+488,Knee procedures w/o pdx of infection w CC/MCC,16394.03
+492,"Lower extrem & humer proc except hip,foot,femur w MCC",139852.03
+493,"Lower extrem & humer proc except hip,foot,femur w CC",74871.92
+494,"Lower extrem & humer proc except hip,foot,femur w/o CC/MCC",99098.21
+502,Soft tissue procedures w/o CC/MCC,26540.04
+503,Foot procedures w MCC,17807.57
+504,Foot procedures w CC,10868.83
+505,Foot procedures w/o CC/MCC,16852.2
+507,Major shoulder or elbow joint procedures w CC/MCC,21881.75
+511,"Shoulder,elbow or forearm proc,exc major joint proc w CC",19782.05
+514,"Hand or wrist proc, except major thumb or joint proc w/o CC/MCC",10528.9
+534,Fractures of femur w/o MCC,9118.12
+535,Fractures of hip & pelvis w MCC,45542.63
+536,Fractures of hip & pelvis w/o MCC,80277.26
+543,Pathological fractures & musculoskelet & conn tiss malig w CC,24346.09
+544,Pathological fractures & musculoskelet & conn tiss malig w/o CC/MCC,6001.43
+545,Connective tissue disorders w MCC,57768.43
+551,Medical back problems w MCC,8196.3
+552,Medical back problems w/o MCC,134813.87
+553,Bone diseases & arthropathies w MCC,27703.9
+554,Bone diseases & arthropathies w/o MCC,52864.38
+556,Signs & symptoms of musculoskeletal system & conn tissue w/o MCC,37262.11
+557,"Tendonitis, myositis & bursitis w MCC",11397.54
+558,"Tendonitis, myositis & bursitis w/o MCC",36689.53
+563,"Fx, sprn, strn & disl except femur, hip, pelvis & thigh w/o MCC",64788.95
+580,"Other skin, subcut tiss & breast proc w CC",47822.59
+592,Skin ulcers w MCC,8408.08
+593,Skin ulcers w CC,18150.74
+600,Non-malignant breast disorders w CC/MCC,13830.58
+602,Cellulitis w MCC,95208.54
+603,Cellulitis w/o MCC,421420.41
+604,"Trauma to the skin, subcut tiss & breast w MCC",14092.47
+605,"Trauma to the skin, subcut tiss & breast w/o MCC",61038.14
+607,Minor skin disorders w/o MCC,3976.25
+616,"Amputat of lower limb for endocrine,nutrit,& metabol dis w MCC",37263.16
+617,"Amputat of lower limb for endocrine,nutrit,& metabol dis w CC",91519.92
+623,"Skin grafts & wound debrid for endoc, nutrit & metab dis w CC",41317.17
+637,Diabetes w MCC,257338.03
+638,Diabetes w CC,167418.37
+639,Diabetes w/o CC/MCC,18169.62
+640,"MISC DISORDERS OF NUTRITION,METABOLISM,FLUIDS/ELECTROLYTES W MCC",239394.08
+641,"MISC DISORDERS OF NUTRITION,METABOLISM,FLUIDS/ELECTROLYTES W/O MCC",342944.14
+642,INBORN AND OTHER DISORDERS OF METABOLISM,23304.75
+643,Endocrine disorders w MCC,38354.4
+644,Endocrine disorders w CC,114252.09
+660,Kidney & ureter procedures for non-neoplasm w CC,76266.05
+661,Kidney & ureter procedures for non-neoplasm w/o CC/MCC,138392.8
+663,Minor bladder procedures w CC,41101.84
+667,Prostatectomy w/o CC/MCC,14266.05
+668,Transurethral procedures w MCC,56547.34
+669,Transurethral procedures w CC,177251.03
+670,Transurethral procedures w/o CC/MCC,41891.37
+682,Renal failure w MCC,384387.59
+683,Renal failure w CC,594787.56
+684,Renal failure w/o CC/MCC,64810.3
+689,Kidney & urinary tract infections w MCC,506539.76
+690,Kidney & urinary tract infections w/o MCC,731538.29
+694,Urinary stones w/o esw lithotripsy w/o MCC,129147.82
+696,Kidney & urinary tract signs & symptoms w/o MCC,115893.86
+698,Other kidney & urinary tract diagnoses w MCC,233822.32
+699,Other kidney & urinary tract diagnoses w CC,161105.26
+712,Testes procedures w/o CC/MCC,11528.12
+726,Benign prostatic hypertrophy w/o MCC,31587.54
+728,Inflammation of the male reproductive system w/o MCC,21925.97
+743,Uterine & adnexa proc for non-malignancy w/o CC/MCC,56194.06
+747,"Vagina, cervix & vulva procedures w/o CC/MCC",18687.93
+760,Menstrual & other female reproductive system disorders w CC/MCC,25928.69
+765,Cesarean section w CC/MCC,232459.67
+766,Cesarean section w/o CC/MCC,327068.2
+767,Vaginal delivery w sterilization &/or D&C,17708.75
+769,Postpartum & post abortion diagnoses w O.R. procedure,13237.17
+770,"Abortion w D&C, aspiration curettage or hysterotomy",41809.37
+774,Vaginal delivery w complicating diagnoses,69265.08
+775,Vaginal delivery w/o complicating diagnoses,347339.7
+776,Postpartum & post abortion diagnoses w/o O.R. procedure,8386.54
+777,Ectopic pregnancy,67062.51
+785,CESAREAN SECTION W STERILIZATION W/O CC/MCC,29055.75
+787,CESAREAN SECTION W/O STERILIZATION W CC,58563.69
+788,CESAREAN SECTION W/O STERILIZATION W/O CC/MCC,124409.52
+794,Neonate w other significant problems,4872.57
+795,Normal newborn,2767.2
+806,VAGINAL DELIVERY W/O STERILIZATION/D&C W CC,20141.04
+807,VAGINAL DELIVERY W/O STERILIZATION/D&C W/O CC/MCC,93503.13
+808,Major hematol/immun diag exc sickle cell crisis & coagul w MCC,121951.27
+809,Major hematol/immun diag exc sickle cell crisis & coagul w CC,127668.67
+811,Red blood cell disorders w MCC,85119.97
+812,Red blood cell disorders w/o MCC,233336.55
+813,Coagulation disorders,12412.32
+816,Reticuloendothelial & immunity disorders w/o CC/MCC,6747.24
+832,OTHER ANTEPARTUM DIAGNOSES W/O O.R. PROCEDURE W CC,4133.82
+841,Lymphoma & non-acute leukemia w CC,7644
+843,Other myeloprolif dis or poorly diff neopl diag w MCC,18018.03
+844,Other myeloprolif dis or poorly diff neopl diag w CC,11123.73
+854,Infectious & parasitic diseases w O.R. procedure w CC,112452.71
+856,Postoperative or post-traumatic infections w O.R. proc w MCC,55101.55
+862,Postoperative & post-traumatic infections w MCC,41450.61
+863,Postoperative & post-traumatic infections w/o MCC,9279.21
+864,Fever,41208.89
+866,Viral illness w/o MCC,20732.57
+870,SEPTICEMIA OR SEVERE SEPSIS W MV >96 HOURS,190239.23
+870,SEPTICEMIA OR SEVERE SEPSIS W MV >96 HOURS OR PERIPHERAL EXTRACORPOREAL MEMBRANE OXYGENATION (ECMO),51470.91
+871,SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC,3034287.85
+872,SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W/O MCC,493505.9
+880,Acute adjustment reaction & psychosocial dysfunction,6124.64
+884,ORGANIC DISTURBANCES & INTELLECTUAL DISABILITY,35835.81
+896,Alcohol/drug abuse or dependence w/o rehabilitation therapy w MCC,142695.86
+897,Alcohol/drug abuse or dependence w/o rehabilitation therapy w/o MCC,83553.22
+908,Other O.R. procedures for injuries w CC,20090.73
+914,Traumatic injury w/o MCC,9732.07
+917,Poisoning & toxic effects of drugs w MCC,144813.08
+918,Poisoning & toxic effects of drugs w/o MCC,82646.99
+920,Complications of treatment w CC,70055.56
+948,Signs & symptoms w/o MCC,92212.84
+956,"Limb reattachment, hip & femur proc for multiple significant trauma",70842.12
+964,Other multiple significant trauma w CC,3733.37
+974,HIV w major related condition w MCC,100955.15
+981,Extensive O.R. procedure unrelated to principal diagnosis w MCC,97612.39
+982,Extensive O.R. procedure unrelated to principal diagnosis w CC,16742.41
+988,Non-extensive O.R. proc unrelated to principal diagnosis w CC,19124.14

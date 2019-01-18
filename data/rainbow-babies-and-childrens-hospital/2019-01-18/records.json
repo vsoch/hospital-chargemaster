@@ -1,0 +1,226 @@
+[
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "CMC_Price_Disclosure.txt",
+        "date": "2019-01-18",
+        "uri": "CMC_Price_Disclosure.txt",
+        "name": "CMC_Price_Disclosure.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/CMC_Price_Disclosure.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "CMC_Rainbow_Seidman_DRG.txt",
+        "date": "2019-01-18",
+        "uri": "CMC_Rainbow_Seidman_DRG.txt",
+        "name": "CMC_Rainbow_Seidman_DRG.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/DRG/CMC_Rainbow_Seidman_DRG.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Ahuja_Price_Disclosure.txt",
+        "date": "2019-01-18",
+        "uri": "Ahuja_Price_Disclosure.txt",
+        "name": "Ahuja_Price_Disclosure.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/Ahuja_Price_Disclosure.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Ahuja_DRG.txt",
+        "date": "2019-01-18",
+        "uri": "Ahuja_DRG.txt",
+        "name": "Ahuja_DRG.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/DRG/Ahuja_DRG.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Richmond_and_Bedford_Price_Disclosure.txt",
+        "date": "2019-01-18",
+        "uri": "Richmond_and_Bedford_Price_Disclosure.txt",
+        "name": "Richmond_and_Bedford_Price_Disclosure.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/Richmond_and_Bedford_Price_Disclosure.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Richmond_Bedford_DRG.txt",
+        "date": "2019-01-18",
+        "uri": "Richmond_Bedford_DRG.txt",
+        "name": "Richmond_Bedford_DRG.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/DRG/Richmond_Bedford_DRG.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Conneaut_Price_Disclosure.txt",
+        "date": "2019-01-18",
+        "uri": "Conneaut_Price_Disclosure.txt",
+        "name": "Conneaut_Price_Disclosure.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/Conneaut_Price_Disclosure.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Conneaut_DRG.txt",
+        "date": "2019-01-18",
+        "uri": "Conneaut_DRG.txt",
+        "name": "Conneaut_DRG.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/DRG/Conneaut_DRG.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Elyria_Price_Disclosure.txt",
+        "date": "2019-01-18",
+        "uri": "Elyria_Price_Disclosure.txt",
+        "name": "Elyria_Price_Disclosure.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/Elyria_Price_Disclosure.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Elyria_DRG.txt",
+        "date": "2019-01-18",
+        "uri": "Elyria_DRG.txt",
+        "name": "Elyria_DRG.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/DRG/Elyria_DRG.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Geauga_Price_Disclosure.txt",
+        "date": "2019-01-18",
+        "uri": "Geauga_Price_Disclosure.txt",
+        "name": "Geauga_Price_Disclosure.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/Geauga_Price_Disclosure.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Geauga_DRG.txt",
+        "date": "2019-01-18",
+        "uri": "Geauga_DRG.txt",
+        "name": "Geauga_DRG.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/DRG/Geauga_DRG.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Geneva_Price_Disclosure.txt",
+        "date": "2019-01-18",
+        "uri": "Geneva_Price_Disclosure.txt",
+        "name": "Geneva_Price_Disclosure.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/Geneva_Price_Disclosure.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Geneva_DRG.txt",
+        "date": "2019-01-18",
+        "uri": "Geneva_DRG.txt",
+        "name": "Geneva_DRG.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/DRG/Geneva_DRG.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Parma_Price_Disclosure.txt",
+        "date": "2019-01-18",
+        "uri": "Parma_Price_Disclosure.txt",
+        "name": "Parma_Price_Disclosure.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/Parma_Price_Disclosure.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Parma_DRG.txt",
+        "date": "2019-01-18",
+        "uri": "Parma_DRG.txt",
+        "name": "Parma_DRG.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/DRG/Parma_DRG.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Portage_Price_Disclosure.txt",
+        "date": "2019-01-18",
+        "uri": "Portage_Price_Disclosure.txt",
+        "name": "Portage_Price_Disclosure.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/Portage_Price_Disclosure.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Portage_DRG.txt",
+        "date": "2019-01-18",
+        "uri": "Portage_DRG.txt",
+        "name": "Portage_DRG.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/DRG/Portage_DRG.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Rainbow_Price_Disclosure.txt",
+        "date": "2019-01-18",
+        "uri": "Rainbow_Price_Disclosure.txt",
+        "name": "Rainbow_Price_Disclosure.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/Rainbow_Price_Disclosure.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "CMC_Rainbow_Seidman_DRG.txt",
+        "date": "2019-01-18",
+        "uri": "CMC_Rainbow_Seidman_DRG.txt",
+        "name": "CMC_Rainbow_Seidman_DRG.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/DRG/CMC_Rainbow_Seidman_DRG.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Richmond_and_Bedford_Price_Disclosure.txt",
+        "date": "2019-01-18",
+        "uri": "Richmond_and_Bedford_Price_Disclosure.txt",
+        "name": "Richmond_and_Bedford_Price_Disclosure.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/Richmond_and_Bedford_Price_Disclosure.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Richmond_Bedford_DRG.txt",
+        "date": "2019-01-18",
+        "uri": "Richmond_Bedford_DRG.txt",
+        "name": "Richmond_Bedford_DRG.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/DRG/Richmond_Bedford_DRG.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Samaritan_Price_Disclosure.txt",
+        "date": "2019-01-18",
+        "uri": "Samaritan_Price_Disclosure.txt",
+        "name": "Samaritan_Price_Disclosure.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/Samaritan_Price_Disclosure.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "Samaritan_DRG.txt",
+        "date": "2019-01-18",
+        "uri": "Samaritan_DRG.txt",
+        "name": "Samaritan_DRG.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/DRG/Samaritan_DRG.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "StJohns_Price_Disclosure.txt",
+        "date": "2019-01-18",
+        "uri": "StJohns_Price_Disclosure.txt",
+        "name": "StJohns_Price_Disclosure.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/StJohns_Price_Disclosure.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "StJohn_DRG.txt",
+        "date": "2019-01-18",
+        "uri": "StJohn_DRG.txt",
+        "name": "StJohn_DRG.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/DRG/StJohn_DRG.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "IX_Beachwood_CDM.txt",
+        "date": "2019-01-18",
+        "uri": "IX_Beachwood_CDM.txt",
+        "name": "IX_Beachwood_CDM.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/IX_Beachwood_CDM.txt"
+    },
+    {
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "filename": "IU_Avon_CDM.txt",
+        "date": "2019-01-18",
+        "uri": "IU_Avon_CDM.txt",
+        "name": "IU_Avon_CDM.txt",
+        "url": "https://www.uhhospitals.org/Content/files/Pricing-Files/IU_Avon_CDM.txt"
+    }
+]
