@@ -1,0 +1,162 @@
+[
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "caldwell-published-charges.csv",
+        "date": "2019-01-19",
+        "uri": "caldwell-unc-health-care",
+        "name": "Caldwell UNC Health Care",
+        "url": "https://www.unchealthcare.org/app/files/public/12724/caldwell-published-charges.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "chatham-published-charges.csv",
+        "date": "2019-01-19",
+        "uri": "chatham-hospital",
+        "name": "Chatham Hospital",
+        "url": "https://www.unchealthcare.org/app/files/public/12717/chatham-published-charges.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "johnston-published-charges.csv",
+        "date": "2019-01-19",
+        "uri": "johnston-health",
+        "name": "Johnston Health",
+        "url": "https://www.unchealthcare.org/app/files/public/12718/johnston-published-charges.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "Lenoir-published-charges.csv",
+        "date": "2019-01-19",
+        "uri": "lenoir-unc-health-care",
+        "name": "Lenoir UNC Health Care",
+        "url": "https://www.unchealthcare.org/app/files/public/12725/Lenoir-published-charges.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "nash-published-charges.csv",
+        "date": "2019-01-19",
+        "uri": "nash-unc-health-care",
+        "name": "Nash UNC Health Care",
+        "url": "https://www.unchealthcare.org/app/files/public/12719/nash-published-charges.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "pardee-published-charges.csv",
+        "date": "2019-01-19",
+        "uri": "pardee-hospital",
+        "name": "Pardee Hospital",
+        "url": "https://www.unchealthcare.org/app/files/public/12720/pardee-published-charges.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "uncmc-published-charges.csv",
+        "date": "2019-01-19",
+        "uri": "unc-medical-center",
+        "name": "UNC Medical Center",
+        "url": "https://www.unchealthcare.org/app/files/public/12722/uncmc-published-charges.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "rex-published-charges.csv",
+        "date": "2019-01-19",
+        "uri": "unc-rex-healthcare",
+        "name": "UNC REX Healthcare",
+        "url": "https://www.unchealthcare.org/app/files/public/12721/rex-published-charges.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "Rockingham-Published-Charges.csv",
+        "date": "2019-01-19",
+        "uri": "unc-rockingham",
+        "name": "UNC Rockingham",
+        "url": "https://www.unchealthcare.org/app/files/public/12731/Rockingham-Published-Charges.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "wayne-published-charges.csv",
+        "date": "2019-01-19",
+        "uri": "wayne-unc-health-care",
+        "name": "Wayne UNC Health Care",
+        "url": "https://www.unchealthcare.org/app/files/public/12723/wayne-published-charges.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "csv-caldwell-drg_fy2018.csv",
+        "date": "2019-01-19",
+        "uri": "caldwell-unc-health-care",
+        "name": "Caldwell UNC Health Care",
+        "url": "https://www.unchealthcare.org/app/files/public/12765/csv-caldwell-drg_fy2018.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "csv-chatham-drg_fy2018.csv",
+        "date": "2019-01-19",
+        "uri": "chatham-hospital",
+        "name": "Chatham Hospital",
+        "url": "https://www.unchealthcare.org/app/files/public/12764/csv-chatham-drg_fy2018.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "csv-johnston-drg_fy2018.csv",
+        "date": "2019-01-19",
+        "uri": "johnston-health",
+        "name": "Johnston Health",
+        "url": "https://www.unchealthcare.org/app/files/public/12766/csv-johnston-drg_fy2018.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "csv-lenoir-drg_fy2018.csv",
+        "date": "2019-01-19",
+        "uri": "lenoir-unc-health-care",
+        "name": "Lenoir UNC Health Care",
+        "url": "https://www.unchealthcare.org/app/files/public/12770/csv-lenoir-drg_fy2018.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "csv-nash-drg_fy2018.csv",
+        "date": "2019-01-19",
+        "uri": "nash-unc-health-care",
+        "name": "Nash UNC Health Care",
+        "url": "https://www.unchealthcare.org/app/files/public/12772/csv-nash-drg_fy2018.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "csv-pardee-drg_fy2018.csv",
+        "date": "2019-01-19",
+        "uri": "pardee-hospital",
+        "name": "Pardee Hospital",
+        "url": "https://www.unchealthcare.org/app/files/public/12767/csv-pardee-drg_fy2018.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "csv-unc-hospitals-drg_fy2018.csv",
+        "date": "2019-01-19",
+        "uri": "unc-medical-center",
+        "name": "UNC Medical Center",
+        "url": "https://www.unchealthcare.org/app/files/public/12769/csv-unc-hospitals-drg_fy2018.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "csv-rex-drg_fy2018.csv",
+        "date": "2019-01-19",
+        "uri": "unc-rex-healthcare",
+        "name": "UNC REX Healthcare",
+        "url": "https://www.unchealthcare.org/app/files/public/12768/csv-rex-drg_fy2018.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "csv-rockingham-drg_fy2018.csv",
+        "date": "2019-01-19",
+        "uri": "unc-rockingham",
+        "name": "UNC Rockingham",
+        "url": "https://www.unchealthcare.org/app/files/public/12773/csv-rockingham-drg_fy2018.csv"
+    },
+    {
+        "hospital_id": "university-of-north-carolina-hospital",
+        "filename": "csv-wayne-drg_fy2018.csv",
+        "date": "2019-01-19",
+        "uri": "wayne-unc-health-care",
+        "name": "Wayne UNC Health Care",
+        "url": "https://www.unchealthcare.org/app/files/public/12771/csv-wayne-drg_fy2018.csv"
+    }
+]

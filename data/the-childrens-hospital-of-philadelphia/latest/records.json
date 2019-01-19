@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "the-childrens-hospital-of-philadelphia",
+        "filename": "chargemaster-exported-12212018.xlsx",
+        "date": "2019-01-19",
+        "uri": "chop's-chargemaster-is-available-here",
+        "name": "CHOP's Chargemaster is available here",
+        "url": "https://media.chop.edu/data/files/chargemaster-exported-12212018.xlsx"
+    },
+    {
+        "hospital_id": "the-childrens-hospital-of-philadelphia",
+        "filename": "drug-charges.xlsx",
+        "date": "2019-01-19",
+        "uri": "chop's-list-of-drug-charges-is-available-here",
+        "name": "CHOP's list of drug charges is available here",
+        "url": "https://media.chop.edu/data/files/drug-charges.xlsx"
+    }
+]

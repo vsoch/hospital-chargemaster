@@ -1,0 +1,26 @@
+[
+    {
+        "hospital_id": "university-of-wisconsin-madison-hospitals-and-clinics",
+        "filename": "UW-Health-Charge-Master-Medications.xlsx",
+        "date": "2019-01-19",
+        "uri": "uw-health-charge-master---medications",
+        "name": "UW Health Charge Master - Medications",
+        "url": "https://www.uwhealth.org/files/uwhealth/docs/pricing/UW-Health-Charge-Master-Medications.xlsx"
+    },
+    {
+        "hospital_id": "university-of-wisconsin-madison-hospitals-and-clinics",
+        "filename": "UW-Health-Charge-Master-Supplies.xlsx",
+        "date": "2019-01-19",
+        "uri": "uw-health-charge-master---supplies",
+        "name": "UW Health Charge Master - Supplies",
+        "url": "https://www.uwhealth.org/files/uwhealth/docs/pricing/UW-Health-Charge-Master-Supplies.xlsx"
+    },
+    {
+        "hospital_id": "university-of-wisconsin-madison-hospitals-and-clinics",
+        "filename": "UW-Health-Charge-Master-Procedures.xlsx",
+        "date": "2019-01-19",
+        "uri": "uw-health-charge-master---procedures",
+        "name": "UW Health Charge Master - Procedures",
+        "url": "https://www.uwhealth.org/files/uwhealth/docs/pricing/UW-Health-Charge-Master-Procedures.xlsx"
+    }
+]

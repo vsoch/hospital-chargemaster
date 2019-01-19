@@ -1,0 +1,26 @@
+[
+    {
+        "hospital_id": "st.-joseph\u2019s-hospital-and-medical-center",
+        "filename": "St Joseph Phoenix 12-3-18.xlsx",
+        "date": "2019-01-19",
+        "uri": "2018-procedure-list",
+        "name": "2018 procedure list",
+        "url": "https://www.dignityhealth.org/arizona/-/media/cm/media/documents/Financial Assistance/Pricing procedure spreadsheets/St Joseph Phoenix 12-3-18.ashx?la=en&hash=F954A9C0D860A94B40B84CA8F213EFA4CB97D6DA"
+    },
+    {
+        "hospital_id": "st.-joseph\u2019s-hospital-and-medical-center",
+        "filename": "St-Joseph-FY18-OP.pdf",
+        "date": "2019-01-19",
+        "uri": "top-50-out-patient-procedures",
+        "name": "Top 50 out-patient procedures",
+        "url": "https://www.dignityhealth.org/arizona/-/media/Service Areas/arizona/PDFs/Pricing/St-Joseph-FY18-OP.ashx?la=en&hash=72D40F7DF84545975351D7FE06669845B9C50CED"
+    },
+    {
+        "hospital_id": "st.-joseph\u2019s-hospital-and-medical-center",
+        "filename": "St-Joseph-FY18-IP.pdf",
+        "date": "2019-01-19",
+        "uri": "top-50-in-patient-procedures",
+        "name": "Top 50 in-patient procedures",
+        "url": "https://www.dignityhealth.org/arizona/-/media/Service Areas/arizona/PDFs/Pricing/St-Joseph-FY18-IP.ashx?la=en&hash=6D811F903D6AAFE5C152CC70E7AC22E3FD66EE42"
+    }
+]

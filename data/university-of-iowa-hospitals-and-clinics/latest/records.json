@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "university-of-iowa-hospitals-and-clinics",
+        "filename": "hospital_chargemaster.xlsx",
+        "date": "2019-01-19",
+        "uri": "download-our-cms-standard-charges-list",
+        "name": "Download our CMS standard charges list",
+        "url": "https://www.healthcare.uiowa.edu/marcom/uihc/billing/hospital_chargemaster.xlsx"
+    },
+    {
+        "hospital_id": "university-of-iowa-hospitals-and-clinics",
+        "filename": "average_charges_per_discharge.xlsx",
+        "date": "2019-01-19",
+        "uri": "download-a-list-of-our-average-charges-by-inpatient-diagnosis-related-group*-(drg)",
+        "name": "Download a list of our average charges by inpatient diagnosis-related group* (DRG)",
+        "url": "https://www.healthcare.uiowa.edu/marcom/uihc/billing/average_charges_per_discharge.xlsx"
+    }
+]

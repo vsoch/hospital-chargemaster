@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "university-of-florida-health-shands",
+        "filename": "01012019-transparency-UF-CDM.csv",
+        "date": "2019-01-19",
+        "uri": "chargemaster-listing",
+        "name": "ChargeMaster Listing",
+        "url": "https://ufhealth.org/sites/default/files/media/financial-assistance/01012019-transparency-UF-CDM.csv"
+    },
+    {
+        "hospital_id": "university-of-florida-health-shands",
+        "filename": "01012019-transparency-UF-MSDRG.csv",
+        "date": "2019-01-19",
+        "uri": "msdrg-average-charge-listing",
+        "name": "MSDRG Average Charge Listing",
+        "url": "https://ufhealth.org/sites/default/files/media/financial-assistance/01012019-transparency-UF-MSDRG.csv"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "hospital_id": "st.-luke\u2019s-hospital-(pennsylvania)",
+        "filename": "Allentown-Charge-Master-010119.xlsx",
+        "date": "2019-01-19",
+        "uri": "allentown-campus",
+        "name": "Allentown Campus",
+        "url": "https://www.slhn.org/-/media/slhn/Billpay/File/PDF/ChargeMaster/Allentown-Charge-Master-010119.xlsx?la=en&hash=15035EC356A85FAA0CBDFABC5CAA3855BEBF414E"
+    },
+    {
+        "hospital_id": "st.-luke\u2019s-hospital-(pennsylvania)",
+        "filename": "Anderson-Charge-Master-010119.xlsx",
+        "date": "2019-01-19",
+        "uri": "anderson-campus",
+        "name": "Anderson Campus",
+        "url": "https://www.slhn.org/-/media/slhn/Billpay/File/PDF/ChargeMaster/Anderson-Charge-Master-010119.xlsx?la=en&hash=6189C151763923DF52DF93040323D121B3E35C37"
+    },
+    {
+        "hospital_id": "st.-luke\u2019s-hospital-(pennsylvania)",
+        "filename": "Bethlehem-Charge-Master-010119.xlsx",
+        "date": "2019-01-19",
+        "uri": "bethlehem-campus",
+        "name": "Bethlehem Campus",
+        "url": "https://www.slhn.org/-/media/slhn/Billpay/File/PDF/ChargeMaster/Bethlehem-Charge-Master-010119.xlsx?la=en&hash=C533C98A02752D11796FDEBDA029DB37250C5B1B"
+    },
+    {
+        "hospital_id": "st.-luke\u2019s-hospital-(pennsylvania)",
+        "filename": "Miners-Charge-Master-010119.xlsx",
+        "date": "2019-01-19",
+        "uri": "miners-campus",
+        "name": "Miners Campus",
+        "url": "https://www.slhn.org/-/media/slhn/Billpay/File/PDF/ChargeMaster/Miners-Charge-Master-010119.xlsx?la=en&hash=4F5D2D79A9752A79CB115200E92B0874BE3C7B05"
+    },
+    {
+        "hospital_id": "st.-luke\u2019s-hospital-(pennsylvania)",
+        "filename": "Monroe-Charge-Master-010119.xlsx",
+        "date": "2019-01-19",
+        "uri": "monroe-campus",
+        "name": "Monroe Campus",
+        "url": "https://www.slhn.org/-/media/slhn/Billpay/File/PDF/ChargeMaster/Monroe-Charge-Master-010119.xlsx?la=en&hash=F22B9269884EF8CEF7152C1F0A2FD031C6AAAB75"
+    },
+    {
+        "hospital_id": "st.-luke\u2019s-hospital-(pennsylvania)",
+        "filename": "Blue-Mountain-Charge-Master-010119.xlsx",
+        "date": "2019-01-19",
+        "uri": "palmerton/gnaden-huetten-campus",
+        "name": "Palmerton/Gnaden Huetten Campus",
+        "url": "https://www.slhn.org/-/media/slhn/Billpay/File/PDF/ChargeMaster/Blue-Mountain-Charge-Master-010119.xlsx?la=en&hash=A260DFC95B8E94C6515652E6C44EE507A4124EC4"
+    },
+    {
+        "hospital_id": "st.-luke\u2019s-hospital-(pennsylvania)",
+        "filename": "Quakertown-Charge-Master-010119.xlsx",
+        "date": "2019-01-19",
+        "uri": "quakertown-campus",
+        "name": "Quakertown Campus",
+        "url": "https://www.slhn.org/-/media/slhn/Billpay/File/PDF/ChargeMaster/Quakertown-Charge-Master-010119.xlsx?la=en&hash=9B7027282F42A70B835EF99CEEBBBFB16F4B9B23"
+    },
+    {
+        "hospital_id": "st.-luke\u2019s-hospital-(pennsylvania)",
+        "filename": "Sacred-Heart-Charge-Master-010119.xlsx",
+        "date": "2019-01-19",
+        "uri": "sacred-heart-campus",
+        "name": "Sacred Heart Campus",
+        "url": "https://www.slhn.org/-/media/slhn/Billpay/File/PDF/ChargeMaster/Sacred-Heart-Charge-Master-010119.xlsx?la=en&hash=B27F7EBFC511D1795FD5B1B43C348D909446560D"
+    },
+    {
+        "hospital_id": "st.-luke\u2019s-hospital-(pennsylvania)",
+        "filename": "Warren-Charge-Master-010119.xlsx",
+        "date": "2019-01-19",
+        "uri": "warren-campus",
+        "name": "Warren Campus",
+        "url": "https://www.slhn.org/-/media/slhn/Billpay/File/PDF/ChargeMaster/Warren-Charge-Master-010119.xlsx?la=en&hash=7DBA3B32EFD8EBE0A69CBDB88B18E02E669DFA83"
+    },
+    {
+        "hospital_id": "st.-luke\u2019s-hospital-(pennsylvania)",
+        "filename": "Supplies-Network-Charge-Master-010119.xlsx",
+        "date": "2019-01-19",
+        "uri": "supplies-network-charge-master",
+        "name": "Supplies Network Charge Master",
+        "url": "https://www.slhn.org/-/media/slhn/Billpay/File/PDF/ChargeMaster/Supplies-Network-Charge-Master-010119.xlsx?la=en&hash=0075191123D70D0F4D85A507F18F6BF09CFEA631"
+    }
+]

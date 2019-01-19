@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "vcu-health-system-mcv-hospital",
+        "filename": "VCUHealth-Charge-Description-Master_Price-Transparency.xlsx",
+        "date": "2019-01-19",
+        "uri": "view-our-charge-description-master-(cdm)",
+        "name": "View our Charge Description Master (CDM)",
+        "url": "https://www.vcuhealth.org/media/file/VCUHealth-Charge-Description-Master_Price-Transparency.xlsx"
+    },
+    {
+        "hospital_id": "vcu-health-system-mcv-hospital",
+        "filename": "VCUHealth-DRG-Report_Price-Transparency.xlsx",
+        "date": "2019-01-19",
+        "uri": "view-our-diagnosis-related-group-(drg)",
+        "name": "View our Diagnosis-Related Group (DRG)",
+        "url": "https://www.vcuhealth.org/media/file/VCUHealth-DRG-Report_Price-Transparency.xlsx"
+    }
+]

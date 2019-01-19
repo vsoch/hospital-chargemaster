@@ -1,0 +1,92 @@
+service,billing_term,price
+Adult semi-private (up to two patients) room and care in the Main Hospital,SEMI-PRIVATE ROOM AND CARE,$1,980
+Adult room and care in the Transitional Care Hospital,TCH BASIC ROOM AND CARE,$1,980
+Adult room and care on the Labor & Delivery unit,OB CARE BED,$2,310
+Pediatric room and care,PEDIATRIC ACUTE CARE ROOM AND CARE,$1,980
+Psychiatric room and care,5 EAST ROOM & CARE,$2,448
+Normal newborn nursery room and care (includes babies staying in mother's room),NURSERY BED,$1,980
+Sick newborn nursery room and care,NURSERY INTERMEDIATE ROOM AND BED,$3,917
+Neonatal Step Down Intensive Care Unit (NICU) room and care,NICU STEPDOWN ROOM AND BED,$6,272
+Neonatal Intensive Care Unit (NICU) room and care,NICU MAXIMUM ROOM AND BED,$8,010
+Adult Intensive Care Unit (ICU) room and care,ICU ROOM & BED,$8,010
+Pediatric Intensive Care Unit (PICU) room and care,PICU ROOM & BED,$8,010
+Adult/Pediatric Step Down Intensive Care Unit (ICU) room and care in the Main Hospital,INTERMEDIATE ROOM AND CARE,$6,272
+Adult Step Down Intensive Care Unit (ICU) room and care in the Transitional Care Hospital,TCH INTERMEDIATE ROOM AND CARE,$3,971
+Emergency department visit, limited or minor problem,ED LEVEL 1,$356
+Emergency department visit, low to moderately severe problem,ED LEVEL 2,$587
+Emergency department visit, moderately severe problem,ED LEVEL 3,$940
+Emergency department visit, problem of high severity,ED LEVEL 4,$1,535
+Emergency department visit, problem with significant threat to life or function,ED LEVEL 5,$2,808
+Critical care for a critically ill or injured patient, first 30-74 minutes,CRITICAL CARE 30-74 MIN,$4,128
+Operating room time per minute, all except heart/lung bypass,All procedures except heart/lung bypass,$114
+Operating room time per minute, heart/lung bypass only,Heart and lung bypass procedures only,$207
+Evaluation of physical therapy, typically 20 minutes,PT EVAL LOW COMPLEX 20 MIN,$303
+Evaluation of physical therapy, typically 30 minutes,PT EVAL MOD COMPLEX 30 MIN,$358
+Evaluation of physical therapy, typically 45 minutes,PT EVAL HIGH COMPLEX 45 MIN,$441
+Walking training to 1 or more areas, each 15 minutes,GAIT TRAINING 15 MIN,$140
+Therapeutic activities to improve function, with one-on-one contact between patient and provider, each 15 minutes,THERAPEUTIC ACTIVITY 15 MIN,$140
+Therapeutic procedures in a group setting,THERAPEUTIC GROUP,$140
+Evaluation of occupational therapy, typically 20 minutes,OT EVAL LOW COMPLEX 30 MIN,$303
+Evaluation of occupational therapy, typically 45 minutes,OT EVAL MOD COMPLEX 45 MIN,$358
+Evaluation of occupational therapy, typically 60 minutes,OT EVAL HIGH COMPLEX 60 MIN,$441
+Therapeutic activities to improve function, with one-on-one contact between patient and provider, each 15 minutes,THERAPEUTIC ACTIVITY 15 MIN,$140
+Therapeutic procedures in a group setting,THERAPEUTIC GROUP,$140
+Measurement of largest amount of air exhaled from lungs,VITAL CAPACITY TOTAL,$171
+Test for exercise-induced lung stress,PULMONARY STRESS TESTING,$248
+Measurement and graphic recording of total and timed exhaled air capacity,SPIROMETRY/PFT SMP,$446
+Diagnostic testing in a pulmonary function lab,FLOW VOLUME LOOP,$413
+CT scan of head or brain without contrast,CT HEAD/BRAIN W/O CONTRAST,$2,153
+MRI scan of brain before and after contrast,MRI BRAIN W & W/O CONTR,$5,737
+X-ray of chest, 1 view,X-RAY EXAM CHEST 1 VIEW,$344
+X-ray of chest, 2 views,X-RAY EXAM CHEST 2 VIEWS,$403
+CT scan of chest without contrast,CT THORAX W/O CONTRAST,$2,671
+CT scan of chest with contrast,CT CHEST W/CONTRAST,$3,278
+X-ray of lower and sacral spine, 2 or 3 views,XR L-SPINE 2-3V,$548
+X-ray of shoulder, minimum of 2 views,XR SHOULDER CMPL 2+V,$647
+X-ray of wrist, minimum of 3 views,XR WRIST CMPL 3+V,$647
+X-ray of hand, minimum of 3 views,XR HAND CMPL 3+V,$607
+X-ray of hip with pelvis, 2-3 views,X-RAY EXAM HIP UNI 2-3 VIEWS,$899
+X-ray of knee, 1 or 2 views,XR KNEE 1-2V,$625
+X-ray of knee, 4 or more views,XR KNEE CMPL 4+V,$860
+X-ray of ankle, minimum of 3 views,XR ANKLE 3+V,$690
+X-ray of foot, minimum of 3 views,XR FOOT CMPL 3+V,$690
+X-ray of abdomen, 1 view,X-RAY EXAM ABDOMEN 1 VIEW,$357
+CT scan of abdomen and pelvis without contrast,CT ABD & PELVIS W/O CONTRAST,$5,548
+CT scan of abdomen and pelvis with contrast,CT ABDOMEN & PELVIS W/CONTRAST,$6,195
+Ultrasound of head and neck,US SOFT TISSUE HEAD/NECK,$948
+Ultrasound of one breast,ULTRASOUND BREAST LIMITED,$666
+Ultrasound of abdomen,US ABDOMEN LTD,$801
+Ultrasound behind abdominal cavity,US RETROPERITIONEAL,$906
+Ultrasound re-evaluation of pregnant uterus, per fetus,US PREGNANCY FOLLOWUP,$532
+Ultrasound of pelvis through vagina,US TRANSVAGINAL,$890
+Ultrasound guidance for accessing into blood vessel,US GUIDED VASCULAR ACCESS,$652
+Ultrasonic guidance imaging supervision and interpretation for insertion of needle,ECHO GUIDE FOR BIOPSY,$810
+Diagnostic mammography of one breast,DIGITAL DIAG MAMMOGRAM,$479
+Screening mammography of both breasts,SCREENING MAMMOGRAPHY, DIGITAL,$476
+Bone density measurement using dedicated X-ray machine,XR BONE DENSITY AXIAL,$747
+Blood test, basic group of blood chemicals,BASIC METABOLIC PANEL,$221
+Blood test, comprehensive group of blood chemicals,COMPREHEN METABOLIC PANEL,$387
+Blood test, lipids (cholesterol and triglycerides),LIPID PANEL,$228
+Manual urinalysis test with examination using microscope,URINALYSIS, AUTO W/SCOPE,$96
+Analysis of urine,URINALYSIS,$48
+Vitamin D-3 level,ASSAY OF VITAMIN D,$334
+Calcium level,ASSAY OF CALCIUM,$82
+Blood gases measurement,BLOOD GASES: PH, PO2 & PCO2,$370
+Blood glucose (sugar) level,ASSAY, GLUCOSE, BLOOD QUANT,$65
+Blood glucose (sugar) test performed by hand-held instrument,GLUCOSE BLOOD TEST,$48
+Methemoglobin (hemoglobin) analysis,HC BLOOD METHEMOGLOBIN ASSAY,$143
+Lactic acid level,ASSAY OF LACTIC ACID,$163
+Magnesium level,ASSAY OF MAGNESIUM,$97
+Phosphate level,ASSAY OF PHOSPHORUS,$74
+Blood potassium level,ASSAY OF SERUM POTASSIUM,$74
+Blood sodium level,ASSAY OF SERUM SODIUM,$79
+Blood test, thyroid stimulating hormone (TSH),ASSAY THYROID STIM HORMONE,$224
+Troponin (protein) analysis,ASSAY OF TROPONIN, QUANT,$228
+Complete blood cell count (red cells, white blood cell, platelets), automated test,COMPLETE CBC W/AUTO DIFF WBC,$139
+Complete blood cell count (red cells, white blood cell, platelets), automated test,COMPLETE CBC, AUTOMATED,$107
+Blood test, clotting time,PROTHROMBIN TIME,$70
+Coagulation assessment blood test,THROMBOPLASTIN TIME, PARTIAL,$91
+Blood group typing (ABO),BLOOD TYPING, ABO,$106
+Blood typing for Rh (D) antigen,BLOOD TYPING, RH (D),$106
+Bacterial colony count, urine,URINE CULTURE/COLONY COUNT,$207
+Pathology examination of tissue using a microscope,TISSUE EXAM BY PATHOLOGIST,$378

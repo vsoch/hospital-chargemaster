@@ -1,0 +1,26 @@
+[
+    {
+        "hospital_id": "st.-joseph\u2019s-hospital-(tampa)",
+        "filename": "copy-of-standard-charges-list-01-15-19.xlsm",
+        "date": "2019-01-19",
+        "uri": "standard-hospital-charges-by-service-description",
+        "name": "Standard Hospital Charges by Service Description",
+        "url": "https://baycare.org//~/media/baycaredotorg/billing-and-insurance/copy-of-standard-charges-list-01-15-19.ashx?la=en"
+    },
+    {
+        "hospital_id": "st.-joseph\u2019s-hospital-(tampa)",
+        "filename": "copy-of-msdrg-list-01-15-19.xlsm",
+        "date": "2019-01-19",
+        "uri": "standard-hospital-charges-by-ms-drg",
+        "name": "Standard Hospital Charges by MS-DRG",
+        "url": "https://baycare.org//~/media/baycaredotorg/billing-and-insurance/copy-of-msdrg-list-01-15-19.ashx?la=en"
+    },
+    {
+        "hospital_id": "st.-joseph\u2019s-hospital-(tampa)",
+        "filename": "copy-of-msdrg-list-01-15-19.xlsm",
+        "date": "2019-01-19",
+        "uri": "standard-hospital-charges-by-ms-drg",
+        "name": "Standard Hospital Charges by MS-DRG",
+        "url": "https://baycare.org//~/media/baycaredotorg/billing-and-insurance/copy-of-msdrg-list-01-15-19.ashx?la=en"
+    }
+]

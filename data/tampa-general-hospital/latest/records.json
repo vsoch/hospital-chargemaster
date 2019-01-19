@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "tampa-general-hospital",
+        "filename": "tampa_general_hospital_-_hospital_services_charges_2019_0.xlsx",
+        "date": "2019-01-19",
+        "uri": "download-hospital-services-&-charges",
+        "name": "Download Hospital Services & Charges",
+        "url": "https://www.tgh.org/sites/default/files/Documents/tampa_general_hospital_-_hospital_services_charges_2019_0.xlsx"
+    },
+    {
+        "hospital_id": "tampa-general-hospital",
+        "filename": "tampa_general_hospital_-_standard_charge_by_diagnosis-related_group_2019.xlsx",
+        "date": "2019-01-19",
+        "uri": "download\u00a0standard-charge-by-drg",
+        "name": "Download\u00a0Standard Charge by DRG",
+        "url": "https://www.tgh.org/sites/default/files/Documents/tampa_general_hospital_-_standard_charge_by_diagnosis-related_group_2019.xlsx"
+    }
+]

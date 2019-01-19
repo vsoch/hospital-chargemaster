@@ -1,0 +1,26 @@
+[
+    {
+        "hospital_id": "temple-university-hospital",
+        "filename": "TUH CDM as of 123118.csv",
+        "date": "2019-01-19",
+        "uri": "view-the-temple-university-hospital-chargemaster-(csv)",
+        "name": "View the Temple University Hospital Chargemaster (CSV)",
+        "url": "https://tuh.templehealth.org/upload/docs/TUHSPublic/TUH CDM as of 123118.csv"
+    },
+    {
+        "hospital_id": "temple-university-hospital",
+        "filename": "TUH-DRG-Charges-122818.csv",
+        "date": "2019-01-19",
+        "uri": "view-the-temple-university-hospital-drg-charges-(csv)",
+        "name": "View the Temple University Hospital DRG Charges (CSV)",
+        "url": "https://tuh.templehealth.org/upload/docs/TUHSPublic/TUH-DRG-Charges-122818.csv"
+    },
+    {
+        "hospital_id": "temple-university-hospital",
+        "filename": "Episcopal-DRG-Charges-122818.csv",
+        "date": "2019-01-19",
+        "uri": "view-the-temple-university-hospital-\u2013-episcopal-campus-drg-charges-(csv)",
+        "name": "View the Temple University Hospital \u2013 Episcopal Campus DRG Charges (CSV)",
+        "url": "https://tuh.templehealth.org/upload/docs/TUHSPublic/Episcopal-DRG-Charges-122818.csv"
+    }
+]

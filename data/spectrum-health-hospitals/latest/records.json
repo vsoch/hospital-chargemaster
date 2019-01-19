@@ -1,0 +1,34 @@
+[
+    {
+        "hospital_id": "spectrum-health-hospitals",
+        "filename": "spectrum-health-pricing-by-drg.csv",
+        "date": "2019-01-19",
+        "uri": "spectrum-health-pricing-by-drg.csv",
+        "name": "spectrum-health-pricing-by-drg.csv",
+        "url": "https://www.spectrumhealth.org/-/media/spectrumhealth/documents/average-pricing/spectrum-health-pricing-by-drg.csv"
+    },
+    {
+        "hospital_id": "spectrum-health-hospitals",
+        "filename": "spectrum-health-chargemaster-pricing.csv",
+        "date": "2019-01-19",
+        "uri": "spectrum-health-chargemaster-pricing.csv",
+        "name": "spectrum-health-chargemaster-pricing.csv",
+        "url": "https://www.spectrumhealth.org/-/media/spectrumhealth/documents/average-pricing/spectrum-health-chargemaster-pricing.csv"
+    },
+    {
+        "hospital_id": "spectrum-health-hospitals",
+        "filename": "spectrum-health-lakeland-pricing-by-drg.csv",
+        "date": "2019-01-19",
+        "uri": "spectrum-health-lakeland-pricing-by-drg.csv",
+        "name": "spectrum-health-lakeland-pricing-by-drg.csv",
+        "url": "https://www.spectrumhealth.org/-/media/spectrumhealth/documents/average-pricing/spectrum-health-lakeland-pricing-by-drg.csv"
+    },
+    {
+        "hospital_id": "spectrum-health-hospitals",
+        "filename": "spectrum-health-lakeland-chargemaster-pricing.csv",
+        "date": "2019-01-19",
+        "uri": "spectrum-health-lakeland-chargemaster-pricing.csv",
+        "name": "spectrum-health-lakeland-chargemaster-pricing.csv",
+        "url": "https://www.spectrumhealth.org/-/media/spectrumhealth/documents/average-pricing/spectrum-health-lakeland-chargemaster-pricing.csv"
+    }
+]

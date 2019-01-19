@@ -1,0 +1,26 @@
+[
+    {
+        "hospital_id": "uc-irvine-medical-center",
+        "filename": "106301279-cdm-2018.xlsx",
+        "date": "2019-01-19",
+        "uri": "hospital\u2019s-cdm",
+        "name": "hospital\u2019s CDM",
+        "url": "http://www.ucihealth.org/-/media/files/xlsx/patients-visitors/106301279-cdm-2018.xlsx?la=en"
+    },
+    {
+        "hospital_id": "uc-irvine-medical-center",
+        "filename": "106301279-common25-2018.xlsx",
+        "date": "2019-01-19",
+        "uri": "average-charges",
+        "name": "average charges",
+        "url": "http://www.ucihealth.org/-/media/files/xlsx/patients-visitors/106301279-common25-2018.xlsx?la=en"
+    },
+    {
+        "hospital_id": "uc-irvine-medical-center",
+        "filename": "uci-health-msdrg-average-charges.xlsx",
+        "date": "2019-01-19",
+        "uri": "msdrg-average-charges",
+        "name": "MSDRG Average Charges",
+        "url": "http://www.ucihealth.org/-/media/files/xlsx/patients-visitors/uci-health-msdrg-average-charges.xlsx?la=en"
+    }
+]

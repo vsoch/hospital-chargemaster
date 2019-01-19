@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "uc-davis-medical-center",
+        "filename": "CDM.csv",
+        "date": "2019-01-19",
+        "uri": "charge-list-report",
+        "name": "Charge List Report",
+        "url": "https://health.ucdavis.edu/newsroom/public-reporting/CDM.csv"
+    },
+    {
+        "hospital_id": "uc-davis-medical-center",
+        "filename": "CMS1694.csv",
+        "date": "2019-01-19",
+        "uri": "average-charges-for-inpatient-cases",
+        "name": "Average Charges for Inpatient Cases",
+        "url": "https://health.ucdavis.edu/newsroom/public-reporting/CMS1694.csv"
+    }
+]

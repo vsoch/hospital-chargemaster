@@ -1,0 +1,210 @@
+[
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "cch.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-continuing-care-hospital",
+        "name": "Baylor Scott & White Continuing Care Hospital",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/cch.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "brenham.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-medical-center-\u2013-brenham",
+        "name": "Baylor Scott & White Medical Center \u2013 Brenham",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/brenham.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "college-station.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-medical-center-\u2013-college-station",
+        "name": "Baylor Scott & White Medical Center \u2013 College Station",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/college-station.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "hillcrest.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-medical-center-\u2013-hillcrest",
+        "name": "Baylor Scott & White Medical Center \u2013 Hillcrest",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/hillcrest.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "lakeway.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-medical-center-\u2013-lakeway",
+        "name": "Baylor Scott & White Medical Center \u2013 Lakeway",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/lakeway.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "llano.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-medical-center-\u2013-llano",
+        "name": "Baylor Scott & White Medical Center \u2013 Llano",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/llano.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "marble-falls.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-medical-center-\u2013-marble-falls",
+        "name": "Baylor Scott & White Medical Center \u2013 Marble Falls",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/marble-falls.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "pflugerville.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-medical-center-\u2013-pflugerville",
+        "name": "Baylor Scott & White Medical Center \u2013 Pflugerville",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/pflugerville.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "round-rock.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-medical-center-\u2013-round-rock",
+        "name": "Baylor Scott & White Medical Center \u2013 Round Rock",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/round-rock.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "taylor.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-medical-center-\u2013-taylor",
+        "name": "Baylor Scott & White Medical Center \u2013 Taylor",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/taylor.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "temple.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-medical-center-\u2013-temple",
+        "name": "Baylor Scott & White Medical Center \u2013 Temple",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/temple.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "ctx-medications.xlsx",
+        "date": "2019-01-19",
+        "uri": "central-texas-medications",
+        "name": "Central Texas Medications",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/ctx-medications.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "ctx-supplies.xlsx",
+        "date": "2019-01-19",
+        "uri": "central-texas-supplies",
+        "name": "Central Texas Supplies",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/ctx-supplies.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "mclane.xlsx",
+        "date": "2019-01-19",
+        "uri": "mclane-children's-baylor-scott-&-white-medical-center-\u2013-temple",
+        "name": "McLane Children's Baylor Scott & White Medical Center \u2013 Temple",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/mclane.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "bhvh.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-heart-and-vascular-hospital",
+        "name": "Baylor Scott & White Heart and Vascular Hospital",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/bhvh.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "all-saints.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-all-saints-medical-center-\u2013-fort-worth",
+        "name": "Baylor Scott & White All Saints Medical Center \u2013 Fort Worth",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/all-saints.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "carrollton.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-medical-center-\u2013-carrollton",
+        "name": "Baylor Scott & White Medical Center \u2013 Carrollton",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/carrollton.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "centennial.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-medical-center-\u2013-centennial",
+        "name": "Baylor Scott & White Medical Center \u2013 Centennial",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/centennial.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "grapevine.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-medical-center-\u2013-grapevine",
+        "name": "Baylor Scott & White Medical Center \u2013 Grapevine",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/grapevine.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "irving.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-medical-center-\u2013-irving",
+        "name": "Baylor Scott & White Medical Center \u2013 Irving",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/irving.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "lake-pointe.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-medical-center-\u2013-lake-pointe",
+        "name": "Baylor Scott & White Medical Center \u2013 Lake Pointe",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/lake-pointe.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "mckinney.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-medical-center-\u2013-mckinney",
+        "name": "Baylor Scott & White Medical Center \u2013 McKinney",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/mckinney.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "waxahachie.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-medical-center-\u2013-waxahachie",
+        "name": "Baylor Scott & White Medical Center \u2013 Waxahachie",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/waxahachie.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "thh-denton.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-the-heart-hospital-\u2013-denton",
+        "name": "Baylor Scott & White The Heart Hospital \u2013 Denton",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/thh-denton.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "thh-plano.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-scott-&-white-the-heart-hospital-\u2013-plano",
+        "name": "Baylor Scott & White The Heart Hospital \u2013 Plano",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/thh-plano.xlsx"
+    },
+    {
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "filename": "dallas.xlsx",
+        "date": "2019-01-19",
+        "uri": "baylor-university-medical-center",
+        "name": "Baylor University Medical Center",
+        "url": "https://www.bswhealth.com/SiteCollectionDocuments/patient-tools/estimate-cost-of-care/dallas.xlsx"
+    }
+]

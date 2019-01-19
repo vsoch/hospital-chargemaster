@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "uc-san-diego-medical-center",
+        "filename": "Medicare-standard-charges-1-1-19.csv",
+        "date": "2019-01-19",
+        "uri": "uc-san-diego-health-standard-charges",
+        "name": "UC San Diego Health Standard Charges",
+        "url": "https://health.ucsd.edu/patients/billing/standard-charges/Documents/Medicare-standard-charges-1-1-19.csv"
+    },
+    {
+        "hospital_id": "uc-san-diego-medical-center",
+        "filename": "UC-San-Diego-Health-Average-Charges-by-Diagnostic-Related-Group-%28DRG%29.csv",
+        "date": "2019-01-19",
+        "uri": "uc-san-diego-health-average-charges-by-diagnostic-related-group-(drg)",
+        "name": "UC San Diego Health Average Charges by Diagnostic Related Group (DRG) ",
+        "url": "https://health.ucsd.edu/patients/billing/standard-charges/Documents/UC-San-Diego-Health-Average-Charges-by-Diagnostic-Related-Group-%28DRG%29.csv"
+    }
+]

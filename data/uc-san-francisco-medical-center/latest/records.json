@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "uc-san-francisco-medical-center",
+        "filename": "cms-1694-price-transparency-ucsfmc.csv",
+        "date": "2019-01-19",
+        "uri": "cms-1694-price-transparency-ucsfmc.csv",
+        "name": "cms-1694-price-transparency-ucsfmc.csv",
+        "url": "https://www.ucsfhealth.org/about/pricing-transparency/cms-1694-price-transparency-ucsfmc.csv"
+    },
+    {
+        "hospital_id": "uc-san-francisco-medical-center",
+        "filename": "cms-ip-drg-ucsfmc.csv",
+        "date": "2019-01-19",
+        "uri": "cms-ip-drg-ucsfmc.csv",
+        "name": "cms-ip-drg-ucsfmc.csv",
+        "url": "https://www.ucsfhealth.org/about/pricing-transparency/cms-ip-drg-ucsfmc.csv"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "hospital_id": "university-of-colorado-hospital",
+        "filename": "UCHealth-Broomfield-Hospital-chargemaster-2018.xlsx",
+        "date": "2019-01-19",
+        "uri": "broomfield-hospital",
+        "name": "Broomfield Hospital",
+        "url": "https://s3.amazonaws.com/uchealth-wp-uploads/wp-content/uploads/2018/12/20105240/UCHealth-Broomfield-Hospital-chargemaster-2018.xlsx"
+    },
+    {
+        "hospital_id": "university-of-colorado-hospital",
+        "filename": "UCHealth-Grandview-Hospital-chargemaster-2018.xlsx",
+        "date": "2019-01-19",
+        "uri": "grandview-hospital",
+        "name": "Grandview Hospital",
+        "url": "https://s3.amazonaws.com/uchealth-wp-uploads/wp-content/uploads/2018/12/20105243/UCHealth-Grandview-Hospital-chargemaster-2018.xlsx"
+    },
+    {
+        "hospital_id": "university-of-colorado-hospital",
+        "filename": "UCHealth-Longs-Peak-Hospital-chargemaster-2018.xlsx",
+        "date": "2019-01-19",
+        "uri": "longs-peak-hospital",
+        "name": "Longs Peak Hospital",
+        "url": "https://s3.amazonaws.com/uchealth-wp-uploads/wp-content/uploads/2018/12/20105245/UCHealth-Longs-Peak-Hospital-chargemaster-2018.xlsx"
+    },
+    {
+        "hospital_id": "university-of-colorado-hospital",
+        "filename": "UCHealth-Medical-Center-of-the-Rockies-chargemaster-2018.xlsx",
+        "date": "2019-01-19",
+        "uri": "medical-center-of-the-rockies",
+        "name": "Medical Center of the Rockies",
+        "url": "https://s3.amazonaws.com/uchealth-wp-uploads/wp-content/uploads/2018/12/20105247/UCHealth-Medical-Center-of-the-Rockies-chargemaster-2018.xlsx"
+    },
+    {
+        "hospital_id": "university-of-colorado-hospital",
+        "filename": "UCHealth-Memorial-Hospital-Central-North-chargemaster-2018.xlsx",
+        "date": "2019-01-19",
+        "uri": "memorial-hospital-(central-and-north)",
+        "name": "Memorial Hospital (Central and North)",
+        "url": "https://s3.amazonaws.com/uchealth-wp-uploads/wp-content/uploads/2018/12/20105255/UCHealth-Memorial-Hospital-Central-North-chargemaster-2018.xlsx"
+    },
+    {
+        "hospital_id": "university-of-colorado-hospital",
+        "filename": "UCHealth-Pikes-Peak-Regional-Hospital-chargemaster-2018.xlsx",
+        "date": "2019-01-19",
+        "uri": "pikes-peak-regional-hospital",
+        "name": "Pikes Peak Regional Hospital",
+        "url": "https://s3.amazonaws.com/uchealth-wp-uploads/wp-content/uploads/2018/12/20105257/UCHealth-Pikes-Peak-Regional-Hospital-chargemaster-2018.xlsx"
+    },
+    {
+        "hospital_id": "university-of-colorado-hospital",
+        "filename": "UCHealth-Poudre-Valley-Hospital-chargemaster-2018.xlsx",
+        "date": "2019-01-19",
+        "uri": "poudre-valley-hospital",
+        "name": "Poudre Valley Hospital",
+        "url": "https://s3.amazonaws.com/uchealth-wp-uploads/wp-content/uploads/2018/12/20105259/UCHealth-Poudre-Valley-Hospital-chargemaster-2018.xlsx"
+    },
+    {
+        "hospital_id": "university-of-colorado-hospital",
+        "filename": "UCHealth-University-of-Colorado-Hospital-chargemaster-2018.xlsx",
+        "date": "2019-01-19",
+        "uri": "university-of-colorado-hospital",
+        "name": "University of Colorado Hospital",
+        "url": "https://s3.amazonaws.com/uchealth-wp-uploads/wp-content/uploads/2018/12/20105302/UCHealth-University-of-Colorado-Hospital-chargemaster-2018.xlsx"
+    },
+    {
+        "hospital_id": "university-of-colorado-hospital",
+        "filename": "UCHealth-Yampa-Valley-Medical-Center-chargemaster-2018.xlsx",
+        "date": "2019-01-19",
+        "uri": "yampa-valley-medical-center",
+        "name": "Yampa Valley Medical Center",
+        "url": "https://s3.amazonaws.com/uchealth-wp-uploads/wp-content/uploads/2018/12/20105304/UCHealth-Yampa-Valley-Medical-Center-chargemaster-2018.xlsx"
+    }
+]

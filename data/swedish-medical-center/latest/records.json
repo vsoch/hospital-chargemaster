@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "swedish-medical-center",
+        "filename": "ContinentalDivision_SwedishMedicalCenter_DRG.csv",
+        "date": "2019-01-19",
+        "uri": "ContinentalDivision_SwedishMedicalCenter_DRG.csv",
+        "name": "ContinentalDivision_SwedishMedicalCenter_DRG.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/ContinentalDivision_SwedishMedicalCenter_DRG.csv"
+    },
+    {
+        "hospital_id": "swedish-medical-center",
+        "filename": "ContinentalDivision_SwedishMedicalCenter_CM.csv",
+        "date": "2019-01-19",
+        "uri": "ContinentalDivision_SwedishMedicalCenter_CM.csv",
+        "name": "ContinentalDivision_SwedishMedicalCenter_CM.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/ContinentalDivision_SwedishMedicalCenter_CM.csv"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "hospital_id": "university-of-texas-md-anderson-cancer-center",
+        "filename": "HospitalCharge.csv",
+        "date": "2019-01-19",
+        "uri": "hospital",
+        "name": "Hospital",
+        "url": "https://www.mdanderson.org/content/dam/mdanderson/documents/patients-and-family/becoming-our-patient/planning-for-care/HospitalCharge.csv"
+    },
+    {
+        "hospital_id": "university-of-texas-md-anderson-cancer-center",
+        "filename": "ProfessionalCharge.csv",
+        "date": "2019-01-19",
+        "uri": "professional",
+        "name": "Professional",
+        "url": "https://www.mdanderson.org/content/dam/mdanderson/documents/patients-and-family/becoming-our-patient/planning-for-care/ProfessionalCharge.csv"
+    },
+    {
+        "hospital_id": "university-of-texas-md-anderson-cancer-center",
+        "filename": "SupplyCharge.csv",
+        "date": "2019-01-19",
+        "uri": "supplies",
+        "name": "Supplies",
+        "url": "https://www.mdanderson.org/content/dam/mdanderson/documents/patients-and-family/becoming-our-patient/planning-for-care/SupplyCharge.csv"
+    },
+    {
+        "hospital_id": "university-of-texas-md-anderson-cancer-center",
+        "filename": "PharmacyCharge.csv",
+        "date": "2019-01-19",
+        "uri": "pharmacy",
+        "name": "Pharmacy",
+        "url": "https://www.mdanderson.org/content/dam/mdanderson/documents/patients-and-family/becoming-our-patient/planning-for-care/PharmacyCharge.csv"
+    }
+]

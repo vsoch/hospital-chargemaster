@@ -1,0 +1,288 @@
+"The University of Texas MD Anderson Cancer Center
+Supply Charge List",,,,
+The supply list below contains ranges of specific supplies.  Actual patient supply pricing is dependent on supply type and varies by patient.                                                                        All pricing is subject to change. Pricing as of December 2018.,,,,
+,,,,
+"DISCLAIMER: THIS SITE IS FOR INFORMATIONAL PURPOSES ONLY AND IS NOT AN OFFER OR REPRESENTATION OF ACTUAL PRICING FOR SERVICES; MD ANDERSON IS PROVIDING THIS INFORMATION ON AN AS-IS BASIS TO GIVE PATIENTS A GENERAL IDEA OF POTENTIAL CHARGES ASSOCIATED WITH MEDICAL CARE AND DOES NOT WARRANT THE ACCURACY, COMPLETENESS, OR USEFULNESS OF THE INFORMATION PROVIDED.  THIS INFORMATION IS NEITHER INTENDED TO BE NOR SHOULD IT BE CONSIDERED FINANCIAL OR MEDICAL ADVICE.  MD ANDERSON MAKES NO GUARANTEES REGARDING THE CHARGE INFORMATION PROVIDED ON THIS WEBSITE. THE CHARGE INFORMATION IS STRICTLY AN ESTIMATE OF CHARGES AND MD ANDERSON CANNOT GUARANTEE THE ESTIMATES BECAUSE SERVICES RENDERED TO EACH PATIENT AND THEIR COST MAY VARY BECAUSE OF TREATMENT DECISIONS, UNFORESEEN COMPLICATIONS, ADDITIONAL TESTS OR SERVICES ORDERED BY YOUR PHYSICIAN, AND THE INDIVIDUAL NEEDS OF EACH PATIENT. IN ADDITION, ESTIMATES MAY CHANGE BASED ON YOUR CONTRACTED INSURANCE BENEFITS, INSURANCE POLICY EXCLUSIONS, MAXIMUM BENEFITS, PENDING FINANCIAL ASSISTANCE, OR PENDING STATE/FEDERAL PROGRAM OR OTHER AID.",,,,
+List ID,CPT Code,Supply Category,Description,Unit Charge
+1,A4206,Needles,"Syringe with needle, sterile, 1 cc or less, each",$34
+2,A4209,Needles,"Syringe with needle, sterile 5 cc or greater, each ",$25-$41
+3,A4210,Needles,"Needle-free injection device, each",$3
+4,A4211,Other Supplies,Supplies for self-administered injections,$3-$78
+5,A4212,Needles,Non-coring needle or stylet with or without catheter,$24-$138
+6,A4213,Needles,"Syringe, sterile, 20 cc or greater, each ",$27-$40
+7,A4215,Needles,"Needle, sterile, any size, each ",$3-$839
+8,A4221,Catheter,"Supplies for maintenance of non-insulin drug infusion catheter, per week ",$22
+9,A4222,Other Supplies,"Infusion supplies for external drug infusion pump, per cassette or bag",$18-$22
+10,A4253,Blood Glucose Supplies,"Blood glucose test or reagent strips for home blood glucose monitor, per 50 strips",$37-$178
+11,A4256,Other Supplies,"Normal, low and high calibrator solution / chips ",$21
+12,A4258,Other Supplies,"Spring-powered device for lancet, each ",$69-$99
+13,A4259,Other Supplies,"Lancets, per box of 100 ",$36-$40
+14,A4270,Disposables,"Disposable endoscope sheath, each",$319
+15,A4301,Implantables/ Stents/ Pacemakers,"Implantable access total catheter, port/reservoir (e.g., venous, arterial, epidural, subarachnoid, peritoneal, etc.) ",$105-$270
+16,A4310,Skin Substitutes,Insertion tray without drainage bag and without catheter (accessories only) ,$9-$25
+17,A4311,Catheter,"Incontinence insertion tray, without drainage bag, with catheter",$7-$235
+18,A4314,Catheter,"Incontinence insertion tray, with drainage bag, with catheter",$38-$80
+19,A4315,Skin Substitutes,"Insertion tray with drainage bag with indwelling catheter, foley type, 2-way, all silicone ",$25-$327
+20,A4322,Other Supplies,"Irrigation syringe, bulb or piston, each ",$3
+21,A4326,Catheter,"Male external catheter with integral collection chamber, any type, each ",$3-$13
+22,A4330,Other Supplies,"Perianal fecal collection pouch with adhesive, each ",$12-$525
+23,A4331,Tubing,"Extension Drainage Tubing, any type, any length, each",$3-$38
+24,A4333,Catheter,"Urinary catheter anchoring device, each",$3-$12
+25,A4335,Other Supplies,Incontinence supply; miscellaneous,$3-$338
+26,A4338,Catheter,"Indwelling catheter, foley type, two-way latex with coating, each ",$13-$88
+27,A4340,Catheter,"Indwelling catheter, specialty type, each",$5-$1944
+28,A4344,Catheter,"Indwelling catheter, foley type, 2-way, silicone, each",$13-$115
+29,A4346,Catheter,"Indwelling catheter, foley type, 3-way for continuous irrigation, each",$18-$222
+30,A4351,Catheter,"Intermittent urinary catheter; straight tip, with or without coating, each ",$3-$65
+31,A4352,Catheter,"Intermittent urinary catheter; coude (curved) tip, with or without coating, each ",$14
+32,A4353,Catheter,"Urinary catheter, Intermittent, with insertion supplies",$136
+33,A4356,Other Supplies,"External urethral clamp or compression device (not to be used for catheter clamp), each ",$65-$68
+34,A4357,Other Supplies,"Bedside drainage bag, each",$3-$338
+35,A4358,Catheter,"Urinary drainage bag, leg or abdomen, each ",$3-$62
+36,A4362,Dressings/Foams,"Skin barrier; solid, 4 x 4 or equivalent; each ",$3
+37,A4363,Other Supplies,"Ostomy clamp, any type, replacement only, each",$3
+38,A4364,Ostomy Supplies,"Ostomy Supplies- adhesive, liquid or equal",$65-$75
+39,A4367,Ostomy Supplies,"Ostomy belt, each ",$9-$35
+40,A4369,Ostomy Supplies,"Ostomy skin barrier, liquid, per oz ",$24
+41,A4385,Ostomy Supplies,"Ostomy skin barrier, solid 4 x 4 or equivalent, each",$9
+42,A4388,Ostomy Supplies,"Ostomy pouch, drainable, with extended wear barrier attached, each ",$45
+43,A4389,Ostomy Supplies,"Ostomy pouch, drainable, with barrier attached, with built-in convexity, each",$15
+44,A4391,Ostomy Supplies,"Ostomy pouch, urinary, with extended wear barrier attached, each",$15
+45,A4393,Ostomy Supplies,"Ostomy pouch, urinary, each ",$8-$65
+46,A4397,Other Supplies,"Irrigation supply; sleeve, each ",$3-$8
+47,A4400,Other Supplies,Ostomy irrigation set ,$33
+48,A4407,Ostomy Supplies,"Ostomy skin barrier, with flange, with built-in convexity, 4 x 4 inches or smaller, each",$11-$63
+49,A4409,Ostomy Supplies,"Ostomy skin barrier, with flange, without built-in convexity, 4 x 4 inches or smaller, each ",$3-$41
+50,A4414,Ostomy Supplies,"Ostomy skin barrier, with flange, without built-in convexity, 4 x 4 inches or smaller, each",$3-$38
+51,A4415,Ostomy Supplies,"Ostomy skin barrier, with flange (solid, flexible or accordion), without built-in convexity, larger than 4 x 4 inches, each",$43
+52,A4416,Ostomy Supplies,"Ostomy pouch, closed, with barrier attached, with filter, each",$3
+53,A4421,Ostomy Supplies,"Ostomy supplies, miscellaneous",$3-$51
+54,A4425,Ostomy Supplies,"Ostomy pouch, drainable with filter, each",$53
+55,A4432,Ostomy Supplies,"Ostomy pouch, urinary, for use on barrier with non-locking flange, with faucet-type tap with valve, each ",$36
+56,A4450,Other Supplies,"Tape, non-waterproof, per 18 sq in",$3-$53
+57,A4452,Other Supplies,"Tape, waterproof, per 18 sq in",$18
+58,A4461,Dressings/Foams,"Surgical dressing holder, non-reusable, each ",$3-$7
+59,A4463,Dressings/Foams,"Surgical dressing holder, reusable, each",$32-$141
+60,A4465,Orthotic and Prosthetic Devices,Non-elastic binder for extremity,$23-$24
+61,A4481,Tracheostomy Supplies,"Tracheostoma filter, any type, any size, each ",$131
+62,A4490,Compression Stockings and Boots,"Surgical stockings above knee length, each",$9-$19
+63,A4495,Compression Stockings and Boots,"Surgical stockings thigh length, each",$11-$107
+64,A4500,Compression Stockings and Boots,"Surgical stockings below knee length, each",$9
+65,A4520,Other Supplies,"Incontinence garment, any type, each",$3-$22
+66,A4550,Skin Substitutes,Surgical trays,$14-$4425
+67,A4554,Disposables,"Disposable underpads, all sizes ",$3-$31
+68,A4556,Other Supplies,"Electrodes, (e.g., apnea monitor), per pair ",$31
+69,A4562,Other Supplies,"Pessary, non rubber, any type",$97-$138
+70,A4565,Orthotic and Prosthetic Devices,Slings ,$35-$60
+71,A4570,Orthotic and Prosthetic Devices,Splint ,$16-$131
+72,A4615,Other Supplies,"Cannula, nasal",$3-$52
+73,A4623,Tracheostomy Supplies,"Tracheostomy, inner cannula",$11-$34
+74,A4624,Catheter,"Tracheal suction catheter, each",$3-$12
+75,A4625,Tracheostomy Supplies,Tracheostomy care kit for new tracheostomy,$7
+76,A4637,Other Supplies,"Replacement, tip, cane, crutch, walker, each",$17-$38
+77,A4648,Radiology Supplies,"Tissue Market, implantable, any type, each",$50-$1900
+78,A4649,Skin Substitutes,Surgical supplies,$3-$13425
+79,A5061,Ostomy Supplies,"Ostomy pouch, drainable,with barrier attached, each",$3-$29
+80,A5062,Ostomy Supplies,"Ostomy pouch, drainable; without barrier attached (1 piece), each ",$41
+81,A5063,Ostomy Supplies,"Ostomy pouch, drainable; for use on barrier with flange (2 piece system), each",$24
+82,A5071,Ostomy Supplies,"Ostomy pouch, urinary; with barrier attached (1 piece), each",$3-$138
+83,A5072,Ostomy Supplies,"Ostomy pouch, urinary; without barrier attached (1 piece), each ",$16
+84,A5093,Ostomy Supplies,Ostomy accessory; convex insert  ,$13-$15
+85,A5102,Other Supplies,"Bedside drainage bottle with or without tubing, rigid or expandable, each",$288
+86,A5120,Dressings/Foams,"Skin barrier, wipes or swabs, each",$35-$59
+87,A5126,Dressings/Foams,"Disk or foam pad, adhesive or non-adhesive",$38
+88,A6022,Dressings/Foams,"Wound Care Collagen dressing, sterile, size 16 sq in to 48 sq in, each ",$36-$65
+89,A6025,Wound Care Supplies,"Gel sheet for dermal or epidermal application, each ",$56-$120
+90,A6154,Wound Care Supplies,"Wound Care pouch, each",$23-$485
+91,A6196,Dressings/Foams,"Wound Care Alginate or other fiber gelling dressing, sterile, pad size 16 sq in or less, each  ",$8-$384
+92,A6197,Dressings/Foams,"Wound Care Alginate or other fiber gelling dressing, sterile, pad size 16 sq in to 48 sq in, each ",$26-$139
+93,A6198,Dressings/Foams,"Wound Care Alginate or other fiber gelling dressing, sterile, pad size more than 48 sq in, each ",$19-$38
+94,A6199,Dressings/Foams,"Wound Care Alginate or other fiber gelling dressing, wound filler, sterile, per 6 inches",$16-$32
+95,A6203,Dressings/Foams,Composite Dressings,$3-$15
+96,A6204,Dressings/Foams,"Wound Care Composite dressing, sterile, pad size 16 sq in  to 48 sq in, with any size adhesive, each ",$3-$18
+97,A6205,Dressings/Foams,"Wound Care Composite dressing, sterile, pad size more than 48 sq in, with adhesive, each",$3-$53
+98,A6206,Wound Care Supplies,"Wound Care Contact layer, sterile, 16 sq in or less, each",$17-$138
+99,A6207,Wound Care Supplies,"Contact layer, sterile, 16 sq in to 48 sq in, each",$32-$137
+100,A6208,Wound Care Supplies,"Wound Care Contact layer, sterile, more than 48 sq in, each ",$61-$192
+101,A6209,Dressings/Foams,Foam Dressings,$9-$46
+102,A6210,Dressings/Foams,"Wound Care Foam Dressing, sterile, pad size 16 sq in to 48 sq in, without adhesive, each ",$18-$71
+103,A6211,Dressings/Foams,"Wound Care Foam Dressing, wound cover without adhesive borders, pad size more than 48 sq in, each dressing",$46-$90
+104,A6212,Dressings/Foams,"Wound Care Foam Dressing, wound cover with adhesive borders, pad size less than 16 sq in, each dressing",$10-$138
+105,A6213,Dressings/Foams,"Wound Care Foam Dressing, wound cover, pad more than 16 sq in to 48 sq in, with adhesive borders, each",$15-$24
+106,A6214,Dressings/Foams,"Wound Care Foam Dressing, wound cover with adhesive borders, pad size more than 48 sq in, each dressing",$22-$38
+107,A6216,Wound Care Supplies,"Wound Care Gauze, non-impregnated, non-sterile, pad size 16 sq. in. or less, without adhesive border, each",$3-$13
+108,A6223,Dressings/Foams,Wound Care Gauze Dressings,$3
+109,A6229,Wound Care Supplies,"Wound Care Gauze, impregnated, water or normal saline, sterile, pad size 16 sq to 48 sq in, without adhesive, each ",$42
+110,A6234,Dressings/Foams,"Wound Care, hydrocolloid dressings, wound cover , pad size less than 16 sq in, each",$3-$8
+111,A6235,Dressings/Foams,"Hydrocolloid dressing, sterile, pad size 16 sq in to 48 sq in, without adhesive,  each ",$13-$20
+112,A6237,Dressings/Foams,"Hydrocolloid dressing, sterile, pad size 16 sq in or less, with any size adhesive,  each  ",$5-$38
+113,A6242,Dressings/Foams,"Hydrogel dressing, wound cover, sterile, pad size 16 sq. in. or less, without adhesive,  each ",$6
+114,A6243,Dressings/Foams,"Hydrogel dressing, wound cover, sterile, pad size 16 sq in to 48 sq in, without adhesive, each ",$21
+115,A6248,Dressings/Foams,"Hydrogel dressing, wound filler, gel, per fluid ounce",$20
+116,A6250,Wound Care Supplies,Wound Care Supplies,$15-$1432
+117,A6252,Dressings/Foams,"Wound Care Specialty absorptive dressing, sterile, pad size 16 sq in  to 48 sq in, without adhesive, each",$9-$644
+118,A6253,Dressings/Foams,"Wound Care Specialty absorptive dressing, sterile, pad size more than 48 sq in, without adhesive, each ",$9-$131
+119,A6257,Wound Care Supplies,Wound Care Tranparent Film,$3-$38
+120,A6258,Wound Care Supplies,"Transparent film, sterile, 16 sq in to 48 sq in, each ",$3
+121,A6259,Wound Care Supplies,"Wound Care Transparent film, sterile, more than 48 sq in, each",$3
+122,A6260,Wound Care Supplies,"Wound Care cleansers, any type, any size ",$16-$49
+123,A6262,Wound Care Supplies,"Wound Care filler, dry form, per gram",$7
+124,A6402,Dressings/Foams,"Wound Care Gauze Dressing, sterile, pad size 16 sq. in. or less, without adhesive border, each",$3-$38
+125,A6403,Wound Care Supplies,"Wound Care Gauze, non-impregnated, sterile, pad size 16 sq in to 48 sq in, without adhesive, each ",$3
+126,A6407,Other Supplies,"Packing strips, non-impregnated, sterile, up to 2 in width, per linear yard ",$110-$144
+127,A6442,Wound Care Supplies,"Wound Care bandages, non-elastic, non-sterile, width less than 3 in, per yard",$21-$27
+128,A6533,Compression Stockings and Boots,"Gradient compression burn stocking, thigh length, 18-30 mmhg, each",$28-$138
+129,A6535,Compression Stockings and Boots,"Gradient compression stocking, thigh length, 40-50 mmhg, each ",$107
+130,A6549,Compression Stockings and Boots,Gradient compression burn stocking/sleeve,$62-$180
+131,A6550,Wound Care Supplies,"Wound Care set, for negative pressure wound therapy electrical pump, includes all supplies and accessories",$100-$257
+132,A7000,Disposables,"Canister, disposable, used with suction pump, each ",$107
+133,A7002,Tubing,"Tubing, used with suction pump, each",$64
+134,A7040,Other Supplies,One way chest drain valve ,$83-$86
+135,A7041,Other Supplies,Water seal drainage container and tubing for use with implanted chest tube ,$138
+136,A7048,Tubing,"Vacuum drainage collection unit and tubing kit, including all supplies needed for collection unit change, for use with implanted catheter, each ",$464-$861
+137,A7502,Other Supplies,"Replacement diaphragm/faceplate for tracheostoma valve, each",$148
+138,A7503,Tracheostomy Supplies,"Filter holder or filter cap, reusable, for use in a tracheostoma heat and moisture exchange system, each ",$102-$116
+139,A7504,Tracheostomy Supplies,"Filter for use in a tracheostoma heat and moisture exchange system, each ",$115-$158
+140,A7505,Tracheostomy Supplies,"Housing, reusable without adhesive, for use in a heat and moisture exchange system and/or with a tracheostoma valve, each ",$22
+141,A7506,Dressings/Foams,"Adhesive disc for use in a heat and moisture exchange system and/or with tracheostoma valve, each",$40-$146
+142,A7507,Tracheostomy Supplies,"Filter holder and integrated filter without adhesive, for use in a tracheostoma heat and moisture exchange system, each ",$160-$188
+143,A7508,Tracheostomy Supplies,"Housing and integrated adhesive, for use in a tracheostoma heat and moisture exchange system and/or with a tracheostoma valve, each ",$185
+144,A7520,Tracheostomy Supplies,"Tracheostomy/laryngectomy tube, non-cuffed, each",$11-$522
+145,A7521,Tracheostomy Supplies,"Tracheostomy/laryngectomy tube, cuffed, each ",$3-$341
+146,A7523,Tracheostomy Supplies,"Tracheostomy shower protector, each ",$74
+147,A7524,Tracheostomy Supplies,"Tracheostoma stent/stud/button, each ",$18-$239
+148,A7526,Tracheostomy Supplies,"Tracheostomy tube collar/holder, each",$13-$17
+149,A7527,Tracheostomy Supplies,"Tracheostomy/laryngectomy tube plug/stop, each ",$38-$130
+150,A9270,Dressings/Foams,Non-covered item or service ,$3-$9
+151,A9284,Other Supplies,"Spirometer, non-electronic",$9
+152,A9300,Other Supplies,Exercise equipment,$7-$88
+153,A9900,Medical Equipment,"Miscellaneous DME supply, accessory, and/or service component of another hcpcs code",$75
+154,B4035,Feeding Supplies,"Enteral feeding supply kit; pump fed, per day, includes but not limited to feeding/flushing syringe, administration set tubing, dressings, tape ",$7-$9
+155,B4081,Tubing,Nasogastric tubing with stylet,$65-$75
+156,B4082,Tubing,Nasogastric tubing without stylet,$52
+157,B4087,Tubing,"Gastrostomy/jejunostomy tube, standard, each",$52-$639
+158,B4088,Tubing,"Gastrostomy/jejunostomy tube, low-profile, each ",$61-$646
+159,B9998,Other Supplies,Noc for enteral supplies,$3-$96
+160,BLANK,Misc Supplies,General supplies,$10-$9158
+161,BLANK,Misc Supplies,Non-sterile supplies,$8-$464
+162,BLANK,Misc Supplies,Other implants,$171-$14886
+163,BLANK,Misc Supplies,Sterile supplies,$3-$7811
+164,BLANK,Misc Supplies,Take home supplies,$3-$273
+165,BLANK,Misc Supplies,Non-prescription pharmacy supplies,$7-$46
+166,C1713,Screws,Anchor/screw for opposing bone-to-bone or soft tissue-to-bone (implantable),$40-$13850
+167,C1715,Needles,Brachytherapy needle,$25
+168,C1721,Implantables/ Stents/ Pacemakers,"Cardioverter-defibrillator, dual chamber",$40000-$47716
+169,C1722,Implantables/ Stents/ Pacemakers,"Cardioverter-defibrillator, single chamber ",$32000-$44086
+170,C1725,Catheter,"Catheter, transluminal angioplasty, non-laser (may include guidance, infusion/perfusion capability) ",$70-$1732
+171,C1726,Catheter,"Catheter, balloon dilatation, non-vascular",$56-$3930
+172,C1728,Catheter,"Catheter, brachytherapy seed administration",$25-$5570
+173,C1729,Catheter,"Catheter, drainage",$29-$10792
+174,C1730,Catheter,"Catheter, electrophysiology, diagnostic, other than 3d mapping (19 or fewer electrodes) ",$338-$875
+175,C1750,Catheter,"Catheter, hemodialysis/peritoneal, long-term",$212-$660
+176,C1751,Catheter,"Infusion catheter, inserted peripherally, central or midline (other than hemodialysis)",$7-$5400
+177,C1752,Catheter,"Catheter, hemodialysis/peritoneal, short-term",$147-$870
+178,C1753,Catheter,"Catheter, intravascular ultrasound","$1,450"
+179,C1755,Catheter,"Catheter, intraspinal",$41-$1344
+180,C1757,Catheter,"Catheter, thrombectomy/embolectomy",$99-$6800
+181,C1758,Catheter,"Catheter, ureteral ",$3-$101
+182,C1759,Catheter,"Catheter, intracardiac echocardiography ","$6,364"
+183,C1760,Implantables/ Stents/ Pacemakers,"Closure device, vascular (implantable/insertable)",$138-$1970
+184,C1763,Other Supplies,"Connective tissue, non-human (includes synthetic) ",$1600-$6320
+185,C1764,Implantables/ Stents/ Pacemakers,"Event recorder, cardiac (implantable) ",$10500-$10590
+186,C1765,Dressings/Foams,Adhesion barrier,$514
+187,C1766,Introducer/ sheath,"Introducer/sheath, guiding, intracardiac electrophysiological, steerable, other than peel-away ",$83-$101
+188,C1767,Generator,"Generator, neurostimulator, non-rechargeable ",$19240-$27590
+189,C1768,Other Supplies,"Graft, vascular",$848-$26963
+190,C1769,Other Supplies,Guide Wire,$23-$1300
+191,C1770,Other Supplies,"Imaging coil, magnetic resonance (insertable) ",$196-$301
+192,C1771,Catheter,"Repair device, urinary, incontinence, with sling graft",$1890-$10500
+193,C1773,Other Supplies,"Retrieval device, insertable (used to retrieve fractured medical devices) ",$19-$1340
+194,C1776,Implantables/ Stents/ Pacemakers,Joint device (implantable) ,$252-$17473
+195,C1777,Cardiac/ Stents/ Pacemaker,"Lead, cardioverter-defibrillator, endocardial single coil ",$1000-$9719
+196,C1778,Implantables/ Stents/ Pacemakers,"Lead, neurostimulator (implantable) ",$1000-$11900
+197,C1780,Implantables/ Stents/ Pacemakers,"Lens, intraocular (new technology) ",$170-$318
+198,C1781,Implantables/ Stents/ Pacemakers,Mesh (implantable) ,$454-$5900
+199,C1785,Cardiac/ Stents/ Pacemaker,"Pacemaker, dual chamber, rate-responsive",$7900-$17453
+200,C1786,Cardiac/ Stents/ Pacemaker,"Pacemaker, single chamber, rate-responsive ",$2739-$21500
+201,C1787,Other Supplies,"Patient programmer, neurostimulator ",$1697-$1877
+202,C1788,Implantables/ Stents/ Pacemakers,"Port, indwelling (implantable)",$364-$1030
+203,C1789,Implantables/ Stents/ Pacemakers,"Prosthesis, breast (implantable)",$83-$4000
+204,C1813,Implantables/ Stents/ Pacemakers,"Prosthesis, penile, inflatable",$1905-$11355
+205,C1815,Implantables/ Stents/ Pacemakers,"Prosthesis, urinary sphincter",$4300-$20600
+206,C1820,Generator,"Generator, neurostimulator, with rechargeable battery and charging system ","$31,850"
+207,C1874,Cardiac/ Stents/ Pacemaker,"Stent, coated/covered, with delivery system ",$110-$31930
+208,C1876,Cardiac/ Stents/ Pacemaker,"Stent, non-coated/non-covered, with delivery system ",$1000-$5175
+209,C1877,Cardiac/ Stents/ Pacemaker,"Stent, non-coated/non-covered, without delivery system","$11,000"
+210,C1878,Implantables/ Stents/ Pacemakers,"Material for vocal cord medialization, synthetic (implantable)","$1,150"
+211,C1880,Implantables/ Stents/ Pacemakers,Vena cava filter ,$895-$2543
+212,C1881,Dialysis Supplies,Dialysis access system,$175-$670
+213,C1882,Implantables/ Stents/ Pacemakers,"Cardioverter-defibrillator, other than single or dual chamber ",$41000-$65146
+214,C1883,Cardiac/ Stents/ Pacemaker,"Adapter/extension, pacing lead or neurostimulator lead",$860-$4878
+215,C1886,Catheter,"Catheter, extravascular tissue ablation, any modality (insertable) ","$4,940"
+216,C1887,Catheter,"Catheter, guiding",$23-$1638
+217,C1888,Catheter,"Catheter, ablation, non-cardiac, endovascular (implantable)",$338-$3990
+218,C1892,Introducer/ sheath,"Introducer/sheath, guiding, intracardiac electrophysiological, fixed-curve, peel-away ",$38-$235
+219,C1893,Introducer/ sheath,"Introducer/sheath, guiding, intracardiac electrophysiological, fixed-curve, other than peel-away ",$42-$1530
+220,C1894,Introducer/ sheath,"Introducer/shealth, other than guiding, other than intracardiac electrophysiological, non-laser ",$9-$990
+221,C1895,Cardiac/ Stents/ Pacemaker,"Lead, cardioverter-defibrillator, endocardial dual coil ",$7800-$10528
+222,C1897,Cardiac/ Stents/ Pacemaker,"Lead, neurostimulator test kit",$80-$2724
+223,C1898,Cardiac/ Stents/ Pacemaker,"Lead, pacemaker, other than transvenous vdd single pass",$923-$2000
+224,C1900,Cardiac/ Stents/ Pacemaker,"Lead, left ventricular coronary venous system",$4364-$10380
+225,C2613,Implantables/ Stents/ Pacemakers,Lung biopsy plug with delivery system,$495
+226,C2616,Radiology Supplies,"Brachytherapy source, non-stranded, yttrium-90, per source","$33,000"
+227,C2617,Cardiac/ Stents/ Pacemaker,"Stent, non-coronary, temporary, without delivery system ",$37-$550
+228,C2618,Needles,"Probe/needle, cryoablation",$578-$8250
+229,C2621,Cardiac/ Stents/ Pacemaker,"Pacemaker, other than single or dual chamber ",$16012-$25513
+230,C2623,Catheter,"Catheter, transluminal angioplasty, drug-coated, non-laser",$2095-$5998
+231,C2624,Implantables/ Stents/ Pacemakers,"Implantable wireless pulmonary artery pressure sensor with delivery catheter, including all system components","$36,000"
+232,C2625,Cardiac/ Stents/ Pacemaker,"Stent, non-coronary, temporary, with delivery system",$230-$1395
+233,C2627,Catheter,"Catheter, suprapubic/cystoscopic ",$72-$374
+234,C2628,Catheter,"Catheter, occlusion",$147-$878
+235,C2634,Radiology Supplies,"Brachytherapy source, non-stranded, high activity, iodine-125, greater than 1.01 mci (nist), per source",$101-$280
+236,C2638,Radiology Supplies,"Brachytherapy source, stranded, iodine-125, per source",$66
+237,C2640,Radiology Supplies,"Brachytherapy source, stranded, palladium-103, per source",$110
+238,C2698,Radiology Supplies,"Brachytherapy source, stranded, not otherwise specified, per source",$716
+239,C2699,Radiology Supplies,"Brachytherapy source, non-stranded, not otherwise specified, per source ","$2,645"
+240,G0429,Other Supplies,Dermal filler injection(s) for the treatment of facial lipodystrophy syndrome,$621
+241,K0746,Dressings/Foams,"Wound Care Absorptive wound dressing for use with suction pump, home model, portable, pad size greater than 48 sq in ",$28
+242,L0120,Orthotic and Prosthetic Devices,"Cervical, flexible, non-adjustable, prefabricated, foam collar",$35-$81
+243,L0172,Orthotic and Prosthetic Devices,"Cervical, collar, semi-rigid thermoplastic foam, 2-piece, prefabricated",$87-$88
+244,L1830,Orthotic and Prosthetic Devices,"Knee orthosis, immobilizer, canvas longitudinal, prefabricated",$75-$97
+245,L1930,Orthotic and Prosthetic Devices,"Ankle foot orthosis, plastic or other material, prefabricated, includes fitting and adjustment",$66
+246,L3260,Orthotic and Prosthetic Devices,"Surgical boot/shoe, each ",$21-$30
+247,L3265,Orthotic and Prosthetic Devices,"Orthopedic footwear, Plastazote sandal, each ",$21
+248,L3720,Orthotic and Prosthetic Devices,"Elbow orthosis, double upright with forearm/arm cuffs, free motion, custom fabricated ",$20
+249,L4350,Orthotic and Prosthetic Devices,"Ankle control orthosis, stirrup style, rigid, includes any type interface, prefabricated",$52
+250,L4386,Orthotic and Prosthetic Devices,"Walking boot, non-pneumatic, with or without joints, with or without interface material, prefabricated ",$27
+251,L4398,Orthotic and Prosthetic Devices,"Foot drop splint, recumbent positioning device, prefabricated",$187-$247
+252,L6310,Orthotic and Prosthetic Devices,"Shoulder disarticulation, passive restoration",$38
+253,L7900,Orthotic and Prosthetic Devices,Male vacuum erection system ,$495
+254,L8000,Orthotic and Prosthetic Devices,"Breast prosthesis, mastectomy bra",$71-$261
+255,L8030,Orthotic and Prosthetic Devices,"Breast prosthesis, silicone or equal, without integral adhesive",$97-$700
+256,L8500,Orthotic and Prosthetic Devices,"Artificial larynx, any type ",$91-$875
+257,L8501,Tracheostomy Supplies,Tracheostomy speaking valve ,$22-$797
+258,L8509,Orthotic and Prosthetic Devices,"Tracheo-esophageal voice prosthesis, inserted by a licensed health care provider, any type",$138-$885
+259,L8511,Other Supplies,"Insert for indwelling tracheoesophageal prosthesis, replacement only, each",$74-$138
+260,L8512,Other Supplies,"Gelatin capsules or equivalent, for use with tracheoesophageal voice prosthesis, replacement only, per 10 ",$53
+261,L8513,Dressings/Foams,"Cleaning device used with tracheoesophageal voice prosthesis, pipet, brush, or equal, replacement only, each",$27-$87
+262,L8600,Orthotic and Prosthetic Devices,"Implantable breast prosthesis, silicone or equal ",$950-$4000
+263,L8603,Orthotic and Prosthetic Devices,"Injectable bulking agent, collagen implant, urinary tract, 2.5 ml syringe, includes shipping and necessary supplies ",$596-$990
+264,L8610,Orthotic and Prosthetic Devices,Ocular implant,$34-$1790
+265,L8612,Orthotic and Prosthetic Devices,Aqueous shunt,$122-$7900
+266,L8680,Orthotic and Prosthetic Devices,"Implantable neurostimulator electrode, each",$230-$15278
+267,L8686,Orthotic and Prosthetic Devices,"Implantable neurostimulator pulse generator, single array, non-rechargeable, includes extension ","$21,504"
+268,L8691,Other Supplies,"Auditory osseointegrated device, external sound processor, excludes transducer/actuator, replacement only, each ",$4950-$5400
+269,L8699,Orthotic and Prosthetic Devices,"Prosthetic implant, not otherwise specified",$13-$19656
+270,L9900,Orthotic and Prosthetic Devices,"Orthotic and prosthetic supply, accessory, and/or service component",$112-$1400
+271,Q4051,Orthotic and Prosthetic Devices,"Splint supplies, miscellaneous ",$77-$86
+272,Q4100,Skin Substitutes,"Skin substitute, not otherwise specified",$1536-$2701
+273,Q9967,Radiology Supplies,"Low osmolar contrast material, 300-399 mg/ml iodine concentration, per ml",$94-$212
+274,V2628,Hearing aids and supplies,Fabrication and fitting of ocular conformer,$38
+275,V2790,Other Supplies,"Amniotic membrane for surgical reconstruction, per procedure",$1540-$1898
+276,V5180,Hearing aids and supplies,"Hearing aid, cros, behind the ear ",$875-$3564
+277,V5254,Hearing aids and supplies,"Hearing aid, digital, monaural",$85-$3000
+278,V5257,Hearing aids and supplies,"Hearing aid, digital, monaural",$1200-$2450
+279,V5258,Hearing aids and supplies,"Hearing aid, digital, binaural",$3600-$6000
+280,V5261,Hearing aids and supplies,"Hearing aid, digital, binaural, bte",$1200-$4900
+281,V5266,Hearing aids and supplies,Battery for use in hearing device,$8
+,,,FY2019_2018_12_12_MDACC_PriceTransparency_CRR_ABG_FINAL,

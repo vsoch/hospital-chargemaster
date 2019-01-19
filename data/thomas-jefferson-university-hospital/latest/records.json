@@ -1,0 +1,50 @@
+[
+    {
+        "hospital_id": "thomas-jefferson-university-hospital",
+        "filename": "TJUH_Price_Transparency_MS-DRGs_12.21.2018.csv",
+        "date": "2019-01-19",
+        "uri": "diagnostic-related-group",
+        "name": "Diagnostic Related Group",
+        "url": "https://hospitals.jefferson.edu/content/dam/health/Images/Patients-and-Visitors/TJUH_Price_Transparency_MS-DRGs_12.21.2018.csv"
+    },
+    {
+        "hospital_id": "thomas-jefferson-university-hospital",
+        "filename": "CC_Procedures_PB_Clinics.csv",
+        "date": "2019-01-19",
+        "uri": "general---clinics",
+        "name": "General - Clinics",
+        "url": "https://hospitals.jefferson.edu/content/dam/health/Images/Patients-and-Visitors/CC_Procedures_PB_Clinics.csv"
+    },
+    {
+        "hospital_id": "thomas-jefferson-university-hospital",
+        "filename": "CC_Procedures_Methodist.csv",
+        "date": "2019-01-19",
+        "uri": "general---methodist",
+        "name": "General - Methodist",
+        "url": "https://hospitals.jefferson.edu/content/dam/health/Images/Patients-and-Visitors/CC_Procedures_Methodist.csv"
+    },
+    {
+        "hospital_id": "thomas-jefferson-university-hospital",
+        "filename": "CC_Procedures_TJUH.csv",
+        "date": "2019-01-19",
+        "uri": "general---thomas-jefferson-university-hospital",
+        "name": "General - Thomas Jefferson University Hospital",
+        "url": "https://hospitals.jefferson.edu/content/dam/health/Images/Patients-and-Visitors/CC_Procedures_TJUH.csv"
+    },
+    {
+        "hospital_id": "thomas-jefferson-university-hospital",
+        "filename": "CC_Supplies.csv",
+        "date": "2019-01-19",
+        "uri": "supplies",
+        "name": "Supplies",
+        "url": "https://hospitals.jefferson.edu/content/dam/health/Images/Patients-and-Visitors/CC_Supplies.csv"
+    },
+    {
+        "hospital_id": "thomas-jefferson-university-hospital",
+        "filename": "CC_Medications.csv",
+        "date": "2019-01-19",
+        "uri": "medications",
+        "name": "Medications",
+        "url": "https://hospitals.jefferson.edu/content/dam/health/Images/Patients-and-Visitors/CC_Medications.csv"
+    }
+]

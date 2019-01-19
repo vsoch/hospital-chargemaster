@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "sunrise-hospital-and-medical-center",
+        "filename": "FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv",
+        "date": "2019-01-19",
+        "uri": "FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv",
+        "name": "FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv"
+    },
+    {
+        "hospital_id": "sunrise-hospital-and-medical-center",
+        "filename": "FarWestDivision_SunriseHospitalAndMedicalCenter_CM.csv",
+        "date": "2019-01-19",
+        "uri": "FarWestDivision_SunriseHospitalAndMedicalCenter_CM.csv",
+        "name": "FarWestDivision_SunriseHospitalAndMedicalCenter_CM.csv",
+        "url": "https://core.secure.ehc.com/src/util/detail-price-list/FarWestDivision_SunriseHospitalAndMedicalCenter_CM.csv"
+    }
+]

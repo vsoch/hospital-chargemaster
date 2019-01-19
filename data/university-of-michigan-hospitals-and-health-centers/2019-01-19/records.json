@@ -1,0 +1,26 @@
+[
+    {
+        "hospital_id": "university-of-michigan-hospitals-and-health-centers",
+        "filename": "PUBLISHCHGSBYDRG.xlsx",
+        "date": "2019-01-19",
+        "uri": "attached-listing-of-drgs",
+        "name": "attached listing of DRGs",
+        "url": "http://www.med.umich.edu/pdf/price--transparency/PUBLISHCHGSBYDRG.xlsx"
+    },
+    {
+        "hospital_id": "university-of-michigan-hospitals-and-health-centers",
+        "filename": "PUBLISH-STANDARD-CHARGES.xlsx",
+        "date": "2019-01-19",
+        "uri": "michigan-medicine-standard-charges",
+        "name": "Michigan Medicine Standard Charges",
+        "url": "http://www.med.umich.edu/pdf/price-transparency/PUBLISH-STANDARD-CHARGES.xlsx"
+    },
+    {
+        "hospital_id": "university-of-michigan-hospitals-and-health-centers",
+        "filename": "PUBLISH-STANDARD-ROOM-CHARGES.xlsx",
+        "date": "2019-01-19",
+        "uri": "michigan-medicine-standard-room-charges",
+        "name": "Michigan Medicine Standard Room Charges",
+        "url": "http://www.med.umich.edu/pdf/price-transparency/PUBLISH-STANDARD-ROOM-CHARGES.xlsx"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "west-jersey-health-system",
+        "filename": "VirtuaCDMExtract.csv",
+        "date": "2019-01-19",
+        "uri": "virtua's-chargemaster",
+        "name": "Virtua's chargemaster",
+        "url": "https://www.virtua.org/-/media/Files/Virtua Enterprise/Virtua Corporate/Virtua/documents/VirtuaCDMExtract.ashx?la=en"
+    },
+    {
+        "hospital_id": "west-jersey-health-system",
+        "filename": "Virtua CDM Top 50 DRGs 1-4-19.csv",
+        "date": "2019-01-19",
+        "uri": "top-drg-prices",
+        "name": "Top DRG Prices",
+        "url": "https://www.virtua.org/-/media/Files/Virtua Enterprise/Virtua Corporate/Virtua/documents/Virtua CDM Top 50 DRGs 1-4-19.ashx?la=en"
+    }
+]

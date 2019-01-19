@@ -1,0 +1,34 @@
+[
+    {
+        "hospital_id": "rush-university-medical-center",
+        "filename": "rumc-pricing-2019.csv",
+        "date": "2019-01-18",
+        "uri": "csv",
+        "name": "CSV",
+        "url": "http://roph.org/sites/default/files/rumc-pricing-2019.csv"
+    },
+    {
+        "hospital_id": "rush-university-medical-center",
+        "filename": "rumc-msdrg-charges-2019.csv",
+        "date": "2019-01-18",
+        "uri": "csv",
+        "name": "CSV",
+        "url": "http://roph.org/sites/default/files/rumc-msdrg-charges-2019.csv"
+    },
+    {
+        "hospital_id": "rush-university-medical-center",
+        "filename": "2019-SUPPLY-PRICING-RUMC.csv",
+        "date": "2019-01-18",
+        "uri": "csv",
+        "name": "CSV",
+        "url": "/sites/default/files/2019-SUPPLY-PRICING-RUMC.csv"
+    },
+    {
+        "hospital_id": "rush-university-medical-center",
+        "filename": "rumc-pharmacy-pricing-2019.csv",
+        "date": "2019-01-18",
+        "uri": "csv",
+        "name": "CSV",
+        "url": "http://roph.org/sites/default/files/rumc-pharmacy-pricing-2019.csv"
+    }
+]
