@@ -53,7 +53,21 @@ that each folder is a modular solution to retrieve the data. If you are interest
 one hospital, you can use the folder on its own. The one exception is with the browser (Chrome)
 driver that is shared in the [drivers](drivers) folder at the root of the repository.
 
-### 3. Automation
+### 5. Parsing
+
+This is likely one of the hardest steps. I wanted to see the extent to which I could
+create a simple parser that would generate a single TSV (tab separted value) file
+per hospital, with minimally an identifier for a charge, and a price in dollars. If
+provided, I would also include a description and code:
+
+ - price_dollars
+ - charge_code
+ - description
+
+Each of these parsers is also in the hospital subfolder, and named as "parser.py."
+The parser would output a data.tsv file at the top level of the folder.
+
+### 4. Automation
 
 In order to make this automated, we will do the following:
 
