@@ -38,6 +38,7 @@ def process_dataroot(content, df, filename):
 
     for entry in content['dataroot'][hospital_id]:
         # ed means entry dict
+        idx = df.shape[0] + 1
         ed = dict()
         for item, value in entry.items():
             if "code" in item.lower():
@@ -47,7 +48,7 @@ def process_dataroot(content, df, filename):
             elif "price" in item.lower():
                 ed['price'] = value
         row = [ed['charge_code'], ed['price'], ed['description'], hospital_id, filename]
-        df = df.append(row)
+        df.loc[idx, :] = row
 
     return df
 
@@ -62,12 +63,22 @@ def process_workbook(content, df, hospital_id, filename):
         df.loc[idx, :] = items
     return df
 
+
+seen = []
 for result in results:
     filename = os.path.join(latest, result['filename'])
     if not os.path.exists(filename):
         print('%s is not found in latest folder.' % filename)
         continue
 
+    if os.stat(filename).st_size == 0:
+        print('%s is empty, skipping.' % filename)
+        continue
+
+    if result['filename'] in seen:
+        continue
+
+    seen.append(result['filename'])
     print('Parsing %s' % filename)
 
     # Option 1: parse an XML file
@@ -78,7 +89,8 @@ for result in results:
         if "dataroot" in content:
             df = process_dataroot(content, df, filename)
         elif "Workbook" in content:
-            df = process_workbook(content, df, result['uri'], filename)
+            df = process_workbook(content, df, result['uri'], result['filename'])
 
-# Save data
-df.to_csv(output_data, sep='\t')
+    # Save data as we go
+    print(df.shape)
+    df.to_csv(output_data, sep='\t', index=False)

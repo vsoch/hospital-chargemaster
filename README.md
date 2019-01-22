@@ -65,7 +65,7 @@ provided, I would also include a description and code:
  - description
 
 Each of these parsers is also in the hospital subfolder, and named as "parser.py."
-The parser would output a data.tsv file at the top level of the folder.
+The parser would output a data-latest.tsv file at the top level of the folder.
 
 ### 4. Automation
 
