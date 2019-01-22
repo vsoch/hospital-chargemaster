@@ -60,15 +60,19 @@ create a simple parser that would generate a single TSV (tab separted value) fil
 per hospital, with minimally an identifier for a charge, and a price in dollars. If
 provided, I would also include a description and code:
 
- - price_dollars
- - charge_code
- - description
+ - **charge_code**
+ - **price**
+ - **description**
+ - **hospital_id**
+ - **filename**
 
 Each of these parsers is also in the hospital subfolder, and named as "parser.py."
 The parser would output a data-latest.tsv file at the top level of the folder, along with a dated (by year `data-<year>.tsv`). Currently I'm just parsing standard charges (although DRG or diagnostic related group) data might also be provided in the folder.
 
 ### 4. Automation
 
+This would likely need to be done on a yearly basis, and it is unlikely the hospitals
+would go out of their way to update the documents any more frequently than they are required.
 In order to make this automated, we will do the following:
 
  1. Set the repository up with continuous integration, scheduled to run once a month
