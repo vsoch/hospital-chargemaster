@@ -4,11 +4,14 @@ import os
 from glob import glob
 import json
 import pandas
+import datetime
 
 here = os.path.dirname(os.path.abspath(__file__))
 folder = os.path.basename(here)
-output_data = os.path.join(here, 'data-latest.tsv')
 latest = '%s/latest' % here
+year = datetime.datetime.today().year
+output_data = os.path.join(here, 'data-latest.tsv')
+output_year = os.path.join(here, 'data-%s.tsv' % year)
 
 # Don't continue if we don't have latest folder
 if not os.path.exists(latest):
@@ -27,6 +30,7 @@ with open(results_json, 'r') as filey:
 columns = ['charge_code', 'price', 'description', 'hospital_id', 'filename']
 df = pandas.DataFrame(columns=columns)
 
+# First parse standard charges (doesn't have DRG header)
 for result in results:
     filename = os.path.join(latest, result['filename'])
     if not os.path.exists(filename):
@@ -37,19 +41,32 @@ for result in results:
         print('%s is empty, skipping.' % filename)
         continue
 
-    print('Parsing %s' % filename)
-
-    # We currently just have csv
+    # Facility', 'DRG', 'DRG Description', 'Average Covered Charges
     if filename.endswith('csv'):
         content = pandas.read_csv(filename)
+        if "CC" not in content.columns:
+            continue
 
-    # The csv columns are DESCRIPTION and CHARGE
-    df.loc[:, 'price'] = content['CHARGE']
-    df.loc[:, 'description'] = content['DESCRIPTION']
+    # We need to combine Facility, DRG, 
+    print("Parsing %s" % filename)
 
-    # Remove empty rows
-    df = df.dropna(how='all')
+    # Find the fee column
+    pricecol = [x for x in content.columns if "Fee" in x][0]
 
-    # Save data as we go
-    print(df.shape)
-    df.to_csv(output_data, sep='\t', index=False)
+    # Update by row
+    for row in content.iterrows():
+        idx = df.shape[0] + 1
+        entry = [row[1].CC,        # charge code
+                 row[1][pricecol], # price
+                 row[1]["CC Description"],
+                 row[1].Facility,
+                 result['filename']]
+        df.loc[idx,:] = entry
+
+# Remove empty rows
+df = df.dropna(how='all')
+
+# Save data!
+print(df.shape)
+df.to_csv(output_data, sep='\t', index=False)
+df.to_csv(output_year, sep='\t', index=False)

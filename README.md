@@ -65,7 +65,7 @@ provided, I would also include a description and code:
  - description
 
 Each of these parsers is also in the hospital subfolder, and named as "parser.py."
-The parser would output a data-latest.tsv file at the top level of the folder.
+The parser would output a data-latest.tsv file at the top level of the folder, along with a dated (by year `data-<year>.tsv`). Currently I'm just parsing standard charges (although DRG or diagnostic related group) data might also be provided in the folder.
 
 ### 4. Automation
 

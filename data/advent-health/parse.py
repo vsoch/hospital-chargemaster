@@ -4,11 +4,16 @@ import os
 import xmltodict
 from glob import glob
 import json
+import datetime
 import pandas
 
 here = os.path.dirname(os.path.abspath(__file__))
 folder = os.path.basename(here)
+
+year = datetime.datetime.today().year
 output_data = os.path.join(here, 'data-latest.tsv')
+output_year = os.path.join(here, 'data-%s.tsv' % year)
+
 latest = '%s/latest' % here
 
 # Don't continue if we don't have latest folder
@@ -94,3 +99,4 @@ for result in results:
     # Save data as we go
     print(df.shape)
     df.to_csv(output_data, sep='\t', index=False)
+    df.to_csv(output_year, sep='\t', index=False)
