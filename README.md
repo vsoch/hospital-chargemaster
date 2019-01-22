@@ -76,10 +76,7 @@ There are several known issues:
  - The prices sometimes have dollar signs. I kept prices in the original format because I didn't want to mess with units.
  - Some original scraping downloads failed if the files were huge (and resulted in an empty file)
 
-If you will like to [open a pull request]() to add missing data or fix an issue,
-it would be greatly appreciated! My original work was optimized for efficiency and so
-I didn't go back (yet) to fix all the tiny details, knowing that the community could
-come in to contribute and help.
+If you will like to [open a pull request](https://www.github.com/vsoch/hospital-chargemaster) to add missing data or fix an issue, it would be greatly appreciated! My original work was optimized for efficiency and so I didn't go back (yet) to fix all the tiny details, knowing that the community could come in to contribute and help.
 
 ### 7. (Future) Automation
 

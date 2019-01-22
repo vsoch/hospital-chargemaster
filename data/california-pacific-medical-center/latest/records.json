@@ -14,21 +14,5 @@
         "uri": "chargemaster-2019.json",
         "name": "chargemaster-2019.json",
         "url": "https://www.sutterhealth.org/cpmc/sites/sutterhealth/for-patients/chargemaster-2019.json"
-    },
-    {
-        "hospital_id": "california-pacific-medical-center",
-        "filename": "chargemaster-2019.xlsx",
-        "date": "2019-01-17",
-        "uri": "chargemaster-2019.xlsx",
-        "name": "chargemaster-2019.xlsx",
-        "url": "https://www.sutterhealth.org/sites/sutterhealth/for-patients/chargemaster-2019.xlsx"
-    },
-    {
-        "hospital_id": "california-pacific-medical-center",
-        "filename": "chargemaster-2019.json",
-        "date": "2019-01-17",
-        "uri": "chargemaster-2019.json",
-        "name": "chargemaster-2019.json",
-        "url": "https://www.sutterhealth.org/cpmc/sites/sutterhealth/for-patients/chargemaster-2019.json"
     }
 ]
