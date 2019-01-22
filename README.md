@@ -69,7 +69,19 @@ provided, I would also include a description and code:
 Each of these parsers is also in the hospital subfolder, and named as "parser.py."
 The parser would output a data-latest.tsv file at the top level of the folder, along with a dated (by year `data-<year>.tsv`). Currently I'm just parsing standard charges (although DRG or diagnostic related group) data might also be provided in the folder.
 
-### 4. Automation
+### 6. What if I have an issue?
+
+There are several known issues:
+
+ - The prices sometimes have dollar signs. I kept prices in the original format because I didn't want to mess with units.
+ - Some original scraping downloads failed if the files were huge (and resulted in an empty file)
+
+If you will like to [open a pull request]() to add missing data or fix an issue,
+it would be greatly appreciated! My original work was optimized for efficiency and so
+I didn't go back (yet) to fix all the tiny details, knowing that the community could
+come in to contribute and help.
+
+### 7. (Future) Automation
 
 This would likely need to be done on a yearly basis, and it is unlikely the hospitals
 would go out of their way to update the documents any more frequently than they are required.
