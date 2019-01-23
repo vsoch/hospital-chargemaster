@@ -32,7 +32,7 @@ for entry in soup.find_all('a', href=True):
         entry_uri = entry_name.strip().lower().replace(' ','-')
 
         # Some filenames are repeated (CFR)
-        filename = "%s-%s" %(entry_uri, filename)
+        filename = "%s-%s" %(entry_uri, filename).strip()
 
         # We want to get the original file, not write a new one
         output_file = os.path.join(outdir, filename)

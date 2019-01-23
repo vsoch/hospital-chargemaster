@@ -105,7 +105,7 @@
     },
     {
         "hospital_id": "adventhealth-new-smyrna-beach",
-        "filename": "adventhealth-new-smyrna-beach-New%20Smyrna%20Beach.xml  ",
+        "filename": "adventhealth-new-smyrna-beach.xml",
         "date": "2019-01-17",
         "uri": "adventhealth-new-smyrna-beach",
         "name": "AdventHealth New Smyrna Beach",
@@ -217,7 +217,7 @@
     },
     {
         "hospital_id": "adventhealth-murray",
-        "filename": "adventhealth-murray-Murray.xml ",
+        "filename": "adventhealth-murray-Murray.xml",
         "date": "2019-01-17",
         "uri": "adventhealth-murray",
         "name": "AdventHealth Murray",
