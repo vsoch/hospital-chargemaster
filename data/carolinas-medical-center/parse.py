@@ -7,7 +7,7 @@ import pandas
 import codecs
 import datetime
 
-#here = os.path.dirname(os.path.abspath(__file__))
+here = os.path.dirname(os.path.abspath(__file__))
 folder = os.path.basename(here)
 latest = '%s/latest' % here
 year = datetime.datetime.today().year
@@ -28,7 +28,13 @@ if not os.path.exists(results_json):
 with open(results_json, 'r') as filey:
     results = json.loads(filey.read())
 
-columns = ['charge_code', 'price', 'description', 'hospital_id', 'filename']
+columns = ['charge_code', 
+           'price', 
+           'description', 
+           'hospital_id', 
+           'filename', 
+           'charge_type']
+
 df = pandas.DataFrame(columns=columns)
 
 # First parse standard charges (doesn't have DRG header)
@@ -44,6 +50,10 @@ for result in results:
 
     print("Parsing %s" % filename)
 
+    charge_type = 'standard'
+    if "DRG" in filename:
+        charge_type = 'drg'
+
     if filename.endswith('csv'):
         # Item ID,Item Description,Average Charge Per Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
         # They are having trouble exporting csv, so we need to parse 
@@ -53,13 +63,27 @@ for result in results:
         # Item ID,Item Description,Average Charge Per Unit
         for line in lines:
             idx = df.shape[0] + 1
+
+            if charge_type == "standard":
                      # charge_code, description, price 
-            items = [x.strip() for x in line.split(',')[0:3]]
-            entry = [items[0],   # charge code
-                     items[2],   # price
-                     items[1],   # description
-                     result['hospital_id'],             # hospital_id
-                     result['filename']]                # filename
+                items = [x.strip() for x in line.split(',')[0:3]]
+                entry = [items[0],   # charge code
+                         items[2],   # price
+                         items[1],   # description
+                         result['hospital_id'],             # hospital_id
+                         result['filename'],
+                         charge_type]                
+
+            # DRG Definition,Provider Id,Provider Name,Average Covered Charges
+            else:
+                items = [x.strip() for x in line.split(',')[0:4]]
+                price = items[3].replace('$','').replace(',','').strip()
+                entry = [items[1],   # charge code
+                         price,      # price
+                         items[0],   # description
+                         items[2],   # hospital_id
+                         result['filename'],
+                         charge_type]                
             df.loc[idx,:] = entry
 
 # Remove empty rows

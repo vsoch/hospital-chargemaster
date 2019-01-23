@@ -6,8 +6,7 @@ import json
 import pandas
 import datetime
 
-here = os.getcwd()
-#here = os.path.dirname(os.path.abspath(__file__))
+here = os.path.dirname(os.path.abspath(__file__))
 folder = os.path.basename(here)
 latest = '%s/latest' % here
 year = datetime.datetime.today().year
@@ -28,7 +27,13 @@ if not os.path.exists(results_json):
 with open(results_json, 'r') as filey:
     results = json.loads(filey.read())
 
-columns = ['charge_code', 'price', 'description', 'hospital_id', 'filename']
+columns = ['charge_code', 
+           'price', 
+           'description', 
+           'hospital_id', 
+           'filename', 
+           'charge_type']
+
 df = pandas.DataFrame(columns=columns)
 
 # First parse standard charges (doesn't have DRG header)
@@ -47,6 +52,7 @@ for result in results:
  
     print("Parsing %s" % filename)
 
+
     # Update by row
     # 'FACILITY', 
     # 'CMS_PROV_ID', 
@@ -58,17 +64,31 @@ for result in results:
     # 'CHARGE']
     for row in content.iterrows():
 
-        if not isinstance(row[1].CDM, (int, float,)):
-            if "DRG" in row[1].CDM: 
-                continue
+        if row[1].SERVICE_SETTING == 'IP':
+            charge_type = 'inpatient'
+        elif row[1].SERVICE_SETTING == 'OP':
+            charge_type = 'outpatient'
+        elif row[1].SERVICE_SETTING == 'DRG':
+            charge_type = 'drg'
+        elif row[1].SERVICE_SETTING == 'SUP':
+            charge_type = 'supply'
+        elif row[1].SERVICE_SETTING == 'RX':
+            charge_type = 'pharmacy'
+        
+        # Charge code can be revene code or CDM ?
+        charge_code = row[1].REVENUE_CODE
+        if pandas.isnull(charge_code):
+            charge_code = row[1].CDM
 
         idx = df.shape[0] + 1
-        entry = [row[1]["REVENUE_CODE"],      # charge code
+        entry = [charge_code,                 # charge code
                  row[1]["CHARGE"],            # price
                  row[1]['DESCRIPION'],        # description
                  row[1]["HOSPITAL_NAME"],     # hospital_id
-                 result['filename']]          # filename
+                 result['filename'],
+                 charge_type] 
         df.loc[idx,:] = entry
+
 
 # Remove empty rows
 df = df.dropna(how='all')
