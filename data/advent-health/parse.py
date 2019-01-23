@@ -30,7 +30,13 @@ if not os.path.exists(results_json):
 with open(results_json, 'r') as filey:
     results = json.loads(filey.read())
 
-columns = ['charge_code', 'price', 'description', 'hospital_id', 'filename']
+columns = ['charge_code', 
+           'price', 
+           'description', 
+           'hospital_id', 
+           'filename', 
+           'charge_type']
+
 df = pandas.DataFrame(columns=columns)
 
 # Helper Functions - different formats of XML
@@ -52,7 +58,7 @@ def process_dataroot(content, df, filename):
                 ed['description'] = value
             elif "price" in item.lower():
                 ed['price'] = value
-        row = [ed['charge_code'], ed['price'], ed['description'], hospital_id, filename]
+        row = [ed['charge_code'], ed['price'], ed['description'], hospital_id, filename, "standard"]
         df.loc[idx, :] = row
 
     return df
@@ -60,11 +66,12 @@ def process_dataroot(content, df, filename):
 
 def process_workbook(content, df, hospital_id, filename):    
     # First row is header
-    for r in  range(1, len(content['Workbook']['Worksheet']['Table']['Row'])):
+    for r in range(1, len(content['Workbook']['Worksheet']['Table']['Row'])):
         idx = df.shape[0] + 1
+        row = content['Workbook']['Worksheet']['Table']['Row'][r]
         description = row['Cell'][0]['Data']['#text']
         price = row['Cell'][1]['Data']['#text']
-        items = [None, price, description, hospital_id, filename]
+        items = [None, price, description, hospital_id, filename, "standard"]
         df.loc[idx, :] = items
     return df
 

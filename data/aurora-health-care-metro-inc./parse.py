@@ -6,7 +6,8 @@ import json
 import pandas
 import datetime
 
-here = os.path.dirname(os.path.abspath(__file__))
+here = os.getcwd()
+#here = os.path.dirname(os.path.abspath(__file__))
 folder = os.path.basename(here)
 
 year = datetime.datetime.today().year
@@ -29,7 +30,13 @@ if not os.path.exists(results_json):
 with open(results_json, 'r') as filey:
     results = json.loads(filey.read())
 
-columns = ['charge_code', 'price', 'description', 'hospital_id', 'filename']
+columns = ['charge_code', 
+           'price', 
+           'description', 
+           'hospital_id', 
+           'filename', 
+           'charge_type']
+
 df = pandas.DataFrame(columns=columns)
 
 for result in results:
@@ -43,6 +50,12 @@ for result in results:
         continue
 
     print('Parsing %s' % filename)
+
+    # Determine charge type - drg or standard
+    if "drg" in filename:
+        charge_type = "drg"
+    else:
+        charge_type = "standard"
 
     # We currently just have csv
     if filename.endswith('csv'):

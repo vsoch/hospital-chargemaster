@@ -66,8 +66,12 @@ provided, I would also include a description and code:
  - **hospital_id**
  - **filename**
 
-Each of these parsers is also in the hospital subfolder, and named as "parser.py."
-The parser would output a data-latest.tsv file at the top level of the folder, along with a dated (by year `data-<year>.tsv`). Currently I'm just parsing standard charges (although DRG or diagnostic related group) data might also be provided in the folder.
+Each of these parsers is also in the hospital subfolder, and named as "parser.py." The parser would output a data-latest.tsv file at the top level of the folder, along with a dated (by year `data-<year>.tsv`). Currently I'm just parsing standard charges (although DRG or diagnostic related group) data might also be provided in the folder. At some point
+I realized that there were different kinds of charges, including inpatient, outpatient, DRG (diagnostic related group) and others called
+"standard" or "average." I then went back and added an additional column
+to the data:
+
+ - **charge_type** can be one of standard, average, inpatient, outpatient, (or drg?). If not specified, I labeled as standard, because this would be a good assumption.
 
 ### 6. What if I have an issue?
 
