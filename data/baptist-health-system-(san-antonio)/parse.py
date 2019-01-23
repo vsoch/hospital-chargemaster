@@ -27,8 +27,36 @@ if not os.path.exists(results_json):
 with open(results_json, 'r') as filey:
     results = json.loads(filey.read())
 
-columns = ['charge_code', 'price', 'description', 'hospital_id', 'filename']
+columns = ['charge_code', 
+           'price', 
+           'description', 
+           'hospital_id', 
+           'filename', 
+           'charge_type']
+
 df = pandas.DataFrame(columns=columns)
+
+def process_drg(content, result, df):
+    '''the drg flie is a matrix of hospitals (columns) by price, needs
+       different processing
+    '''
+    for row in content.iterrows():
+        hospitals = [x for x in row[1].index.tolist() if "DRG" not in x]
+        prices = [x for x in row[1].tolist() if not isinstance(x,str)]
+        charge_code = row[1]['DRG Code'].split('-')[0].strip()
+        for i in range(len(prices)):
+            price = prices[i]
+            hospital = hospitals[i]
+            idx = df.shape[0] + 1
+    
+            entry = [charge_code,                 # charge code
+                     price,                # price
+                     row[1]['DRG Code'],   # description
+                     hospital,             # hospital_id
+                     result['filename'],
+                     "drg"]
+        df.loc[idx,:] = entry
+    return df
 
 # First parse standard charges (doesn't have DRG header)
 for result in results:
@@ -43,13 +71,14 @@ for result in results:
 
     if filename.endswith('xlsx'):
         content = pandas.read_excel(filename)
- 
-    # Skip DRG file
-    if 'DRG Code' in content.columns:
-        continue
 
     # We need to combine Facility, DRG, 
     print("Parsing %s" % filename)
+ 
+    # Single DRG file is processed differently
+    if 'DRG Code' in content.columns:
+        df = process_drg(content, result, df)
+        continue
 
     # Update by row
     # ['CDM NAME', 'HOSPITAL', 'TECHNICAL DESCRIPTION', 'TOTAL CHARGE']
@@ -59,7 +88,8 @@ for result in results:
                  row[1]["TOTAL CHARGE"],            # price
                  row[1]["TECHNICAL DESCRIPTION"],   # description
                  row[1].HOSPITAL,                   # hospital_id
-                 result['filename']]                # filename
+                 result['filename'],
+                 'standard']                        # filename
         df.loc[idx,:] = entry
 
 # Remove empty rows

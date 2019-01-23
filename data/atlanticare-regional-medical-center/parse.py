@@ -6,7 +6,7 @@ import json
 import pandas
 import datetime
 
-here = os.path.dirname(os.path.abspath(__file__))
+#here = os.path.dirname(os.path.abspath(__file__))
 folder = os.path.basename(here)
 latest = '%s/latest' % here
 year = datetime.datetime.today().year
@@ -27,7 +27,13 @@ if not os.path.exists(results_json):
 with open(results_json, 'r') as filey:
     results = json.loads(filey.read())
 
-columns = ['charge_code', 'price', 'description', 'hospital_id', 'filename']
+columns = ['charge_code', 
+           'price', 
+           'description', 
+           'hospital_id', 
+           'filename', 
+           'charge_type']
+
 df = pandas.DataFrame(columns=columns)
 
 # First parse standard charges (doesn't have DRG header)
@@ -44,23 +50,19 @@ for result in results:
     # Facility', 'DRG', 'DRG Description', 'Average Covered Charges
     if filename.endswith('csv'):
         content = pandas.read_csv(filename)
-        if "CC" not in content.columns:
-            continue
 
     # We need to combine Facility, DRG, 
     print("Parsing %s" % filename)
 
-    # Find the fee column
-    pricecol = [x for x in content.columns if "Fee" in x][0]
-
     # Update by row
     for row in content.iterrows():
         idx = df.shape[0] + 1
-        entry = [row[1].CC,        # charge code
-                 row[1][pricecol], # price
-                 row[1]["CC Description"],
-                 row[1].Facility,
-                 result['filename']]
+        entry = [None,          # charge code
+                 row[1].CHARGE, # price
+                 row[1].DESCRIPTION,
+                 result['hospital_id'],
+                 result['filename'], 
+                 'standard']
         df.loc[idx,:] = entry
 
 # Remove empty rows

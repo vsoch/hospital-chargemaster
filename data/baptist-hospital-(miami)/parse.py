@@ -6,7 +6,7 @@ import json
 import pandas
 import datetime
 
-#here = os.path.dirname(os.path.abspath(__file__))
+here = os.path.dirname(os.path.abspath(__file__))
 folder = os.path.basename(here)
 latest = '%s/latest' % here
 year = datetime.datetime.today().year
@@ -27,7 +27,13 @@ if not os.path.exists(results_json):
 with open(results_json, 'r') as filey:
     results = json.loads(filey.read())
 
-columns = ['charge_code', 'price', 'description', 'hospital_id', 'filename']
+columns = ['charge_code', 
+           'price', 
+           'description', 
+           'hospital_id', 
+           'filename', 
+           'charge_type']
+
 df = pandas.DataFrame(columns=columns)
 
 # We only have one csv file :)
@@ -41,6 +47,9 @@ for result in results:
         print('%s is empty, skipping.' % filename)
         continue
 
+    # Only one entity (hospital)
+    # content.Entity.unique() -> array(['BHM'], dtype=object)
+
     if filename.endswith('csv'):
         content = pandas.read_csv(filename)
  
@@ -51,11 +60,15 @@ for result in results:
     # ['Entity', 'Service Description', 'Price']
     for row in content.iterrows():
         idx = df.shape[0] + 1
+
+        # Remove commas and $ so can be parsed as floats
+        price = row[1]["Price"].replace('$', '').replace(',','').strip()
         entry = [None,                              # charge code
-                 row[1]["Price"],                   # price
+                 price,                             # price
                  row[1]["Service Description"],     # description
                  result['hospital_id'],             # hospital_id
-                 result['filename']]                # filename
+                 result['filename'],
+                 'standard']                        # filename
         df.loc[idx,:] = entry
 
 # Remove empty rows
