@@ -35,7 +35,13 @@ if not os.path.exists(results_json):
 with open(results_json, 'r') as filey:
     results = json.loads(filey.read())
 
-columns = ['charge_code', 'price', 'description', 'hospital_id', 'filename']
+columns = ['charge_code', 
+           'price', 
+           'description', 
+           'hospital_id', 
+           'filename', 
+           'charge_type']
+
 df = pandas.DataFrame(columns=columns)
 
 # First parse standard charges (doesn't have DRG header)
@@ -61,10 +67,10 @@ for result in results:
     if not isinstance(contents, pandas.DataFrame):
         continue
 
-    # We need to combine Facility, DRG, 
     print("Parsing %s" % filename)
 
     # Update by row
+    # it's not clear what a charge code of "I.C." is - an informational code?
     # ['Charge Code', 'Description', 'Charge']
     for row in contents.iterrows():
         idx = df.shape[0] + 1
@@ -72,7 +78,8 @@ for result in results:
                  row[1]["Charge"],                  # price
                  row[1]["Description"],             # description
                  hospital_file,                     # hospital_id
-                 result['filename']]                # filename
+                 result['filename'],
+                 'standard' ]                # filename
         df.loc[idx,:] = entry
 
 # Remove empty rows
