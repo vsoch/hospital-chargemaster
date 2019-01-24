@@ -1,0 +1,1243 @@
+charge_code	price	description	hospital_id	filename	charge_type
+001	1517725.0	001 HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+003	669209.0	003 ECMO OR TRACH W MV >96 HRS OR PDX EXC FACE MOUTH & NECK W MAJ O.R.	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+004	524262.0	004 TRACH W MV >96 HRS OR PDX EXC FACE MOUTH & NECK W/O MAJ O.R.	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+011	335011.5	011 TRACHEOSTOMY FOR FACEMOUTH & NECK DIAGNOSES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+012	108475.0	012 TRACHEOSTOMY FOR FACEMOUTH & NECK DIAGNOSES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+013	98796.0	013 TRACHEOSTOMY FOR FACEMOUTH & NECK DIAGNOSES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+020	136367.0	020 INTRACRANIAL VASCULAR PROCEDURES W PDX HEMORRHAGE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+023	232455.0	023 CRANIO W MAJOR DEV IMPL/ACUTE COMPLEX CNS PDX W MCC OR CHEMO IMPLANT	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+024	262316.0	024 CRANIO W MAJOR DEV IMPL/ACUTE COMPLEX CNS PDX W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+025	196867.0	025 CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+026	139373.0	026 CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+027	133987.0	027 CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+028	276621.0	028 SPINAL PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+029	167787.0	029 SPINAL PROCEDURES W CC OR SPINAL NEUROSTIMULATORS	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+030	79360.0	030 SPINAL PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+031	160934.0	031 VENTRICULAR SHUNT PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+032	105253.0	032 VENTRICULAR SHUNT PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+033	104466.0	033 VENTRICULAR SHUNT PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+034	123868.0	034 CAROTID ARTERY STENT PROCEDURE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+035	95673.0	035 CAROTID ARTERY STENT PROCEDURE W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+036	72073.0	036 CAROTID ARTERY STENT PROCEDURE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+037	96210.0	037 EXTRACRANIAL PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+038	69258.0	038 EXTRACRANIAL PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+039	31570.0	039 EXTRACRANIAL PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+040	138009.5	040 PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+041	86080.0	041 PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W CC OR PERIPH NEUROSTIM	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+042	66188.0	042 PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+052	121374.0	052 SPINAL DISORDERS & INJURIES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+053	80732.5	053 SPINAL DISORDERS & INJURIES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+054	45759.0	054 NERVOUS SYSTEM NEOPLASMS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+055	47201.0	055 NERVOUS SYSTEM NEOPLASMS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+056	76427.0	056 DEGENERATIVE NERVOUS SYSTEM DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+057	68433.0	057 DEGENERATIVE NERVOUS SYSTEM DISORDERS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+058	276089.0	058 MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+059	59642.0	059 MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+060	41273.0	060 MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+061	116353.0	061 ACUTE ISCHEMIC STROKE W USE OF THROMBOLYTIC AGENT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+062	90764.0	062 ACUTE ISCHEMIC STROKE W USE OF THROMBOLYTIC AGENT W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+063	54501.0	063 ACUTE ISCHEMIC STROKE W USE OF THROMBOLYTIC AGENT W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+064	95692.5	064 INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+065	50611.0	065 INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W CC OR TPA IN 24 HRS	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+066	40398.0	066 INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+067	83778.0	067 NONSPECIFIC CVA & PRECEREBRAL OCCLUSION W/O INFARCT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+068	36815.0	068 NONSPECIFIC CVA & PRECEREBRAL OCCLUSION W/O INFARCT W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+069	40712.5	069 TRANSIENT ISCHEMIA W/O THROMBOLYTIC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+070	85515.0	070 NONSPECIFIC CEREBROVASCULAR DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+071	53185.5	071 NONSPECIFIC CEREBROVASCULAR DISORDERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+072	38722.0	072 NONSPECIFIC CEREBROVASCULAR DISORDERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+073	77734.0	073 CRANIAL & PERIPHERAL NERVE DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+074	36212.0	074 CRANIAL & PERIPHERAL NERVE DISORDERS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+075	41510.5	075 VIRAL MENINGITIS W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+076	28431.0	076 VIRAL MENINGITIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+077	53961.5	077 HYPERTENSIVE ENCEPHALOPATHY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+078	48969.0	078 HYPERTENSIVE ENCEPHALOPATHY W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+079	30303.0	079 HYPERTENSIVE ENCEPHALOPATHY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+080	85762.0	080 NONTRAUMATIC STUPOR & COMA W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+081	38598.0	081 NONTRAUMATIC STUPOR & COMA W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+082	148518.0	082 TRAUMATIC STUPOR & COMA COMA >1 HR W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+083	76627.0	083 TRAUMATIC STUPOR & COMA COMA >1 HR W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+084	40843.0	084 TRAUMATIC STUPOR & COMA COMA >1 HR W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+085	97844.0	085 TRAUMATIC STUPOR & COMA COMA <1 HR W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+086	67973.0	086 TRAUMATIC STUPOR & COMA COMA <1 HR W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+087	41076.0	087 TRAUMATIC STUPOR & COMA COMA <1 HR W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+088	80981.0	088 CONCUSSION W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+089	67232.5	089 CONCUSSION W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+090	47721.0	090 CONCUSSION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+091	67690.5	091 OTHER DISORDERS OF NERVOUS SYSTEM W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+092	45619.0	092 OTHER DISORDERS OF NERVOUS SYSTEM W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+093	33475.0	093 OTHER DISORDERS OF NERVOUS SYSTEM W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+094	172723.5	094 BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+095	69693.0	095 BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+096	90853.0	096 BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+097	87753.0	097 NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+098	77639.0	098 NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+099	57783.5	099 NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+100	77277.0	100 SEIZURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+101	34216.5	101 SEIZURES W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+102	21672.0	102 HEADACHES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+103	33229.5	103 HEADACHES W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+113	70746.5	113 ORBITAL PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+115	86214.0	115 EXTRAOCULAR PROCEDURES EXCEPT ORBIT	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+116	70748.5	116 INTRAOCULAR PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+117	52588.0	117 INTRAOCULAR PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+121	35485.0	121 ACUTE MAJOR EYE INFECTIONS W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+122	26875.0	122 ACUTE MAJOR EYE INFECTIONS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+123	30631.0	123 NEUROLOGICAL EYE DISORDERS	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+124	56853.0	124 OTHER DISORDERS OF THE EYE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+125	31069.0	125 OTHER DISORDERS OF THE EYE W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+129	92227.0	129 MAJOR HEAD & NECK PROCEDURES W CC/MCC OR MAJOR DEVICE	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+130	74645.0	130 MAJOR HEAD & NECK PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+131	104376.0	131 CRANIAL/FACIAL PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+132	70160.5	132 CRANIAL/FACIAL PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+133	89068.0	133 OTHER EAR NOSE MOUTH & THROAT O.R. PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+134	44826.0	134 OTHER EAR NOSE MOUTH & THROAT O.R. PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+135	113662.5	135 SINUS & MASTOID PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+136	163166.0	136 SINUS & MASTOID PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+137	44693.0	137 MOUTH PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+138	30808.5	138 MOUTH PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+139	43601.0	139 SALIVARY GLAND PROCEDURES	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+146	122764.0	146 EAR NOSE MOUTH & THROAT MALIGNANCY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+147	53869.0	147 EAR NOSE MOUTH & THROAT MALIGNANCY W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+149	33020.0	149 DYSEQUILIBRIUM	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+150	115260.0	150 EPISTAXIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+151	46074.0	151 EPISTAXIS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+152	28072.0	152 OTITIS MEDIA & URI W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+153	19902.0	153 OTITIS MEDIA & URI W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+154	48946.0	154 OTHER EAR NOSE MOUTH & THROAT DIAGNOSES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+155	28960.0	155 OTHER EAR NOSE MOUTH & THROAT DIAGNOSES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+156	22609.0	156 OTHER EAR NOSE MOUTH & THROAT DIAGNOSES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+157	63044.5	157 DENTAL & ORAL DISEASES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+158	24400.0	158 DENTAL & ORAL DISEASES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+159	24429.0	159 DENTAL & ORAL DISEASES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+163	183536.5	163 MAJOR CHEST PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+164	119383.5	164 MAJOR CHEST PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+165	93283.0	165 MAJOR CHEST PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+166	118044.0	166 OTHER RESP SYSTEM O.R. PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+167	72119.0	167 OTHER RESP SYSTEM O.R. PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+168	53134.5	168 OTHER RESP SYSTEM O.R. PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+175	59036.0	175 PULMONARY EMBOLISM W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+176	44632.0	176 PULMONARY EMBOLISM W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+177	76283.5	177 RESPIRATORY INFECTIONS & INFLAMMATIONS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+178	52793.0	178 RESPIRATORY INFECTIONS & INFLAMMATIONS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+179	32788.0	179 RESPIRATORY INFECTIONS & INFLAMMATIONS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+180	72304.0	180 RESPIRATORY NEOPLASMS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+181	74353.0	181 RESPIRATORY NEOPLASMS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+182	60660.0	182 RESPIRATORY NEOPLASMS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+183	99140.0	183 MAJOR CHEST TRAUMA W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+184	57864.0	184 MAJOR CHEST TRAUMA W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+185	46831.0	185 MAJOR CHEST TRAUMA W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+186	52889.0	186 PLEURAL EFFUSION W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+187	44150.0	187 PLEURAL EFFUSION W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+188	59042.0	188 PLEURAL EFFUSION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+189	65524.0	189 PULMONARY EDEMA & RESPIRATORY FAILURE	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+190	42699.0	190 CHRONIC OBSTRUCTIVE PULMONARY DISEASE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+191	31785.0	191 CHRONIC OBSTRUCTIVE PULMONARY DISEASE W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+192	29189.0	192 CHRONIC OBSTRUCTIVE PULMONARY DISEASE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+193	48519.0	193 SIMPLE PNEUMONIA & PLEURISY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+194	36384.5	194 SIMPLE PNEUMONIA & PLEURISY W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+195	27092.5	195 SIMPLE PNEUMONIA & PLEURISY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+196	44353.0	196 INTERSTITIAL LUNG DISEASE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+197	47511.0	197 INTERSTITIAL LUNG DISEASE W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+198	27722.5	198 INTERSTITIAL LUNG DISEASE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+199	90511.0	199 PNEUMOTHORAX W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+200	71117.5	200 PNEUMOTHORAX W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+201	27655.0	201 PNEUMOTHORAX W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+202	30814.0	202 BRONCHITIS & ASTHMA W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+203	20902.0	203 BRONCHITIS & ASTHMA W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+204	27134.0	204 RESPIRATORY SIGNS & SYMPTOMS	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+205	60248.0	205 OTHER RESPIRATORY SYSTEM DIAGNOSES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+206	35937.0	206 OTHER RESPIRATORY SYSTEM DIAGNOSES W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+207	172904.0	207 RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT >96 HOURS	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+208	79562.0	208 RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT <=96 HOURS	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+215	283552.0	215 OTHER HEART ASSIST SYSTEM IMPLANT	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+216	387389.5	216 CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W CARD CATH W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+217	283459.0	217 CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W CARD CATH W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+218	229706.5	218 CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W CARD CATH W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+219	273770.5	219 CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+220	227389.0	220 CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+221	179832.0	221 CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+222	275786.0	222 CARDIAC DEFIB IMPLANT W CARDIAC CATH W AMI/HF/SHOCK W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+223	202876.0	223 CARDIAC DEFIB IMPLANT W CARDIAC CATH W AMI/HF/SHOCK W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+224	234945.0	224 CARDIAC DEFIB IMPLANT W CARDIAC CATH W/O AMI/HF/SHOCK W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+225	206465.0	225 CARDIAC DEFIB IMPLANT W CARDIAC CATH W/O AMI/HF/SHOCK W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+226	262744.0	226 CARDIAC DEFIBRILLATOR IMPLANT W/O CARDIAC CATH W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+227	199421.0	227 CARDIAC DEFIBRILLATOR IMPLANT W/O CARDIAC CATH W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+228	164629.0	228 OTHER CARDIOTHORACIC PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+229	151231.5	229 OTHER CARDIOTHORACIC PROCEDURES W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+231	467675.0	231 CORONARY BYPASS W PTCA W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+232	260655.5	232 CORONARY BYPASS W PTCA W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+233	330984.0	233 CORONARY BYPASS W CARDIAC CATH W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+234	234782.5	234 CORONARY BYPASS W CARDIAC CATH W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+235	220927.0	235 CORONARY BYPASS W/O CARDIAC CATH W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+236	162705.0	236 CORONARY BYPASS W/O CARDIAC CATH W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+239	111223.0	239 AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+240	79227.0	240 AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+241	41114.0	241 AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+242	131143.5	242 PERMANENT CARDIAC PACEMAKER IMPLANT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+243	90485.0	243 PERMANENT CARDIAC PACEMAKER IMPLANT W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+244	70094.0	244 PERMANENT CARDIAC PACEMAKER IMPLANT W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+245	189746.0	245 AICD GENERATOR PROCEDURES	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+246	129649.0	246 PERCUTANEOUS CARDIOVASCULAR PROCEDURES W DRUG-ELUTING STENT W MCC OR 4+ ARTERIES	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+247	101313.5	247 PERC CARDIOVASC PROC W DRUG-ELUTING STENT W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+249	78848.0	249 PERC CARDIOVASC PROC W NON-DRUG-ELUTING STENT W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+250	100102.5	250 PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+251	85107.0	251 PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+252	101750.0	252 OTHER VASCULAR PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+253	93942.5	253 OTHER VASCULAR PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+254	62029.0	254 OTHER VASCULAR PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+255	90728.0	255 UPPER LIMB & TOE AMPUTATION FOR CIRC SYSTEM DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+256	59527.0	256 UPPER LIMB & TOE AMPUTATION FOR CIRC SYSTEM DISORDERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+257	29364.0	257 UPPER LIMB & TOE AMPUTATION FOR CIRC SYSTEM DISORDERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+258	277514.0	258 CARDIAC PACEMAKER DEVICE REPLACEMENT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+259	61605.0	259 CARDIAC PACEMAKER DEVICE REPLACEMENT W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+260	142765.0	260 CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+261	97464.0	261 CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+262	60989.0	262 CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+264	80226.5	264 OTHER CIRCULATORY SYSTEM O.R. PROCEDURES	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+265	110366.0	265 AICD LEAD PROCEDURES	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+266	252144.0	266 ENDOVASCULAR CARDIAC VALVE REPLACEMENT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+267	231528.5	267 ENDOVASCULAR CARDIAC VALVE REPLACEMENT W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+268	225501.0	268 AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+269	129367.0	269 AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+270	155365.0	270 OTHER MAJOR CARDIOVASCULAR PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+271	133840.0	271 OTHER MAJOR CARDIOVASCULAR PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+272	73413.0	272 OTHER MAJOR CARDIOVASCULAR PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+273	161615.0	273 PERCUTANEOUS INTRACARDIAC PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+274	107759.0	274 PERCUTANEOUS INTRACARDIAC PROCEDURES W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+280	64366.0	280 ACUTE MYOCARDIAL INFARCTION DISCHARGED ALIVE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+281	47182.0	281 ACUTE MYOCARDIAL INFARCTION DISCHARGED ALIVE W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+282	39417.0	282 ACUTE MYOCARDIAL INFARCTION DISCHARGED ALIVE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+283	76044.0	283 ACUTE MYOCARDIAL INFARCTION EXPIRED W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+284	48670.0	284 ACUTE MYOCARDIAL INFARCTION EXPIRED W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+285	21856.0	285 ACUTE MYOCARDIAL INFARCTION EXPIRED W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+286	82582.0	286 CIRCULATORY DISORDERS EXCEPT AMI W CARD CATH W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+287	51710.0	287 CIRCULATORY DISORDERS EXCEPT AMI W CARD CATH W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+288	89324.0	288 ACUTE & SUBACUTE ENDOCARDITIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+289	102401.0	289 ACUTE & SUBACUTE ENDOCARDITIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+291	43989.0	291 HEART FAILURE & SHOCK W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+292	36494.0	292 HEART FAILURE & SHOCK W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+293	30781.0	293 HEART FAILURE & SHOCK W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+296	63163.0	296 CARDIAC ARREST UNEXPLAINED W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+297	91256.0	297 CARDIAC ARREST UNEXPLAINED W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+299	57364.5	299 PERIPHERAL VASCULAR DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+300	32696.0	300 PERIPHERAL VASCULAR DISORDERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+301	34022.0	301 PERIPHERAL VASCULAR DISORDERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+302	39957.0	302 ATHEROSCLEROSIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+303	29503.0	303 ATHEROSCLEROSIS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+304	39470.0	304 HYPERTENSION W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+305	28263.0	305 HYPERTENSION W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+306	81533.0	306 CARDIAC CONGENITAL & VALVULAR DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+307	22811.5	307 CARDIAC CONGENITAL & VALVULAR DISORDERS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+308	40311.0	308 CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+309	30342.0	309 CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+310	24642.5	310 CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+311	24054.5	311 ANGINA PECTORIS	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+312	36231.0	312 SYNCOPE & COLLAPSE	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+313	27903.0	313 CHEST PAIN	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+314	74360.0	314 OTHER CIRCULATORY SYSTEM DIAGNOSES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+315	37719.0	315 OTHER CIRCULATORY SYSTEM DIAGNOSES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+316	33144.0	316 OTHER CIRCULATORY SYSTEM DIAGNOSES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+326	137469.0	326 STOMACH ESOPHAGEAL & DUODENAL PROC W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+327	74266.5	327 STOMACH ESOPHAGEAL & DUODENAL PROC W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+328	48324.0	328 STOMACH ESOPHAGEAL & DUODENAL PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+329	196512.0	329 MAJOR SMALL & LARGE BOWEL PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+330	114885.0	330 MAJOR SMALL & LARGE BOWEL PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+331	86013.0	331 MAJOR SMALL & LARGE BOWEL PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+332	117957.0	332 RECTAL RESECTION W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+333	175446.0	333 RECTAL RESECTION W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+334	126712.0	334 RECTAL RESECTION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+335	162208.0	335 PERITONEAL ADHESIOLYSIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+336	84276.0	336 PERITONEAL ADHESIOLYSIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+337	57617.0	337 PERITONEAL ADHESIOLYSIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+338	77601.0	338 APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+339	55411.0	339 APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+340	43793.5	340 APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+341	280010.0	341 APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+342	62482.0	342 APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+343	37636.0	343 APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+344	198866.0	344 MINOR SMALL & LARGE BOWEL PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+345	46695.5	345 MINOR SMALL & LARGE BOWEL PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+346	45985.0	346 MINOR SMALL & LARGE BOWEL PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+347	61736.0	347 ANAL & STOMAL PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+348	58630.0	348 ANAL & STOMAL PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+349	35877.0	349 ANAL & STOMAL PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+350	193133.0	350 INGUINAL & FEMORAL HERNIA PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+351	79535.0	351 INGUINAL & FEMORAL HERNIA PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+352	42912.0	352 INGUINAL & FEMORAL HERNIA PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+353	72417.5	353 HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+354	63582.0	354 HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+355	37780.5	355 HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+356	150461.0	356 OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+357	114738.0	357 OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+358	53381.0	358 OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+368	140379.0	368 MAJOR ESOPHAGEAL DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+369	54446.5	369 MAJOR ESOPHAGEAL DISORDERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+370	34359.5	370 MAJOR ESOPHAGEAL DISORDERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+371	52516.0	371 MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+372	37473.0	372 MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+373	28647.5	373 MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+374	93375.0	374 DIGESTIVE MALIGNANCY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+375	64459.0	375 DIGESTIVE MALIGNANCY W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+376	36456.0	376 DIGESTIVE MALIGNANCY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+377	70489.0	377 G.I. HEMORRHAGE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+378	46820.5	378 G.I. HEMORRHAGE W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+379	37630.0	379 G.I. HEMORRHAGE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+380	91157.0	380 COMPLICATED PEPTIC ULCER W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+381	37217.0	381 COMPLICATED PEPTIC ULCER W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+382	26319.5	382 COMPLICATED PEPTIC ULCER W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+384	57568.0	384 UNCOMPLICATED PEPTIC ULCER W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+385	95619.0	385 INFLAMMATORY BOWEL DISEASE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+386	60566.5	386 INFLAMMATORY BOWEL DISEASE W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+387	31450.0	387 INFLAMMATORY BOWEL DISEASE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+388	69888.0	388 G.I. OBSTRUCTION W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+389	39371.5	389 G.I. OBSTRUCTION W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+390	25615.0	390 G.I. OBSTRUCTION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+391	41672.0	391 ESOPHAGITIS GASTROENT & MISC DIGEST DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+392	28490.0	392 ESOPHAGITIS GASTROENT & MISC DIGEST DISORDERS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+393	57807.0	393 OTHER DIGESTIVE SYSTEM DIAGNOSES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+394	45957.0	394 OTHER DIGESTIVE SYSTEM DIAGNOSES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+395	28567.0	395 OTHER DIGESTIVE SYSTEM DIAGNOSES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+405	258716.0	405 PANCREAS LIVER & SHUNT PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+406	114768.0	406 PANCREAS LIVER & SHUNT PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+407	128443.5	407 PANCREAS LIVER & SHUNT PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+408	331378.0	408 BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+409	168212.5	409 BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+410	117630.0	410 BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+411	180021.5	411 CHOLECYSTECTOMY W C.D.E. W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+412	83561.0	412 CHOLECYSTECTOMY W C.D.E. W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+413	84447.0	413 CHOLECYSTECTOMY W C.D.E. W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+414	188668.0	414 CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+415	85097.0	415 CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+416	85714.5	416 CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+417	85070.0	417 LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+418	66473.0	418 LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+419	49940.0	419 LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+420	340716.0	420 HEPATOBILIARY DIAGNOSTIC PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+421	168796.0	421 HEPATOBILIARY DIAGNOSTIC PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+422	33310.0	422 HEPATOBILIARY DIAGNOSTIC PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+423	153273.5	423 OTHER HEPATOBILIARY OR PANCREAS O.R. PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+424	370686.0	424 OTHER HEPATOBILIARY OR PANCREAS O.R. PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+425	67550.0	425 OTHER HEPATOBILIARY OR PANCREAS O.R. PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+432	67408.0	432 CIRRHOSIS & ALCOHOLIC HEPATITIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+433	42138.0	433 CIRRHOSIS & ALCOHOLIC HEPATITIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+434	30122.0	434 CIRRHOSIS & ALCOHOLIC HEPATITIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+435	89020.0	435 MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+436	69114.0	436 MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+437	56017.0	437 MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+438	54528.0	438 DISORDERS OF PANCREAS EXCEPT MALIGNANCY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+439	35677.0	439 DISORDERS OF PANCREAS EXCEPT MALIGNANCY W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+440	26000.0	440 DISORDERS OF PANCREAS EXCEPT MALIGNANCY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+441	81131.0	441 DISORDERS OF LIVER EXCEPT MALIGCIRRALC HEPA W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+442	31848.0	442 DISORDERS OF LIVER EXCEPT MALIGCIRRALC HEPA W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+443	25827.0	443 DISORDERS OF LIVER EXCEPT MALIGCIRRALC HEPA W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+444	54398.0	444 DISORDERS OF THE BILIARY TRACT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+445	58207.0	445 DISORDERS OF THE BILIARY TRACT W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+446	37516.0	446 DISORDERS OF THE BILIARY TRACT W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+453	264268.0	453 COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+454	142501.5	454 COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+455	138109.0	455 COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+456	414060.0	456 SPINAL FUS EXC CERV W SPINAL CURV/MALIG/INFEC OR EXT FUS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+457	251944.0	457 SPINAL FUS EXC CERV W SPINAL CURV/MALIG/INFEC OR EXT FUS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+458	222297.0	458 SPINAL FUS EXC CERV W SPINAL CURV/MALIG/INFEC OR EXT FUS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+459	295238.0	459 SPINAL FUSION EXCEPT CERVICAL W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+460	141584.0	460 SPINAL FUSION EXCEPT CERVICAL W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+463	210167.5	463 WND DEBRID & SKN GRFT EXC HAND FOR MUSCULO-CONN TISS DIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+464	118469.5	464 WND DEBRID & SKN GRFT EXC HAND FOR MUSCULO-CONN TISS DIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+465	121986.0	465 WND DEBRID & SKN GRFT EXC HAND FOR MUSCULO-CONN TISS DIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+466	380549.0	466 REVISION OF HIP OR KNEE REPLACEMENT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+467	200641.0	467 REVISION OF HIP OR KNEE REPLACEMENT W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+468	133685.5	468 REVISION OF HIP OR KNEE REPLACEMENT W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+469	165089.5	469 MAJOR JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+470	105233.5	470 MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+471	207017.0	471 CERVICAL SPINAL FUSION W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+472	102270.0	472 CERVICAL SPINAL FUSION W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+473	81928.0	473 CERVICAL SPINAL FUSION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+474	109061.0	474 AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+475	68061.5	475 AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+476	36636.0	476 AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+477	93009.5	477 BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+478	121500.0	478 BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+479	46730.0	479 BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+480	156285.5	480 HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+481	116082.0	481 HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+482	85972.0	482 HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+483	141977.5	483 MAJOR JOINT/LIMB REATTACHMENT PROCEDURE OF UPPER EXTREMITIES	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+485	143676.0	485 KNEE PROCEDURES W PDX OF INFECTION W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+486	80344.5	486 KNEE PROCEDURES W PDX OF INFECTION W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+487	71245.0	487 KNEE PROCEDURES W PDX OF INFECTION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+488	202988.0	488 KNEE PROCEDURES W/O PDX OF INFECTION W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+489	95872.0	489 KNEE PROCEDURES W/O PDX OF INFECTION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+492	135984.5	492 LOWER EXTREM & HUMER PROC EXCEPT HIPFOOTFEMUR W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+493	119601.5	493 LOWER EXTREM & HUMER PROC EXCEPT HIPFOOTFEMUR W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+494	85660.5	494 LOWER EXTREM & HUMER PROC EXCEPT HIPFOOTFEMUR W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+495	125967.5	495 LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+496	74376.5	496 LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+497	57154.0	497 LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+498	96076.5	498 LOCAL EXCISION & REMOVAL INT FIX DEVICES OF HIP & FEMUR W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+500	117784.0	500 SOFT TISSUE PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+501	65493.0	501 SOFT TISSUE PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+502	65299.5	502 SOFT TISSUE PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+503	57984.0	503 FOOT PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+504	32176.0	504 FOOT PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+505	57783.0	505 FOOT PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+506	38208.0	506 MAJOR THUMB OR JOINT PROCEDURES	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+507	55379.0	507 MAJOR SHOULDER OR ELBOW JOINT PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+508	90606.5	508 MAJOR SHOULDER OR ELBOW JOINT PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+509	165305.0	509 ARTHROSCOPY	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+510	119864.0	510 SHOULDERELBOW OR FOREARM PROCEXC MAJOR JOINT PROC W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+511	101874.5	511 SHOULDERELBOW OR FOREARM PROCEXC MAJOR JOINT PROC W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+512	71622.0	512 SHOULDERELBOW OR FOREARM PROCEXC MAJOR JOINT PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+513	59801.0	513 HAND OR WRIST PROC EXCEPT MAJOR THUMB OR JOINT PROC W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+514	32178.0	514 HAND OR WRIST PROC EXCEPT MAJOR THUMB OR JOINT PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+515	175293.0	515 OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+516	88233.5	516 OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+517	58867.0	517 OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+518	83502.0	518 BACK & NECK PROC EXC SPINAL FUSION W MCC OR DISC DEVICE/NEUROSTIM	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+519	72497.0	519 BACK & NECK PROC EXC SPINAL FUSION W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+520	59393.0	520 BACK & NECK PROC EXC SPINAL FUSION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+534	51827.0	534 FRACTURES OF FEMUR W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+535	57932.0	535 FRACTURES OF HIP & PELVIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+536	51185.5	536 FRACTURES OF HIP & PELVIS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+537	57616.0	537 SPRAINS STRAINS & DISLOCATIONS OF HIP PELVIS & THIGH W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+539	41466.5	539 OSTEOMYELITIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+540	54987.0	540 OSTEOMYELITIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+541	30753.5	541 OSTEOMYELITIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+542	146581.5	542 PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+543	48336.5	543 PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+544	41373.0	544 PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+545	110149.0	545 CONNECTIVE TISSUE DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+546	41240.0	546 CONNECTIVE TISSUE DISORDERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+547	44812.5	547 CONNECTIVE TISSUE DISORDERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+548	77634.0	548 SEPTIC ARTHRITIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+549	51571.0	549 SEPTIC ARTHRITIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+550	29442.0	550 SEPTIC ARTHRITIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+551	78445.5	551 MEDICAL BACK PROBLEMS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+552	39635.0	552 MEDICAL BACK PROBLEMS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+553	1683561.0	553 BONE DISEASES & ARTHROPATHIES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+554	34841.5	554 BONE DISEASES & ARTHROPATHIES W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+555	47905.0	555 SIGNS & SYMPTOMS OF MUSCULOSKELETAL SYSTEM & CONN TISSUE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+556	43203.0	556 SIGNS & SYMPTOMS OF MUSCULOSKELETAL SYSTEM & CONN TISSUE W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+557	49643.0	557 TENDONITIS MYOSITIS & BURSITIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+558	25905.0	558 TENDONITIS MYOSITIS & BURSITIS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+559	93738.5	559 AFTERCARE MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+560	60948.0	560 AFTERCARE MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+561	57434.0	561 AFTERCARE MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+562	66987.0	562 FX SPRN STRN & DISL EXCEPT FEMUR HIP PELVIS & THIGH W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+563	43973.0	563 FX SPRN STRN & DISL EXCEPT FEMUR HIP PELVIS & THIGH W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+564	65308.0	564 OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+565	27651.0	565 OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+566	19507.0	566 OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+570	123128.0	570 SKIN DEBRIDEMENT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+571	59245.0	571 SKIN DEBRIDEMENT W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+572	41918.0	572 SKIN DEBRIDEMENT W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+573	184007.5	573 SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+574	65710.0	574 SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+576	264362.0	576 SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+577	86976.0	577 SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+578	89813.0	578 SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+579	78349.0	579 OTHER SKIN SUBCUT TISS & BREAST PROC W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+580	57511.0	580 OTHER SKIN SUBCUT TISS & BREAST PROC W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+581	50942.5	581 OTHER SKIN SUBCUT TISS & BREAST PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+582	127593.0	582 MASTECTOMY FOR MALIGNANCY W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+583	99906.5	583 MASTECTOMY FOR MALIGNANCY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+584	87812.0	584 BREAST BIOPSY LOCAL EXCISION & OTHER BREAST PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+585	101292.0	585 BREAST BIOPSY LOCAL EXCISION & OTHER BREAST PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+592	58002.0	592 SKIN ULCERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+593	40092.0	593 SKIN ULCERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+594	3379.0	594 SKIN ULCERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+595	44904.5	595 MAJOR SKIN DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+596	38730.0	596 MAJOR SKIN DISORDERS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+597	42424.0	597 MALIGNANT BREAST DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+598	49713.0	598 MALIGNANT BREAST DISORDERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+600	29548.0	600 NON-MALIGNANT BREAST DISORDERS W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+601	20553.0	601 NON-MALIGNANT BREAST DISORDERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+602	39495.0	602 CELLULITIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+603	25859.0	603 CELLULITIS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+604	71624.0	604 TRAUMA TO THE SKIN SUBCUT TISS & BREAST W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+605	35585.0	605 TRAUMA TO THE SKIN SUBCUT TISS & BREAST W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+606	53500.0	606 MINOR SKIN DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+607	22447.5	607 MINOR SKIN DISORDERS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+614	162951.5	614 ADRENAL & PITUITARY PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+615	112767.0	615 ADRENAL & PITUITARY PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+616	135387.0	616 AMPUTAT OF LOWER LIMB FOR ENDOCRINENUTRIT& METABOL DIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+617	64226.0	617 AMPUTAT OF LOWER LIMB FOR ENDOCRINENUTRIT& METABOL DIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+618	48048.5	618 AMPUTAT OF LOWER LIMB FOR ENDOCRINENUTRIT& METABOL DIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+619	140345.0	619 O.R. PROCEDURES FOR OBESITY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+620	50704.0	620 O.R. PROCEDURES FOR OBESITY W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+621	45690.0	621 O.R. PROCEDURES FOR OBESITY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+622	394256.0	622 SKIN GRAFTS & WOUND DEBRID FOR ENDOC NUTRIT & METAB DIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+623	44245.5	623 SKIN GRAFTS & WOUND DEBRID FOR ENDOC NUTRIT & METAB DIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+625	121768.0	625 THYROID PARATHYROID & THYROGLOSSAL PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+626	79241.0	626 THYROID PARATHYROID & THYROGLOSSAL PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+627	39153.5	627 THYROID PARATHYROID & THYROGLOSSAL PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+628	45795.5	628 OTHER ENDOCRINE NUTRIT & METAB O.R. PROC W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+629	65240.5	629 OTHER ENDOCRINE NUTRIT & METAB O.R. PROC W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+630	47258.5	630 OTHER ENDOCRINE NUTRIT & METAB O.R. PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+637	52495.0	637 DIABETES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+638	31787.5	638 DIABETES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+639	23691.0	639 DIABETES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+640	34399.0	640 MISC DISORDERS OF NUTRITIONMETABOLISMFLUIDS/ELECTROLYTES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+641	28753.0	641 MISC DISORDERS OF NUTRITIONMETABOLISMFLUIDS/ELECTROLYTES W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+642	32112.5	642 INBORN AND OTHER DISORDERS OF METABOLISM	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+643	54096.0	643 ENDOCRINE DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+644	45523.0	644 ENDOCRINE DISORDERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+645	29616.0	645 ENDOCRINE DISORDERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+653	84386.0	653 MAJOR BLADDER PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+654	111273.5	654 MAJOR BLADDER PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+655	63878.0	655 MAJOR BLADDER PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+656	137902.0	656 KIDNEY & URETER PROCEDURES FOR NEOPLASM W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+657	68631.5	657 KIDNEY & URETER PROCEDURES FOR NEOPLASM W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+658	51344.0	658 KIDNEY & URETER PROCEDURES FOR NEOPLASM W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+659	165528.0	659 KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+660	68778.0	660 KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+661	54126.0	661 KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+662	88459.5	662 MINOR BLADDER PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+664	31070.5	664 MINOR BLADDER PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+665	151070.0	665 PROSTATECTOMY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+666	34756.0	666 PROSTATECTOMY W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+667	22010.0	667 PROSTATECTOMY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+668	99713.5	668 TRANSURETHRAL PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+669	59792.5	669 TRANSURETHRAL PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+670	34033.0	670 TRANSURETHRAL PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+672	40143.5	672 URETHRAL PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+673	117851.0	673 OTHER KIDNEY & URINARY TRACT PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+674	105810.0	674 OTHER KIDNEY & URINARY TRACT PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+675	122491.0	675 OTHER KIDNEY & URINARY TRACT PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+682	54277.5	682 RENAL FAILURE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+683	34010.0	683 RENAL FAILURE W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+684	24351.0	684 RENAL FAILURE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+686	71507.5	686 KIDNEY & URINARY TRACT NEOPLASMS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+687	81425.0	687 KIDNEY & URINARY TRACT NEOPLASMS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+688	38803.0	688 KIDNEY & URINARY TRACT NEOPLASMS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+689	39972.0	689 KIDNEY & URINARY TRACT INFECTIONS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+690	28016.0	690 KIDNEY & URINARY TRACT INFECTIONS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+693	38510.5	693 URINARY STONES W/O ESW LITHOTRIPSY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+694	25768.0	694 URINARY STONES W/O ESW LITHOTRIPSY W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+695	50553.5	695 KIDNEY & URINARY TRACT SIGNS & SYMPTOMS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+696	28008.0	696 KIDNEY & URINARY TRACT SIGNS & SYMPTOMS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+698	53685.0	698 OTHER KIDNEY & URINARY TRACT DIAGNOSES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+699	32693.0	699 OTHER KIDNEY & URINARY TRACT DIAGNOSES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+700	28970.5	700 OTHER KIDNEY & URINARY TRACT DIAGNOSES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+707	74968.5	707 MAJOR MALE PELVIC PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+708	76123.0	708 MAJOR MALE PELVIC PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+709	69304.0	709 PENIS PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+710	37539.0	710 PENIS PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+711	55754.0	711 TESTES PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+712	43661.0	712 TESTES PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+713	35303.5	713 TRANSURETHRAL PROSTATECTOMY W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+714	33448.5	714 TRANSURETHRAL PROSTATECTOMY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+717	207941.5	717 OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC EXC MALIGNANCY W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+722	67506.0	722 MALIGNANCY MALE REPRODUCTIVE SYSTEM W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+723	74411.5	723 MALIGNANCY MALE REPRODUCTIVE SYSTEM W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+724	14410.0	724 MALIGNANCY MALE REPRODUCTIVE SYSTEM W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+725	24297.0	725 BENIGN PROSTATIC HYPERTROPHY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+726	27280.0	726 BENIGN PROSTATIC HYPERTROPHY W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+727	28019.0	727 INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+728	27740.0	728 INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+729	34947.0	729 OTHER MALE REPRODUCTIVE SYSTEM DIAGNOSES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+730	35015.0	730 OTHER MALE REPRODUCTIVE SYSTEM DIAGNOSES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+734	176644.0	734 PELVIC EVISCERATION RAD HYSTERECTOMY & RAD VULVECTOMY W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+735	62498.0	735 PELVIC EVISCERATION RAD HYSTERECTOMY & RAD VULVECTOMY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+736	246997.0	736 UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+737	71137.0	737 UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+738	33747.0	738 UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+739	131284.5	739 UTERINEADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+740	64566.0	740 UTERINEADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+741	36374.0	741 UTERINEADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+742	51976.0	742 UTERINE & ADNEXA PROC FOR NON-MALIGNANCY W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+743	47337.0	743 UTERINE & ADNEXA PROC FOR NON-MALIGNANCY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+744	46023.0	744 D&C CONIZATION LAPAROSCOPY & TUBAL INTERRUPTION W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+745	26495.0	745 D&C CONIZATION LAPAROSCOPY & TUBAL INTERRUPTION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+746	89429.0	746 VAGINA CERVIX & VULVA PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+747	31579.0	747 VAGINA CERVIX & VULVA PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+748	40531.5	748 FEMALE REPRODUCTIVE SYSTEM RECONSTRUCTIVE PROCEDURES	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+749	82015.0	749 OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+750	40285.0	750 OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+754	64703.0	754 MALIGNANCY FEMALE REPRODUCTIVE SYSTEM W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+755	72085.0	755 MALIGNANCY FEMALE REPRODUCTIVE SYSTEM W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+756	24697.5	756 MALIGNANCY FEMALE REPRODUCTIVE SYSTEM W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+757	48729.0	757 INFECTIONS FEMALE REPRODUCTIVE SYSTEM W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+758	26463.5	758 INFECTIONS FEMALE REPRODUCTIVE SYSTEM W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+759	19499.0	759 INFECTIONS FEMALE REPRODUCTIVE SYSTEM W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+760	27529.0	760 MENSTRUAL & OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+761	16724.0	761 MENSTRUAL & OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+765	35609.0	765 CESAREAN SECTION W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+766	27322.5	766 CESAREAN SECTION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+767	28728.5	767 VAGINAL DELIVERY W STERILIZATION &/OR D&C	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+768	27170.0	768 VAGINAL DELIVERY W O.R. PROC EXCEPT STERIL &/OR D&C	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+769	47706.0	769 POSTPARTUM & POST ABORTION DIAGNOSES W O.R. PROCEDURE	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+770	30368.0	770 ABORTION W D&C ASPIRATION CURETTAGE OR HYSTEROTOMY	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+774	19592.0	774 VAGINAL DELIVERY W COMPLICATING DIAGNOSES	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+775	16167.0	775 VAGINAL DELIVERY W/O COMPLICATING DIAGNOSES	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+776	22744.0	776 POSTPARTUM & POST ABORTION DIAGNOSES W/O O.R. PROCEDURE	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+777	29533.0	777 ECTOPIC PREGNANCY	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+778	14980.5	778 THREATENED ABORTION	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+779	18679.0	779 ABORTION W/O D&C	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+781	19328.0	781 OTHER ANTEPARTUM DIAGNOSES W MEDICAL COMPLICATIONS	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+782	15928.0	782 OTHER ANTEPARTUM DIAGNOSES W/O MEDICAL COMPLICATIONS	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+789	49639.0	789 NEONATES DIED OR TRANSFERRED TO ANOTHER ACUTE CARE FACILITY	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+790	302854.5	790 EXTREME IMMATURITY OR RESPIRATORY DISTRESS SYNDROME NEONATE	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+791	124400.0	791 PREMATURITY W MAJOR PROBLEMS	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+792	8275.5	792 PREMATURITY W/O MAJOR PROBLEMS	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+793	24420.5	793 FULL TERM NEONATE W MAJOR PROBLEMS	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+794	5597.0	794 NEONATE W OTHER SIGNIFICANT PROBLEMS	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+795	4429.0	795 NORMAL NEWBORN	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+799	99889.5	799 SPLENECTOMY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+800	96805.0	800 SPLENECTOMY W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+802	228113.5	802 OTHER O.R. PROC OF THE BLOOD & BLOOD FORMING ORGANS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+803	64587.0	803 OTHER O.R. PROC OF THE BLOOD & BLOOD FORMING ORGANS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+804	56533.0	804 OTHER O.R. PROC OF THE BLOOD & BLOOD FORMING ORGANS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+808	115476.0	808 MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+809	51211.0	809 MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+810	39244.0	810 MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+811	61205.0	811 RED BLOOD CELL DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+812	37159.0	812 RED BLOOD CELL DISORDERS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+813	65099.0	813 COAGULATION DISORDERS	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+814	67538.5	814 RETICULOENDOTHELIAL & IMMUNITY DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+815	24261.0	815 RETICULOENDOTHELIAL & IMMUNITY DISORDERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+816	29419.5	816 RETICULOENDOTHELIAL & IMMUNITY DISORDERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+820	246391.0	820 LYMPHOMA & LEUKEMIA W MAJOR O.R. PROCEDURE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+821	98606.0	821 LYMPHOMA & LEUKEMIA W MAJOR O.R. PROCEDURE W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+822	30741.5	822 LYMPHOMA & LEUKEMIA W MAJOR O.R. PROCEDURE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+823	176357.0	823 LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+824	126769.0	824 LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+825	59425.0	825 LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+826	201861.5	826 MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+827	112367.0	827 MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+828	123928.0	828 MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+829	127708.0	829 MYELOPROLIF DISORD OR POORLY DIFF NEOPL W OTHER O.R. PROC W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+834	345123.0	834 ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+835	150409.0	835 ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+836	77292.0	836 ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+837	119232.0	837 CHEMO W ACUTE LEUKEMIA AS SDX OR W HIGH DOSE CHEMO AGENT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+838	55298.5	838 CHEMO W ACUTE LEUKEMIA AS SDX W CC OR HIGH DOSE CHEMO AGENT	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+839	46903.0	839 CHEMO W ACUTE LEUKEMIA AS SDX W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+840	105961.0	840 LYMPHOMA & NON-ACUTE LEUKEMIA W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+841	86602.0	841 LYMPHOMA & NON-ACUTE LEUKEMIA W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+842	78748.5	842 LYMPHOMA & NON-ACUTE LEUKEMIA W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+843	167271.5	843 OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+844	55600.0	844 OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+845	38289.0	845 OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+846	53038.5	846 CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+847	40583.0	847 CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+848	34885.0	848 CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+853	198748.0	853 INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+854	82395.0	854 INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+855	64318.0	855 INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+856	161246.0	856 POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+857	70275.0	857 POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+858	60743.0	858 POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+862	54945.0	862 POSTOPERATIVE & POST-TRAUMATIC INFECTIONS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+863	32999.0	863 POSTOPERATIVE & POST-TRAUMATIC INFECTIONS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+864	25453.5	864 FEVER	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+865	44993.5	865 VIRAL ILLNESS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+866	19668.0	866 VIRAL ILLNESS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+867	101553.0	867 OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+868	38358.0	868 OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+869	33560.5	869 OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+870	238074.0	870 SEPTICEMIA OR SEVERE SEPSIS W MV >96 HOURS	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+871	71780.0	871 SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+872	40003.0	872 SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+876	59642.0	876 O.R. PROCEDURE W PRINCIPAL DIAGNOSES OF MENTAL ILLNESS	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+880	25476.0	880 ACUTE ADJUSTMENT REACTION & PSYCHOSOCIAL DYSFUNCTION	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+881	8331.0	881 DEPRESSIVE NEUROSES	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+882	5985.0	882 NEUROSES EXCEPT DEPRESSIVE	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+884	61353.0	884 ORGANIC DISTURBANCES & INTELLECTUAL DISABILITY	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+885	14526.0	885 PSYCHOSES	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+887	32145.5	887 OTHER MENTAL DISORDER DIAGNOSES	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+894	23025.0	894 ALCOHOL/DRUG ABUSE OR DEPENDENCE LEFT AMA	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+896	56073.5	896 ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHABILITATION THERAPY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+897	19808.0	897 ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHABILITATION THERAPY W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+901	103990.0	901 WOUND DEBRIDEMENTS FOR INJURIES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+902	29912.0	902 WOUND DEBRIDEMENTS FOR INJURIES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+903	22981.5	903 WOUND DEBRIDEMENTS FOR INJURIES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+904	175354.5	904 SKIN GRAFTS FOR INJURIES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+905	35032.5	905 SKIN GRAFTS FOR INJURIES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+906	38595.0	906 HAND PROCEDURES FOR INJURIES	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+907	123929.5	907 OTHER O.R. PROCEDURES FOR INJURIES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+908	74307.0	908 OTHER O.R. PROCEDURES FOR INJURIES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+909	59904.0	909 OTHER O.R. PROCEDURES FOR INJURIES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+913	310173.0	913 TRAUMATIC INJURY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+914	36985.0	914 TRAUMATIC INJURY W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+915	65233.0	915 ALLERGIC REACTIONS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+916	19909.5	916 ALLERGIC REACTIONS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+917	48204.5	917 POISONING & TOXIC EFFECTS OF DRUGS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+918	26974.0	918 POISONING & TOXIC EFFECTS OF DRUGS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+919	48885.0	919 COMPLICATIONS OF TREATMENT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+920	37844.0	920 COMPLICATIONS OF TREATMENT W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+921	29682.5	921 COMPLICATIONS OF TREATMENT W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+922	80874.0	922 OTHER INJURY POISONING & TOXIC EFFECT DIAG W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+923	27194.0	923 OTHER INJURY POISONING & TOXIC EFFECT DIAG W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+927	827677.5	927 EXTENSIVE BURNS OR FULL THICKNESS BURNS W MV >96 HRS W SKIN GRAFT	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+928	258475.5	928 FULL THICKNESS BURN W SKIN GRAFT OR INHAL INJ W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+929	79350.0	929 FULL THICKNESS BURN W SKIN GRAFT OR INHAL INJ W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+933	90367.0	933 EXTENSIVE BURNS OR FULL THICKNESS BURNS W MV >96 HRS W/O SKIN GRAFT	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+934	46300.5	934 FULL THICKNESS BURN W/O SKIN GRFT OR INHAL INJ	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+935	54624.0	935 NON-EXTENSIVE BURNS	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+939	161993.0	939 O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+940	207268.0	940 O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+941	64766.0	941 O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+947	48588.0	947 SIGNS & SYMPTOMS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+948	33609.0	948 SIGNS & SYMPTOMS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+949	72036.0	949 AFTERCARE W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+950	61284.0	950 AFTERCARE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+951	10239.0	951 OTHER FACTORS INFLUENCING HEALTH STATUS	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+955	439828.0	955 CRANIOTOMY FOR MULTIPLE SIGNIFICANT TRAUMA	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+956	262121.5	956 LIMB REATTACHMENT HIP & FEMUR PROC FOR MULTIPLE SIGNIFICANT TRAUMA	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+957	371575.0	957 OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+958	195832.5	958 OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+959	128008.0	959 OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+963	133951.0	963 OTHER MULTIPLE SIGNIFICANT TRAUMA W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+964	72264.5	964 OTHER MULTIPLE SIGNIFICANT TRAUMA W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+965	63441.5	965 OTHER MULTIPLE SIGNIFICANT TRAUMA W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+969	375134.0	969 HIV W EXTENSIVE O.R. PROCEDURE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+974	155476.0	974 HIV W MAJOR RELATED CONDITION W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+975	74424.5	975 HIV W MAJOR RELATED CONDITION W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+976	39899.5	976 HIV W MAJOR RELATED CONDITION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+977	60765.0	977 HIV W OR W/O OTHER RELATED CONDITION	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+981	162088.0	981 EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+982	67164.5	982 EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+983	60125.5	983 EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+987	116605.5	987 NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+988	80842.5	988 NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+989	44982.0	989 NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CRMC_FHSH.xlsx	drg
+001	264838.0	001 HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+003	888705.0	003 ECMO OR TRACH W MV >96 HRS OR PDX EXC FACE MOUTH & NECK W MAJ O.R.	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+004	726620.0	004 TRACH W MV >96 HRS OR PDX EXC FACE MOUTH & NECK W/O MAJ O.R.	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+011	97427.0	011 TRACHEOSTOMY FOR FACEMOUTH & NECK DIAGNOSES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+030	109610.0	030 SPINAL PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+040	181783.0	040 PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+041	121148.0	041 PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W CC OR PERIPH NEUROSTIM	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+042	71021.0	042 PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+052	30562.0	052 SPINAL DISORDERS & INJURIES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+054	47837.0	054 NERVOUS SYSTEM NEOPLASMS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+055	25473.0	055 NERVOUS SYSTEM NEOPLASMS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+056	51629.0	056 DEGENERATIVE NERVOUS SYSTEM DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+057	37448.0	057 DEGENERATIVE NERVOUS SYSTEM DISORDERS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+059	32286.0	059 MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+060	45626.5	060 MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+061	159690.0	061 ACUTE ISCHEMIC STROKE W USE OF THROMBOLYTIC AGENT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+062	90925.0	062 ACUTE ISCHEMIC STROKE W USE OF THROMBOLYTIC AGENT W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+064	56757.0	064 INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+065	39382.0	065 INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W CC OR TPA IN 24 HRS	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+066	33457.0	066 INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+067	204813.0	067 NONSPECIFIC CVA & PRECEREBRAL OCCLUSION W/O INFARCT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+069	31408.5	069 TRANSIENT ISCHEMIA W/O THROMBOLYTIC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+070	61104.0	070 NONSPECIFIC CEREBROVASCULAR DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+071	29893.0	071 NONSPECIFIC CEREBROVASCULAR DISORDERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+072	35850.0	072 NONSPECIFIC CEREBROVASCULAR DISORDERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+073	52241.0	073 CRANIAL & PERIPHERAL NERVE DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+074	40019.0	074 CRANIAL & PERIPHERAL NERVE DISORDERS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+076	25369.5	076 VIRAL MENINGITIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+077	80784.0	077 HYPERTENSIVE ENCEPHALOPATHY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+078	43984.0	078 HYPERTENSIVE ENCEPHALOPATHY W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+080	38743.0	080 NONTRAUMATIC STUPOR & COMA W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+081	185589.0	081 NONTRAUMATIC STUPOR & COMA W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+082	43409.0	082 TRAUMATIC STUPOR & COMA COMA >1 HR W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+085	50594.5	085 TRAUMATIC STUPOR & COMA COMA <1 HR W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+091	37150.5	091 OTHER DISORDERS OF NERVOUS SYSTEM W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+092	33168.0	092 OTHER DISORDERS OF NERVOUS SYSTEM W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+093	35448.0	093 OTHER DISORDERS OF NERVOUS SYSTEM W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+095	36828.0	095 BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+096	187390.0	096 BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+097	187102.5	097 NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+098	43818.0	098 NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+099	53749.0	099 NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+100	66672.5	100 SEIZURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+101	39018.0	101 SEIZURES W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+103	27961.5	103 HEADACHES W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+121	28656.0	121 ACUTE MAJOR EYE INFECTIONS W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+122	19528.0	122 ACUTE MAJOR EYE INFECTIONS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+123	47236.0	123 NEUROLOGICAL EYE DISORDERS	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+124	42752.0	124 OTHER DISORDERS OF THE EYE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+125	38411.0	125 OTHER DISORDERS OF THE EYE W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+129	40065.0	129 MAJOR HEAD & NECK PROCEDURES W CC/MCC OR MAJOR DEVICE	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+130	67134.0	130 MAJOR HEAD & NECK PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+131	108803.0	131 CRANIAL/FACIAL PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+132	81595.0	132 CRANIAL/FACIAL PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+133	49637.0	133 OTHER EAR NOSE MOUTH & THROAT O.R. PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+134	29119.0	134 OTHER EAR NOSE MOUTH & THROAT O.R. PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+138	53856.0	138 MOUTH PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+139	27630.0	139 SALIVARY GLAND PROCEDURES	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+146	43817.0	146 EAR NOSE MOUTH & THROAT MALIGNANCY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+147	22033.0	147 EAR NOSE MOUTH & THROAT MALIGNANCY W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+149	36726.0	149 DYSEQUILIBRIUM	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+150	20932.0	150 EPISTAXIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+151	26331.0	151 EPISTAXIS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+152	39888.5	152 OTITIS MEDIA & URI W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+153	27116.0	153 OTITIS MEDIA & URI W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+154	68993.0	154 OTHER EAR NOSE MOUTH & THROAT DIAGNOSES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+155	35938.0	155 OTHER EAR NOSE MOUTH & THROAT DIAGNOSES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+156	16173.0	156 OTHER EAR NOSE MOUTH & THROAT DIAGNOSES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+158	20790.0	158 DENTAL & ORAL DISEASES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+159	40031.5	159 DENTAL & ORAL DISEASES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+163	233151.5	163 MAJOR CHEST PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+164	132325.0	164 MAJOR CHEST PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+165	95163.0	165 MAJOR CHEST PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+166	155481.0	166 OTHER RESP SYSTEM O.R. PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+167	95777.0	167 OTHER RESP SYSTEM O.R. PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+175	59562.0	175 PULMONARY EMBOLISM W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+176	32641.0	176 PULMONARY EMBOLISM W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+177	61351.0	177 RESPIRATORY INFECTIONS & INFLAMMATIONS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+178	48205.0	178 RESPIRATORY INFECTIONS & INFLAMMATIONS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+179	39462.5	179 RESPIRATORY INFECTIONS & INFLAMMATIONS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+180	54624.0	180 RESPIRATORY NEOPLASMS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+181	36649.0	181 RESPIRATORY NEOPLASMS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+182	24409.0	182 RESPIRATORY NEOPLASMS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+183	41931.5	183 MAJOR CHEST TRAUMA W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+186	54977.0	186 PLEURAL EFFUSION W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+187	28794.5	187 PLEURAL EFFUSION W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+188	49517.0	188 PLEURAL EFFUSION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+189	53493.0	189 PULMONARY EDEMA & RESPIRATORY FAILURE	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+190	55642.0	190 CHRONIC OBSTRUCTIVE PULMONARY DISEASE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+191	37251.5	191 CHRONIC OBSTRUCTIVE PULMONARY DISEASE W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+192	28555.0	192 CHRONIC OBSTRUCTIVE PULMONARY DISEASE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+193	55442.0	193 SIMPLE PNEUMONIA & PLEURISY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+194	31987.5	194 SIMPLE PNEUMONIA & PLEURISY W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+195	24048.0	195 SIMPLE PNEUMONIA & PLEURISY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+196	46312.0	196 INTERSTITIAL LUNG DISEASE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+197	38456.0	197 INTERSTITIAL LUNG DISEASE W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+198	42948.0	198 INTERSTITIAL LUNG DISEASE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+199	37936.0	199 PNEUMOTHORAX W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+200	35084.0	200 PNEUMOTHORAX W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+201	34063.5	201 PNEUMOTHORAX W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+202	36778.0	202 BRONCHITIS & ASTHMA W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+203	27236.0	203 BRONCHITIS & ASTHMA W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+204	32694.5	204 RESPIRATORY SIGNS & SYMPTOMS	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+205	115016.0	205 OTHER RESPIRATORY SYSTEM DIAGNOSES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+206	25412.5	206 OTHER RESPIRATORY SYSTEM DIAGNOSES W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+207	234943.0	207 RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT >96 HOURS	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+208	83187.0	208 RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT <=96 HOURS	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+215	246656.0	215 OTHER HEART ASSIST SYSTEM IMPLANT	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+225	186456.0	225 CARDIAC DEFIB IMPLANT W CARDIAC CATH W/O AMI/HF/SHOCK W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+226	259652.0	226 CARDIAC DEFIBRILLATOR IMPLANT W/O CARDIAC CATH W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+227	190688.0	227 CARDIAC DEFIBRILLATOR IMPLANT W/O CARDIAC CATH W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+228	92476.0	228 OTHER CARDIOTHORACIC PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+229	110453.0	229 OTHER CARDIOTHORACIC PROCEDURES W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+239	120673.0	239 AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+240	55102.5	240 AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+241	36647.0	241 AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+242	92128.0	242 PERMANENT CARDIAC PACEMAKER IMPLANT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+243	80512.0	243 PERMANENT CARDIAC PACEMAKER IMPLANT W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+244	64791.5	244 PERMANENT CARDIAC PACEMAKER IMPLANT W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+246	127839.5	246 PERCUTANEOUS CARDIOVASCULAR PROCEDURES W DRUG-ELUTING STENT W MCC OR 4+ ARTERIES	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+247	92299.5	247 PERC CARDIOVASC PROC W DRUG-ELUTING STENT W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+250	120582.0	250 PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+251	68321.0	251 PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+252	98181.0	252 OTHER VASCULAR PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+253	94918.0	253 OTHER VASCULAR PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+254	97646.0	254 OTHER VASCULAR PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+255	88063.0	255 UPPER LIMB & TOE AMPUTATION FOR CIRC SYSTEM DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+256	49591.0	256 UPPER LIMB & TOE AMPUTATION FOR CIRC SYSTEM DISORDERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+258	79905.0	258 CARDIAC PACEMAKER DEVICE REPLACEMENT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+260	221881.0	260 CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+261	51894.5	261 CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+264	87459.5	264 OTHER CIRCULATORY SYSTEM O.R. PROCEDURES	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+265	87085.0	265 AICD LEAD PROCEDURES	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+270	102409.0	270 OTHER MAJOR CARDIOVASCULAR PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+271	124662.5	271 OTHER MAJOR CARDIOVASCULAR PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+272	53639.0	272 OTHER MAJOR CARDIOVASCULAR PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+280	66068.0	280 ACUTE MYOCARDIAL INFARCTION DISCHARGED ALIVE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+281	45100.5	281 ACUTE MYOCARDIAL INFARCTION DISCHARGED ALIVE W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+282	43006.0	282 ACUTE MYOCARDIAL INFARCTION DISCHARGED ALIVE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+283	31459.0	283 ACUTE MYOCARDIAL INFARCTION EXPIRED W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+284	22482.0	284 ACUTE MYOCARDIAL INFARCTION EXPIRED W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+286	73699.5	286 CIRCULATORY DISORDERS EXCEPT AMI W CARD CATH W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+287	52369.0	287 CIRCULATORY DISORDERS EXCEPT AMI W CARD CATH W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+288	85580.0	288 ACUTE & SUBACUTE ENDOCARDITIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+291	50201.5	291 HEART FAILURE & SHOCK W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+292	42760.5	292 HEART FAILURE & SHOCK W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+293	26408.0	293 HEART FAILURE & SHOCK W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+296	129044.0	296 CARDIAC ARREST UNEXPLAINED W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+297	55982.0	297 CARDIAC ARREST UNEXPLAINED W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+299	92484.0	299 PERIPHERAL VASCULAR DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+300	34386.0	300 PERIPHERAL VASCULAR DISORDERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+301	22955.0	301 PERIPHERAL VASCULAR DISORDERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+303	31413.5	303 ATHEROSCLEROSIS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+304	43443.0	304 HYPERTENSION W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+305	27857.0	305 HYPERTENSION W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+308	62755.0	308 CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+309	31477.5	309 CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+310	21091.5	310 CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+311	28020.0	311 ANGINA PECTORIS	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+312	32313.0	312 SYNCOPE & COLLAPSE	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+313	26877.5	313 CHEST PAIN	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+314	59291.5	314 OTHER CIRCULATORY SYSTEM DIAGNOSES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+315	33550.0	315 OTHER CIRCULATORY SYSTEM DIAGNOSES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+316	29408.0	316 OTHER CIRCULATORY SYSTEM DIAGNOSES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+326	163237.5	326 STOMACH ESOPHAGEAL & DUODENAL PROC W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+327	85113.5	327 STOMACH ESOPHAGEAL & DUODENAL PROC W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+328	53104.5	328 STOMACH ESOPHAGEAL & DUODENAL PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+329	148518.0	329 MAJOR SMALL & LARGE BOWEL PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+330	98868.0	330 MAJOR SMALL & LARGE BOWEL PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+331	89987.0	331 MAJOR SMALL & LARGE BOWEL PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+332	21300.0	332 RECTAL RESECTION W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+334	104123.0	334 RECTAL RESECTION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+335	71148.5	335 PERITONEAL ADHESIOLYSIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+336	82046.0	336 PERITONEAL ADHESIOLYSIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+337	65454.0	337 PERITONEAL ADHESIOLYSIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+338	80818.0	338 APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+339	58305.0	339 APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+340	52879.0	340 APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+341	242917.0	341 APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+343	46278.5	343 APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+344	56772.0	344 MINOR SMALL & LARGE BOWEL PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+345	219285.0	345 MINOR SMALL & LARGE BOWEL PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+346	82155.0	346 MINOR SMALL & LARGE BOWEL PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+347	38905.0	347 ANAL & STOMAL PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+348	46316.5	348 ANAL & STOMAL PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+349	29023.0	349 ANAL & STOMAL PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+351	49415.0	351 INGUINAL & FEMORAL HERNIA PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+353	80409.0	353 HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+354	47812.0	354 HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+355	45310.0	355 HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+356	234853.0	356 OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+357	74624.0	357 OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+358	52327.0	358 OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+368	78504.0	368 MAJOR ESOPHAGEAL DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+369	43900.0	369 MAJOR ESOPHAGEAL DISORDERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+371	56226.0	371 MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+372	38563.0	372 MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+373	26490.0	373 MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+374	79632.0	374 DIGESTIVE MALIGNANCY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+375	48697.0	375 DIGESTIVE MALIGNANCY W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+376	36593.0	376 DIGESTIVE MALIGNANCY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+377	56172.0	377 G.I. HEMORRHAGE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+378	41930.0	378 G.I. HEMORRHAGE W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+379	34810.0	379 G.I. HEMORRHAGE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+380	59890.0	380 COMPLICATED PEPTIC ULCER W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+381	34280.0	381 COMPLICATED PEPTIC ULCER W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+382	37963.0	382 COMPLICATED PEPTIC ULCER W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+384	35343.0	384 UNCOMPLICATED PEPTIC ULCER W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+385	35666.0	385 INFLAMMATORY BOWEL DISEASE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+386	36165.5	386 INFLAMMATORY BOWEL DISEASE W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+387	18647.0	387 INFLAMMATORY BOWEL DISEASE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+388	58739.0	388 G.I. OBSTRUCTION W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+389	30973.0	389 G.I. OBSTRUCTION W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+390	25450.5	390 G.I. OBSTRUCTION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+391	45179.0	391 ESOPHAGITIS GASTROENT & MISC DIGEST DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+392	31880.5	392 ESOPHAGITIS GASTROENT & MISC DIGEST DISORDERS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+393	64174.0	393 OTHER DIGESTIVE SYSTEM DIAGNOSES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+394	36913.0	394 OTHER DIGESTIVE SYSTEM DIAGNOSES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+395	35324.0	395 OTHER DIGESTIVE SYSTEM DIAGNOSES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+405	292469.0	405 PANCREAS LIVER & SHUNT PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+406	143654.0	406 PANCREAS LIVER & SHUNT PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+407	111692.0	407 PANCREAS LIVER & SHUNT PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+408	168373.0	408 BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+410	211270.0	410 BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+411	181681.0	411 CHOLECYSTECTOMY W C.D.E. W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+412	62167.0	412 CHOLECYSTECTOMY W C.D.E. W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+414	54376.0	414 CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+415	75524.0	415 CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+416	51713.0	416 CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+417	78066.0	417 LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+418	63689.0	418 LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+419	55714.0	419 LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+422	52871.0	422 HEPATOBILIARY DIAGNOSTIC PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+424	83075.0	424 OTHER HEPATOBILIARY OR PANCREAS O.R. PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+432	65570.5	432 CIRRHOSIS & ALCOHOLIC HEPATITIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+433	33388.0	433 CIRRHOSIS & ALCOHOLIC HEPATITIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+434	34320.0	434 CIRRHOSIS & ALCOHOLIC HEPATITIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+435	67182.0	435 MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+436	68988.0	436 MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+438	54329.0	438 DISORDERS OF PANCREAS EXCEPT MALIGNANCY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+439	33549.0	439 DISORDERS OF PANCREAS EXCEPT MALIGNANCY W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+440	28293.5	440 DISORDERS OF PANCREAS EXCEPT MALIGNANCY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+441	63274.0	441 DISORDERS OF LIVER EXCEPT MALIGCIRRALC HEPA W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+442	34444.0	442 DISORDERS OF LIVER EXCEPT MALIGCIRRALC HEPA W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+443	36531.5	443 DISORDERS OF LIVER EXCEPT MALIGCIRRALC HEPA W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+444	49443.0	444 DISORDERS OF THE BILIARY TRACT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+445	53626.5	445 DISORDERS OF THE BILIARY TRACT W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+446	45325.5	446 DISORDERS OF THE BILIARY TRACT W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+453	228833.0	453 COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+454	189147.0	454 COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+455	156942.5	455 COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+460	170343.0	460 SPINAL FUSION EXCEPT CERVICAL W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+463	159512.5	463 WND DEBRID & SKN GRFT EXC HAND FOR MUSCULO-CONN TISS DIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+464	102508.0	464 WND DEBRID & SKN GRFT EXC HAND FOR MUSCULO-CONN TISS DIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+465	90611.0	465 WND DEBRID & SKN GRFT EXC HAND FOR MUSCULO-CONN TISS DIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+466	119996.0	466 REVISION OF HIP OR KNEE REPLACEMENT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+467	143131.5	467 REVISION OF HIP OR KNEE REPLACEMENT W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+468	107829.0	468 REVISION OF HIP OR KNEE REPLACEMENT W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+469	99701.0	469 MAJOR JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+470	72257.5	470 MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+472	99586.5	472 CERVICAL SPINAL FUSION W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+473	108814.5	473 CERVICAL SPINAL FUSION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+475	42942.0	475 AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+477	66320.5	477 BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+478	75250.5	478 BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+480	70023.0	480 HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+481	65007.5	481 HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+482	52413.0	482 HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+483	85115.0	483 MAJOR JOINT/LIMB REATTACHMENT PROCEDURE OF UPPER EXTREMITIES	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+485	143053.0	485 KNEE PROCEDURES W PDX OF INFECTION W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+487	70017.0	487 KNEE PROCEDURES W PDX OF INFECTION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+488	68009.0	488 KNEE PROCEDURES W/O PDX OF INFECTION W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+489	62756.0	489 KNEE PROCEDURES W/O PDX OF INFECTION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+492	92719.0	492 LOWER EXTREM & HUMER PROC EXCEPT HIPFOOTFEMUR W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+493	67871.0	493 LOWER EXTREM & HUMER PROC EXCEPT HIPFOOTFEMUR W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+494	55942.0	494 LOWER EXTREM & HUMER PROC EXCEPT HIPFOOTFEMUR W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+495	87543.0	495 LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+496	55306.5	496 LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+498	106572.0	498 LOCAL EXCISION & REMOVAL INT FIX DEVICES OF HIP & FEMUR W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+499	35079.5	499 LOCAL EXCISION & REMOVAL INT FIX DEVICES OF HIP & FEMUR W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+500	69233.0	500 SOFT TISSUE PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+501	79292.0	501 SOFT TISSUE PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+502	85951.5	502 SOFT TISSUE PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+503	23998.0	503 FOOT PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+504	74419.5	504 FOOT PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+505	55134.5	505 FOOT PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+509	149294.0	509 ARTHROSCOPY	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+512	57791.5	512 SHOULDERELBOW OR FOREARM PROCEXC MAJOR JOINT PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+513	36966.5	513 HAND OR WRIST PROC EXCEPT MAJOR THUMB OR JOINT PROC W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+514	26776.0	514 HAND OR WRIST PROC EXCEPT MAJOR THUMB OR JOINT PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+515	77901.0	515 OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+516	48016.0	516 OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+517	51262.0	517 OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+519	104907.0	519 BACK & NECK PROC EXC SPINAL FUSION W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+534	11587.0	534 FRACTURES OF FEMUR W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+535	28158.5	535 FRACTURES OF HIP & PELVIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+536	25044.5	536 FRACTURES OF HIP & PELVIS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+538	22227.0	538 SPRAINS STRAINS & DISLOCATIONS OF HIP PELVIS & THIGH W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+539	27543.0	539 OSTEOMYELITIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+540	63703.5	540 OSTEOMYELITIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+541	19186.5	541 OSTEOMYELITIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+542	219942.5	542 PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+543	30724.5	543 PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+544	66676.0	544 PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+545	135411.0	545 CONNECTIVE TISSUE DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+546	34897.0	546 CONNECTIVE TISSUE DISORDERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+547	28123.0	547 CONNECTIVE TISSUE DISORDERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+548	131658.0	548 SEPTIC ARTHRITIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+549	49790.0	549 SEPTIC ARTHRITIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+551	38709.0	551 MEDICAL BACK PROBLEMS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+552	36391.0	552 MEDICAL BACK PROBLEMS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+554	15911.0	554 BONE DISEASES & ARTHROPATHIES W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+555	53889.0	555 SIGNS & SYMPTOMS OF MUSCULOSKELETAL SYSTEM & CONN TISSUE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+556	36371.0	556 SIGNS & SYMPTOMS OF MUSCULOSKELETAL SYSTEM & CONN TISSUE W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+557	49318.5	557 TENDONITIS MYOSITIS & BURSITIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+558	26920.0	558 TENDONITIS MYOSITIS & BURSITIS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+559	39171.0	559 AFTERCARE MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+560	65059.0	560 AFTERCARE MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+561	9280.5	561 AFTERCARE MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+562	28440.0	562 FX SPRN STRN & DISL EXCEPT FEMUR HIP PELVIS & THIGH W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+563	25809.0	563 FX SPRN STRN & DISL EXCEPT FEMUR HIP PELVIS & THIGH W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+564	84435.0	564 OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+565	43175.0	565 OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+570	131670.0	570 SKIN DEBRIDEMENT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+571	44341.0	571 SKIN DEBRIDEMENT W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+573	124525.0	573 SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+579	59590.0	579 OTHER SKIN SUBCUT TISS & BREAST PROC W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+580	59990.0	580 OTHER SKIN SUBCUT TISS & BREAST PROC W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+581	108222.5	581 OTHER SKIN SUBCUT TISS & BREAST PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+582	102192.0	582 MASTECTOMY FOR MALIGNANCY W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+583	100196.0	583 MASTECTOMY FOR MALIGNANCY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+584	93695.0	584 BREAST BIOPSY LOCAL EXCISION & OTHER BREAST PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+585	75839.0	585 BREAST BIOPSY LOCAL EXCISION & OTHER BREAST PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+592	45319.0	592 SKIN ULCERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+593	61669.0	593 SKIN ULCERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+595	607521.0	595 MAJOR SKIN DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+596	31347.0	596 MAJOR SKIN DISORDERS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+598	48352.0	598 MALIGNANT BREAST DISORDERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+600	9101.0	600 NON-MALIGNANT BREAST DISORDERS W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+601	19163.0	601 NON-MALIGNANT BREAST DISORDERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+602	42024.0	602 CELLULITIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+603	28487.5	603 CELLULITIS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+604	70059.0	604 TRAUMA TO THE SKIN SUBCUT TISS & BREAST W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+605	30795.0	605 TRAUMA TO THE SKIN SUBCUT TISS & BREAST W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+606	103920.0	606 MINOR SKIN DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+607	23588.0	607 MINOR SKIN DISORDERS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+615	56188.0	615 ADRENAL & PITUITARY PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+616	117166.5	616 AMPUTAT OF LOWER LIMB FOR ENDOCRINENUTRIT& METABOL DIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+617	54629.0	617 AMPUTAT OF LOWER LIMB FOR ENDOCRINENUTRIT& METABOL DIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+618	50162.0	618 AMPUTAT OF LOWER LIMB FOR ENDOCRINENUTRIT& METABOL DIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+619	57525.5	619 O.R. PROCEDURES FOR OBESITY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+620	51635.0	620 O.R. PROCEDURES FOR OBESITY W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+621	40546.0	621 O.R. PROCEDURES FOR OBESITY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+622	123857.0	622 SKIN GRAFTS & WOUND DEBRID FOR ENDOC NUTRIT & METAB DIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+623	52440.5	623 SKIN GRAFTS & WOUND DEBRID FOR ENDOC NUTRIT & METAB DIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+624	65449.0	624 SKIN GRAFTS & WOUND DEBRID FOR ENDOC NUTRIT & METAB DIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+626	32810.0	626 THYROID PARATHYROID & THYROGLOSSAL PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+627	32094.0	627 THYROID PARATHYROID & THYROGLOSSAL PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+628	136269.0	628 OTHER ENDOCRINE NUTRIT & METAB O.R. PROC W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+629	65007.0	629 OTHER ENDOCRINE NUTRIT & METAB O.R. PROC W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+637	52252.5	637 DIABETES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+638	33038.0	638 DIABETES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+639	24554.0	639 DIABETES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+640	45961.0	640 MISC DISORDERS OF NUTRITIONMETABOLISMFLUIDS/ELECTROLYTES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+641	30222.0	641 MISC DISORDERS OF NUTRITIONMETABOLISMFLUIDS/ELECTROLYTES W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+642	30569.0	642 INBORN AND OTHER DISORDERS OF METABOLISM	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+643	64510.0	643 ENDOCRINE DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+644	35837.0	644 ENDOCRINE DISORDERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+645	33319.0	645 ENDOCRINE DISORDERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+654	69754.0	654 MAJOR BLADDER PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+656	70356.0	656 KIDNEY & URETER PROCEDURES FOR NEOPLASM W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+657	72700.0	657 KIDNEY & URETER PROCEDURES FOR NEOPLASM W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+658	61527.0	658 KIDNEY & URETER PROCEDURES FOR NEOPLASM W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+659	120335.0	659 KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+660	54163.0	660 KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+661	45726.0	661 KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+662	72234.5	662 MINOR BLADDER PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+664	41167.0	664 MINOR BLADDER PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+668	125015.0	668 TRANSURETHRAL PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+669	45682.0	669 TRANSURETHRAL PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+670	47660.0	670 TRANSURETHRAL PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+673	138445.5	673 OTHER KIDNEY & URINARY TRACT PROCEDURES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+674	72341.0	674 OTHER KIDNEY & URINARY TRACT PROCEDURES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+675	75234.0	675 OTHER KIDNEY & URINARY TRACT PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+682	61771.0	682 RENAL FAILURE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+683	32765.0	683 RENAL FAILURE W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+684	27466.0	684 RENAL FAILURE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+686	83699.0	686 KIDNEY & URINARY TRACT NEOPLASMS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+687	64834.5	687 KIDNEY & URINARY TRACT NEOPLASMS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+689	40476.0	689 KIDNEY & URINARY TRACT INFECTIONS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+690	28415.0	690 KIDNEY & URINARY TRACT INFECTIONS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+693	170213.5	693 URINARY STONES W/O ESW LITHOTRIPSY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+694	32474.5	694 URINARY STONES W/O ESW LITHOTRIPSY W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+695	37454.0	695 KIDNEY & URINARY TRACT SIGNS & SYMPTOMS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+696	36049.0	696 KIDNEY & URINARY TRACT SIGNS & SYMPTOMS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+698	50391.0	698 OTHER KIDNEY & URINARY TRACT DIAGNOSES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+699	37976.0	699 OTHER KIDNEY & URINARY TRACT DIAGNOSES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+700	23884.0	700 OTHER KIDNEY & URINARY TRACT DIAGNOSES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+707	67733.0	707 MAJOR MALE PELVIC PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+708	75935.0	708 MAJOR MALE PELVIC PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+710	26593.0	710 PENIS PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+713	37908.0	713 TRANSURETHRAL PROSTATECTOMY W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+715	77321.0	715 OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC FOR MALIGNANCY W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+723	51062.0	723 MALIGNANCY MALE REPRODUCTIVE SYSTEM W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+726	22764.0	726 BENIGN PROSTATIC HYPERTROPHY W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+728	32546.0	728 INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+729	7486.0	729 OTHER MALE REPRODUCTIVE SYSTEM DIAGNOSES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+736	149529.0	736 UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+737	58899.5	737 UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+738	83666.0	738 UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+740	51488.0	740 UTERINEADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+741	27358.0	741 UTERINEADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+742	40115.5	742 UTERINE & ADNEXA PROC FOR NON-MALIGNANCY W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+743	32829.5	743 UTERINE & ADNEXA PROC FOR NON-MALIGNANCY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+744	53494.0	744 D&C CONIZATION LAPAROSCOPY & TUBAL INTERRUPTION W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+745	27240.0	745 D&C CONIZATION LAPAROSCOPY & TUBAL INTERRUPTION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+746	83710.0	746 VAGINA CERVIX & VULVA PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+747	30799.0	747 VAGINA CERVIX & VULVA PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+748	27898.5	748 FEMALE REPRODUCTIVE SYSTEM RECONSTRUCTIVE PROCEDURES	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+749	55214.5	749 OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+750	65472.0	750 OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+754	31644.0	754 MALIGNANCY FEMALE REPRODUCTIVE SYSTEM W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+755	53603.0	755 MALIGNANCY FEMALE REPRODUCTIVE SYSTEM W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+757	31068.0	757 INFECTIONS FEMALE REPRODUCTIVE SYSTEM W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+758	40196.0	758 INFECTIONS FEMALE REPRODUCTIVE SYSTEM W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+759	26250.0	759 INFECTIONS FEMALE REPRODUCTIVE SYSTEM W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+760	22475.0	760 MENSTRUAL & OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+761	8789.0	761 MENSTRUAL & OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+765	29482.0	765 CESAREAN SECTION W CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+766	25686.0	766 CESAREAN SECTION W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+767	27043.0	767 VAGINAL DELIVERY W STERILIZATION &/OR D&C	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+768	26681.0	768 VAGINAL DELIVERY W O.R. PROC EXCEPT STERIL &/OR D&C	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+769	65441.0	769 POSTPARTUM & POST ABORTION DIAGNOSES W O.R. PROCEDURE	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+770	17687.0	770 ABORTION W D&C ASPIRATION CURETTAGE OR HYSTEROTOMY	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+774	19240.0	774 VAGINAL DELIVERY W COMPLICATING DIAGNOSES	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+775	16389.0	775 VAGINAL DELIVERY W/O COMPLICATING DIAGNOSES	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+776	22176.5	776 POSTPARTUM & POST ABORTION DIAGNOSES W/O O.R. PROCEDURE	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+777	32150.5	777 ECTOPIC PREGNANCY	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+778	15852.0	778 THREATENED ABORTION	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+779	16706.5	779 ABORTION W/O D&C	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+780	5188.0	780 FALSE LABOR	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+781	14505.5	781 OTHER ANTEPARTUM DIAGNOSES W MEDICAL COMPLICATIONS	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+782	8588.0	782 OTHER ANTEPARTUM DIAGNOSES W/O MEDICAL COMPLICATIONS	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+789	20552.5	789 NEONATES DIED OR TRANSFERRED TO ANOTHER ACUTE CARE FACILITY	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+790	134595.0	790 EXTREME IMMATURITY OR RESPIRATORY DISTRESS SYNDROME NEONATE	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+791	59095.0	791 PREMATURITY W MAJOR PROBLEMS	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+792	5885.0	792 PREMATURITY W/O MAJOR PROBLEMS	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+793	18221.0	793 FULL TERM NEONATE W MAJOR PROBLEMS	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+794	5298.0	794 NEONATE W OTHER SIGNIFICANT PROBLEMS	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+795	3991.0	795 NORMAL NEWBORN	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+801	52759.0	801 SPLENECTOMY W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+802	227868.0	802 OTHER O.R. PROC OF THE BLOOD & BLOOD FORMING ORGANS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+803	259079.0	803 OTHER O.R. PROC OF THE BLOOD & BLOOD FORMING ORGANS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+808	65541.0	808 MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+809	49087.0	809 MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+810	68035.5	810 MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+811	48832.0	811 RED BLOOD CELL DISORDERS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+812	32792.0	812 RED BLOOD CELL DISORDERS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+813	59385.0	813 COAGULATION DISORDERS	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+815	32280.0	815 RETICULOENDOTHELIAL & IMMUNITY DISORDERS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+816	36336.0	816 RETICULOENDOTHELIAL & IMMUNITY DISORDERS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+820	189411.0	820 LYMPHOMA & LEUKEMIA W MAJOR O.R. PROCEDURE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+822	40122.0	822 LYMPHOMA & LEUKEMIA W MAJOR O.R. PROCEDURE W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+823	347667.5	823 LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+825	53616.5	825 LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+826	171278.5	826 MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+830	121743.0	830 MYELOPROLIF DISORD OR POORLY DIFF NEOPL W OTHER O.R. PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+834	231328.5	834 ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+835	38063.0	835 ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+837	30100.0	837 CHEMO W ACUTE LEUKEMIA AS SDX OR W HIGH DOSE CHEMO AGENT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+838	52175.0	838 CHEMO W ACUTE LEUKEMIA AS SDX W CC OR HIGH DOSE CHEMO AGENT	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+839	34859.0	839 CHEMO W ACUTE LEUKEMIA AS SDX W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+840	210632.0	840 LYMPHOMA & NON-ACUTE LEUKEMIA W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+841	82844.0	841 LYMPHOMA & NON-ACUTE LEUKEMIA W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+842	79416.0	842 LYMPHOMA & NON-ACUTE LEUKEMIA W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+843	64301.0	843 OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+844	152408.5	844 OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+846	58433.0	846 CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+847	39682.5	847 CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+849	115491.0	849 RADIOTHERAPY	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+853	175437.0	853 INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+854	70103.0	854 INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+856	195014.5	856 POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+857	48616.5	857 POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+858	38332.0	858 POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+862	49843.5	862 POSTOPERATIVE & POST-TRAUMATIC INFECTIONS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+863	23269.5	863 POSTOPERATIVE & POST-TRAUMATIC INFECTIONS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+864	55246.0	864 FEVER	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+865	54388.5	865 VIRAL ILLNESS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+866	24958.0	866 VIRAL ILLNESS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+867	52755.5	867 OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+868	45255.0	868 OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+869	73135.0	869 OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+870	270687.0	870 SEPTICEMIA OR SEVERE SEPSIS W MV >96 HOURS	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+871	68405.0	871 SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+872	38807.0	872 SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+880	51626.5	880 ACUTE ADJUSTMENT REACTION & PSYCHOSOCIAL DYSFUNCTION	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+881	23241.0	881 DEPRESSIVE NEUROSES	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+884	84905.5	884 ORGANIC DISTURBANCES & INTELLECTUAL DISABILITY	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+885	44549.5	885 PSYCHOSES	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+894	17703.0	894 ALCOHOL/DRUG ABUSE OR DEPENDENCE LEFT AMA	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+896	71198.0	896 ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHABILITATION THERAPY W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+897	28229.0	897 ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHABILITATION THERAPY W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+902	59310.0	902 WOUND DEBRIDEMENTS FOR INJURIES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+903	64700.0	903 WOUND DEBRIDEMENTS FOR INJURIES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+907	111786.0	907 OTHER O.R. PROCEDURES FOR INJURIES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+908	62192.0	908 OTHER O.R. PROCEDURES FOR INJURIES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+909	42304.0	909 OTHER O.R. PROCEDURES FOR INJURIES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+914	32779.0	914 TRAUMATIC INJURY W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+915	73646.0	915 ALLERGIC REACTIONS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+916	15015.0	916 ALLERGIC REACTIONS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+917	50845.5	917 POISONING & TOXIC EFFECTS OF DRUGS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+918	24569.0	918 POISONING & TOXIC EFFECTS OF DRUGS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+919	63724.5	919 COMPLICATIONS OF TREATMENT W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+920	32792.0	920 COMPLICATIONS OF TREATMENT W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+921	17920.0	921 COMPLICATIONS OF TREATMENT W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+923	29784.0	923 OTHER INJURY POISONING & TOXIC EFFECT DIAG W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+934	81264.0	934 FULL THICKNESS BURN W/O SKIN GRFT OR INHAL INJ	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+935	25939.0	935 NON-EXTENSIVE BURNS	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+939	60849.0	939 O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+940	41810.0	940 O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+941	45613.5	941 O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+947	36542.0	947 SIGNS & SYMPTOMS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+948	29063.0	948 SIGNS & SYMPTOMS W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+951	7316.5	951 OTHER FACTORS INFLUENCING HEALTH STATUS	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+956	65189.5	956 LIMB REATTACHMENT HIP & FEMUR PROC FOR MULTIPLE SIGNIFICANT TRAUMA	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+964	44550.0	964 OTHER MULTIPLE SIGNIFICANT TRAUMA W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+969	192351.5	969 HIV W EXTENSIVE O.R. PROCEDURE W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+970	157959.5	970 HIV W EXTENSIVE O.R. PROCEDURE W/O MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+974	64505.0	974 HIV W MAJOR RELATED CONDITION W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+975	37778.5	975 HIV W MAJOR RELATED CONDITION W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+977	37867.0	977 HIV W OR W/O OTHER RELATED CONDITION	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+981	164577.5	981 EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+982	54966.0	982 EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+983	30914.5	983 EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+987	110119.5	987 NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+988	57809.5	988 NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W CC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg
+989	41130.0	989 NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W/O CC/MCC	communityu-regional-medical-center	IP-DRG-Charges-CCMC.xlsx	drg

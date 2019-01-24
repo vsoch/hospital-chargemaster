@@ -6,8 +6,7 @@ import json
 import pandas
 import datetime
 
-here = os.getcwd()
-#here = os.path.dirname(os.path.abspath(__file__))
+here = os.path.dirname(os.path.abspath(__file__))
 folder = os.path.basename(here)
 
 year = datetime.datetime.today().year
