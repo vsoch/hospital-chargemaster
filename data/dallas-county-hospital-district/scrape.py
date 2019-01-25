@@ -10,13 +10,14 @@ from bs4 import BeautifulSoup
 here = os.path.dirname(os.path.abspath(__file__))
 hospital_id = os.path.basename(here)
 
-url ='https://www.dmc-modesto.com/for-patients/insurance-financial-support/billing-insurance-questions'
+url = 'http://www.dallascohospital.org/price-transparency.cfm'
 
 today = datetime.datetime.today().strftime('%Y-%m-%d')
 outdir = os.path.join(here, today)
 if not os.path.exists(outdir):
     os.mkdir(outdir)
 
+prefix = 'http://www.dallascohospital.org'
 response = requests.get(url)
 soup = BeautifulSoup(response.text, 'lxml')
 
@@ -24,9 +25,9 @@ soup = BeautifulSoup(response.text, 'lxml')
 records = []
 
 for entry in soup.find_all('a', href=True):
-    download_url = entry['href']
-    if '.xlsx' in download_url:  
-        filename =  os.path.basename(download_url.split('?')[0])  
+    download_url = prefix + entry['href']
+    if '.csv' in download_url:
+        filename =  os.path.basename(download_url.split('?')[0]).replace('%20','-').strip()
 
         # We want to get the original file, not write a new one
         output_file = os.path.join(outdir, filename)
