@@ -4,7 +4,6 @@ import os
 from glob import glob
 import json
 import pandas
-import codecs
 import datetime
 
 here = os.path.dirname(os.path.abspath(__file__))

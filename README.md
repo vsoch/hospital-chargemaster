@@ -53,7 +53,7 @@ that each folder is a modular solution to retrieve the data. If you are interest
 one hospital, you can use the folder on its own. The one exception is with the browser (Chrome)
 driver that is shared in the [drivers](drivers) folder at the root of the repository.
 
-### 5. Parsing
+### 3. Parsing
 
 This is likely one of the hardest steps. I wanted to see the extent to which I could
 create a simple parser that would generate a single TSV (tab separted value) file
@@ -73,16 +73,15 @@ to the data:
 
  - **charge_type** can be one of standard, average, inpatient, outpatient, drg, or (if more detail is supplied) pharmacy, or supply. If not specified, I labeled as standard, because this would be a good assumption.
 
-### 6. What if I have an issue?
+### 4. What if I have an issue?
 
-There are several known issues:
-
- - The prices sometimes have dollar signs. I kept prices in the original format because I didn't want to mess with units.
- - Some original scraping downloads failed if the files were huge (and resulted in an empty file)
-
+This is publicly available data, provided with good intention that 
+transparency is important. The authors make no guarantees about 
+the data, and are not liable for how you might use it. If you find an issue,
+you are encouraged to help to fix it by opening an issue. 
 If you will like to [open a pull request](https://www.github.com/vsoch/hospital-chargemaster) to add missing data or fix an issue, it would be greatly appreciated! My original work was optimized for efficiency and so I didn't go back (yet) to fix all the tiny details, knowing that the community could come in to contribute and help.
 
-### 7. (Future) Automation
+### 5. (Future) Automation
 
 This would likely need to be done on a yearly basis, and it is unlikely the hospitals
 would go out of their way to update the documents any more frequently than they are required.
