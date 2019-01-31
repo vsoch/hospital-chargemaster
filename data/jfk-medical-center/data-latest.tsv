@@ -1,0 +1,655 @@
+charge_code	price	description	hospital_id	filename	charge_type
+001	1293732.52	001 - HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+002	399407.62	002 - HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+003	1296950.07	003 - ECMO OR TRACH W MV >96 HRS OR PDX EXC FACE; MOUTH & NECK W MAJ O.R.	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+004	807448.06	004 - TRACH W MV >96 HRS OR PDX EXC FACE; MOUTH & NECK W/O MAJ O.R.	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+011	402925.5	011 - TRACHEOSTOMY FOR FACE;MOUTH & NECK DIAGNOSES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+013	242784.22	013 - TRACHEOSTOMY FOR FACE;MOUTH & NECK DIAGNOSES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+014	117868.06	014 - ALLOGENEIC BONE MARROW TRANSPLANT	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+016	265678.91	016 - AUTOLOGOUS BONE MARROW TRANSPLANT W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+020	723318.51	020 - INTRACRANIAL VASCULAR PROCEDURES W PDX HEMORRHAGE W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+021	605774.03	021 - INTRACRANIAL VASCULAR PROCEDURES W PDX HEMORRHAGE W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+022	486515.08	022 - INTRACRANIAL VASCULAR PROCEDURES W PDX HEMORRHAGE W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+023	410626.28	023 - CRANIO W MAJOR DEV IMPL/ACUTE CNS PDX W MCC OR CHEMO IMPL OR EPILEPSY W NEUROSTM	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+024	205999.25	024 - CRANIO W MAJOR DEV IMPL/ACUTE COMPLEX CNS PDX W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+025	333422.81	025 - CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+026	272193.01	026 - CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+027	243094.24	027 - CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+028	289184.32	028 - SPINAL PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+029	188128.44	029 - SPINAL PROCEDURES W CC OR SPINAL NEUROSTIMULATORS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+030	147385.4	030 - SPINAL PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+031	351895.79	031 - VENTRICULAR SHUNT PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+032	182210.86	032 - VENTRICULAR SHUNT PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+033	155820.27	033 - VENTRICULAR SHUNT PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+035	213237.3	035 - CAROTID ARTERY STENT PROCEDURE W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+036	56150.96	036 - CAROTID ARTERY STENT PROCEDURE W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+037	277317.75	037 - EXTRACRANIAL PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+038	136247.01	038 - EXTRACRANIAL PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+039	95299.08	039 - EXTRACRANIAL PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+040	286865.45	040 - PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+041	154637.03	041 - PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W CC OR PERIPH NEUROSTIM	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+042	129216.98	042 - PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+054	134392.57	054 - NERVOUS SYSTEM NEOPLASMS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+055	77711.09	055 - NERVOUS SYSTEM NEOPLASMS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+056	103407.41	056 - DEGENERATIVE NERVOUS SYSTEM DISORDERS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+057	71745.29	057 - DEGENERATIVE NERVOUS SYSTEM DISORDERS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+059	56505.67	059 - MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+060	79906.28	060 - MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+061	238703.6	061 - ISCHEMIC STROKE; PRECEREBRAL OCCL OR TRANS ISCHEMIA W THROMBOLYTIC AGENT W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+062	156388.23	062 - ISCHEMIC STROKE; PRECEREBRAL OCCL OR TRANSIENT ISCHEMIA W THROMBOLYTIC AGENT W C	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+063	204767.78	063 - ISCHEMIC STROKE; PRECEREBRAL OCCL OR TRANSIENT ISCHEMIA W THROMB AGENT W/O CC/MC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+064	130554.28	064 - INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+065	97866.95	065 - INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+066	74008.24	066 - INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+067	141403.94	067 - NONSPECIFIC CVA & PRECEREBRAL OCCLUSION W/O INFARCT W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+068	89064.33	068 - NONSPECIFIC CVA & PRECEREBRAL OCCLUSION W/O INFARCT W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+069	52030.1	069 - TRANSIENT ISCHEMIA W/O THROMBOLYTIC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+070	91537.55	070 - NONSPECIFIC CEREBROVASCULAR DISORDERS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+071	62842.09	071 - NONSPECIFIC CEREBROVASCULAR DISORDERS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+072	49129.04	072 - NONSPECIFIC CEREBROVASCULAR DISORDERS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+073	59522.5	073 - CRANIAL & PERIPHERAL NERVE DISORDERS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+074	62392.12	074 - CRANIAL & PERIPHERAL NERVE DISORDERS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+075	85959.89	075 - VIRAL MENINGITIS W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+076	75871.04	076 - VIRAL MENINGITIS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+077	49460.04	077 - HYPERTENSIVE ENCEPHALOPATHY W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+078	53808.88	078 - HYPERTENSIVE ENCEPHALOPATHY W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+079	45022.11	079 - HYPERTENSIVE ENCEPHALOPATHY W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+080	246494.73	080 - NONTRAUMATIC STUPOR & COMA W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+081	189478.66	081 - NONTRAUMATIC STUPOR & COMA W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+082	315032.35	082 - TRAUMATIC STUPOR & COMA; COMA >1 HR W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+083	114429.54	083 - TRAUMATIC STUPOR & COMA; COMA >1 HR W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+085	101067.43	085 - TRAUMATIC STUPOR & COMA; COMA <1 HR W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+086	84405.56	086 - TRAUMATIC STUPOR & COMA; COMA <1 HR W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+087	55276.35	087 - TRAUMATIC STUPOR & COMA; COMA <1 HR W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+088	46157.0	088 - CONCUSSION W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+089	94646.25	089 - CONCUSSION W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+090	72159.25	090 - CONCUSSION W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+091	101058.33	091 - OTHER DISORDERS OF NERVOUS SYSTEM W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+092	63745.16	092 - OTHER DISORDERS OF NERVOUS SYSTEM W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+093	52351.77	093 - OTHER DISORDERS OF NERVOUS SYSTEM W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+094	200239.88	094 - BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+095	231368.54	095 - BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+096	388852.45	096 - BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+097	184652.62	097 - NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+098	147456.96	098 - NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+100	95320.52	100 - SEIZURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+101	45962.94	101 - SEIZURES W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+102	56019.56	102 - HEADACHES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+103	47029.27	103 - HEADACHES W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+121	44749.03	121 - ACUTE MAJOR EYE INFECTIONS W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+122	33743.56	122 - ACUTE MAJOR EYE INFECTIONS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+123	51544.89	123 - NEUROLOGICAL EYE DISORDERS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+124	124116.13	124 - OTHER DISORDERS OF THE EYE W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+125	49043.89	125 - OTHER DISORDERS OF THE EYE W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+131	167491.26	131 - CRANIAL/FACIAL PROCEDURES W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+133	230029.56	133 - OTHER EAR; NOSE; MOUTH & THROAT O.R. PROCEDURES W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+134	85950.33	134 - OTHER EAR; NOSE; MOUTH & THROAT O.R. PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+146	159142.27	146 - EAR; NOSE; MOUTH & THROAT MALIGNANCY W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+147	53979.36	147 - EAR; NOSE; MOUTH & THROAT MALIGNANCY W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+148	57937.35	148 - EAR; NOSE; MOUTH & THROAT MALIGNANCY W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+149	42657.09	149 - DYSEQUILIBRIUM	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+150	55931.79	150 - EPISTAXIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+151	22598.61	151 - EPISTAXIS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+152	37820.74	152 - OTITIS MEDIA & URI W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+153	36269.1	153 - OTITIS MEDIA & URI W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+154	63986.46	154 - OTHER EAR; NOSE; MOUTH & THROAT DIAGNOSES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+155	49889.49	155 - OTHER EAR; NOSE; MOUTH & THROAT DIAGNOSES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+156	42697.65	156 - OTHER EAR; NOSE; MOUTH & THROAT DIAGNOSES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+157	103516.39	157 - DENTAL & ORAL DISEASES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+158	48015.33	158 - DENTAL & ORAL DISEASES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+159	36460.67	159 - DENTAL & ORAL DISEASES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+163	307676.75	163 - MAJOR CHEST PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+164	198501.85	164 - MAJOR CHEST PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+165	142373.65	165 - MAJOR CHEST PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+166	216841.69	166 - OTHER RESP SYSTEM O.R. PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+167	136306.11	167 - OTHER RESP SYSTEM O.R. PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+168	105360.46	168 - OTHER RESP SYSTEM O.R. PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+175	121003.41	175 - PULMONARY EMBOLISM W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+176	55939.19	176 - PULMONARY EMBOLISM W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+177	114419.59	177 - RESPIRATORY INFECTIONS & INFLAMMATIONS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+178	70367.89	178 - RESPIRATORY INFECTIONS & INFLAMMATIONS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+179	52463.21	179 - RESPIRATORY INFECTIONS & INFLAMMATIONS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+180	97905.87	180 - RESPIRATORY NEOPLASMS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+181	88140.13	181 - RESPIRATORY NEOPLASMS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+182	63795.66	182 - RESPIRATORY NEOPLASMS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+183	106837.2	183 - MAJOR CHEST TRAUMA W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+184	72477.53	184 - MAJOR CHEST TRAUMA W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+185	63162.79	185 - MAJOR CHEST TRAUMA W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+186	96231.95	186 - PLEURAL EFFUSION W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+187	79986.69	187 - PLEURAL EFFUSION W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+188	70490.69	188 - PLEURAL EFFUSION W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+189	65123.19	189 - PULMONARY EDEMA & RESPIRATORY FAILURE	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+190	59390.6	190 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+191	48368.3	191 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+192	33300.56	192 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+193	75024.44	193 - SIMPLE PNEUMONIA & PLEURISY W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+194	52661.93	194 - SIMPLE PNEUMONIA & PLEURISY W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+195	34645.54	195 - SIMPLE PNEUMONIA & PLEURISY W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+196	62390.99	196 - INTERSTITIAL LUNG DISEASE W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+197	63791.28	197 - INTERSTITIAL LUNG DISEASE W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+198	44019.19	198 - INTERSTITIAL LUNG DISEASE W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+199	87236.39	199 - PNEUMOTHORAX W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+200	62768.85	200 - PNEUMOTHORAX W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+201	64182.26	201 - PNEUMOTHORAX W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+202	48182.19	202 - BRONCHITIS & ASTHMA W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+203	34379.66	203 - BRONCHITIS & ASTHMA W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+204	49222.3	204 - RESPIRATORY SIGNS & SYMPTOMS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+205	74789.33	205 - OTHER RESPIRATORY SYSTEM DIAGNOSES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+206	62072.09	206 - OTHER RESPIRATORY SYSTEM DIAGNOSES W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+207	278121.24	207 - RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT >96 HOURS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+208	149294.94	208 - RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT <=96 HOURS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+215	635330.03	215 - OTHER HEART ASSIST SYSTEM IMPLANT	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+216	550131.56	216 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W CARD CATH W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+217	404765.24	217 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W CARD CATH W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+218	400268.78	218 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W CARD CATH W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+219	385762.22	219 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+220	306515.42	220 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+221	241270.16	221 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+222	472113.68	222 - CARDIAC DEFIB IMPLANT W CARDIAC CATH W AMI/HF/SHOCK W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+223	268623.92	223 - CARDIAC DEFIB IMPLANT W CARDIAC CATH W AMI/HF/SHOCK W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+224	367619.86	224 - CARDIAC DEFIB IMPLANT W CARDIAC CATH W/O AMI/HF/SHOCK W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+225	252739.3	225 - CARDIAC DEFIB IMPLANT W CARDIAC CATH W/O AMI/HF/SHOCK W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+226	285281.05	226 - CARDIAC DEFIBRILLATOR IMPLANT W/O CARDIAC CATH W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+227	169561.9	227 - CARDIAC DEFIBRILLATOR IMPLANT W/O CARDIAC CATH W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+228	369937.69	228 - OTHER CARDIOTHORACIC PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+229	183712.28	229 - OTHER CARDIOTHORACIC PROCEDURES W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+231	421821.35	231 - CORONARY BYPASS W PTCA W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+232	235516.27	232 - CORONARY BYPASS W PTCA W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+233	415129.83	233 - CORONARY BYPASS W CARDIAC CATH W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+234	346803.41	234 - CORONARY BYPASS W CARDIAC CATH W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+235	310800.77	235 - CORONARY BYPASS W/O CARDIAC CATH W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+236	244561.33	236 - CORONARY BYPASS W/O CARDIAC CATH W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+239	374140.06	239 - AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+240	312066.69	240 - AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+241	91216.0	241 - AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+242	213192.8	242 - PERMANENT CARDIAC PACEMAKER IMPLANT W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+243	140402.45	243 - PERMANENT CARDIAC PACEMAKER IMPLANT W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+244	120474.37	244 - PERMANENT CARDIAC PACEMAKER IMPLANT W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+245	215787.66	245 - AICD GENERATOR PROCEDURES	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+246	251828.64	246 - PERC CARDIOVASC PROC W DRUG-ELUTING STENT W MCC OR 4+ ARTERIES OR STENTS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+247	191606.26	247 - PERC CARDIOVASC PROC W DRUG-ELUTING STENT W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+248	209201.63	248 - PERC CARDIOVASC PROC W NON-DRUG-ELUTING STENT W MCC OR 4+ ART/STENTS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+249	191840.28	249 - PERC CARDIOVASC PROC W NON-DRUG-ELUTING STENT W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+250	140792.0	250 - PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+251	179351.07	251 - PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+252	262823.05	252 - OTHER VASCULAR PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+253	200207.51	253 - OTHER VASCULAR PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+254	153144.06	254 - OTHER VASCULAR PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+255	240883.26	255 - UPPER LIMB & TOE AMPUTATION FOR CIRC SYSTEM DISORDERS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+256	128603.81	256 - UPPER LIMB & TOE AMPUTATION FOR CIRC SYSTEM DISORDERS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+258	106088.31	258 - CARDIAC PACEMAKER DEVICE REPLACEMENT W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+259	86602.69	259 - CARDIAC PACEMAKER DEVICE REPLACEMENT W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+260	221919.45	260 - CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+261	117931.05	261 - CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+262	70904.27	262 - CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+263	118287.11	263 - VEIN LIGATION & STRIPPING	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+264	208086.71	264 - OTHER CIRCULATORY SYSTEM O.R. PROCEDURES	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+266	354210.52	266 - ENDOVASCULAR CARDIAC VALVE REPLACEMENT W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+267	220774.01	267 - ENDOVASCULAR CARDIAC VALVE REPLACEMENT W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+268	336834.08	268 - AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+269	208778.53	269 - AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+270	370330.73	270 - OTHER MAJOR CARDIOVASCULAR PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+271	247939.66	271 - OTHER MAJOR CARDIOVASCULAR PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+272	159124.63	272 - OTHER MAJOR CARDIOVASCULAR PROCEDURES WITHOUT CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+273	235250.35	273 - PERCUTANEOUS INTRACARDIAC PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+274	159059.92	274 - PERCUTANEOUS INTRACARDIAC PROCEDURES W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+280	118265.58	280 - ACUTE MYOCARDIAL INFARCTION; DISCHARGED ALIVE W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+281	84637.66	281 - ACUTE MYOCARDIAL INFARCTION; DISCHARGED ALIVE W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+282	69565.06	282 - ACUTE MYOCARDIAL INFARCTION; DISCHARGED ALIVE W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+283	133406.28	283 - ACUTE MYOCARDIAL INFARCTION; EXPIRED W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+284	53956.85	284 - ACUTE MYOCARDIAL INFARCTION; EXPIRED W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+286	161440.51	286 - CIRCULATORY DISORDERS EXCEPT AMI; W CARD CATH W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+287	109329.69	287 - CIRCULATORY DISORDERS EXCEPT AMI; W CARD CATH W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+288	95409.58	288 - ACUTE & SUBACUTE ENDOCARDITIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+289	117338.44	289 - ACUTE & SUBACUTE ENDOCARDITIS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+290	15593.0	290 - ACUTE & SUBACUTE ENDOCARDITIS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+291	75336.74	291 - HEART FAILURE & SHOCK W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+292	46598.54	292 - HEART FAILURE & SHOCK W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+293	35050.21	293 - HEART FAILURE & SHOCK W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+296	173653.29	296 - CARDIAC ARREST; UNEXPLAINED W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+299	63991.25	299 - PERIPHERAL VASCULAR DISORDERS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+300	50573.43	300 - PERIPHERAL VASCULAR DISORDERS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+301	36031.16	301 - PERIPHERAL VASCULAR DISORDERS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+302	29839.63	302 - ATHEROSCLEROSIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+303	38125.84	303 - ATHEROSCLEROSIS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+304	58813.89	304 - HYPERTENSION W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+305	36367.15	305 - HYPERTENSION W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+306	71919.25	306 - CARDIAC CONGENITAL & VALVULAR DISORDERS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+307	39940.85	307 - CARDIAC CONGENITAL & VALVULAR DISORDERS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+308	62644.77	308 - CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+309	40171.55	309 - CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+310	29950.31	310 - CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+311	43239.02	311 - ANGINA PECTORIS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+312	46427.4	312 - SYNCOPE & COLLAPSE	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+313	35045.45	313 - CHEST PAIN	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+314	118595.27	314 - OTHER CIRCULATORY SYSTEM DIAGNOSES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+315	65679.05	315 - OTHER CIRCULATORY SYSTEM DIAGNOSES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+316	38061.36	316 - OTHER CIRCULATORY SYSTEM DIAGNOSES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+326	300921.58	326 - STOMACH; ESOPHAGEAL & DUODENAL PROC W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+327	198992.91	327 - STOMACH; ESOPHAGEAL & DUODENAL PROC W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+328	137584.77	328 - STOMACH; ESOPHAGEAL & DUODENAL PROC W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+329	295938.38	329 - MAJOR SMALL & LARGE BOWEL PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+330	203848.72	330 - MAJOR SMALL & LARGE BOWEL PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+331	124590.45	331 - MAJOR SMALL & LARGE BOWEL PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+335	252503.67	335 - PERITONEAL ADHESIOLYSIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+336	184792.52	336 - PERITONEAL ADHESIOLYSIS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+337	121965.49	337 - PERITONEAL ADHESIOLYSIS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+338	163903.42	338 - APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+339	121306.07	339 - APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+340	98244.96	340 - APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+341	117276.04	341 - APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+342	97297.65	342 - APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+343	99981.49	343 - APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+345	181514.36	345 - MINOR SMALL & LARGE BOWEL PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+346	33919.36	346 - MINOR SMALL & LARGE BOWEL PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+347	122324.08	347 - ANAL & STOMAL PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+348	73125.5	348 - ANAL & STOMAL PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+349	126808.67	349 - ANAL & STOMAL PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+350	204203.7	350 - INGUINAL & FEMORAL HERNIA PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+351	120370.71	351 - INGUINAL & FEMORAL HERNIA PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+352	100437.47	352 - INGUINAL & FEMORAL HERNIA PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+353	207736.55	353 - HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+354	129623.98	354 - HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+355	100989.54	355 - HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+356	359460.55	356 - OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+357	183340.78	357 - OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+358	112549.45	358 - OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+368	185872.71	368 - MAJOR ESOPHAGEAL DISORDERS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+369	81209.44	369 - MAJOR ESOPHAGEAL DISORDERS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+370	85399.26	370 - MAJOR ESOPHAGEAL DISORDERS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+371	112183.86	371 - MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+372	66663.03	372 - MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+373	58327.02	373 - MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+374	127429.02	374 - DIGESTIVE MALIGNANCY W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+375	118898.43	375 - DIGESTIVE MALIGNANCY W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+376	45208.46	376 - DIGESTIVE MALIGNANCY W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+377	100621.72	377 - G.I. HEMORRHAGE W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+378	72469.54	378 - G.I. HEMORRHAGE W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+379	50795.3	379 - G.I. HEMORRHAGE W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+380	102257.21	380 - COMPLICATED PEPTIC ULCER W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+381	71587.3	381 - COMPLICATED PEPTIC ULCER W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+382	71269.72	382 - COMPLICATED PEPTIC ULCER W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+383	126580.81	383 - UNCOMPLICATED PEPTIC ULCER W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+384	72507.58	384 - UNCOMPLICATED PEPTIC ULCER W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+385	56601.23	385 - INFLAMMATORY BOWEL DISEASE W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+386	72787.58	386 - INFLAMMATORY BOWEL DISEASE W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+387	49948.24	387 - INFLAMMATORY BOWEL DISEASE W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+388	85890.24	388 - G.I. OBSTRUCTION W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+389	62795.36	389 - G.I. OBSTRUCTION W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+390	52313.65	390 - G.I. OBSTRUCTION W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+391	84143.02	391 - ESOPHAGITIS; GASTROENT & MISC DIGEST DISORDERS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+392	55149.3	392 - ESOPHAGITIS; GASTROENT & MISC DIGEST DISORDERS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+393	100861.44	393 - OTHER DIGESTIVE SYSTEM DIAGNOSES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+394	67168.2	394 - OTHER DIGESTIVE SYSTEM DIAGNOSES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+395	52240.04	395 - OTHER DIGESTIVE SYSTEM DIAGNOSES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+405	606907.9	405 - PANCREAS; LIVER & SHUNT PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+406	227520.17	406 - PANCREAS; LIVER & SHUNT PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+407	187447.39	407 - PANCREAS; LIVER & SHUNT PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+408	442630.06	408 - BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+412	540684.48	412 - CHOLECYSTECTOMY W C.D.E. W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+414	151261.06	414 - CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+415	174804.91	415 - CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+416	94246.03	416 - CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+417	161560.88	417 - LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+418	129230.97	418 - LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+419	113594.32	419 - LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+420	297332.97	420 - HEPATOBILIARY DIAGNOSTIC PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+421	205357.37	421 - HEPATOBILIARY DIAGNOSTIC PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+422	164923.22	422 - HEPATOBILIARY DIAGNOSTIC PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+432	125988.28	432 - CIRRHOSIS & ALCOHOLIC HEPATITIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+433	74170.78	433 - CIRRHOSIS & ALCOHOLIC HEPATITIS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+434	41333.96	434 - CIRRHOSIS & ALCOHOLIC HEPATITIS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+435	141484.98	435 - MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+436	98328.39	436 - MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+437	52292.15	437 - MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+438	121107.31	438 - DISORDERS OF PANCREAS EXCEPT MALIGNANCY W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+439	64024.01	439 - DISORDERS OF PANCREAS EXCEPT MALIGNANCY W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+440	52114.01	440 - DISORDERS OF PANCREAS EXCEPT MALIGNANCY W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+441	118207.27	441 - DISORDERS OF LIVER EXCEPT MALIG;CIRR;ALC HEPA W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+442	76706.78	442 - DISORDERS OF LIVER EXCEPT MALIG;CIRR;ALC HEPA W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+443	69653.48	443 - DISORDERS OF LIVER EXCEPT MALIG;CIRR;ALC HEPA W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+444	136896.79	444 - DISORDERS OF THE BILIARY TRACT W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+445	77288.78	445 - DISORDERS OF THE BILIARY TRACT W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+446	55795.6	446 - DISORDERS OF THE BILIARY TRACT W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+453	530698.64	453 - COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+454	239198.59	454 - COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+455	190306.27	455 - COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+456	504173.43	456 - SPINAL FUS EXC CERV W SPINAL CURV/MALIG/INFEC OR EXT FUS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+457	279214.35	457 - SPINAL FUS EXC CERV W SPINAL CURV MALIG/ INFEC OR EXT FUS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+458	211502.98	458 - SPINAL FUS EXC CERV W SPINAL CURV MALIG INFEC OR  EXT FUS WO CCMCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+459	343047.44	459 - SPINAL FUSION EXCEPT CERVICAL W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+460	196682.17	460 - SPINAL FUSION EXCEPT CERVICAL W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+461	334981.54	461 - BILATERAL OR MULTIPLE MAJOR JOINT PROCS OF LOWER EXTREMITY W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+462	161940.22	462 - BILATERAL OR MULTIPLE MAJOR JOINT PROCS OF LOWER EXTREMITY W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+463	324750.98	463 - WND DEBRID & SKN GRFT EXC HAND; FOR MUSCULO-CONN TISS DIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+464	189880.66	464 - WND DEBRID & SKN GRFT EXC HAND; FOR MUSCULO-CONN TISS DIS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+465	99879.88	465 - WND DEBRID & SKN GRFT EXC HAND; FOR MUSCULO-CONN TISS DIS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+466	273963.16	466 - REVISION OF HIP OR KNEE REPLACEMENT W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+467	207374.62	467 - REVISION OF HIP OR KNEE REPLACEMENT W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+468	156651.42	468 - REVISION OF HIP OR KNEE REPLACEMENT W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+469	218836.95	469 - MAJ HIP AND KNEE JNT REPL OR REATTACH OF LW EXTREM W MCC OR TOT ANKLE REPL	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+470	118450.36	470 - MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+471	325205.01	471 - CERVICAL SPINAL FUSION W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+472	155969.36	472 - CERVICAL SPINAL FUSION W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+473	145188.13	473 - CERVICAL SPINAL FUSION W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+474	394051.02	474 - AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+475	214279.08	475 - AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+477	244237.92	477 - BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+478	158868.73	478 - BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+479	143422.92	479 - BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+480	272374.4	480 - HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+481	161580.93	481 - HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+482	139130.91	482 - HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+483	124658.85	483 - MAJOR JOINT & LIMB REATTACHMENT PROC OF UPPER EXTREMITY W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+485	309118.66	485 - KNEE PROCEDURES W PDX OF INFECTION W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+486	153866.23	486 - KNEE PROCEDURES W PDX OF INFECTION W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+487	98815.05	487 - KNEE PROCEDURES W PDX OF INFECTION W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+488	297202.58	488 - KNEE PROCEDURES W/O PDX OF INFECTION W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+489	122371.03	489 - KNEE PROCEDURES W/O PDX OF INFECTION W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+492	320715.69	492 - LOWER EXTREM & HUMER PROC EXCEPT HIP;FOOT;FEMUR W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+493	171205.88	493 - LOWER EXTREM & HUMER PROC EXCEPT HIP;FOOT;FEMUR W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+494	129674.25	494 - LOWER EXTREM & HUMER PROC EXCEPT HIP;FOOT;FEMUR W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+495	262861.74	495 - LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+496	248171.86	496 - LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+497	107656.51	497 - LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+498	216723.74	498 - LOCAL EXCISION & REMOVAL INT FIX DEVICES OF HIP & FEMUR W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+499	80300.24	499 - LOCAL EXCISION & REMOVAL INT FIX DEVICES OF HIP & FEMUR W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+500	215539.97	500 - SOFT TISSUE PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+501	130917.91	501 - SOFT TISSUE PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+502	102720.18	502 - SOFT TISSUE PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+503	197593.13	503 - FOOT PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+504	171398.34	504 - FOOT PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+505	105979.75	505 - FOOT PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+511	141870.51	511 - SHOULDER;ELBOW OR FOREARM PROC;EXC MAJOR JOINT PROC W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+512	119695.96	512 - SHOULDER;ELBOW OR FOREARM PROC;EXC MAJOR JOINT PROC W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+513	103415.6	513 - HAND OR WRIST PROC; EXCEPT MAJOR THUMB OR JOINT PROC W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+514	88732.14	514 - HAND OR WRIST PROC; EXCEPT MAJOR THUMB OR JOINT PROC W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+515	275247.73	515 - OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+516	158734.01	516 - OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+517	118764.68	517 - OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+518	184878.37	518 - BACK & NECK PROC EXC SPINAL FUSION W MCC OR DISC DEVICE/NEUROSTIM	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+519	161198.12	519 - BACK & NECK PROC EXC SPINAL FUSION W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+520	109780.03	520 - BACK & NECK PROC EXC SPINAL FUSION W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+534	44901.24	534 - FRACTURES OF FEMUR W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+535	65809.43	535 - FRACTURES OF HIP & PELVIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+536	44100.72	536 - FRACTURES OF HIP & PELVIS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+537	81346.16	537 - SPRAINS; STRAINS; & DISLOCATIONS OF HIP; PELVIS & THIGH W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+538	14143.69	538 - SPRAINS; STRAINS; & DISLOCATIONS OF HIP; PELVIS & THIGH W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+539	145271.7	539 - OSTEOMYELITIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+540	103047.56	540 - OSTEOMYELITIS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+541	70133.2	541 - OSTEOMYELITIS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+542	94322.77	542 - PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+543	52795.17	543 - PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+544	40776.47	544 - PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+545	81570.64	545 - CONNECTIVE TISSUE DISORDERS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+546	70181.06	546 - CONNECTIVE TISSUE DISORDERS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+547	41042.76	547 - CONNECTIVE TISSUE DISORDERS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+549	54216.31	549 - SEPTIC ARTHRITIS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+551	96530.41	551 - MEDICAL BACK PROBLEMS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+552	50744.46	552 - MEDICAL BACK PROBLEMS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+553	72604.75	553 - BONE DISEASES & ARTHROPATHIES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+554	38298.58	554 - BONE DISEASES & ARTHROPATHIES W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+555	67008.07	555 - SIGNS & SYMPTOMS OF MUSCULOSKELETAL SYSTEM & CONN TISSUE W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+556	48351.64	556 - SIGNS & SYMPTOMS OF MUSCULOSKELETAL SYSTEM & CONN TISSUE W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+557	55210.66	557 - TENDONITIS; MYOSITIS & BURSITIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+558	34105.59	558 - TENDONITIS; MYOSITIS & BURSITIS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+559	99434.45	559 - AFTERCARE; MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+560	93892.83	560 - AFTERCARE; MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+561	37515.91	561 - AFTERCARE; MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+562	75896.98	562 - FX; SPRN; STRN & DISL EXCEPT FEMUR; HIP; PELVIS & THIGH W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+563	48707.38	563 - FX; SPRN; STRN & DISL EXCEPT FEMUR; HIP; PELVIS & THIGH W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+564	86310.64	564 - OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+565	52603.87	565 - OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+566	46030.52	566 - OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+570	109787.22	570 - SKIN DEBRIDEMENT W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+571	79934.07	571 - SKIN DEBRIDEMENT W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+572	91892.46	572 - SKIN DEBRIDEMENT W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+573	152206.16	573 - SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+574	202928.78	574 - SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+575	147288.5	575 - SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+576	205274.79	576 - SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+577	188800.13	577 - SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+578	102343.18	578 - SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+579	92596.91	579 - OTHER SKIN; SUBCUT TISS & BREAST PROC W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+580	88272.55	580 - OTHER SKIN; SUBCUT TISS & BREAST PROC W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+581	90571.13	581 - OTHER SKIN; SUBCUT TISS & BREAST PROC W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+582	102679.03	582 - MASTECTOMY FOR MALIGNANCY W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+584	162735.67	584 - BREAST BIOPSY; LOCAL EXCISION & OTHER BREAST PROCEDURES W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+585	80925.37	585 - BREAST BIOPSY; LOCAL EXCISION & OTHER BREAST PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+592	52548.79	592 - SKIN ULCERS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+593	43375.12	593 - SKIN ULCERS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+594	27103.9	594 - SKIN ULCERS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+595	93779.06	595 - MAJOR SKIN DISORDERS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+596	47381.99	596 - MAJOR SKIN DISORDERS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+597	126683.73	597 - MALIGNANT BREAST DISORDERS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+598	80296.92	598 - MALIGNANT BREAST DISORDERS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+599	52561.5	599 - MALIGNANT BREAST DISORDERS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+600	51117.92	600 - NON-MALIGNANT BREAST DISORDERS W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+601	31918.64	601 - NON-MALIGNANT BREAST DISORDERS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+602	73740.64	602 - CELLULITIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+603	38899.83	603 - CELLULITIS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+604	64404.39	604 - TRAUMA TO THE SKIN; SUBCUT TISS & BREAST W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+605	47284.24	605 - TRAUMA TO THE SKIN; SUBCUT TISS & BREAST W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+606	25652.27	606 - MINOR SKIN DISORDERS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+607	48062.87	607 - MINOR SKIN DISORDERS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+614	214868.78	614 - ADRENAL & PITUITARY PROCEDURES W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+615	168017.22	615 - ADRENAL & PITUITARY PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+616	237133.04	616 - AMPUTAT OF LOWER LIMB FOR ENDOCRINE;NUTRIT;& METABOL DIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+617	159480.37	617 - AMPUTAT OF LOWER LIMB FOR ENDOCRINE;NUTRIT;& METABOL DIS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+619	158857.28	619 - O.R. PROCEDURES FOR OBESITY W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+620	143913.41	620 - O.R. PROCEDURES FOR OBESITY W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+621	101633.11	621 - O.R. PROCEDURES FOR OBESITY W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+622	184871.07	622 - SKIN GRAFTS & WOUND DEBRID FOR ENDOC; NUTRIT & METAB DIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+623	149129.25	623 - SKIN GRAFTS & WOUND DEBRID FOR ENDOC; NUTRIT & METAB DIS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+624	57584.91	624 - SKIN GRAFTS & WOUND DEBRID FOR ENDOC; NUTRIT & METAB DIS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+625	246755.82	625 - THYROID; PARATHYROID & THYROGLOSSAL PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+626	106163.79	626 - THYROID; PARATHYROID & THYROGLOSSAL PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+627	95904.46	627 - THYROID; PARATHYROID & THYROGLOSSAL PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+628	238948.78	628 - OTHER ENDOCRINE; NUTRIT & METAB O.R. PROC W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+629	141018.47	629 - OTHER ENDOCRINE; NUTRIT & METAB O.R. PROC W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+630	155803.0	630 - OTHER ENDOCRINE; NUTRIT & METAB O.R. PROC W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+637	76523.03	637 - DIABETES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+638	47110.77	638 - DIABETES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+639	33698.39	639 - DIABETES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+640	70735.4	640 - MISC DISORDERS OF NUTRITION;METABOLISM;FLUIDS/ELECTROLYTES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+641	42575.7	641 - MISC DISORDERS OF NUTRITION;METABOLISM;FLUIDS/ELECTROLYTES W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+642	51531.25	642 - INBORN AND OTHER DISORDERS OF METABOLISM	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+643	158266.91	643 - ENDOCRINE DISORDERS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+644	60680.21	644 - ENDOCRINE DISORDERS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+645	55293.18	645 - ENDOCRINE DISORDERS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+654	99535.85	654 - MAJOR BLADDER PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+655	93180.74	655 - MAJOR BLADDER PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+656	242519.03	656 - KIDNEY & URETER PROCEDURES FOR NEOPLASM W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+657	144118.83	657 - KIDNEY & URETER PROCEDURES FOR NEOPLASM W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+660	108794.0	660 - KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+664	105085.83	664 - MINOR BLADDER PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+666	174287.09	666 - PROSTATECTOMY W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+667	118258.69	667 - PROSTATECTOMY W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+668	175502.07	668 - TRANSURETHRAL PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+669	132643.57	669 - TRANSURETHRAL PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+670	101577.14	670 - TRANSURETHRAL PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+673	317069.48	673 - OTHER KIDNEY & URINARY TRACT PROCEDURES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+674	170374.62	674 - OTHER KIDNEY & URINARY TRACT PROCEDURES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+675	119176.22	675 - OTHER KIDNEY & URINARY TRACT PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+682	70734.93	682 - RENAL FAILURE W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+683	45956.87	683 - RENAL FAILURE W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+684	37952.85	684 - RENAL FAILURE W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+686	83198.72	686 - KIDNEY & URINARY TRACT NEOPLASMS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+687	61907.71	687 - KIDNEY & URINARY TRACT NEOPLASMS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+688	81637.68	688 - KIDNEY & URINARY TRACT NEOPLASMS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+689	63508.38	689 - KIDNEY & URINARY TRACT INFECTIONS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+690	48204.65	690 - KIDNEY & URINARY TRACT INFECTIONS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+693	86371.08	693 - URINARY STONES W/O ESW LITHOTRIPSY W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+694	57558.76	694 - URINARY STONES W/O ESW LITHOTRIPSY W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+695	59276.04	695 - KIDNEY & URINARY TRACT SIGNS & SYMPTOMS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+696	35982.36	696 - KIDNEY & URINARY TRACT SIGNS & SYMPTOMS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+697	64652.41	697 - URETHRAL STRICTURE	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+698	83328.08	698 - OTHER KIDNEY & URINARY TRACT DIAGNOSES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+699	59725.72	699 - OTHER KIDNEY & URINARY TRACT DIAGNOSES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+700	34345.7	700 - OTHER KIDNEY & URINARY TRACT DIAGNOSES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+711	95079.52	711 - TESTES PROCEDURES W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+713	96231.69	713 - TRANSURETHRAL PROSTATECTOMY W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+714	70524.58	714 - TRANSURETHRAL PROSTATECTOMY W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+717	61340.0	717 - OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC EXC MALIGNANCY W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+718	50450.52	718 - OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC EXC MALIGNANCY W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+722	81315.36	722 - MALIGNANCY; MALE REPRODUCTIVE SYSTEM W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+723	37475.94	723 - MALIGNANCY; MALE REPRODUCTIVE SYSTEM W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+725	68627.05	725 - BENIGN PROSTATIC HYPERTROPHY W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+726	67735.16	726 - BENIGN PROSTATIC HYPERTROPHY W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+727	140429.52	727 - INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+728	46257.11	728 - INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+729	26449.19	729 - OTHER MALE REPRODUCTIVE SYSTEM DIAGNOSES W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+730	52803.42	730 - OTHER MALE REPRODUCTIVE SYSTEM DIAGNOSES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+737	102774.0	737 - UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+741	83066.0	741 - UTERINE;ADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+742	132216.33	742 - UTERINE & ADNEXA PROC FOR NON-MALIGNANCY W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+743	94193.25	743 - UTERINE & ADNEXA PROC FOR NON-MALIGNANCY W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+744	110914.02	744 - D&C; CONIZATION; LAPAROSCOPY & TUBAL INTERRUPTION W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+745	91085.58	745 - D&C; CONIZATION; LAPAROSCOPY & TUBAL INTERRUPTION W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+746	95143.16	746 - VAGINA; CERVIX & VULVA PROCEDURES W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+747	85378.78	747 - VAGINA; CERVIX & VULVA PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+748	179746.23	748 - FEMALE REPRODUCTIVE SYSTEM RECONSTRUCTIVE PROCEDURES	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+749	192875.6	749 - OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+750	112446.96	750 - OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+754	145568.93	754 - MALIGNANCY; FEMALE REPRODUCTIVE SYSTEM W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+755	93546.58	755 - MALIGNANCY; FEMALE REPRODUCTIVE SYSTEM W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+756	56250.27	756 - MALIGNANCY; FEMALE REPRODUCTIVE SYSTEM W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+757	42831.04	757 - INFECTIONS; FEMALE REPRODUCTIVE SYSTEM W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+758	57108.26	758 - INFECTIONS; FEMALE REPRODUCTIVE SYSTEM W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+759	44944.97	759 - INFECTIONS; FEMALE REPRODUCTIVE SYSTEM W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+760	49156.12	760 - MENSTRUAL & OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+761	47914.67	761 - MENSTRUAL & OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+765	40448.11	765 - CESAREAN SECTION W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+766	33952.28	766 - CESAREAN SECTION W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+767	30665.74	767 - VAGINAL DELIVERY W STERILIZATION &/OR D&C	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+768	36483.83	768 - VAGINAL DELIVERY W O.R. PROC EXCEPT STERIL &/OR D&C	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+769	113984.75	769 - POSTPARTUM & POST ABORTION DIAGNOSES W O.R. PROCEDURE	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+770	70418.38	770 - ABORTION W D&C; ASPIRATION CURETTAGE OR HYSTEROTOMY	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+774	27389.36	774 - VAGINAL DELIVERY W COMPLICATING DIAGNOSES	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+775	22189.81	775 - VAGINAL DELIVERY W/O COMPLICATING DIAGNOSES	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+776	51655.46	776 - POSTPARTUM & POST ABORTION DIAGNOSES W/O O.R. PROCEDURE	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+777	82113.63	777 - ECTOPIC PREGNANCY	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+778	21949.1	778 - THREATENED ABORTION	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+779	27949.04	779 - ABORTION W/O D&C	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+780	4799.86	780 - FALSE LABOR	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+781	34527.61	781 - OTHER ANTEPARTUM DIAGNOSES W MEDICAL COMPLICATIONS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+782	10284.55	782 - OTHER ANTEPARTUM DIAGNOSES W/O MEDICAL COMPLICATIONS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+788	39197.0	788 - CESAREAN SECTION W/O STERILIZATION W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+789	5106.41	789 - NEONATES; DIED OR TRANSFERRED TO ANOTHER ACUTE CARE FACILITY	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+790	10415.0	790 - EXTREME IMMATURITY OR RESPIRATORY DISTRESS SYNDROME; NEONATE	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+791	4319.0	791 - PREMATURITY W MAJOR PROBLEMS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+792	3950.78	792 - PREMATURITY W/O MAJOR PROBLEMS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+793	3522.87	793 - FULL TERM NEONATE W MAJOR PROBLEMS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+794	3174.2	794 - NEONATE W OTHER SIGNIFICANT PROBLEMS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+795	2614.66	795 - NORMAL NEWBORN	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+802	154111.59	802 - OTHER O.R. PROC OF THE BLOOD & BLOOD FORMING ORGANS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+803	27533.02	803 - OTHER O.R. PROC OF THE BLOOD & BLOOD FORMING ORGANS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+806	22823.66	806 - VAGINAL DELIVERY W/O STERILIZATION/D&C W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+807	25807.1	807 - VAGINAL DELIVERY W/O STERILIZATION/D&C W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+808	92698.75	808 - MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+809	77432.69	809 - MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+810	54374.24	810 - MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+811	74857.9	811 - RED BLOOD CELL DISORDERS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+812	37981.96	812 - RED BLOOD CELL DISORDERS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+813	64622.6	813 - COAGULATION DISORDERS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+814	78318.25	814 - RETICULOENDOTHELIAL & IMMUNITY DISORDERS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+815	42576.74	815 - RETICULOENDOTHELIAL & IMMUNITY DISORDERS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+816	57076.48	816 - RETICULOENDOTHELIAL & IMMUNITY DISORDERS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+820	453895.39	820 - LYMPHOMA & LEUKEMIA W MAJOR O.R. PROCEDURE W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+821	148225.02	821 - LYMPHOMA & LEUKEMIA W MAJOR O.R. PROCEDURE W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+823	235786.83	823 - LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+824	220182.94	824 - LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+826	706902.79	826 - MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+827	184180.77	827 - MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+828	84609.36	828 - MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+829	336999.55	829 - MYELOPROLIF DISORD OR POORLY DIFF NEOPL W OTHER PROC W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+833	619445.25	833 - OTHER ANTEPARTUM DIAGNOSES W/O O.R. PROCEDURE W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+834	483556.35	834 - ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+835	148731.63	835 - ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+836	314039.11	836 - ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+837	256723.26	837 - CHEMO W ACUTE LEUKEMIA AS SDX OR W HIGH DOSE CHEMO AGENT W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+838	44426.0	838 - CHEMO W ACUTE LEUKEMIA AS SDX W CC OR HIGH DOSE CHEMO AGENT	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+839	78656.5	839 - CHEMO W ACUTE LEUKEMIA AS SDX W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+840	177401.25	840 - LYMPHOMA & NON-ACUTE LEUKEMIA W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+841	118006.28	841 - LYMPHOMA & NON-ACUTE LEUKEMIA W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+842	83267.5	842 - LYMPHOMA & NON-ACUTE LEUKEMIA W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+843	152913.28	843 - OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+844	59874.03	844 - OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+846	100407.18	846 - CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+847	68481.96	847 - CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+848	54186.84	848 - CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+849	86073.02	849 - RADIOTHERAPY	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+853	332348.72	853 - INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+854	137993.7	854 - INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+855	78073.7	855 - INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+856	283329.73	856 - POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+857	163873.15	857 - POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+858	88786.61	858 - POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+862	122103.19	862 - POSTOPERATIVE & POST-TRAUMATIC INFECTIONS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+863	51421.69	863 - POSTOPERATIVE & POST-TRAUMATIC INFECTIONS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+864	41579.72	864 - FEVER	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+865	105064.85	865 - VIRAL ILLNESS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+866	39462.47	866 - VIRAL ILLNESS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+867	54622.56	867 - OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+868	83019.34	868 - OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+869	28874.19	869 - OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+870	312609.84	870 - SEPTICEMIA OR SEVERE SEPSIS W MV >96 HOURS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+871	109757.29	871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+872	58373.72	872 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+876	210185.36	876 - O.R. PROCEDURE W PRINCIPAL DIAGNOSES OF MENTAL ILLNESS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+880	45933.68	880 - ACUTE ADJUSTMENT REACTION & PSYCHOSOCIAL DYSFUNCTION	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+881	32912.1	881 - DEPRESSIVE NEUROSES	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+882	29576.95	882 - NEUROSES EXCEPT DEPRESSIVE	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+883	35576.29	883 - DISORDERS OF PERSONALITY & IMPULSE CONTROL	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+884	61688.77	884 - ORGANIC DISTURBANCES & INTELLECTUAL DISABILITY	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+885	47010.72	885 - PSYCHOSES	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+886	22054.08	886 - BEHAVIORAL & DEVELOPMENTAL DISORDERS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+887	60411.07	887 - OTHER MENTAL DISORDER DIAGNOSES	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+894	32974.26	894 - ALCOHOL/DRUG ABUSE OR DEPENDENCE; LEFT AMA	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+895	35042.72	895 - ALCOHOL/DRUG ABUSE OR DEPENDENCE W REHABILITATION THERAPY	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+896	83450.23	896 - ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHABILITATION THERAPY W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+897	33476.36	897 - ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHABILITATION THERAPY W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+901	135298.27	901 - WOUND DEBRIDEMENTS FOR INJURIES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+902	157912.09	902 - WOUND DEBRIDEMENTS FOR INJURIES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+903	59941.46	903 - WOUND DEBRIDEMENTS FOR INJURIES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+904	316323.16	904 - SKIN GRAFTS FOR INJURIES W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+906	71308.37	906 - HAND PROCEDURES FOR INJURIES	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+907	336218.97	907 - OTHER O.R. PROCEDURES FOR INJURIES W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+908	196453.43	908 - OTHER O.R. PROCEDURES FOR INJURIES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+909	106252.74	909 - OTHER O.R. PROCEDURES FOR INJURIES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+913	57272.1	913 - TRAUMATIC INJURY W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+914	33829.12	914 - TRAUMATIC INJURY W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+915	157210.38	915 - ALLERGIC REACTIONS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+916	20031.83	916 - ALLERGIC REACTIONS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+917	72349.43	917 - POISONING & TOXIC EFFECTS OF DRUGS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+918	37278.24	918 - POISONING & TOXIC EFFECTS OF DRUGS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+919	124494.53	919 - COMPLICATIONS OF TREATMENT W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+920	57543.56	920 - COMPLICATIONS OF TREATMENT W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+921	40994.56	921 - COMPLICATIONS OF TREATMENT W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+922	84422.29	922 - OTHER INJURY; POISONING & TOXIC EFFECT DIAG W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+923	26111.91	923 - OTHER INJURY; POISONING & TOXIC EFFECT DIAG W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+935	44493.64	935 - NON-EXTENSIVE BURNS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+940	177301.65	940 - O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+941	109057.69	941 - O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+945	46542.24	945 - REHABILITATION W CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+946	42043.25	946 - REHABILITATION W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+947	84945.63	947 - SIGNS & SYMPTOMS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+948	41929.47	948 - SIGNS & SYMPTOMS W/O MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+950	18663.0	950 - AFTERCARE W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+951	7132.06	951 - OTHER FACTORS INFLUENCING HEALTH STATUS	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+956	153887.32	956 - LIMB REATTACHMENT; HIP & FEMUR PROC FOR MULTIPLE SIGNIFICANT TRAUMA	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+958	612075.49	958 - OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+963	238228.76	963 - OTHER MULTIPLE SIGNIFICANT TRAUMA W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+964	68433.3	964 - OTHER MULTIPLE SIGNIFICANT TRAUMA W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+965	14487.26	965 - OTHER MULTIPLE SIGNIFICANT TRAUMA W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+969	726741.16	969 - HIV W EXTENSIVE O.R. PROCEDURE W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+974	325549.71	974 - HIV W MAJOR RELATED CONDITION W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+975	165609.46	975 - HIV W MAJOR RELATED CONDITION W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+976	68363.88	976 - HIV W MAJOR RELATED CONDITION W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+977	94077.54	977 - HIV W OR W/O OTHER RELATED CONDITION	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+981	323578.3	981 - EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+982	154333.85	982 - EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+983	108596.62	983 - EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+987	227523.11	987 - NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+988	104706.8	988 - NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W CC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
+989	85476.5	989 - NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W/O CC/MCC	jfk-medical-center	EastFloridaDivision_JFKMedicalCenter_DRG.csv	drg
