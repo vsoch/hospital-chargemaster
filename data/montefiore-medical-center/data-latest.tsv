@@ -1,0 +1,759 @@
+charge_code	price	description	hospital_id	filename	charge_type
+1	1259802	HEART TRANSPLANT/IMPLNT HEART ASST SYS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+2	594968	HEART TRANSPLNT/IMPLNT HEART ASST SYS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+3	1073311	ECMO/TRCH W MV 96+H/PDX EX FCE MTH&NCK &MJ OR	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+4	828178	TRCH W MV 96+H/ PDX EXC FCE MTH&NCK NO MJ OR	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+5	821231	LIVER TRANSPLANT W MCC OR INTESTINL TRANSPLNT	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+6	549519	LIVER TRANSPLANT W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+7	530559	LUNG TRANSPLANT	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+8	559225	SIMULTANEOUS PANCREAS/KIDNEY TRANSPLANT	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+10	629756	PANCREAS TRANSPLANT	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+11	371868	TRACH FOR FACE,MOUTH & NECK DIAGNOSES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+12	236600	TRACH FOR FACE,MOUTH & NECK DIAGNOSES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+13	150500	TRACH FOR FACE,MOUTH & NECK DIAGNOSES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+14	683837	ALLOGENAIC BONE MARROW TRANSPLANT	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+16	443801	AUTOLOGOUS BONE MARROW TRANSPLANT W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+17	347361	AUTOLOGOUS BONE MARROW TRANSPLANT NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+20	515445	INTRACRANIAL VASC PROC W PDX HEMORRHAGE W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+21	381685	INTRACRANIAL VASC PROC W PDX HEMORRHAGE W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+22	329963	INTRACRANIAL VASC PROC W PDX HEMORRHAGE NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+23	357595	CRAN W MJ DEVICE/CHM IMPNT/CMPL CNS PDX W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+24	208629	CRAN W MJ DV IMPLT/ACTE CMPLX CNS PDX W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+25	257301	CRANIOTOMY & ENDOVASC INTRACRANIAL PROC W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+26	143308	CRANIOTOMY & ENDOVASC INTRACRANIAL PROC W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+27	102967	CRANIOTOMY & ENDOVASC INTRACRANIAL PROC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+28	281625	SPINAL PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+29	179312	SPINAL PROC W CC OR SPINAL NEUROSTIMULATORS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+30	105432	SPINAL PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+31	308175	VENTRICULAR SHUNT PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+32	114890	VENTRICULAR SHUNT PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+33	88750	VENTRICULAR SHUNT PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+34	224806	CAROTID ARTERY STENT PROCEDURE W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+36	108801	CAROTID ARTERY STENT PROCEDURE NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+37	204609	EXTRACRANIAL PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+38	121874	EXTRACRANIAL PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+39	68106	EXTRACRANIAL PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+40	240608	PERIPH & CRANL NERV & OTH NERV SYS PROC W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+41	143922	PERIPH&CRAN NRV&OTH NERV SYS PRC W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+42	94359	PERIPH & CRANL NERV & OTH NERV SYS PROC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+52	83844	SPINAL DISORDERS & INJURIES W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+54	134503	NERVOUS SYSTEM NEOPLASMS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+55	77141	NERVOUS SYSTEM NEOPLASMS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+56	124226	DEGENERATIVE NERVOUS SYSTEM DISORDERS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+57	87805	DEGENERATIVE NERVOUS SYSTEM DISORDERS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+58	164240	MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+59	83901	MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+60	68609	MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+61	187155	ACUTE ISCHEMC STROKE W/THROMBLYTIC AGNT W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+62	109427	ACUTE ISCHEMC STROKE W/THROMBLYTIC AGNT W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+63	83839	ACUTE ISCHEMC STROKE W/THROMBLYTIC AGNT NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+64	141974	INTRACRANIAL HEMORHG OR CEREBRL INFARCT W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+65	91342	INTRACRANIAL HEMORHG OR CEREBRAL INFARCT W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+66	64119	INTRACRANIAL HEMORHG OR CEREBRAL INFRCT NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+67	69887	NONSPEC CVA & PRECERBRL OCCLS W/O INFRCT WMCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+68	54577	NONSPEC CVA& PRECERBR OCCLS W/O INFRCT W/OMCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+69	54598	TRANSIENT ISCHEMIA	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+70	129055	NONSPECIFIC CEREBROVASCULAR DISORDERS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+71	60057	NONSPECIFIC CEREBROVASCULAR DISORDERS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+72	50758	NONSPECIFIC CEREBROVASCULAR DISORDERS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+73	94338	CRANIAL & PERIPHERAL NERVE DISORDERS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+74	51554	CRANIAL & PERIPHERAL NERVE DISORDERS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+75	60724	VIRAL MENINGITIS W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+76	51355	VIRAL MENINGITIS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+77	100896	HYPERTENSIVE ENCEPHALOPATHY W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+78	78177	HYPERTENSIVE ENCEPHALOPATHY W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+79	66025	HYPERTENSIVE ENCEPHALOPATHY NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+80	335473	NONTRAUMATIC STUPOR & COMA W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+81	71411	NONTRAUMATIC STUPOR & COMA W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+82	116496	TRAUMATIC STUPOR & COMA, COMA >1 HR W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+83	96220	TRAUMATIC STUPOR & COMA, COMA >1 HR W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+84	50878	TRAUMATIC STUPOR & COMA, COMA >1 HR NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+85	110577	TRAUMATIC STUPOR & COMA, COMA <1 HR W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+86	99758	TRAUMATIC STUPOR & COMA, COMA <1 HR W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+87	41349	TRAUMATIC STUPOR & COMA, COMA <1 HR NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+90	8700	CONCUSSION NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+91	85605	OTHER DISORDERS OF NERVOUS SYSTEM W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+92	62465	OTHER DISORDERS OF NERVOUS SYSTEM W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+93	43202	OTHER DISORDERS OF NERVOUS SYSTEM NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+94	183477	BACT & TUBERCULOUS INFECTNS OF NERV SYS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+95	125982	BACT & TUBERCULOUS INFECTNS OF NERV SYS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+96	135862	BACT & TUBERCULOUS INFECTNS OF NERV SYS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+97	282292	NON-BACT INF NERV SYS EXC VIRAL MENGITS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+98	191094	NON-BACT INF NERV SYS EXC VIRAL MENGITS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+99	140801	NON-BACT INF NERV SYS EXC VIRAL MENGITS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+100	106393	SEIZURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+101	45632	SEIZURES W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+102	47853	HEADACHES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+103	38656	HEADACHES W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+113	104760	ORBITAL PROCEDURES W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+114	52648	ORBITAL PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+115	72607	EXTRAOCULAR PROCEDURES EXCEPT ORBIT	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+116	97558	INTRAOCULAR PROCEDURES W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+117	43319	INTRAOCULAR PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+121	52490	ACUTE MAJOR EYE INFECTIONS W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+122	42613	ACUTE MAJOR EYE INFECTIONS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+123	66426	NEUROLOGICAL EYE DISORDERS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+124	58363	OTHER DISORDERS OF THE EYE W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+125	48416	OTHER DISORDERS OF THE EYE W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+129	162693	MAJOR HEAD & NECK PROC W CC/MCC OR MAJ DEV	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+130	81345	MAJOR HEAD & NECK PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+131	90074	CRANIAL/FACIAL PROCEDURES W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+132	62093	CRANIAL/FACIAL PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+133	60482	OTHER ENT & MOUTH OR PROCEDURES W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+134	31907	OTHER ENT & MOUTH OR PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+135	142955	SINUS & MASTOID PROCEDURES W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+136	68119	SINUS & MASTOID PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+137	79562	MOUTH PROCEDURES W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+138	42907	MOUTH PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+139	50740	SALIVARY GLAND PROCEDURES	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+146	119908	EAR, NOSE, MOUTH & THROAT MALIGNANCY W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+147	70633	EAR, NOSE, MOUTH & THROAT MALIGNANCY W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+148	47654	EAR, NOSE, MOUTH & THROAT MALIGNANCY NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+149	39834	DYSEQUILIBRIUM	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+150	72001	EPISTAXIS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+151	42149	EPISTAXIS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+152	61483	OTITIS MEDIA & URI W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+153	29051	OTITIS MEDIA & URI W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+154	56036	NASAL TRAUMA & DEFORMITY W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+155	46858	NASAL TRAUMA & DEFORMITY W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+156	34591	NASAL TRAUMA & DEFORMITY NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+157	67882	DENTAL & ORAL DISEASES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+158	57612	DENTAL & ORAL DISEASES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+159	33208	DENTAL & ORAL DISEASES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+163	295861	MAJOR CHEST PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+164	96151	MAJOR CHEST PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+165	68918	MAJOR CHEST PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+166	293992	OTHER RESP SYSTEM O.R. PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+167	111019	OTHER RESP SYSTEM O.R. PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+168	66433	OTHER RESP SYSTEM O.R. PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+175	113083	PULMONARY EMBOLISM W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+176	55855	PULMONARY EMBOLISM W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+177	112825	RESPIRATORY INFECTIONS & INFLAMMATIONS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+178	76169	RESPIRATORY INFECTIONS & INFLAMMATIONS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+179	58093	RESPIRATORY INFECTIONS & INFLAMMATIONS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+180	108973	RESPIRATORY NEOPLASMS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+181	66604	RESPIRATORY NEOPLASMS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+182	89819	RESPIRATORY NEOPLASMS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+183	139872	MAJOR CHEST TRAUMA W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+184	46807	MAJOR CHEST TRAUMA W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+185	40707	MAJOR CHEST TRAUMA NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+186	79026	PLEURAL EFFUSION W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+187	56694	PLEURAL EFFUSION W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+188	36309	PLEURAL EFFUSION NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+189	73496	PULMONARY EDEMA & RESPIRATORY FAILURE	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+190	62359	CHRONIC OBSTRUCTIVE PULMONARY DISEASE W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+191	45547	CHRONIC OBSTRUCTIVE PULMONARY DISEASE W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+192	33761	CHRONIC OBSTRUCTIVE PULMONARY DISEASE NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+193	83435	SIMPLE PNEUMONIA & PLEURISY W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+194	47038	SIMPLE PNEUMONIA & PLEURISY W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+195	27416	SIMPLE PNEUMONIA & PLEURISY NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+196	100398	INTERSTITIAL LUNG DISEASE W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+197	58196	INTERSTITIAL LUNG DISEASE W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+198	59446	INTERSTITIAL LUNG DISEASE NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+199	138215	PNEUMOTHORAX W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+200	44211	PNEUMOTHORAX W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+201	40333	PNEUMOTHORAX NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+202	48324	BRONCHITIS & ASTHMA W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+203	21920	BRONCHITIS & ASTHMA NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+204	28195	RESPIRATORY SIGNS & SYMPTOMS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+205	71644	OTHER RESPIRATORY SYSTEM DIAGNOSES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+206	36973	OTHER RESPIRATORY SYSTEM DIAGNOSES W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+207	323735	RESPIRATORY SYS DIAG W VENT SUPPORT 96+ HOURS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+208	131954	RESPIRATORY SYS DIAG W VENT SUPPORT <96 HOURS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+215	376745	OTHER HEART ASSIST SYSTEM IMPLANT	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+216	484947	CARDC VALV & OTH MAJ CARD PRC W CRD CTH W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+217	356908	CARDC VALV & OTH MAJ CARD PRC W CRD CTH W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+218	307498	CARDC VALV&OTH MAJ CARD PRC W/O CRD CTH NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+219	385989	CARDC VALV&OTH MAJ CARD PRC W/O CRD CTH W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+220	202575	CARDC VALV&OTH MAJ CARD PRC W/O CRD CTH W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+221	141837	CARDC VALV&OTH MAJ CARD PRC W/O CRD CTH NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+222	317308	CARD DEFB IMPLT W CRD CTH W AMI/HF/SHCK W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+223	119478	CRD DFB IMPLT W CRD CTH W AMI/HF/SHCK W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+224	306056	CRD DFB IMPLT W CRD CTH W/O AMI/HF/SHCK W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+225	189189	CRD DFB IMPLT W C CATH W/O MI/HF/SHCK W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+226	225958	CARD DEFIB IMPLANT W/O CARDIAC CATH W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+227	121786	CARD DEFIB IMPLANT W/O CARDIAC CATH W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+228	328180	OTHER CARDIOTHORACIC PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+229	153121	OTHER CARDIOTHORACIC PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+231	520282	CORONARY BYPASS W PTCA W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+232	253501	CORONARY BYPASS W PTCA W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+233	350510	CORONARY BYPASS W CARDIAC CATH W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+234	274475	CORONARY BYPASS W CARDIAC CATH W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+235	248759	CORONARY BYPASS W/O CARDIAC CATH W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+236	170209	CORONARY BYPASS W/O CARDIAC CATH W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+239	278530	AMP FOR CIRC SYS DISORD EXC UPR LMB&TOE W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+240	157380	AMPUT FOR CIRC SYS DISRD EXC UPR LMB&TOE W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+241	103639	AMP FOR CIRC SYS DISORD EXC UPR LMB&TOE NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+242	176535	PERMANENT CARDIAC PACEMAKER IMPLANT W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+243	115726	PERMANENT CARDIAC PACEMAKER IMPLANT W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+244	89149	PERMANENT CARDIAC PACEMAKER IMPLANT NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+245	145484	AICD LEAD & GENERATOR PROCEDURES	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+246	158009	PCI W DRG-ELUTG STNT W MCC OR 4+ VESSLS/STNTS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+247	81150	PCI PROC W DRUG-ELUTING STENT W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+248	93840	PCI W NON-DRG-ELUT STNT &MCC OR4+ VSSLS/STNTS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+249	78784	PCI PROC W NON-DRUG-ELUTING STENT W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+250	124153	PCI PROC W/O CORONARY ARTRY STENT/AMI W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+251	78693	PCI W/O CORONARY ARTERY STENT OR AMI W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+252	190728	OTHER VASCULAR PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+253	136887	OTHER VASCULAR PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+254	80254	OTHER VASCULAR PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+255	94001	UPPER IMB&TOE AMPUT FOR CIRC SYS DISORD W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+256	98176	UPPER IMB&TOE AMPUT FOR CIRC SYS DISORD W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+258	121157	CARDIAC PACEMAKER DEVICE REPLACEMENT W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+259	92458	CARDIAC PACEMAKER DEVICE REPLACEMENT W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+260	313149	CARDIAC PACEMAKER REV EXC DEV REPLCMNT W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+261	160972	CARDIAC PACEMAKER REV EXC DEV REPLCMNT W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+262	76359	CARDIAC PACEMAKER REV EXC DEV REPLCMNT NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+263	142014	VEIN LIGATION & STRIPPING	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+264	233003	OTHER CIRCULATORY SYSTEM O.R. PROCEDURES	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+265	153448	AICD LEAD PROCEDURES	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+266	355349	ENDOVASCULAR CARDIAC VALVE REPLCMNT W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+267	178333	ENDOVASCULAR CARDIAC VALVE REPLCMNT W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+268	321337	ARTC & HRT ASST PRCDS EXCPT PLSTN BALLN W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+269	161997	ARTC & HRT ASST PRCDS EXCPT PLSTN BALN WO MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+270	268159	OTHER MAJOR CARDIOVASCULAR PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+271	167594	OTHER MAJOR CARDIOVASCULAR PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+272	81711	OTHER MAJ CARDIOVASCULAR PROCEDURES WO CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+273	193198	PERCUTANEOUS INTRACARDIAC PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+274	103586	PERCUTANEOUS INTRACARDIAC PROCEDURES W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+280	139643	ACUTE MYOCARDIAL INFARCT DISCHD ALIVE W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+281	74468	ACUTE MYOCARDIAL INFARCT DISCHD ALIVE W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+282	62583	ACUTE MYOCARDIAL INFARCT DISCHD ALIVE NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+283	145918	ACUTE MYOCARDIAL INFARCTION, EXPIRED W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+284	80726	ACUTE MYOCARDIAL INFARCTION, EXPIRED W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+285	44662	ACUTE MYOCARDIAL INFARCTION, EXPIRED NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+286	190693	CIRC DISORDERS EXCEPT AMI, W CARD CATH W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+287	90272	CIRC DISORDRS EXCEPT AMI, W CARD CATH W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+288	155490	ACUTE & SUBACUTE ENDOCARDITIS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+289	73158	ACUTE & SUBACUTE ENDOCARDITIS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+290	66980	ACUTE & SUBACUTE ENDOCARDITIS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+291	95165	HEART FAILURE & SHOCK W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+292	62541	HEART FAILURE & SHOCK W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+293	44588	HEART FAILURE & SHOCK NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+294	85616	DEEP VEIN THROMBOPHLEBITIS W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+295	32367	DEEP VEIN THROMBOPHLEBITIS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+296	122456	CARDIAC ARREST, UNEXPLAINED W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+298	19769	CARDIAC ARREST, UNEXPLAINED NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+299	93382	PERIPHERAL VASCULAR DISORDERS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+300	60231	PERIPHERAL VASCULAR DISORDERS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+301	39919	PERIPHERAL VASCULAR DISORDERS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+302	74976	ATHEROSCLEROSIS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+303	46109	ATHEROSCLEROSIS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+304	73882	HYPERTENSION W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+305	36832	HYPERTENSION W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+306	133095	CARDIAC CONGENITAL & VALVE DISORDERS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+307	57076	CARDIAC CONGENITAL & VALVE DISORDERS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+308	96876	CARDIAC ARRHYTHMIA & CONDUCTN DISORDERS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+309	58884	CARDIAC ARRHYTHMIA & CONDUCTN DISORDERS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+310	41960	CARDIAC ARRHYTHMIA & CONDUCTN DISORDERS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+311	42582	ANGINA PECTORIS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+312	46119	SYNCOPE & COLLAPSE	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+313	30807	CHEST PAIN	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+314	120985	OTHER CIRCULATORY SYSTEM DIAGNOSES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+315	67358	OTHER CIRCULATORY SYSTEM DIAGNOSES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+316	39044	OTHER CIRCULATORY SYSTEM DIAGNOSES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+326	268606	STOMACH, ESOPHAGEAL & DUODENAL PROC W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+327	117048	STOMACH, ESOPHAGEAL & DUODENAL PROC W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+328	47215	STOMACH, ESOPHAGEAL & DUODENAL PROC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+329	254659	MAJOR SMALL & LARGE BOWEL PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+330	138799	MAJOR SMALL & LARGE BOWEL PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+331	84524	MAJOR SMALL & LARGE BOWEL PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+332	89872	RECTAL RESECTION W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+335	233446	PERITONEAL ADHESIOLYSIS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+336	111426	PERITONEAL ADHESIOLYSIS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+337	56878	PERITONEAL ADHESIOLYSIS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+338	122432	APPENDECTOMY W COMPLICATED PRIN DIAG W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+339	84060	APPENDECTOMY W COMPLICATED PRIN DIAG W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+340	49372	APPENDECTOMY W COMPLICATED PRIN DIAG NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+341	62123	APPENDECTOMY W/O COMPLICATED PRIN DIAG W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+342	56756	APPENDECTOMY W/O COMPLICATED PRIN DIAG W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+343	41831	APPENDECTOMY W/O COMPLICATED PRIN DIAG NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+344	183896	MINOR SMALL & LARGE BOWEL PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+345	79969	MINOR SMALL & LARGE BOWEL PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+346	77080	MINOR SMALL & LARGE BOWEL PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+347	157287	ANAL & STOMAL PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+348	71096	ANAL & STOMAL PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+349	36848	ANAL & STOMAL PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+350	106796	INGUINAL & FEMORAL HERNIA PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+351	65464	INGUINAL & FEMORAL HERNIA PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+352	37791	INGUINAL & FEMORAL HERNIA PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+353	228492	HERNIA PROC EXCEPT INGUINAL & FEMORAL W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+354	95895	HERNIA PROCDS EXCEPT INGUINAL & FEMORAL W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+355	49497	HERNIA PROC EXCEPT INGUINAL & FEMORAL NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+356	266310	OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+357	129260	OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+358	57795	OTHER DIGESTIVE SYSTEM O.R. PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+368	159854	MAJOR ESOPHAGEAL DISORDERS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+369	64547	MAJOR ESOPHAGEAL DISORDERS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+370	25743	MAJOR ESOPHAGEAL DISORDERS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+371	110427	MAJ GASTROIN DISORDRS & PERITNL INFECTS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+372	72941	MAJ GASTROIN DISORDRS & PERITNL INFECTS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+373	44448	MAJ GASTROIN DISORDRS & PERITNL INFECTS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+374	124833	DIGESTIVE MALIGNANCY W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+375	73757	DIGESTIVE MALIGNANCY W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+376	57901	DIGESTIVE MALIGNANCY NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+377	112357	G.I. HEMORRHAGE W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+378	65529	G.I. HEMORRHAGE W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+379	37130	G.I. HEMORRHAGE NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+380	115735	COMPLICATED PEPTIC ULCER W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+381	75324	COMPLICATED PEPTIC ULCER W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+382	45635	COMPLICATED PEPTIC ULCER NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+383	70096	UNCOMPLICATED PEPTIC ULCER W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+384	44490	UNCOMPLICATED PEPTIC ULCER W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+385	119667	INFLAMMATORY BOWEL DISEASE W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+386	68202	INFLAMMATORY BOWEL DISEASE W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+387	50300	INFLAMMATORY BOWEL DISEASE NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+388	98921	G.I. OBSTRUCTION W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+389	54359	G.I. OBSTRUCTION W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+390	38599	G.I. OBSTRUCTION NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+391	68704	ESOPHAGTS GASTRO & MISC DIGST DISORDS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+392	36916	ESOPHAGTS GASTRO & MISC DIGST DISORDS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+393	87801	OTHER DIGESTIVE SYSTEM DIAGNOSES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+394	58999	OTHER DIGESTIVE SYSTEM DIAGNOSES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+395	36047	OTHER DIGESTIVE SYSTEM DIAGNOSES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+405	352380	PANCREAS, LIVER & SHUNT PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+406	161100	PANCREAS, LIVER & SHUNT PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+407	106802	PANCREAS, LIVER & SHUNT PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+408	460613	BIL TRACT PROC EXC CHLCYST W OR W/O CDE W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+409	134900	BIL TRACT PROC EXC CHOLCYST W OR W/O CDE W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+410	82736	BIL TRACT PRC EXC CHOLCYST W OR W/O CDE NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+411	126779	CHOLECYSTECTOMY W C.D.E. W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+412	138690	CHOLECYSTECTOMY W C.D.E. W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+413	82229	CHOLECYSTECTOMY W C.D.E. NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+414	150857	CHOLECYSTECTOMY EXCEPT BY LAP W/O CDE W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+415	93206	CHOLECYSTECTOMY EXCEPT BY LAP W/O CDE W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+416	72064	CHOLECYSTECTOMY EXCEPT BY LAP W/O CDE NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+417	109970	LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+418	72305	LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+419	54622	LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+420	311658	HEPATOBILIARY DIAGNOSTIC PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+421	110214	HEPATOBILIARY DIAGNOSTIC PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+422	102164	HEPATOBILIARY DIAGNOSTIC PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+423	231316	OTHER HEPATOBILIARY OR PANCREAS OR PROC W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+424	110707	OTHER HEPATOBILIARY OR PANCREAS OR PROC W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+425	51927	OTHER HEPATOBILIARY OR PANCREAS OR PROC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+432	153260	CIRRHOSIS & ALCOHOLIC HEPATITIS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+433	85058	CIRRHOSIS & ALCOHOLIC HEPATITIS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+434	45074	CIRRHOSIS & ALCOHOLIC HEPATITIS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+435	111092	MALIG OF HEPATOBILIARY/PANCREAS SYS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+436	81633	MALIG OF HEPATOBILIARY/PANCREAS SYS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+437	67860	MALIG OF HEPATOBILIARY/PANCREAS SYS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+438	92319	DISORDERS OF PANCREAS EXCEPT MALIGNANCY W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+439	52848	DISORDERS OF PANCREAS EXCEPT MALIGNANCY W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+440	37552	DISORDERS OF PANCREAS EXCEPT MALIGNANCY NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+441	144561	DISORD OF LIVER EXC MALIG,CIRR,ALC HEPA W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+442	82797	DISORD OF LIVER EXC MALIG,CIRR,ALC HEPA W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+443	89520	DISORD OF LIVER EXC MALIG,CIRR,ALC HEPA NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+444	102453	DISORDERS OF THE BILIARY TRACT W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+445	61252	DISORDERS OF THE BILIARY TRACT W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+446	40630	DISORDERS OF THE BILIARY TRACT NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+453	380503	COMBINED ANTERIOR/POSTERIOR SPINAL FUSN W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+454	279787	COMBINED ANTERIOR/POSTERIOR SPINAL FUSN W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+455	175697	COMBINED ANTERIOR/POSTERIOR SPINAL FUSN NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+456	355690	SPIN FUS EXC CERV W CURV,MALG,INFEC W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+457	305091	SPIN FUS EXC CERV W CURV MALG, NFEC W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+458	210968	SPIN FUS EXC CERV W CURV MALG, NFEC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+459	280763	SPINAL FUSION EXCEPT CERVICAL W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+460	147617	SPINAL FUSION EXCEPT CERVICAL W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+462	156697	BILAT/MULTI MJ JNT PRCS OF LWR EXTREM W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+463	350062	WND DEBRD&SKN GRFT EXC HAND  W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+464	178492	WND DEBRD&SKN GRFT EXC HAND  W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+465	76421	WND DEBRD&SKN GRFT EXC HAND  NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+466	222897	REVISION OF HIP OR KNEE REPLACEMENT W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+467	159940	REVISION OF HIP OR KNEE REPLACEMENT W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+468	95325	REVISION OF HIP OR KNEE REPLACEMENT NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+469	174707	MAJOR JOINT REPLCMT/REATTCHMT LWR EXTRM W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+470	93151	MAJ JNT REPLCMNT/REATTCH LWR EXTRMTY W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+471	311083	CERVICAL SPINAL FUSION W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+472	136136	CERVICAL SPINAL FUSION W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+473	102465	CERVICAL SPINAL FUSION NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+474	252819	AMPUT FOR MUSC/SKLTL SYS & CON TISS DIS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+475	124520	AMPUT FOR MUSC/SKLTL SYS & CON TISS DIS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+476	105456	AMPUT FOR MUSC/SKLTL SYS & CON TISS DIS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+477	267501	BIOP OF MUSC/SKELITAL SYS & CONN TISS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+478	124668	BIOP OF MUSC/SKELITAL SYS & CONN TISS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+479	69716	BIOP OF MUSC/SKELITAL SYS & CONN TISS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+480	186318	HIP & FEMUR PROCEDURES EXC MAJOR JOINT W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+481	121620	HIP & FEMUR PROCEDURES EXC MAJOR JOINT W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+482	55839	HIP & FEMUR PROC EXC MAJOR JOINT NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+483	92986	MAJ JNT&LMB REATTCHMT PRC UPR EXTREM W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+485	210568	KNEE PROCEDURES W PDX OF INFECTION W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+486	123386	KNEE PROCEDURES W PDX OF INFECTION W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+487	110641	KNEE PROCEDURES W PDX OF INFECTION NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+488	90935	KNEE PROCEDURES W/O PDX OF INFECTION W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+489	56634	KNEE PROCEDURES W/O PDX OF INFECTION NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+492	170576	LWER EXTRM & HUMR PRC EXC HIP,FOOT,FEMR W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+493	111560	LWER EXTRM & HUMR PROC EXC HIP,FOOT,FEMR W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+494	66554	LWER EXTRM & HUMR PRC EXC HIP,FOOT,FEMR NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+495	260473	LOC EXC & REM INT FIX DEV EXC HIP&FEMR W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+496	103606	LOC EXC & REMVL INT FIX DEV EXC HIP&FEMR W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+497	48804	LOC EXC & REM INT FIX DEV EXC HIP&FEMR NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+498	144292	LOCL EXCIS&REMVL INT FX DEV HIP&FEMR W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+499	35720	LOC EXC& REMVL INT FIX DEV EXC HIP&FEMR NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+500	203987	SOFT TISSUE PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+501	111795	SOFT TISSUE PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+502	57441	SOFT TISSUE PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+503	227031	FOOT PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+504	88045	FOOT PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+505	46349	FOOT PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+506	42232	MAJOR THUMB OR JOINT PROCEDURES	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+507	68346	MAJOR SHOULDER OR ELBOW JOINT PROCS W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+508	79001	MAJOR SHOULDER OR ELBOW JOINT PROCS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+509	406655	ARTHROSCOPY	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+511	96062	SHLDER,ELBW,FORARM PROC,EXC MAJ JNT PRC W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+512	47811	SHLDER,ELBW,FORARM PROC,EXC MAJ JNT PRC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+513	86262	HAND/WRIST PRC EXC MAJ THUMB/JNT PRC W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+514	47635	HAND/WRIST PRC EXC MAJ THUMB/JNT PRC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+515	236090	OTH MUSC/SKELET SYS & CONN TISS OR PROC W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+516	141275	OTH MUSC/SKELET SYS & CONN TISS OR PROC W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+517	66077	OTH MUSC/SKELET SYS & CONN TISS OR PROC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+518	159427	BCK/NCK PR EX SPNL FUS W MCC OR DSC DEV/NRSTM	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+519	92559	BCK/NCK PROC EXC SPINAL FUSION W CC MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+520	63754	BCK/NCK PROC EXC SPINAL FUSION W/O CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+533	77576	FRACTURES OF FEMUR W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+534	32653	FRACTURES OF FEMUR W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+535	134973	FRACTURES OF HIP & PELVIS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+536	44819	FRACTURES OF HIP & PELVIS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+537	42295	SPRAINS,STRAIN&DISLOCT HIP,PELV&THGH W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+538	40935	SPRAINS,STRAIN & DISLCT HIP,PELV & THGH NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+539	119784	OSTEOMYELITIS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+540	72752	OSTEOMYELITIS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+541	51951	OSTEOMYELITIS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+542	134111	PATH FRACTRS & MUSCLSK & CON TIS MALIG W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+543	86321	PATH FRACTRS & MUSCLSK & CON TIS MALIG W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+544	43950	PATH FRACTRS & MUSCLSK & CON TIS MALIG NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+545	154691	CONNECTIVE TISSUE DISORDERS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+546	76234	CONNECTIVE TISSUE DISORDERS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+547	48591	CONNECTIVE TISSUE DISORDERS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+548	84722	SEPTIC ARTHRITIS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+549	113643	SEPTIC ARTHRITIS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+550	61454	SEPTIC ARTHRITIS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+551	68655	MEDICAL BACK PROBLEMS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+552	49862	MEDICAL BACK PROBLEMS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+553	74859	BONE DISEASES & ARTHROPATHIES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+554	46948	BONE DISEASES & ARTHROPATHIES W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+555	73015	SIGNS&SYMPTS MUSC/SKELT SYS&CONN TISS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+556	38571	SIGNS&SYMPTS MUSC/SKELT SYS&CONN TISS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+557	75201	TENDONITIS, MYOSITIS & BURSITIS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+558	44452	TENDONITIS, MYOSITIS & BURSITIS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+559	155773	AFTERCARE, MUSC/SKELTAL SYS & CONN TISS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+560	85782	AFTERCARE, MUSC/SKELTAL SYS & CONN TISS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+561	69391	AFTERCARE, MUSC/SKELTAL SYS & CONN TISS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+562	81981	FX SPRN & DISL EXC FEMR HIP PLVS&THGH W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+563	46191	FX SPRN & DISL EXC FMR HIP PELVS&THGH W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+564	118201	OTHER MUSC/SKELETL SYS & CONN TISS DIAG W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+565	67116	OTHER MUSC/SKELETAL SYS & CONN TISS DIAG W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+566	50392	OTHER MUSC/SKETETL SYS & CONN TISS DIAG NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+570	199090	SKIN DEBRIDEMENT W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+571	125131	SKIN DEBRIDEMENT W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+572	61245	SKIN DEBRIDEMENT NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+573	258720	SKN GRFT &/OR DEBRD FOR SKN ULCR/CELITS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+574	243188	SKN GRFT &/OR DEBRD FOR SKN ULCR/CELITS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+575	67686	SKN GRFT &/OR DEBRD FOR SKN ULCR/CELITS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+576	303590	SKN GRFT &/OR DEBRD EXC SKN ULCR/CELITS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+577	96550	SKN GRFT &/OR DEBRD EXC SKN ULCR/CELITS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+578	77096	SKN GRFT &/OR DEBRD EXC SKN ULCR/CELLTS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+579	137244	OTHER SKIN, SUBCUT TISS & BREAST PROC W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+580	71653	OTHER SKIN, SUBCUT TISS & BREAST PROC W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+581	63015	OTHER SKIN, SUBCUT TISS & BREAST PROC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+582	70496	MASTECTOMY FOR MALIGNANCY W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+583	60206	MASTECTOMY FOR MALIGNANCY NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+584	91874	BREAST BIOP LOCL EXCISN&OTH BRST PRC W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+585	72406	BREAST BIOP LOCL EXCI & OTH BREAST PROC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+592	70234	SKIN ULCERS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+593	57939	SKIN ULCERS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+594	38829	SKIN ULCERS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+595	119479	MAJOR SKIN DISORDERS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+596	51535	MAJOR SKIN DISORDERS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+597	95065	MALIGNANT BREAST DISORDERS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+598	93356	MALIGNANT BREAST DISORDERS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+599	111544	MALIGNANT BREAST DISORDERS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+600	95901	NON-MALIGNANT BREAST DISORDERS W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+601	30477	NON-MALIGNANT BREAST DISORDERS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+602	85713	CELLULITIS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+603	41499	CELLULITIS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+604	68246	TRAUMA TO SKIN, SUBCUT TISS & BREAST W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+605	49074	TRAUMA TO SKIN, SUBCUT TISS & BREAST W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+606	99009	MINOR SKIN DISORDERS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+607	38350	MINOR SKIN DISORDERS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+614	129679	ADRENAL & PITUITARY PROCEDURES W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+615	64428	ADRENAL & PITUITARY PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+616	312899	AMPUT LOWR LMB ENDOC NUTRIT & METBL DIS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+617	108944	AMPUT LOWR LMB ENDOC NUTRIT & METBL DIS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+618	72514	AMPUT LOWR LMB ENDOC NUTRIT & METBL DIS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+619	69184	O.R. PROCEDURES FOR OBESITY W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+620	46729	O.R. PROCEDURES FOR OBESITY W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+621	36381	O.R. PROCEDURES FOR OBESITY NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+622	215830	SKN GRFTS & WND DEBRD FOR ENDOCRN DIS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+623	107249	SKN GRFTS & WND DEBRD/ENDC NUTRT&MET DIS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+624	47282	SKN GRFTS & WND DEBRD FOR ENDOCRN DIS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+625	196302	THYROID, PARATHYROID & THYROGLOSSAL PRC W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+626	56632	THYROID, PARATHYROID & THYROGLOSSAL PROC W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+627	40779	THYROID, PARATHYROID & THYROGLOSSAL PRC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+628	210762	OTHER ENDOCRINE, NUTRIT & METAB OR PROC W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+629	126400	OTHER ENDOCRINE, NUTRIT & METAB OR PROC W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+630	56057	OTHER ENDOCRINE, NUTRIT & METAB OR PROC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+637	84126	DIABETES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+638	51131	DIABETES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+639	30201	DIABETES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+640	84702	NUTRITIONAL & MISC METABOLIC DISORDERS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+641	41569	NUTRITIONAL & MISC METABOLIC DISORDRS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+642	43158	INBORN ERRORS OF METABOLISM	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+643	99444	ENDOCRINE DISORDERS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+644	59331	ENDOCRINE DISORDERS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+645	37239	ENDOCRINE DISORDERS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+652	312649	KIDNEY TRANSPLANT	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+653	190818	MAJOR BLADDER PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+654	124676	MAJOR BLADDER PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+655	73049	MAJOR BLADDER PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+656	127686	KIDNEY & URETER PROCEDURES FOR NEOPLASM W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+657	93945	KIDNEY & URETER PROCEDURES FOR NEOPLASM W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+658	58643	KIDNEY & URETER PROCEDURES FOR NEOPLASM NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+659	152504	KIDNEY & URETER PROC FOR NON-NEOPLASM W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+660	59015	KIDNEY & URETER PROC FOR NON-NEOPLASM W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+661	49645	KIDNEY & URETER PROC FOR NON-NEOPLASM NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+662	306282	MINOR BLADDER PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+663	45616	MINOR BLADDER PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+664	34311	MINOR BLADDER PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+665	409747	PROSTATECTOMY W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+666	177478	PROSTATECTOMY W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+667	38538	PROSTATECTOMY NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+668	199160	TRANSURETHRAL PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+669	50935	TRANSURETHRAL PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+670	34300	TRANSURETHRAL PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+671	30078	URETHRAL PROCEDURES W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+672	32511	URETHRAL PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+673	255219	OTHER KIDNEY & URINARY TRACT PROCEDURES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+674	154193	OTHER KIDNEY & URINARY TRACT PROCEDURES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+675	93708	OTHER KIDNEY & URINARY TRACT PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+682	94063	RENAL FAILURE W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+683	62337	RENAL FAILURE W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+684	37629	RENAL FAILURE NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+686	161160	KIDNEY & URINARY TRACT NEOPLASMS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+687	73041	KIDNEY & URINARY TRACT NEOPLASMS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+688	42025	KIDNEY & URINARY TRACT NEOPLASMS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+689	73783	KIDNEY & URINARY TRACT INFECTIONS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+690	44094	KIDNEY & URINARY TRACT INFECTIONS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+693	74010	URINARY STONES W/O ESW LITHOTRIPSY W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+694	34526	URINARY STONES W/O ESW LITHOTRIPSY W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+695	42260	KIDNEY & URINARY TRACT SIGNS & SYMPTOMS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+696	35771	KIDNEY & URINARY TRACT SIGNS & SYMPTM W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+697	22405	URETHRAL STRICTURE	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+698	105973	OTHER KIDNEY & URINARY TRACT DIAGNOSES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+699	65631	OTHER KIDNEY & URINARY TRACT DIAGNOSES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+700	40310	OTHER KIDNEY & URINARY TRACT DIAGNOSES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+707	97258	MAJOR MALE PELVIC PROCEDURES W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+708	52012	MAJOR MALE PELVIC PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+709	123128	PENIS PROCEDURES W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+710	40779	PENIS PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+711	71522	TESTES PROCEDURES W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+712	35658	TESTES PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+713	51903	TRANSURETHRAL PROSTATECTOMY W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+714	32169	TRANSURETHRAL PROSTATECTOMY NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+715	146823	OTH MALE REPROD SYS OR PRC FOR MALIG W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+717	92117	OTH MALE REPRD SYS OR PRC EXC MALIG W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+718	50190	OTHER MALE REPROD SYS OR PROC EXC MALIG NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+722	195618	MALIGNANCY, MALE REPRODUCTIVE SYSTEM W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+723	81052	MALIGNANCY, MALE REPRODUCTIVE SYSTEM W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+724	21624	MALIGNANCY, MALE REPRODUCTIVE SYSTEM NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+725	75998	BENIGN PROSTATIC HYPERTROPHY W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+726	50612	BENIGN PROSTATIC HYPERTROPHY W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+727	83336	INFLAMMATION OF MALE REPRODUCTIVE SYSTM W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+728	44113	INFLAMMATION OF MALE REPRODUCTIVE SYS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+729	49386	OTHER MALE REPRODUCTIVE SYSTEM DIAG W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+730	28783	OTHER MALE REPRODUCTIVE SYSTEM DIAG NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+734	220519	PELVC EVISC RAD HYSTCTMY&RAD VULVECT W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+735	61040	PELVC EVISC RAD HYSTCTMY & RAD VULVECT NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+736	200223	UTERN & ADNEXA PROC OVARIAN/ADNXA MALIG W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+737	93848	UTERN & ADNEXA PROC OVARIAN/ADNXA MALIG W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+738	59101	UTERN & ADNEXA PROC OVARIAN/ADNXA MALIG NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+739	151456	UTERN,ADNEXA PROC NON-OVARN/ADNXA MALIGW MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+740	91838	UTERN,ADNEXA PROC NON-OVARN/ADNXA MALIG W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+741	58601	UTERN,ADNEXA PROC NON-OVARN/ADNXA MALIG NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+742	73904	UTERINE & ADNEXA PROC FOR NON-MALIG W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+743	47084	UTERINE & ADNEXA PROC FOR NON-MALIGNCY NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+744	108464	D&C CONIZATION LAP & TUBAL INTERRPTN W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+745	86007	D&C CONIZATION LAP & TUBAL INTERRPTN NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+746	64748	VAGINA, CERVIX & VULVA PROCEDURES W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+747	44557	VAGINA, CERVIX & VULVA PROCEDURES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+748	66984	FEMALE REPRODUCTIVE SYSTM RECONSTRUCTIVE PROC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+749	121989	OTHER FEMALE REPRODUCTV SYS OR PROC W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+750	72506	OTHER FEMALE REPRODUCTV SYS OR PROC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+754	107857	MALIGNANCY, FEMALE REPRODUCTIVE SYSTEM W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+755	57221	MALIGNANCY, FEMALE REPRODUCTIVE SYSTEM W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+756	52009	MALIGNANCY, FEMALE REPRODUCTIVE SYSTEM NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+757	48130	INFECTIONS, FEMALE REPRODUCTIVE SYSTEM W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+758	53161	INFECTIONS, FEMALE REPRODUCTIVE SYSTEM W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+759	36043	INFECTIONS, FEMALE REPRODUCTIVE SYSTEM NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+760	45528	MENSTRL & OTH FEML REPROD SYS DISORD W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+761	28514	MENSTRL & OTH FEML REPROD SYS DISORD NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+765	60424	CESAREAN SECTION W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+766	48190	CESAREAN SECTION NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+767	46336	VAGINAL DELIVERY W STERILIZATION &/OR D&C	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+768	48814	VAGINAL DELV W OR PROC EXCEPT STERIL &/OR D&C	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+769	58430	POSTPARTUM & POST ABORTION DIAG W OR PROC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+770	41386	ABORTION W D&C+C39 ASPIR CURETG OR HYSTERTMY	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+774	40219	VAGINAL DELIVERY W COMPLICATING DIAGNOSES	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+775	34568	VAGINAL DELIVERY W/O COMPLICATING DIAGNOSES	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+776	36657	POSTPARTUM & POST ABORTION DIAG W/O OR PROC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+777	36856	ECTOPIC PREGNANCY	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+778	19611	THREATENED ABORTION	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+779	29295	ABORTION W/O D&C	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+780	15579	FALSE LABOR	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+781	33786	OTHER ANTEPARTUM DIAG W MEDICAL COMPLICATIONS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+782	17545	OTHER ANTEPARTUM DIAG W/O MED COMPLICATIONS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+783	49775	CESAREAN SECTION W STERILIZATION W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+784	64320	CESAREAN SECTION W STERILIZATION W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+785	47112	CESAREAN SECTION W STERILIZATION W/O CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+786	71193	CESAREAN SECTION W/O STERILIZATION W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+787	52498	CESAREAN SECTION W/O STERILIZATION W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+788	48616	CESAREAN SECTION W/O STERILIZATION W/O CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+789	450683	NEONATES DIED/TRANSFD TO OTHER ACUTE CARE FAC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+790	1017652	EXTREME IMATURTY\RESP DISTRES SYNDRM NEONATE	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+791	356366	PREMATURITY W MAJOR PROBLEMS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+792	36707	PREMATURITY W/O MAJOR PROBLEMS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+793	116584	FULL TERM NEONATE W MAJOR PROBLEMS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+794	18776	NEONATE W OTHER SIGNIFICANT PROBLEMS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+795	14951	NORMAL NEWBORN	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+796	46101	VAGINAL DELIVERY W STERILIZATION/D&C W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+797	45692	VAGINAL DELIVERY W STERILIZATION/D&C W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+798	38542	VAGINAL DELIVERY W STERILIZATION/D&C WO CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+800	134287	SPLENECTOMY W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+801	62894	SPLENECTOMY NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+802	221797	OTHR OR PROC OF BLOOD & BLOOD FRM ORGNS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+803	161102	OTHR OR PROC OF BLOOD & BLOOD FRM ORGNS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+804	71318	OTHR OR PROC OF BLOOD & BLOOD FRM ORGNS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+805	38662	VAGINAL DELIVERY W/O STERILIZATION/D&C W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+806	38212	VAGINAL DELIVERY W/O STERILIZATION/D&C W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+807	34949	VAGINAL DELIVERY W/O STERILIZATION/D&C W/O CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+808	157467	MAJ HEM/IMN DIAG EXC SCKL CELL CRS&COAG W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+809	71519	MAJ HEM/IMN DIAG EXC SCKL CELL CRS&COAG W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+810	47376	MAJ HEM/IMN DIAG EXC SCKL CELL CRS&COAG NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+811	80244	RED BLOOD CELL DISORDERS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+812	46564	RED BLOOD CELL DISORDERS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+813	84351	COAGULATION DISORDERS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+814	69002	RETICULOENDOTHELIAL & IMMUNITY DISORDRS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+815	59852	RETICULOENDOTHELIAL & IMMUNITY DISORDERS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+816	36683	RETICULOENDOTHELIAL & IMMUNITY DISORDRS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+817	48452	OTHER ANTEPARTUM DIAGNOSES W O.R. PROCEDURE W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+818	48445	OTHER ANTEPARTUM DIAGNOSES W O.R. PROCEDURE W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+819	37220	OTHER ANTEPARTUM DIAGNOSES W O.R. PROCEDURE W/O CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+820	588371	LYMPHOMA & LEUKEMIA W MAJOR OR PROCEDRE W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+821	544851	LYMPHOMA & LEUKEMIA W MAJOR OR PROCEDURE W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+822	123768	LYMPHOMA & LEUKEMIA W MAJOR OR PROC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+823	415083	LYMPHOMA & NON-ACUTE LEUKM W/OTH OR PRC W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+824	163033	LYMPHOMA & NON-ACUTE LEUKM W/OTH OR PROC W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+825	91719	LYMPHOMA & NON-ACUTE LEUKM W/OTH OR PRC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+826	356406	MYELOPROLIF DISORD  W/MJ OR PROC W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+827	214564	MYELOPROLIF DISORD  W/MJ OR PROC W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+828	99918	MYELOPROLIF DISORD  W/MJ OR PROC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+829	260848	MYELOPROLIF DISRD W OTH OR PROC W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+830	42575	MYELOPROLIF DISRD W OTH OR PROC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+831	35428	OTHER ANTEPARTUM DIAGNOSES W/O O.R. PROCEDURE W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+832	44291	OTHER ANTEPARTUM DIAGNOSES W/O O.R. PROCEDURE W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+833	29855	OTHER ANTEPARTUM DIAGNOSES W/O O.R. PROCEDURE W/O CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+834	548471	ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+835	268989	ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+836	44280	ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+837	221204	CHEMO W ACUTE LEUK AS SDX W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+838	143490	CHEMO W ACUTE LEUK AS SDX W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+839	94703	CHEMO W ACUTE LEUK AS SDX NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+840	243662	LYMPHOMA & NON-ACUTE LEUKEMIA W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+841	121429	LYMPHOMA & NON-ACUTE LEUKEMIA W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+842	123866	LYMPHOMA & NON-ACUTE LEUKEMIA NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+843	154651	OTH MYELOPROLI DIS/POORLY DIF NEOPL  W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+844	72555	OTH MYELOPROLI DIS/POORLY DIF NEOPL DIAG W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+845	39850	OTH MYELOPROLI DIS/POORLY DIF NEOPL DIAG NOCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+846	155368	CHEMO W/O ACUTE LEUKEMIA AS 2ND DIAG W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+847	69928	CHEMO W/O ACUTE LEUKEMIA AS 2ND DIAG W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+848	67502	CHEMO W/O ACUTE LEUKEMIA AS 2ND DIAG NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+849	157518	RADIOTHERAPY	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+853	315947	INFECTIOUS & PARASITE DISEASES W OR PRC W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+854	141605	INFECTIOUS & PARASITE DISEASES W OR PROC W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+855	65202	INFECT & PARASITE DISEASES W OR PROC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+856	299119	POSTOP/POST-TRAUMA INFECTIONS W OR PROC W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+857	95711	POSTOP/POST-TRAUMA INFECTIONS W OR PROC W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+858	57078	POSTOP/POST-TRAUMA INFECTIONS W OR PROC NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+862	123755	POSTOP/POST-TRAUMA INFECTIONS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+863	47843	POSTOP/POST-TRAUMA INFECTIONS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+864	36459	FEVER OF UNKNOWN ORIGIN	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+865	79309	VIRAL ILLNESS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+866	36439	VIRAL ILLNESS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+867	109766	OTHR INFECTIOUS & PARASITE DISEASE DIAG W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+868	56555	OTHER INFECTIOUS & PARASITE DISEASE DIAG W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+869	49579	OTHR INFECTIOUS & PARASITE DISEASE DIAG NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+870	350779	SEPTICEMIA W MV 96+ HOURS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+871	126213	SEPTICEMIA W/O MV 96+ HOURS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+872	66957	SEPTICEMIA W/O MV 96+ HOURS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+876	255228	OR PROC W PRIN DIAG OF MENTAL ILLNESS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+880	54673	ACUTE ADJUST.REACT & PSYCHOSOCIAL DYSFN	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+881	69754	DEPRESSIVE NEUROSES	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+882	64123	NEUROSES EXCEPT DEPRESSIVE	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+883	133612	DISORDERS OF PERSONALITY & IMPULSE CONTROL	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+884	84719	ORGANIC DISTURBANCES & MENTAL RETARDATION	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+885	114048	PSYCHOSES	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+886	45668	BEHAVIORAL & DEVELOPMENTAL DISORDERS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+887	76460	OTHER MENTAL DISORDER DIAGNOSES	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+894	32121	ALCOHOL/DRUG ABUSE OR DEPENDENCE, LEFT AMA	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+895	31753	ALCOHOL/DRUG ABUSE OR DEPENDENCE WITH REHAB	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+896	113361	ALCOHOL/DRUG ABUSE OR DEPNDNC W/O REHAB W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+897	56519	ALCOHL/DRG ABUSE OR DEPNDNC W/O REHAB W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+901	190042	WOUND DEBRIDEMENTS FOR INJURIES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+902	122990	WOUND DEBRIDEMENTS FOR INJURIES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+903	64018	WOUND DEBRIDEMENTS FOR INJURIES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+904	284555	SKIN GRAFTS FOR INJURIES W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+905	98580	SKIN GRAFTS FOR INJURIES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+906	85469	HAND PROCEDURES FOR INJURIES	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+907	245023	OTHER O.R. PROCEDURES FOR INJURIES W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+908	75632	OTHER O.R. PROCEDURES FOR INJURIES W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+909	43064	OTHER O.R. PROCEDURES FOR INJURIES NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+913	45652	TRAUMATIC INJURY W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+914	44062	TRAUMATIC INJURY W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+915	113088	ALLERGIC REACTIONS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+916	25443	ALLERGIC REACTIONS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+917	86781	POISONING & TOXIC EFFECTS OF DRUGS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+918	45378	POISONING & TOXIC EFFECTS OF DRUGS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+919	92620	COMPLICATIONS OF TREATMENT W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+920	54626	COMPLICATIONS OF TREATMENT W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+921	35084	COMPLICATIONS OF TREATMENT NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+922	80324	OTH INJURY/POISONING & TOXIC EFF DIAG W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+923	51031	OTH INJURY/POISONING & TOXIC EFF DIAG W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+934	40471	FULL THICKNESS BURN W/O SKN GRFT OR INHAL INJ	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+935	60505	NON-EXTENSIVE BURNS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+939	142693	OR PORC W DIAG OTH CONTACT W HLTH SERVS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+940	100137	OR PORC W DIAG OTH CONTACT W HLTH SERVS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+941	63182	OR PORC W DIAG OTH CONTACT W HLTH SERVS NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+945	110495	REHABILITATION W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+946	111976	REHABILITATION NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+947	84820	SIGNS & SYMPTOMS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+948	45971	SIGNS & SYMPTOMS W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+949	144455	AFTERCARE W CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+950	59193	AFTERCARE NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+951	59634	OTHER FACTORS INFLUENCING HEALTH STATUS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+955	318526	CRANIOTOMY FOR MULTIPLE SIGNIFICANT TRAUMA	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+956	110766	LIMB REATTACH HIP&FEMUR PROC MULT SIGN TRAUMA	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+958	235328	OTHER OR PROC FOR MULTIP SIGNFCT TRAUMA W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+963	162966	OTHER MULTIPLE SIGNIFICANT TRAUMA W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+964	108826	OTHER MULTIPLE SIGNIFICANT TRAUMA W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+969	318417	HIV W EXTENSIVE O.R. PROCEDURE W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+970	187274	HIV W EXTENSIVE O.R. PROCEDURE W/O MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+974	175298	HIV W MAJOR RELATED CONDITION W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+975	83446	HIV W MAJOR RELATED CONDITION W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+976	46420	HIV W MAJOR RELATED CONDITION NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+977	87998	HIV W OR W/O OTHER RELATED CONDITION	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+981	308870	EXT OR PROC UNRELATED TO PRIN DIAG W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+	265620	EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+982	119460	EXT OR PROC UNRELATED TO PRIN DIAG W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+	119460	EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+983	57685	EXT OR PROC UNRELATED TO PRIN DIAG NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+	57685	EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W/O CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+987	283039	NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+	283039	NON-EXTN OR PROC UNRELATED TO PRIN DIAG W MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+988	108256	NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+	108256	NON-EXTN OR PROC UNRELATED TO PRIN DIAG W CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+989	46228	NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W/O CC/MCC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+	46228	NON-EXTN OR PROC UNRELATED TO PRIN DIAG NO CC	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+998	32920	PRINCIPAL DIAG INVALID AS DISCHARGE DIAGNOSIS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+	32920	PRINCIPAL DIAGNOSIS INVALID AS DISCHARGE DIAGNOSIS	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+999	144441	UNGROUPABLE	montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
+Grand Total	86968		montefiore-medical-center	Average-Charges-By-DRG-MMC.xls	drg
