@@ -77,7 +77,7 @@ for result in results:
                          result['filename'],
                          charge_type]
 
-                df.loc[idx,:] = entry
+            df.loc[idx,:] = entry
 
 # Remove empty rows
 df = df.dropna(how='all')
