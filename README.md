@@ -71,7 +71,7 @@ I realized that there were different kinds of charges, including inpatient, outp
 "standard" or "average." I then went back and added an additional column
 to the data:
 
- - **charge_type** can be one of standard, average, inpatient, outpatient, drg, or (if more detail is supplied) pharmacy, or supply. If not specified, I labeled as standard, because this would be a good assumption.
+ - **charge_type** can be one of standard, average, inpatient, outpatient, drg, or (if more detail is supplied) insured, uninsured, pharmacy, or supply. This is not a gold standard labeling but a best effort. If not specified, I labeled as standard, because this would be a good assumption.
 
 ### 4. What if I have an issue?
 
