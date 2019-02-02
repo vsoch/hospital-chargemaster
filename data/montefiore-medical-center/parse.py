@@ -60,8 +60,8 @@ for result in results:
         for row in content.iterrows():
             idx = df.shape[0] + 1
             entry = [row[1]['MS DRG'],      # charge code
-                     row[1]['Amount'],      # price
-                     row[1]['Description'], # description
+                     row[1]['Avg Charges'], # price
+                     row[1]['DRG Title'],   # description
                      result["hospital_id"], # hospital_id
                      result['filename'],
                      charge_type]
