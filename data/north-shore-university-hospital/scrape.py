@@ -10,14 +10,14 @@ from bs4 import BeautifulSoup
 here = os.path.dirname(os.path.abspath(__file__))
 hospital_id = os.path.basename(here)
 
-url ='https://www.northshore.org/about-us/billing/standard-hospital-charges/'
+url = 'https://www.northwell.edu/billing-and-insurance/price-transparency'
 
 today = datetime.datetime.today().strftime('%Y-%m-%d')
 outdir = os.path.join(here, today)
 if not os.path.exists(outdir):
     os.mkdir(outdir)
 
-prefix = "https://www.northshore.org"
+prefix = "https://www.northwell.edu"
 response = requests.get(url)
 soup = BeautifulSoup(response.text, 'lxml')
 
@@ -26,8 +26,8 @@ records = []
 
 for entry in soup.find_all('a', href=True):
     download_url = prefix + entry['href']
-    if '.csv' in download_url:  
-        filename =  os.path.basename(download_url.split('?')[0])  
+    if '.xlsx' in download_url:  
+        filename =  os.path.basename(download_url.split('?')[0]).replace('%20','-')
         entry_name = entry.text
         entry_uri = entry_name.strip().lower().replace(' ','-')
         output_file = os.path.join(outdir, filename)
