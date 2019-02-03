@@ -66,7 +66,7 @@ provided, I would also include a description and code:
  - **hospital_id**
  - **filename**
 
-Each of these parsers is also in the hospital subfolder, and named as "parser.py." The parser would output a data-latest.tsv file at the top level of the folder, along with a dated (by year `data-<year>.tsv`). Currently I'm just parsing standard charges (although DRG or diagnostic related group) data might also be provided in the folder. At some point
+Each of these parsers is also in the hospital subfolder, and named as "parser.py." The parser would output a data-latest.tsv file at the top level of the folder, along with a dated (by year `data-<year>.tsv`). At some point
 I realized that there were different kinds of charges, including inpatient, outpatient, DRG (diagnostic related group) and others called
 "standard" or "average." I then went back and added an additional column
 to the data:
@@ -102,5 +102,5 @@ important and deserving to belong here! If you want to add a hospital:
  2. Create a subfolder based on the `hospital_uri` from the file.
  3. Write a `scrape.py` script in the folder. You can use others as templates, but the file should generate an output directory with the present date, and recursive copy the new folder to be latest.
 
-The data will be updated monthly, or when a pull request is issued to update the repository.
+The data will be updated on an annual basis, or when a pull request is issued to update the repository.
 Upon merge, the generated latest data will be pushed back to the repository.
