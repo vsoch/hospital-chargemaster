@@ -50,52 +50,23 @@ for result in results:
         continue
 
     charge_type = 'standard'
-    if "inpatient-hospital" in filename:
-        charge_type = 'drg'
 
     print("Parsing %s" % filename)
 
-    if filename.endswith('csv'):
+    if filename.endswith('xlsx'):
 
-        # Service Area,Description,Revenue Code, Charge Patient Pay
-        with codecs.open(filename, "r", encoding='utf-8', errors='ignore') as filey:
-            lines = filey.readlines()
+        content = pandas.read_excel(filename)
 
-        if charge_type == 'drg':
-            # DRG Grouper,Diagnosis Related Group Description,NorthShore Weighted Average Charge        
-            for l in range(1, len(lines)):
-                line = lines[l]
-                description, price = line.split('$')
-                code, description = description.split(',',1)
-                description = description.replace('"','').strip('"')
-                for char in ['\n', '"', '\r', ',']:
-                    price = price.replace(char,'').strip()
-                idx = df.shape[0] + 1
-                entry = [code,                     # charge code
-                         price,                    # price
-                         description,              # description
-                         result["hospital_id"],    # hospital_id
-                         result['filename'],
-                         charge_type]            
-                df.loc[idx,:] = entry
-        else:
-
-            #  'Internal ID,Master Charge Description of Service,NS Charge Per Unit\r\n'
-            for l in range(1, len(lines)):
-                line = lines[l]
-                description, price = line.split('$')
-                code, description = description.split(',',1)
-                description = description.replace('"','').strip(',')
-                for char in ['\n', '"', '\r', ',']:
-                    price = price.replace(char,'').strip()
-                idx = df.shape[0] + 1
-                entry = [code,                     # charge code
-                         price,                    # price
-                         description,              # description
-                         result["hospital_id"],    # hospital_id
-                         result['filename'],
-                         charge_type]            
-                df.loc[idx,:] = entry
+        # ['Charge Description', 'Current\nPrice']
+        for row in content.iterrows():
+            idx = df.shape[0] + 1
+            entry = [None,                         # charge code
+                     row[1]['Current\nPrice'],     # price
+                     row[1]['Charge Description'], # description
+                     result["hospital_id"],        # hospital_id
+                     result['filename'],
+                     charge_type]            
+            df.loc[idx,:] = entry
 
 # Remove empty rows
 df = df.dropna(how='all')
