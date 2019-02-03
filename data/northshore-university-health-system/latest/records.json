@@ -1,0 +1,18 @@
+[
+    {
+        "hospital_id": "northshore-university-health-system",
+        "filename": "fy19-standard-hospital-services-chargemaster.csv",
+        "date": "2019-02-03",
+        "uri": "standard-hospital-services-chargemaster",
+        "name": "Standard Hospital Services Chargemaster",
+        "url": "https://www.northshore.org/globalassets/about-us/billing/standard-charges/fy19-standard-hospital-services-chargemaster.csv"
+    },
+    {
+        "hospital_id": "northshore-university-health-system",
+        "filename": "fy19-average-inpatient-hospital-charges.csv",
+        "date": "2019-02-03",
+        "uri": "average-inpatient-hospital-charges-by-drg",
+        "name": "Average Inpatient Hospital Charges by DRG",
+        "url": "https://www.northshore.org/globalassets/about-us/billing/standard-charges/fy19-average-inpatient-hospital-charges.csv"
+    }
+]
