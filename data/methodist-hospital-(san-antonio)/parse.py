@@ -37,6 +37,8 @@ columns = ['charge_code',
 
 df = pandas.DataFrame(columns=columns)
 
+seen = []
+
 # First parse standard charges (doesn't have DRG header)
 for result in results:
     filename = os.path.join(latest, result['filename'])
@@ -52,8 +54,13 @@ for result in results:
     if "drg" in filename.lower():
         charge_type = "drg"
 
-    print("Parsing %s" % filename)
+    if filename in seen:
+        print('Already parsed %s' %filename)
+        continue
 
+    print("Parsing %s" % filename)
+    seen.append(filename)
+ 
     if filename.endswith('csv'):
         content = pandas.read_csv(filename)
         for row in content.iterrows():
