@@ -48,10 +48,19 @@ for entry in soup.find_all('a', href=True):
 
                 records.append(record)
 
+# Make sure unique
+results = []
+seen = []
+for record in records:
+    if record['filename'] in seen:
+        continue
+    seen.append(record['filename'])
+    results.append(record)
+
 # Keep json record of all files included
 records_file = os.path.join(outdir, 'records.json')
 with open(records_file, 'w') as filey:
-    filey.write(json.dumps(records, indent=4))
+    filey.write(json.dumps(results, indent=4))
 
 # This folder is also latest.
 latest = os.path.join(here, 'latest')
