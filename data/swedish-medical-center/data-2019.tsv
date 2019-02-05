@@ -1,0 +1,656 @@
+charge_code	price	description	hospital_id	filename	charge_type
+003	1282320.65	003 - ECMO OR TRACH W MV >96 HRS OR PDX EXC FACE; MOUTH & NECK W MAJ O.R.	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+004	717577.26	004 - TRACH W MV >96 HRS OR PDX EXC FACE; MOUTH & NECK W/O MAJ O.R.	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+020	815566.4	020 - INTRACRANIAL VASCULAR PROCEDURES W PDX HEMORRHAGE W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+021	850159.82	021 - INTRACRANIAL VASCULAR PROCEDURES W PDX HEMORRHAGE W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+022	328569.05	022 - INTRACRANIAL VASCULAR PROCEDURES W PDX HEMORRHAGE W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+023	358789.55	023 - CRANIO W MAJOR DEV IMPL/ACUTE CNS PDX W MCC OR CHEMO IMPL OR EPILEPSY W NEUROSTM	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+024	248642.49	024 - CRANIO W MAJOR DEV IMPL/ACUTE COMPLEX CNS PDX W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+025	395435.99	025 - CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+026	315687.73	026 - CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+027	356332.81	027 - CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+028	429578.74	028 - SPINAL PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+029	326874.44	029 - SPINAL PROCEDURES W CC OR SPINAL NEUROSTIMULATORS	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+030	276044.15	030 - SPINAL PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+031	315725.02	031 - VENTRICULAR SHUNT PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+032	120716.18	032 - VENTRICULAR SHUNT PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+033	125440.11	033 - VENTRICULAR SHUNT PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+034	228673.05	034 - CAROTID ARTERY STENT PROCEDURE W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+035	192928.64	035 - CAROTID ARTERY STENT PROCEDURE W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+036	129968.96	036 - CAROTID ARTERY STENT PROCEDURE W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+037	664013.04	037 - EXTRACRANIAL PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+038	150750.85	038 - EXTRACRANIAL PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+039	96120.56	039 - EXTRACRANIAL PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+040	249914.94	040 - PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+041	146490.09	041 - PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W CC OR PERIPH NEUROSTIM	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+042	110029.01	042 - PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+052	249795.8	052 - SPINAL DISORDERS & INJURIES W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+053	97005.73	053 - SPINAL DISORDERS & INJURIES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+054	154021.27	054 - NERVOUS SYSTEM NEOPLASMS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+055	95157.22	055 - NERVOUS SYSTEM NEOPLASMS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+056	134357.96	056 - DEGENERATIVE NERVOUS SYSTEM DISORDERS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+057	116675.41	057 - DEGENERATIVE NERVOUS SYSTEM DISORDERS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+058	50407.67	058 - MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+059	79523.21	059 - MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+060	80519.55	060 - MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+061	206702.22	061 - ISCHEMIC STROKE; PRECEREBRAL OCCL OR TRANS ISCHEMIA W THROMBOLYTIC AGENT W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+062	145973.94	062 - ISCHEMIC STROKE; PRECEREBRAL OCCL OR TRANSIENT ISCHEMIA W THROMBOLYTIC AGENT W C	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+063	121460.89	063 - ISCHEMIC STROKE; PRECEREBRAL OCCL OR TRANSIENT ISCHEMIA W THROMB AGENT W/O CC/MC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+064	130081.32	064 - INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+065	89922.97	065 - INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+066	70073.07	066 - INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+067	133618.93	067 - NONSPECIFIC CVA & PRECEREBRAL OCCLUSION W/O INFARCT W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+068	81188.53	068 - NONSPECIFIC CVA & PRECEREBRAL OCCLUSION W/O INFARCT W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+069	74408.35	069 - TRANSIENT ISCHEMIA W/O THROMBOLYTIC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+070	89987.21	070 - NONSPECIFIC CEREBROVASCULAR DISORDERS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+071	56563.27	071 - NONSPECIFIC CEREBROVASCULAR DISORDERS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+072	56454.99	072 - NONSPECIFIC CEREBROVASCULAR DISORDERS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+073	62965.98	073 - CRANIAL & PERIPHERAL NERVE DISORDERS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+074	78482.67	074 - CRANIAL & PERIPHERAL NERVE DISORDERS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+075	95545.04	075 - VIRAL MENINGITIS W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+076	76196.82	076 - VIRAL MENINGITIS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+077	76478.37	077 - HYPERTENSIVE ENCEPHALOPATHY W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+078	44032.97	078 - HYPERTENSIVE ENCEPHALOPATHY W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+079	62913.81	079 - HYPERTENSIVE ENCEPHALOPATHY W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+080	43339.61	080 - NONTRAUMATIC STUPOR & COMA W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+081	67258.21	081 - NONTRAUMATIC STUPOR & COMA W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+082	207588.54	082 - TRAUMATIC STUPOR & COMA; COMA >1 HR W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+083	122793.86	083 - TRAUMATIC STUPOR & COMA; COMA >1 HR W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+084	71872.83	084 - TRAUMATIC STUPOR & COMA; COMA >1 HR W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+085	193184.05	085 - TRAUMATIC STUPOR & COMA; COMA <1 HR W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+086	87416.9	086 - TRAUMATIC STUPOR & COMA; COMA <1 HR W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+087	57106.91	087 - TRAUMATIC STUPOR & COMA; COMA <1 HR W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+088	48137.25	088 - CONCUSSION W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+089	103748.31	089 - CONCUSSION W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+090	67235.84	090 - CONCUSSION W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+091	107540.15	091 - OTHER DISORDERS OF NERVOUS SYSTEM W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+092	89179.24	092 - OTHER DISORDERS OF NERVOUS SYSTEM W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+093	63215.82	093 - OTHER DISORDERS OF NERVOUS SYSTEM W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+094	105439.57	094 - BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+095	132346.02	095 - BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+096	149245.07	096 - BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+097	351374.85	097 - NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+098	107338.33	098 - NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+099	89204.75	099 - NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+100	143600.65	100 - SEIZURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+101	69373.83	101 - SEIZURES W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+102	74407.66	102 - HEADACHES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+103	60664.98	103 - HEADACHES W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+113	106142.76	113 - ORBITAL PROCEDURES W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+114	104914.59	114 - ORBITAL PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+115	110935.47	115 - EXTRAOCULAR PROCEDURES EXCEPT ORBIT	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+116	55128.99	116 - INTRAOCULAR PROCEDURES W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+117	74944.93	117 - INTRAOCULAR PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+123	65565.69	123 - NEUROLOGICAL EYE DISORDERS	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+125	34886.73	125 - OTHER DISORDERS OF THE EYE W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+129	147955.94	129 - MAJOR HEAD & NECK PROCEDURES W CC/MCC OR MAJOR DEVICE	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+130	155933.21	130 - MAJOR HEAD & NECK PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+131	166503.88	131 - CRANIAL/FACIAL PROCEDURES W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+132	142918.77	132 - CRANIAL/FACIAL PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+133	186226.46	133 - OTHER EAR; NOSE; MOUTH & THROAT O.R. PROCEDURES W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+134	80039.91	134 - OTHER EAR; NOSE; MOUTH & THROAT O.R. PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+135	177545.26	135 - SINUS & MASTOID PROCEDURES W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+137	89575.83	137 - MOUTH PROCEDURES W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+138	54616.01	138 - MOUTH PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+147	54081.07	147 - EAR; NOSE; MOUTH & THROAT MALIGNANCY W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+149	52108.64	149 - DYSEQUILIBRIUM	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+151	33702.42	151 - EPISTAXIS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+152	45040.3	152 - OTITIS MEDIA & URI W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+153	38665.85	153 - OTITIS MEDIA & URI W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+154	61876.18	154 - OTHER EAR; NOSE; MOUTH & THROAT DIAGNOSES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+155	48413.5	155 - OTHER EAR; NOSE; MOUTH & THROAT DIAGNOSES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+156	55260.51	156 - OTHER EAR; NOSE; MOUTH & THROAT DIAGNOSES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+157	78173.9	157 - DENTAL & ORAL DISEASES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+158	43734.82	158 - DENTAL & ORAL DISEASES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+159	33017.48	159 - DENTAL & ORAL DISEASES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+163	287484.26	163 - MAJOR CHEST PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+164	152658.84	164 - MAJOR CHEST PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+165	96690.21	165 - MAJOR CHEST PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+166	372125.79	166 - OTHER RESP SYSTEM O.R. PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+167	129901.35	167 - OTHER RESP SYSTEM O.R. PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+168	59461.38	168 - OTHER RESP SYSTEM O.R. PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+175	95010.65	175 - PULMONARY EMBOLISM W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+176	57338.11	176 - PULMONARY EMBOLISM W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+177	132236.76	177 - RESPIRATORY INFECTIONS & INFLAMMATIONS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+178	56957.74	178 - RESPIRATORY INFECTIONS & INFLAMMATIONS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+179	67736.02	179 - RESPIRATORY INFECTIONS & INFLAMMATIONS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+180	103031.62	180 - RESPIRATORY NEOPLASMS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+181	92034.26	181 - RESPIRATORY NEOPLASMS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+183	98455.74	183 - MAJOR CHEST TRAUMA W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+184	81913.47	184 - MAJOR CHEST TRAUMA W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+185	60558.46	185 - MAJOR CHEST TRAUMA W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+186	97135.92	186 - PLEURAL EFFUSION W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+187	71384.19	187 - PLEURAL EFFUSION W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+188	87929.3	188 - PLEURAL EFFUSION W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+189	71978.77	189 - PULMONARY EDEMA & RESPIRATORY FAILURE	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+190	58483.74	190 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+191	52002.29	191 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+192	49873.81	192 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+193	71710.45	193 - SIMPLE PNEUMONIA & PLEURISY W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+194	48893.98	194 - SIMPLE PNEUMONIA & PLEURISY W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+195	34663.02	195 - SIMPLE PNEUMONIA & PLEURISY W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+196	109270.26	196 - INTERSTITIAL LUNG DISEASE W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+197	38347.17	197 - INTERSTITIAL LUNG DISEASE W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+199	130883.3	199 - PNEUMOTHORAX W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+200	89834.63	200 - PNEUMOTHORAX W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+201	47227.65	201 - PNEUMOTHORAX W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+202	58384.31	202 - BRONCHITIS & ASTHMA W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+203	40168.95	203 - BRONCHITIS & ASTHMA W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+204	36409.92	204 - RESPIRATORY SIGNS & SYMPTOMS	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+205	54721.53	205 - OTHER RESPIRATORY SYSTEM DIAGNOSES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+206	43180.37	206 - OTHER RESPIRATORY SYSTEM DIAGNOSES W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+207	532215.76	207 - RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT >96 HOURS	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+208	208606.83	208 - RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT <=96 HOURS	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+215	789108.23	215 - OTHER HEART ASSIST SYSTEM IMPLANT	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+216	487428.24	216 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W CARD CATH W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+217	324279.89	217 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W CARD CATH W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+219	359203.39	219 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+220	277069.6	220 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+221	241299.32	221 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+222	410609.99	222 - CARDIAC DEFIB IMPLANT W CARDIAC CATH W AMI/HF/SHOCK W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+224	394464.67	224 - CARDIAC DEFIB IMPLANT W CARDIAC CATH W/O AMI/HF/SHOCK W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+225	243774.93	225 - CARDIAC DEFIB IMPLANT W CARDIAC CATH W/O AMI/HF/SHOCK W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+226	311367.29	226 - CARDIAC DEFIBRILLATOR IMPLANT W/O CARDIAC CATH W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+227	184525.7	227 - CARDIAC DEFIBRILLATOR IMPLANT W/O CARDIAC CATH W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+228	271453.43	228 - OTHER CARDIOTHORACIC PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+229	440199.44	229 - OTHER CARDIOTHORACIC PROCEDURES W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+231	542799.88	231 - CORONARY BYPASS W PTCA W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+232	490090.44	232 - CORONARY BYPASS W PTCA W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+233	447266.8	233 - CORONARY BYPASS W CARDIAC CATH W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+234	311649.0	234 - CORONARY BYPASS W CARDIAC CATH W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+235	285871.85	235 - CORONARY BYPASS W/O CARDIAC CATH W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+236	198614.99	236 - CORONARY BYPASS W/O CARDIAC CATH W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+239	160301.53	239 - AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+240	173725.46	240 - AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+242	204272.8	242 - PERMANENT CARDIAC PACEMAKER IMPLANT W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+243	154726.18	243 - PERMANENT CARDIAC PACEMAKER IMPLANT W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+244	92266.93	244 - PERMANENT CARDIAC PACEMAKER IMPLANT W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+245	203304.97	245 - AICD GENERATOR PROCEDURES	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+246	210100.46	246 - PERC CARDIOVASC PROC W DRUG-ELUTING STENT W MCC OR 4+ ARTERIES OR STENTS	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+247	162122.77	247 - PERC CARDIOVASC PROC W DRUG-ELUTING STENT W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+249	161536.4	249 - PERC CARDIOVASC PROC W NON-DRUG-ELUTING STENT W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+250	217176.27	250 - PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+251	139905.12	251 - PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+252	336910.4	252 - OTHER VASCULAR PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+253	278633.4	253 - OTHER VASCULAR PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+254	295423.85	254 - OTHER VASCULAR PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+256	683722.73	256 - UPPER LIMB & TOE AMPUTATION FOR CIRC SYSTEM DISORDERS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+259	103108.86	259 - CARDIAC PACEMAKER DEVICE REPLACEMENT W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+262	135820.54	262 - CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+263	278085.55	263 - VEIN LIGATION & STRIPPING	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+264	214009.75	264 - OTHER CIRCULATORY SYSTEM O.R. PROCEDURES	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+266	458240.71	266 - ENDOVASCULAR CARDIAC VALVE REPLACEMENT W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+267	394659.25	267 - ENDOVASCULAR CARDIAC VALVE REPLACEMENT W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+268	379685.1	268 - AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+269	291332.13	269 - AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+270	397358.78	270 - OTHER MAJOR CARDIOVASCULAR PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+271	348329.09	271 - OTHER MAJOR CARDIOVASCULAR PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+272	354149.43	272 - OTHER MAJOR CARDIOVASCULAR PROCEDURES WITHOUT CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+273	310933.42	273 - PERCUTANEOUS INTRACARDIAC PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+274	156862.19	274 - PERCUTANEOUS INTRACARDIAC PROCEDURES W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+280	110280.89	280 - ACUTE MYOCARDIAL INFARCTION; DISCHARGED ALIVE W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+281	71110.24	281 - ACUTE MYOCARDIAL INFARCTION; DISCHARGED ALIVE W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+282	75862.07	282 - ACUTE MYOCARDIAL INFARCTION; DISCHARGED ALIVE W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+283	141688.91	283 - ACUTE MYOCARDIAL INFARCTION; EXPIRED W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+284	45885.54	284 - ACUTE MYOCARDIAL INFARCTION; EXPIRED W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+286	146187.29	286 - CIRCULATORY DISORDERS EXCEPT AMI; W CARD CATH W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+287	83719.73	287 - CIRCULATORY DISORDERS EXCEPT AMI; W CARD CATH W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+291	87442.81	291 - HEART FAILURE & SHOCK W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+292	58092.8	292 - HEART FAILURE & SHOCK W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+293	43714.94	293 - HEART FAILURE & SHOCK W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+294	7889.03	294 - DEEP VEIN THROMBOPHLEBITIS W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+296	100401.89	296 - CARDIAC ARREST; UNEXPLAINED W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+299	73543.97	299 - PERIPHERAL VASCULAR DISORDERS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+300	95783.41	300 - PERIPHERAL VASCULAR DISORDERS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+301	123156.47	301 - PERIPHERAL VASCULAR DISORDERS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+303	51088.39	303 - ATHEROSCLEROSIS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+304	77484.72	304 - HYPERTENSION W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+305	62271.36	305 - HYPERTENSION W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+306	33846.23	306 - CARDIAC CONGENITAL & VALVULAR DISORDERS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+307	47882.33	307 - CARDIAC CONGENITAL & VALVULAR DISORDERS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+308	107097.37	308 - CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+309	54007.65	309 - CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+310	43291.42	310 - CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+311	40223.59	311 - ANGINA PECTORIS	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+312	54192.86	312 - SYNCOPE & COLLAPSE	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+313	45925.3	313 - CHEST PAIN	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+314	140362.38	314 - OTHER CIRCULATORY SYSTEM DIAGNOSES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+315	64614.92	315 - OTHER CIRCULATORY SYSTEM DIAGNOSES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+316	40542.14	316 - OTHER CIRCULATORY SYSTEM DIAGNOSES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+326	465077.96	326 - STOMACH; ESOPHAGEAL & DUODENAL PROC W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+327	143427.01	327 - STOMACH; ESOPHAGEAL & DUODENAL PROC W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+328	100365.94	328 - STOMACH; ESOPHAGEAL & DUODENAL PROC W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+329	269996.7	329 - MAJOR SMALL & LARGE BOWEL PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+330	116087.28	330 - MAJOR SMALL & LARGE BOWEL PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+331	89163.65	331 - MAJOR SMALL & LARGE BOWEL PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+333	38701.22	333 - RECTAL RESECTION W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+335	240862.24	335 - PERITONEAL ADHESIOLYSIS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+336	149106.06	336 - PERITONEAL ADHESIOLYSIS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+337	199209.98	337 - PERITONEAL ADHESIOLYSIS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+338	145907.19	338 - APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+339	142357.25	339 - APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+340	82659.62	340 - APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+341	247839.53	341 - APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+342	85032.71	342 - APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+343	83212.53	343 - APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+344	65524.25	344 - MINOR SMALL & LARGE BOWEL PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+345	105998.17	345 - MINOR SMALL & LARGE BOWEL PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+346	67458.89	346 - MINOR SMALL & LARGE BOWEL PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+348	88631.53	348 - ANAL & STOMAL PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+349	66923.86	349 - ANAL & STOMAL PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+351	105989.05	351 - INGUINAL & FEMORAL HERNIA PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+352	85604.12	352 - INGUINAL & FEMORAL HERNIA PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+353	272916.73	353 - HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+354	119694.7	354 - HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+355	89061.99	355 - HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+356	321138.3	356 - OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+357	183368.1	357 - OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+358	140263.51	358 - OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+368	211873.5	368 - MAJOR ESOPHAGEAL DISORDERS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+369	54797.64	369 - MAJOR ESOPHAGEAL DISORDERS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+370	24807.38	370 - MAJOR ESOPHAGEAL DISORDERS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+371	98736.77	371 - MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+372	61303.08	372 - MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+373	53216.92	373 - MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+374	134475.08	374 - DIGESTIVE MALIGNANCY W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+375	102702.05	375 - DIGESTIVE MALIGNANCY W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+377	126141.85	377 - G.I. HEMORRHAGE W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+378	62724.8	378 - G.I. HEMORRHAGE W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+379	35540.79	379 - G.I. HEMORRHAGE W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+380	101765.41	380 - COMPLICATED PEPTIC ULCER W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+381	72403.46	381 - COMPLICATED PEPTIC ULCER W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+382	57364.43	382 - COMPLICATED PEPTIC ULCER W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+383	78721.1	383 - UNCOMPLICATED PEPTIC ULCER W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+384	68189.65	384 - UNCOMPLICATED PEPTIC ULCER W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+385	126246.7	385 - INFLAMMATORY BOWEL DISEASE W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+386	61062.94	386 - INFLAMMATORY BOWEL DISEASE W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+387	70582.49	387 - INFLAMMATORY BOWEL DISEASE W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+388	89768.88	388 - G.I. OBSTRUCTION W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+389	58938.47	389 - G.I. OBSTRUCTION W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+390	44139.26	390 - G.I. OBSTRUCTION W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+391	67424.68	391 - ESOPHAGITIS; GASTROENT & MISC DIGEST DISORDERS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+392	54164.49	392 - ESOPHAGITIS; GASTROENT & MISC DIGEST DISORDERS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+393	99832.05	393 - OTHER DIGESTIVE SYSTEM DIAGNOSES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+394	64718.28	394 - OTHER DIGESTIVE SYSTEM DIAGNOSES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+395	42256.05	395 - OTHER DIGESTIVE SYSTEM DIAGNOSES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+405	506511.93	405 - PANCREAS; LIVER & SHUNT PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+406	189084.91	406 - PANCREAS; LIVER & SHUNT PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+407	205553.7	407 - PANCREAS; LIVER & SHUNT PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+408	199158.77	408 - BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+409	139881.88	409 - BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+414	252689.72	414 - CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+415	210928.54	415 - CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+416	113093.9	416 - CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+417	162087.82	417 - LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+418	120486.2	418 - LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+419	89119.11	419 - LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+420	228658.83	420 - HEPATOBILIARY DIAGNOSTIC PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+421	297593.41	421 - HEPATOBILIARY DIAGNOSTIC PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+423	302781.84	423 - OTHER HEPATOBILIARY OR PANCREAS O.R. PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+424	198603.19	424 - OTHER HEPATOBILIARY OR PANCREAS O.R. PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+432	150059.05	432 - CIRRHOSIS & ALCOHOLIC HEPATITIS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+433	65786.59	433 - CIRRHOSIS & ALCOHOLIC HEPATITIS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+434	47248.37	434 - CIRRHOSIS & ALCOHOLIC HEPATITIS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+435	202255.33	435 - MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+436	74867.11	436 - MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+438	121181.41	438 - DISORDERS OF PANCREAS EXCEPT MALIGNANCY W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+439	65005.0	439 - DISORDERS OF PANCREAS EXCEPT MALIGNANCY W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+440	49674.03	440 - DISORDERS OF PANCREAS EXCEPT MALIGNANCY W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+441	205308.96	441 - DISORDERS OF LIVER EXCEPT MALIG;CIRR;ALC HEPA W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+442	80140.01	442 - DISORDERS OF LIVER EXCEPT MALIG;CIRR;ALC HEPA W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+443	71245.49	443 - DISORDERS OF LIVER EXCEPT MALIG;CIRR;ALC HEPA W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+444	100796.2	444 - DISORDERS OF THE BILIARY TRACT W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+445	66785.44	445 - DISORDERS OF THE BILIARY TRACT W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+446	64558.93	446 - DISORDERS OF THE BILIARY TRACT W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+453	541741.55	453 - COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+454	310452.26	454 - COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+455	257641.61	455 - COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+456	441831.06	456 - SPINAL FUS EXC CERV W SPINAL CURV/MALIG/INFEC OR EXT FUS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+457	399175.57	457 - SPINAL FUS EXC CERV W SPINAL CURV MALIG/ INFEC OR EXT FUS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+458	213041.53	458 - SPINAL FUS EXC CERV W SPINAL CURV MALIG INFEC OR  EXT FUS WO CCMCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+459	489169.09	459 - SPINAL FUSION EXCEPT CERVICAL W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+460	265121.1	460 - SPINAL FUSION EXCEPT CERVICAL W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+463	294369.58	463 - WND DEBRID & SKN GRFT EXC HAND; FOR MUSCULO-CONN TISS DIS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+464	248033.42	464 - WND DEBRID & SKN GRFT EXC HAND; FOR MUSCULO-CONN TISS DIS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+465	103681.56	465 - WND DEBRID & SKN GRFT EXC HAND; FOR MUSCULO-CONN TISS DIS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+466	289795.21	466 - REVISION OF HIP OR KNEE REPLACEMENT W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+467	159851.39	467 - REVISION OF HIP OR KNEE REPLACEMENT W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+468	123830.34	468 - REVISION OF HIP OR KNEE REPLACEMENT W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+469	175647.51	469 - MAJ HIP AND KNEE JNT REPL OR REATTACH OF LW EXTREM W MCC OR TOT ANKLE REPL	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+470	94962.67	470 - MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+471	314330.79	471 - CERVICAL SPINAL FUSION W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+472	201054.84	472 - CERVICAL SPINAL FUSION W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+473	145326.42	473 - CERVICAL SPINAL FUSION W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+474	181921.66	474 - AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+475	269005.23	475 - AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+476	81959.61	476 - AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+477	400428.47	477 - BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+478	103792.46	478 - BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+479	65874.77	479 - BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+480	154627.41	480 - HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+481	123234.1	481 - HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+482	91580.75	482 - HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+483	105135.83	483 - MAJOR JOINT & LIMB REATTACHMENT PROC OF UPPER EXTREMITY W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+485	180827.28	485 - KNEE PROCEDURES W PDX OF INFECTION W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+486	155550.26	486 - KNEE PROCEDURES W PDX OF INFECTION W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+487	81298.39	487 - KNEE PROCEDURES W PDX OF INFECTION W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+488	158440.54	488 - KNEE PROCEDURES W/O PDX OF INFECTION W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+489	64829.53	489 - KNEE PROCEDURES W/O PDX OF INFECTION W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+492	225025.32	492 - LOWER EXTREM & HUMER PROC EXCEPT HIP;FOOT;FEMUR W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+493	148680.21	493 - LOWER EXTREM & HUMER PROC EXCEPT HIP;FOOT;FEMUR W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+494	95704.7	494 - LOWER EXTREM & HUMER PROC EXCEPT HIP;FOOT;FEMUR W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+495	407627.26	495 - LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+496	73557.79	496 - LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+497	99230.98	497 - LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+498	514731.94	498 - LOCAL EXCISION & REMOVAL INT FIX DEVICES OF HIP & FEMUR W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+499	163828.6	499 - LOCAL EXCISION & REMOVAL INT FIX DEVICES OF HIP & FEMUR W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+500	232960.58	500 - SOFT TISSUE PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+501	116971.93	501 - SOFT TISSUE PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+502	86016.38	502 - SOFT TISSUE PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+503	197639.12	503 - FOOT PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+504	140336.78	504 - FOOT PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+505	98546.12	505 - FOOT PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+506	83163.11	506 - MAJOR THUMB OR JOINT PROCEDURES	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+509	16122.37	509 - ARTHROSCOPY	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+510	179080.58	510 - SHOULDER;ELBOW OR FOREARM PROC;EXC MAJOR JOINT PROC W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+511	119235.93	511 - SHOULDER;ELBOW OR FOREARM PROC;EXC MAJOR JOINT PROC W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+512	81875.21	512 - SHOULDER;ELBOW OR FOREARM PROC;EXC MAJOR JOINT PROC W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+513	79196.57	513 - HAND OR WRIST PROC; EXCEPT MAJOR THUMB OR JOINT PROC W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+514	69214.6	514 - HAND OR WRIST PROC; EXCEPT MAJOR THUMB OR JOINT PROC W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+515	234871.35	515 - OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+516	145626.87	516 - OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+517	118274.38	517 - OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+518	201106.23	518 - BACK & NECK PROC EXC SPINAL FUSION W MCC OR DISC DEVICE/NEUROSTIM	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+519	121446.86	519 - BACK & NECK PROC EXC SPINAL FUSION W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+520	94060.87	520 - BACK & NECK PROC EXC SPINAL FUSION W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+534	43931.37	534 - FRACTURES OF FEMUR W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+535	52377.79	535 - FRACTURES OF HIP & PELVIS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+536	43831.06	536 - FRACTURES OF HIP & PELVIS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+537	3836.39	537 - SPRAINS; STRAINS; & DISLOCATIONS OF HIP; PELVIS & THIGH W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+538	40332.99	538 - SPRAINS; STRAINS; & DISLOCATIONS OF HIP; PELVIS & THIGH W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+539	244248.3	539 - OSTEOMYELITIS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+540	159675.57	540 - OSTEOMYELITIS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+541	33350.17	541 - OSTEOMYELITIS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+542	129695.3	542 - PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+543	67669.42	543 - PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+544	45700.49	544 - PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+545	204298.14	545 - CONNECTIVE TISSUE DISORDERS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+546	100602.9	546 - CONNECTIVE TISSUE DISORDERS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+547	47157.86	547 - CONNECTIVE TISSUE DISORDERS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+549	73556.49	549 - SEPTIC ARTHRITIS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+551	80136.64	551 - MEDICAL BACK PROBLEMS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+552	63684.24	552 - MEDICAL BACK PROBLEMS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+553	63270.32	553 - BONE DISEASES & ARTHROPATHIES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+554	37106.95	554 - BONE DISEASES & ARTHROPATHIES W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+555	94195.87	555 - SIGNS & SYMPTOMS OF MUSCULOSKELETAL SYSTEM & CONN TISSUE W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+556	65047.02	556 - SIGNS & SYMPTOMS OF MUSCULOSKELETAL SYSTEM & CONN TISSUE W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+557	93241.68	557 - TENDONITIS; MYOSITIS & BURSITIS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+558	39911.19	558 - TENDONITIS; MYOSITIS & BURSITIS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+559	94506.68	559 - AFTERCARE; MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+560	99627.31	560 - AFTERCARE; MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+561	46136.19	561 - AFTERCARE; MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+562	84135.3	562 - FX; SPRN; STRN & DISL EXCEPT FEMUR; HIP; PELVIS & THIGH W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+563	48991.7	563 - FX; SPRN; STRN & DISL EXCEPT FEMUR; HIP; PELVIS & THIGH W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+564	68120.73	564 - OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+565	55424.37	565 - OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+566	122765.43	566 - OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+570	130266.27	570 - SKIN DEBRIDEMENT W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+571	73038.08	571 - SKIN DEBRIDEMENT W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+572	100118.47	572 - SKIN DEBRIDEMENT W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+573	606195.78	573 - SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+574	156009.77	574 - SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+575	56246.08	575 - SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+576	226650.22	576 - SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+577	165827.85	577 - SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+578	132628.31	578 - SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+579	433692.7	579 - OTHER SKIN; SUBCUT TISS & BREAST PROC W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+580	160364.79	580 - OTHER SKIN; SUBCUT TISS & BREAST PROC W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+581	99520.44	581 - OTHER SKIN; SUBCUT TISS & BREAST PROC W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+583	224587.29	583 - MASTECTOMY FOR MALIGNANCY W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+585	250875.06	585 - BREAST BIOPSY; LOCAL EXCISION & OTHER BREAST PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+592	33080.97	592 - SKIN ULCERS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+593	63366.2	593 - SKIN ULCERS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+595	147137.11	595 - MAJOR SKIN DISORDERS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+596	30383.38	596 - MAJOR SKIN DISORDERS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+598	93541.69	598 - MALIGNANT BREAST DISORDERS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+600	56739.41	600 - NON-MALIGNANT BREAST DISORDERS W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+601	55171.17	601 - NON-MALIGNANT BREAST DISORDERS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+602	87755.06	602 - CELLULITIS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+603	45192.29	603 - CELLULITIS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+604	89690.75	604 - TRAUMA TO THE SKIN; SUBCUT TISS & BREAST W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+605	57406.91	605 - TRAUMA TO THE SKIN; SUBCUT TISS & BREAST W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+606	24261.9	606 - MINOR SKIN DISORDERS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+607	53951.58	607 - MINOR SKIN DISORDERS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+614	209715.59	614 - ADRENAL & PITUITARY PROCEDURES W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+615	144004.19	615 - ADRENAL & PITUITARY PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+616	507410.45	616 - AMPUTAT OF LOWER LIMB FOR ENDOCRINE;NUTRIT;& METABOL DIS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+617	124152.91	617 - AMPUTAT OF LOWER LIMB FOR ENDOCRINE;NUTRIT;& METABOL DIS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+620	115182.79	620 - O.R. PROCEDURES FOR OBESITY W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+621	115448.06	621 - O.R. PROCEDURES FOR OBESITY W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+622	362916.15	622 - SKIN GRAFTS & WOUND DEBRID FOR ENDOC; NUTRIT & METAB DIS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+623	83471.18	623 - SKIN GRAFTS & WOUND DEBRID FOR ENDOC; NUTRIT & METAB DIS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+626	154310.69	626 - THYROID; PARATHYROID & THYROGLOSSAL PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+627	76088.5	627 - THYROID; PARATHYROID & THYROGLOSSAL PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+628	400288.75	628 - OTHER ENDOCRINE; NUTRIT & METAB O.R. PROC W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+629	111970.23	629 - OTHER ENDOCRINE; NUTRIT & METAB O.R. PROC W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+637	96459.69	637 - DIABETES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+638	66798.51	638 - DIABETES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+639	49965.21	639 - DIABETES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+640	73797.67	640 - MISC DISORDERS OF NUTRITION;METABOLISM;FLUIDS/ELECTROLYTES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+641	52202.21	641 - MISC DISORDERS OF NUTRITION;METABOLISM;FLUIDS/ELECTROLYTES W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+642	47603.35	642 - INBORN AND OTHER DISORDERS OF METABOLISM	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+643	90111.48	643 - ENDOCRINE DISORDERS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+644	53067.25	644 - ENDOCRINE DISORDERS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+645	36516.01	645 - ENDOCRINE DISORDERS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+654	263810.92	654 - MAJOR BLADDER PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+655	142908.39	655 - MAJOR BLADDER PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+656	122529.67	656 - KIDNEY & URETER PROCEDURES FOR NEOPLASM W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+657	146957.67	657 - KIDNEY & URETER PROCEDURES FOR NEOPLASM W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+658	134322.99	658 - KIDNEY & URETER PROCEDURES FOR NEOPLASM W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+659	199906.46	659 - KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+660	135170.2	660 - KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+661	112031.61	661 - KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+662	31059.22	662 - MINOR BLADDER PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+663	129066.08	663 - MINOR BLADDER PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+666	112778.96	666 - PROSTATECTOMY W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+668	132240.23	668 - TRANSURETHRAL PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+669	83723.25	669 - TRANSURETHRAL PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+670	65562.27	670 - TRANSURETHRAL PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+672	82241.3	672 - URETHRAL PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+673	229680.56	673 - OTHER KIDNEY & URINARY TRACT PROCEDURES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+674	228342.16	674 - OTHER KIDNEY & URINARY TRACT PROCEDURES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+675	126243.27	675 - OTHER KIDNEY & URINARY TRACT PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+682	90733.68	682 - RENAL FAILURE W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+683	59758.19	683 - RENAL FAILURE W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+684	47036.31	684 - RENAL FAILURE W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+686	24772.95	686 - KIDNEY & URINARY TRACT NEOPLASMS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+687	78584.51	687 - KIDNEY & URINARY TRACT NEOPLASMS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+688	23912.0	688 - KIDNEY & URINARY TRACT NEOPLASMS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+689	59964.8	689 - KIDNEY & URINARY TRACT INFECTIONS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+690	52705.7	690 - KIDNEY & URINARY TRACT INFECTIONS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+693	106655.42	693 - URINARY STONES W/O ESW LITHOTRIPSY W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+694	63717.31	694 - URINARY STONES W/O ESW LITHOTRIPSY W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+696	37238.97	696 - KIDNEY & URINARY TRACT SIGNS & SYMPTOMS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+698	91339.25	698 - OTHER KIDNEY & URINARY TRACT DIAGNOSES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+699	62149.95	699 - OTHER KIDNEY & URINARY TRACT DIAGNOSES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+700	50405.17	700 - OTHER KIDNEY & URINARY TRACT DIAGNOSES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+707	101289.29	707 - MAJOR MALE PELVIC PROCEDURES W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+708	114931.37	708 - MAJOR MALE PELVIC PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+709	85694.45	709 - PENIS PROCEDURES W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+711	123600.36	711 - TESTES PROCEDURES W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+712	77100.01	712 - TESTES PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+713	34605.4	713 - TRANSURETHRAL PROSTATECTOMY W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+714	118309.62	714 - TRANSURETHRAL PROSTATECTOMY W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+715	460906.23	715 - OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC FOR MALIGNANCY W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+716	109356.34	716 - OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC FOR MALIGNANCY W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+717	152333.16	717 - OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC EXC MALIGNANCY W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+718	133798.18	718 - OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC EXC MALIGNANCY W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+726	25200.03	726 - BENIGN PROSTATIC HYPERTROPHY W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+727	87924.62	727 - INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+728	67541.33	728 - INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+729	148744.54	729 - OTHER MALE REPRODUCTIVE SYSTEM DIAGNOSES W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+730	62774.82	730 - OTHER MALE REPRODUCTIVE SYSTEM DIAGNOSES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+734	105529.65	734 - PELVIC EVISCERATION; RAD HYSTERECTOMY & RAD VULVECTOMY W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+735	86818.73	735 - PELVIC EVISCERATION; RAD HYSTERECTOMY & RAD VULVECTOMY W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+736	201028.76	736 - UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+737	114450.99	737 - UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+738	99319.09	738 - UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+739	120195.72	739 - UTERINE;ADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+740	109801.44	740 - UTERINE;ADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+741	88658.66	741 - UTERINE;ADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+742	110543.07	742 - UTERINE & ADNEXA PROC FOR NON-MALIGNANCY W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+743	78070.71	743 - UTERINE & ADNEXA PROC FOR NON-MALIGNANCY W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+744	229785.77	744 - D&C; CONIZATION; LAPAROSCOPY & TUBAL INTERRUPTION W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+746	94533.6	746 - VAGINA; CERVIX & VULVA PROCEDURES W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+747	80366.66	747 - VAGINA; CERVIX & VULVA PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+748	129862.33	748 - FEMALE REPRODUCTIVE SYSTEM RECONSTRUCTIVE PROCEDURES	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+749	153617.46	749 - OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+750	135900.74	750 - OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+754	80804.85	754 - MALIGNANCY; FEMALE REPRODUCTIVE SYSTEM W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+755	77725.6	755 - MALIGNANCY; FEMALE REPRODUCTIVE SYSTEM W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+756	72323.07	756 - MALIGNANCY; FEMALE REPRODUCTIVE SYSTEM W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+757	99288.64	757 - INFECTIONS; FEMALE REPRODUCTIVE SYSTEM W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+758	53986.09	758 - INFECTIONS; FEMALE REPRODUCTIVE SYSTEM W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+759	65214.89	759 - INFECTIONS; FEMALE REPRODUCTIVE SYSTEM W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+760	28694.64	760 - MENSTRUAL & OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+761	46777.6	761 - MENSTRUAL & OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+765	53206.42	765 - CESAREAN SECTION W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+766	40810.35	766 - CESAREAN SECTION W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+767	34200.78	767 - VAGINAL DELIVERY W STERILIZATION &/OR D&C	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+768	43224.93	768 - VAGINAL DELIVERY W O.R. PROC EXCEPT STERIL &/OR D&C	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+769	147948.46	769 - POSTPARTUM & POST ABORTION DIAGNOSES W O.R. PROCEDURE	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+770	50035.64	770 - ABORTION W D&C; ASPIRATION CURETTAGE OR HYSTEROTOMY	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+774	26810.66	774 - VAGINAL DELIVERY W COMPLICATING DIAGNOSES	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+775	24602.19	775 - VAGINAL DELIVERY W/O COMPLICATING DIAGNOSES	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+776	41558.94	776 - POSTPARTUM & POST ABORTION DIAGNOSES W/O O.R. PROCEDURE	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+777	65495.53	777 - ECTOPIC PREGNANCY	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+778	25067.19	778 - THREATENED ABORTION	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+779	36291.56	779 - ABORTION W/O D&C	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+780	13279.31	780 - FALSE LABOR	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+781	40380.0	781 - OTHER ANTEPARTUM DIAGNOSES W MEDICAL COMPLICATIONS	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+782	38607.64	782 - OTHER ANTEPARTUM DIAGNOSES W/O MEDICAL COMPLICATIONS	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+787	76411.36	787 - CESAREAN SECTION W/O STERILIZATION W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+788	49565.43	788 - CESAREAN SECTION W/O STERILIZATION W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+789	45351.06	789 - NEONATES; DIED OR TRANSFERRED TO ANOTHER ACUTE CARE FACILITY	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+790	574950.59	790 - EXTREME IMMATURITY OR RESPIRATORY DISTRESS SYNDROME; NEONATE	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+791	209653.1	791 - PREMATURITY W MAJOR PROBLEMS	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+792	92056.16	792 - PREMATURITY W/O MAJOR PROBLEMS	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+793	58552.12	793 - FULL TERM NEONATE W MAJOR PROBLEMS	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+794	14565.68	794 - NEONATE W OTHER SIGNIFICANT PROBLEMS	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+795	10810.63	795 - NORMAL NEWBORN	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+802	309879.84	802 - OTHER O.R. PROC OF THE BLOOD & BLOOD FORMING ORGANS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+803	75100.28	803 - OTHER O.R. PROC OF THE BLOOD & BLOOD FORMING ORGANS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+806	34472.02	806 - VAGINAL DELIVERY W/O STERILIZATION/D&C W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+807	27511.57	807 - VAGINAL DELIVERY W/O STERILIZATION/D&C W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+808	135900.72	808 - MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+809	95096.85	809 - MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+810	67803.12	810 - MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+811	115811.92	811 - RED BLOOD CELL DISORDERS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+812	66401.19	812 - RED BLOOD CELL DISORDERS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+813	121708.31	813 - COAGULATION DISORDERS	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+814	69907.31	814 - RETICULOENDOTHELIAL & IMMUNITY DISORDERS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+815	121477.11	815 - RETICULOENDOTHELIAL & IMMUNITY DISORDERS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+816	56858.21	816 - RETICULOENDOTHELIAL & IMMUNITY DISORDERS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+817	73027.91	817 - OTHER ANTEPARTUM DIAGNOSES W O.R. PROCEDURE W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+818	69809.18	818 - OTHER ANTEPARTUM DIAGNOSES W O.R. PROCEDURE W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+819	65493.47	819 - OTHER ANTEPARTUM DIAGNOSES W O.R. PROCEDURE W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+821	187975.97	821 - LYMPHOMA & LEUKEMIA W MAJOR O.R. PROCEDURE W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+823	500403.33	823 - LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+824	214672.82	824 - LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+825	50115.49	825 - LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+826	119730.64	826 - MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+827	161067.9	827 - MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+828	85671.71	828 - MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+829	254889.67	829 - MYELOPROLIF DISORD OR POORLY DIFF NEOPL W OTHER PROC W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+834	445707.14	834 - ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+835	197200.53	835 - ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+838	100958.65	838 - CHEMO W ACUTE LEUKEMIA AS SDX W CC OR HIGH DOSE CHEMO AGENT	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+840	252157.15	840 - LYMPHOMA & NON-ACUTE LEUKEMIA W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+841	102157.96	841 - LYMPHOMA & NON-ACUTE LEUKEMIA W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+842	110034.0	842 - LYMPHOMA & NON-ACUTE LEUKEMIA W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+843	119411.03	843 - OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+844	123223.2	844 - OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+846	149037.39	846 - CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+847	73544.86	847 - CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+849	120153.9	849 - RADIOTHERAPY	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+853	394771.42	853 - INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+854	137602.04	854 - INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+855	138456.32	855 - INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+856	326336.34	856 - POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+857	159041.65	857 - POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+858	62893.72	858 - POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+862	80905.01	862 - POSTOPERATIVE & POST-TRAUMATIC INFECTIONS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+863	53243.8	863 - POSTOPERATIVE & POST-TRAUMATIC INFECTIONS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+864	57292.88	864 - FEVER	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+865	106794.65	865 - VIRAL ILLNESS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+866	45990.74	866 - VIRAL ILLNESS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+867	173255.27	867 - OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+868	66555.44	868 - OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+869	67168.33	869 - OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+870	498525.53	870 - SEPTICEMIA OR SEVERE SEPSIS W MV >96 HOURS	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+871	116222.78	871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+872	67446.97	872 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+880	81918.35	880 - ACUTE ADJUSTMENT REACTION & PSYCHOSOCIAL DYSFUNCTION	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+881	15807.34	881 - DEPRESSIVE NEUROSES	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+882	56913.18	882 - NEUROSES EXCEPT DEPRESSIVE	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+884	96710.3	884 - ORGANIC DISTURBANCES & INTELLECTUAL DISABILITY	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+885	116677.89	885 - PSYCHOSES	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+886	53296.04	886 - BEHAVIORAL & DEVELOPMENTAL DISORDERS	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+887	44006.8	887 - OTHER MENTAL DISORDER DIAGNOSES	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+894	46947.28	894 - ALCOHOL/DRUG ABUSE OR DEPENDENCE; LEFT AMA	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+896	121997.27	896 - ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHABILITATION THERAPY W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+897	58029.56	897 - ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHABILITATION THERAPY W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+901	270292.0	901 - WOUND DEBRIDEMENTS FOR INJURIES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+902	82888.57	902 - WOUND DEBRIDEMENTS FOR INJURIES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+903	52739.7	903 - WOUND DEBRIDEMENTS FOR INJURIES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+904	231334.17	904 - SKIN GRAFTS FOR INJURIES W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+905	59195.72	905 - SKIN GRAFTS FOR INJURIES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+906	86243.33	906 - HAND PROCEDURES FOR INJURIES	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+907	279805.6	907 - OTHER O.R. PROCEDURES FOR INJURIES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+908	129471.2	908 - OTHER O.R. PROCEDURES FOR INJURIES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+909	85181.71	909 - OTHER O.R. PROCEDURES FOR INJURIES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+913	82058.45	913 - TRAUMATIC INJURY W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+914	263355.67	914 - TRAUMATIC INJURY W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+915	87707.88	915 - ALLERGIC REACTIONS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+916	36267.74	916 - ALLERGIC REACTIONS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+917	139154.49	917 - POISONING & TOXIC EFFECTS OF DRUGS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+918	53145.18	918 - POISONING & TOXIC EFFECTS OF DRUGS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+919	82354.99	919 - COMPLICATIONS OF TREATMENT W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+920	47241.98	920 - COMPLICATIONS OF TREATMENT W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+921	46614.35	921 - COMPLICATIONS OF TREATMENT W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+922	751863.82	922 - OTHER INJURY; POISONING & TOXIC EFFECT DIAG W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+923	37189.57	923 - OTHER INJURY; POISONING & TOXIC EFFECT DIAG W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+927	2511329.73	927 - EXTENSIVE BURNS OR FULL THICKNESS BURNS W MV >96 HRS W SKIN GRAFT	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+928	209553.86	928 - FULL THICKNESS BURN W SKIN GRAFT OR INHAL INJ W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+929	108668.79	929 - FULL THICKNESS BURN W SKIN GRAFT OR INHAL INJ W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+933	108440.76	933 - EXTENSIVE BURNS OR FULL THICKNESS BURNS W MV >96 HRS W/O SKIN GRAFT	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+934	9016.41	934 - FULL THICKNESS BURN W/O SKIN GRFT OR INHAL INJ	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+935	78793.84	935 - NON-EXTENSIVE BURNS	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+939	1635005.26	939 - O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+940	105166.46	940 - O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+941	83742.27	941 - O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+945	111798.73	945 - REHABILITATION W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+946	65322.1	946 - REHABILITATION W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+947	70394.17	947 - SIGNS & SYMPTOMS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+948	57397.58	948 - SIGNS & SYMPTOMS W/O MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+949	120769.99	949 - AFTERCARE W CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+950	70009.07	950 - AFTERCARE W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+951	12087.02	951 - OTHER FACTORS INFLUENCING HEALTH STATUS	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+955	478195.17	955 - CRANIOTOMY FOR MULTIPLE SIGNIFICANT TRAUMA	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+956	439056.33	956 - LIMB REATTACHMENT; HIP & FEMUR PROC FOR MULTIPLE SIGNIFICANT TRAUMA	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+957	729879.02	957 - OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+958	381439.27	958 - OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+959	168932.14	959 - OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+963	217496.62	963 - OTHER MULTIPLE SIGNIFICANT TRAUMA W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+964	150630.98	964 - OTHER MULTIPLE SIGNIFICANT TRAUMA W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+965	84041.68	965 - OTHER MULTIPLE SIGNIFICANT TRAUMA W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+969	471406.06	969 - HIV W EXTENSIVE O.R. PROCEDURE W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+974	213813.52	974 - HIV W MAJOR RELATED CONDITION W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+975	93731.48	975 - HIV W MAJOR RELATED CONDITION W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+976	49139.87	976 - HIV W MAJOR RELATED CONDITION W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+977	165615.44	977 - HIV W OR W/O OTHER RELATED CONDITION	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+981	317525.57	981 - EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+982	145909.12	982 - EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W CC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+983	175345.73	983 - EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W/O CC/MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+987	278368.57	987 - NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W MCC	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_DRG.csv	drg
+999986	5106.0	STENT COR OTW 3X22MM    	swedish-medical-center	ContinentalDivision_SwedishMedicalCenter_CM.csv	standard
