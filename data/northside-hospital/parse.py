@@ -2,7 +2,6 @@
 
 import os
 from glob import glob
-import codecs
 import json
 import pandas
 import datetime
