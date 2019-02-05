@@ -1,0 +1,681 @@
+charge_code	price	description	hospital_id	filename	charge_type
+003	1735801.59	003 - ECMO OR TRACH W MV >96 HRS OR PDX EXC FACE; MOUTH & NECK W MAJ O.R.	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+004	1102072.3	004 - TRACH W MV >96 HRS OR PDX EXC FACE; MOUTH & NECK W/O MAJ O.R.	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+011	315883.05	011 - TRACHEOSTOMY FOR FACE;MOUTH & NECK DIAGNOSES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+012	151333.05	012 - TRACHEOSTOMY FOR FACE;MOUTH & NECK DIAGNOSES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+020	1028633.24	020 - INTRACRANIAL VASCULAR PROCEDURES W PDX HEMORRHAGE W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+021	680564.85	021 - INTRACRANIAL VASCULAR PROCEDURES W PDX HEMORRHAGE W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+023	437659.57	023 - CRANIO W MAJOR DEV IMPL/ACUTE CNS PDX W MCC OR CHEMO IMPL OR EPILEPSY W NEUROSTM	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+024	260888.66	024 - CRANIO W MAJOR DEV IMPL/ACUTE COMPLEX CNS PDX W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+025	367340.08	025 - CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+026	275251.57	026 - CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+027	199859.93	027 - CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+028	475725.55	028 - SPINAL PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+029	308564.58	029 - SPINAL PROCEDURES W CC OR SPINAL NEUROSTIMULATORS	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+030	98302.69	030 - SPINAL PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+031	659387.85	031 - VENTRICULAR SHUNT PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+032	120454.95	032 - VENTRICULAR SHUNT PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+033	105514.03	033 - VENTRICULAR SHUNT PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+034	226468.69	034 - CAROTID ARTERY STENT PROCEDURE W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+036	165762.35	036 - CAROTID ARTERY STENT PROCEDURE W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+037	223633.95	037 - EXTRACRANIAL PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+038	203120.86	038 - EXTRACRANIAL PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+039	92021.68	039 - EXTRACRANIAL PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+040	291302.7	040 - PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+041	141763.62	041 - PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W CC OR PERIPH NEUROSTIM	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+042	123868.04	042 - PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+052	179922.8	052 - SPINAL DISORDERS & INJURIES W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+053	155157.01	053 - SPINAL DISORDERS & INJURIES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+054	80430.42	054 - NERVOUS SYSTEM NEOPLASMS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+055	73519.8	055 - NERVOUS SYSTEM NEOPLASMS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+056	178794.01	056 - DEGENERATIVE NERVOUS SYSTEM DISORDERS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+057	112710.9	057 - DEGENERATIVE NERVOUS SYSTEM DISORDERS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+058	85126.07	058 - MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+059	78682.64	059 - MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+060	58873.46	060 - MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+061	201079.49	061 - ISCHEMIC STROKE; PRECEREBRAL OCCL OR TRANS ISCHEMIA W THROMBOLYTIC AGENT W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+062	118640.29	062 - ISCHEMIC STROKE; PRECEREBRAL OCCL OR TRANSIENT ISCHEMIA W THROMBOLYTIC AGENT W C	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+063	64951.0	063 - ISCHEMIC STROKE; PRECEREBRAL OCCL OR TRANSIENT ISCHEMIA W THROMB AGENT W/O CC/MC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+064	169503.15	064 - INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+065	92529.64	065 - INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+066	72471.82	066 - INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+068	40769.91	068 - NONSPECIFIC CVA & PRECEREBRAL OCCLUSION W/O INFARCT W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+069	65945.11	069 - TRANSIENT ISCHEMIA W/O THROMBOLYTIC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+070	153162.92	070 - NONSPECIFIC CEREBROVASCULAR DISORDERS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+071	109036.47	071 - NONSPECIFIC CEREBROVASCULAR DISORDERS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+072	61845.83	072 - NONSPECIFIC CEREBROVASCULAR DISORDERS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+073	124669.68	073 - CRANIAL & PERIPHERAL NERVE DISORDERS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+074	77056.89	074 - CRANIAL & PERIPHERAL NERVE DISORDERS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+075	267671.71	075 - VIRAL MENINGITIS W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+076	39646.8	076 - VIRAL MENINGITIS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+077	171546.91	077 - HYPERTENSIVE ENCEPHALOPATHY W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+078	67668.25	078 - HYPERTENSIVE ENCEPHALOPATHY W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+079	42897.0	079 - HYPERTENSIVE ENCEPHALOPATHY W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+081	43137.0	081 - NONTRAUMATIC STUPOR & COMA W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+082	171495.88	082 - TRAUMATIC STUPOR & COMA; COMA >1 HR W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+083	103055.2	083 - TRAUMATIC STUPOR & COMA; COMA >1 HR W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+084	79990.44	084 - TRAUMATIC STUPOR & COMA; COMA >1 HR W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+085	169518.62	085 - TRAUMATIC STUPOR & COMA; COMA <1 HR W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+086	96866.82	086 - TRAUMATIC STUPOR & COMA; COMA <1 HR W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+087	65319.17	087 - TRAUMATIC STUPOR & COMA; COMA <1 HR W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+088	288443.07	088 - CONCUSSION W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+089	90356.62	089 - CONCUSSION W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+090	116867.4	090 - CONCUSSION W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+091	185360.2	091 - OTHER DISORDERS OF NERVOUS SYSTEM W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+092	88477.84	092 - OTHER DISORDERS OF NERVOUS SYSTEM W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+093	62556.85	093 - OTHER DISORDERS OF NERVOUS SYSTEM W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+094	167838.2	094 - BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+095	195587.67	095 - BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+096	122751.4	096 - BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+097	184105.4	097 - NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+098	111355.5	098 - NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+099	51284.5	099 - NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+100	108695.72	100 - SEIZURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+101	45007.8	101 - SEIZURES W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+102	69612.71	102 - HEADACHES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+103	58527.27	103 - HEADACHES W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+114	103762.0	114 - ORBITAL PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+115	89551.0	115 - EXTRAOCULAR PROCEDURES EXCEPT ORBIT	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+116	56549.5	116 - INTRAOCULAR PROCEDURES W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+117	34393.0	117 - INTRAOCULAR PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+121	47077.33	121 - ACUTE MAJOR EYE INFECTIONS W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+122	35530.25	122 - ACUTE MAJOR EYE INFECTIONS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+123	47209.35	123 - NEUROLOGICAL EYE DISORDERS	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+124	89983.79	124 - OTHER DISORDERS OF THE EYE W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+125	57350.56	125 - OTHER DISORDERS OF THE EYE W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+129	221248.27	129 - MAJOR HEAD & NECK PROCEDURES W CC/MCC OR MAJOR DEVICE	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+130	81176.75	130 - MAJOR HEAD & NECK PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+131	224549.3	131 - CRANIAL/FACIAL PROCEDURES W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+132	103796.68	132 - CRANIAL/FACIAL PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+133	151774.08	133 - OTHER EAR; NOSE; MOUTH & THROAT O.R. PROCEDURES W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+134	78880.7	134 - OTHER EAR; NOSE; MOUTH & THROAT O.R. PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+135	117931.5	135 - SINUS & MASTOID PROCEDURES W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+136	72357.0	136 - SINUS & MASTOID PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+137	92378.82	137 - MOUTH PROCEDURES W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+138	47964.2	138 - MOUTH PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+146	95109.5	146 - EAR; NOSE; MOUTH & THROAT MALIGNANCY W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+147	87944.52	147 - EAR; NOSE; MOUTH & THROAT MALIGNANCY W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+148	14689.0	148 - EAR; NOSE; MOUTH & THROAT MALIGNANCY W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+149	60166.38	149 - DYSEQUILIBRIUM	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+150	76155.48	150 - EPISTAXIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+151	44720.05	151 - EPISTAXIS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+152	48794.28	152 - OTITIS MEDIA & URI W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+153	28701.58	153 - OTITIS MEDIA & URI W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+154	117357.36	154 - OTHER EAR; NOSE; MOUTH & THROAT DIAGNOSES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+155	42363.32	155 - OTHER EAR; NOSE; MOUTH & THROAT DIAGNOSES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+156	28644.35	156 - OTHER EAR; NOSE; MOUTH & THROAT DIAGNOSES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+157	116688.73	157 - DENTAL & ORAL DISEASES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+158	61539.27	158 - DENTAL & ORAL DISEASES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+159	33911.79	159 - DENTAL & ORAL DISEASES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+163	490591.64	163 - MAJOR CHEST PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+164	248364.45	164 - MAJOR CHEST PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+165	135684.0	165 - MAJOR CHEST PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+166	530187.47	166 - OTHER RESP SYSTEM O.R. PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+167	214574.53	167 - OTHER RESP SYSTEM O.R. PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+168	146432.33	168 - OTHER RESP SYSTEM O.R. PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+175	133497.16	175 - PULMONARY EMBOLISM W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+176	68518.86	176 - PULMONARY EMBOLISM W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+177	165797.53	177 - RESPIRATORY INFECTIONS & INFLAMMATIONS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+178	136827.65	178 - RESPIRATORY INFECTIONS & INFLAMMATIONS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+179	63517.15	179 - RESPIRATORY INFECTIONS & INFLAMMATIONS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+180	130340.2	180 - RESPIRATORY NEOPLASMS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+181	108971.49	181 - RESPIRATORY NEOPLASMS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+182	51865.67	182 - RESPIRATORY NEOPLASMS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+183	169748.53	183 - MAJOR CHEST TRAUMA W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+184	84646.55	184 - MAJOR CHEST TRAUMA W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+185	52408.23	185 - MAJOR CHEST TRAUMA W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+186	88879.63	186 - PLEURAL EFFUSION W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+187	141658.33	187 - PLEURAL EFFUSION W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+189	90465.59	189 - PULMONARY EDEMA & RESPIRATORY FAILURE	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+190	104581.52	190 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+191	66151.11	191 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+192	51744.46	192 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+193	108682.32	193 - SIMPLE PNEUMONIA & PLEURISY W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+194	62470.69	194 - SIMPLE PNEUMONIA & PLEURISY W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+195	43380.1	195 - SIMPLE PNEUMONIA & PLEURISY W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+196	127986.29	196 - INTERSTITIAL LUNG DISEASE W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+197	33156.0	197 - INTERSTITIAL LUNG DISEASE W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+198	27491.5	198 - INTERSTITIAL LUNG DISEASE W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+199	197151.48	199 - PNEUMOTHORAX W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+200	95397.8	200 - PNEUMOTHORAX W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+201	42723.08	201 - PNEUMOTHORAX W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+202	59614.98	202 - BRONCHITIS & ASTHMA W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+203	28173.71	203 - BRONCHITIS & ASTHMA W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+204	64325.95	204 - RESPIRATORY SIGNS & SYMPTOMS	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+205	86025.75	205 - OTHER RESPIRATORY SYSTEM DIAGNOSES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+206	65534.72	206 - OTHER RESPIRATORY SYSTEM DIAGNOSES W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+207	459336.25	207 - RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT >96 HOURS	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+208	184614.48	208 - RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT <=96 HOURS	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+215	605620.81	215 - OTHER HEART ASSIST SYSTEM IMPLANT	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+216	1069470.71	216 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W CARD CATH W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+217	746896.82	217 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W CARD CATH W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+219	776177.79	219 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+220	557561.44	220 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+221	531511.76	221 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+222	714340.83	222 - CARDIAC DEFIB IMPLANT W CARDIAC CATH W AMI/HF/SHOCK W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+223	354801.5	223 - CARDIAC DEFIB IMPLANT W CARDIAC CATH W AMI/HF/SHOCK W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+224	583437.83	224 - CARDIAC DEFIB IMPLANT W CARDIAC CATH W/O AMI/HF/SHOCK W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+225	348019.51	225 - CARDIAC DEFIB IMPLANT W CARDIAC CATH W/O AMI/HF/SHOCK W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+226	406350.57	226 - CARDIAC DEFIBRILLATOR IMPLANT W/O CARDIAC CATH W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+227	329885.92	227 - CARDIAC DEFIBRILLATOR IMPLANT W/O CARDIAC CATH W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+228	950591.54	228 - OTHER CARDIOTHORACIC PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+229	425476.72	229 - OTHER CARDIOTHORACIC PROCEDURES W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+231	608984.86	231 - CORONARY BYPASS W PTCA W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+232	633684.0	232 - CORONARY BYPASS W PTCA W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+233	792739.88	233 - CORONARY BYPASS W CARDIAC CATH W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+234	590665.15	234 - CORONARY BYPASS W CARDIAC CATH W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+235	566334.18	235 - CORONARY BYPASS W/O CARDIAC CATH W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+236	475180.37	236 - CORONARY BYPASS W/O CARDIAC CATH W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+239	385401.67	239 - AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+240	231641.69	240 - AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+242	268814.1	242 - PERMANENT CARDIAC PACEMAKER IMPLANT W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+243	199279.76	243 - PERMANENT CARDIAC PACEMAKER IMPLANT W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+244	153878.56	244 - PERMANENT CARDIAC PACEMAKER IMPLANT W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+245	390001.72	245 - AICD GENERATOR PROCEDURES	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+246	267909.91	246 - PERC CARDIOVASC PROC W DRUG-ELUTING STENT W MCC OR 4+ ARTERIES OR STENTS	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+247	187939.07	247 - PERC CARDIOVASC PROC W DRUG-ELUTING STENT W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+248	217965.01	248 - PERC CARDIOVASC PROC W NON-DRUG-ELUTING STENT W MCC OR 4+ ART/STENTS	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+249	134830.01	249 - PERC CARDIOVASC PROC W NON-DRUG-ELUTING STENT W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+250	279988.43	250 - PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+251	138791.03	251 - PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+252	364685.47	252 - OTHER VASCULAR PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+253	258524.42	253 - OTHER VASCULAR PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+254	170552.14	254 - OTHER VASCULAR PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+255	234006.02	255 - UPPER LIMB & TOE AMPUTATION FOR CIRC SYSTEM DISORDERS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+256	120146.03	256 - UPPER LIMB & TOE AMPUTATION FOR CIRC SYSTEM DISORDERS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+259	85354.0	259 - CARDIAC PACEMAKER DEVICE REPLACEMENT W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+260	280903.82	260 - CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+261	134430.26	261 - CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+262	177653.78	262 - CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+264	357059.3	264 - OTHER CIRCULATORY SYSTEM O.R. PROCEDURES	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+265	221973.0	265 - AICD LEAD PROCEDURES	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+266	537884.28	266 - ENDOVASCULAR CARDIAC VALVE REPLACEMENT W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+267	323094.74	267 - ENDOVASCULAR CARDIAC VALVE REPLACEMENT W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+268	539673.64	268 - AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+269	348494.23	269 - AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+270	597871.61	270 - OTHER MAJOR CARDIOVASCULAR PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+271	347802.19	271 - OTHER MAJOR CARDIOVASCULAR PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+272	227083.63	272 - OTHER MAJOR CARDIOVASCULAR PROCEDURES WITHOUT CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+273	305192.87	273 - PERCUTANEOUS INTRACARDIAC PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+274	199690.7	274 - PERCUTANEOUS INTRACARDIAC PROCEDURES W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+280	162339.19	280 - ACUTE MYOCARDIAL INFARCTION; DISCHARGED ALIVE W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+281	116643.69	281 - ACUTE MYOCARDIAL INFARCTION; DISCHARGED ALIVE W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+282	83649.57	282 - ACUTE MYOCARDIAL INFARCTION; DISCHARGED ALIVE W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+283	192174.01	283 - ACUTE MYOCARDIAL INFARCTION; EXPIRED W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+286	233279.5	286 - CIRCULATORY DISORDERS EXCEPT AMI; W CARD CATH W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+287	120853.15	287 - CIRCULATORY DISORDERS EXCEPT AMI; W CARD CATH W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+288	245069.29	288 - ACUTE & SUBACUTE ENDOCARDITIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+289	147167.0	289 - ACUTE & SUBACUTE ENDOCARDITIS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+291	113726.71	291 - HEART FAILURE & SHOCK W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+292	61773.91	292 - HEART FAILURE & SHOCK W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+293	46815.39	293 - HEART FAILURE & SHOCK W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+294	242838.5	294 - DEEP VEIN THROMBOPHLEBITIS W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+296	180236.89	296 - CARDIAC ARREST; UNEXPLAINED W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+297	86604.0	297 - CARDIAC ARREST; UNEXPLAINED W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+299	142381.45	299 - PERIPHERAL VASCULAR DISORDERS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+300	70863.34	300 - PERIPHERAL VASCULAR DISORDERS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+301	46911.45	301 - PERIPHERAL VASCULAR DISORDERS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+302	77606.39	302 - ATHEROSCLEROSIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+303	63385.44	303 - ATHEROSCLEROSIS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+304	98009.34	304 - HYPERTENSION W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+305	72331.77	305 - HYPERTENSION W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+306	171606.78	306 - CARDIAC CONGENITAL & VALVULAR DISORDERS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+307	45978.67	307 - CARDIAC CONGENITAL & VALVULAR DISORDERS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+308	113239.82	308 - CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+309	66973.82	309 - CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+310	43925.79	310 - CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+311	53214.22	311 - ANGINA PECTORIS	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+312	66238.05	312 - SYNCOPE & COLLAPSE	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+313	64836.82	313 - CHEST PAIN	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+314	148071.47	314 - OTHER CIRCULATORY SYSTEM DIAGNOSES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+315	73895.07	315 - OTHER CIRCULATORY SYSTEM DIAGNOSES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+316	60728.03	316 - OTHER CIRCULATORY SYSTEM DIAGNOSES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+326	483470.81	326 - STOMACH; ESOPHAGEAL & DUODENAL PROC W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+327	154024.37	327 - STOMACH; ESOPHAGEAL & DUODENAL PROC W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+328	73320.23	328 - STOMACH; ESOPHAGEAL & DUODENAL PROC W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+329	416800.62	329 - MAJOR SMALL & LARGE BOWEL PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+330	204951.68	330 - MAJOR SMALL & LARGE BOWEL PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+331	137280.5	331 - MAJOR SMALL & LARGE BOWEL PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+333	226845.02	333 - RECTAL RESECTION W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+334	56510.67	334 - RECTAL RESECTION W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+335	273561.91	335 - PERITONEAL ADHESIOLYSIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+336	175189.93	336 - PERITONEAL ADHESIOLYSIS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+337	86274.0	337 - PERITONEAL ADHESIOLYSIS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+338	139294.76	338 - APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+339	111010.1	339 - APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+340	84165.39	340 - APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+341	200824.67	341 - APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+342	67330.6	342 - APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+343	54261.2	343 - APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+344	98282.0	344 - MINOR SMALL & LARGE BOWEL PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+345	143842.89	345 - MINOR SMALL & LARGE BOWEL PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+346	70049.78	346 - MINOR SMALL & LARGE BOWEL PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+348	175683.02	348 - ANAL & STOMAL PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+349	74614.0	349 - ANAL & STOMAL PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+351	101156.39	351 - INGUINAL & FEMORAL HERNIA PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+352	70246.78	352 - INGUINAL & FEMORAL HERNIA PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+353	231026.56	353 - HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+354	145055.32	354 - HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+355	90299.26	355 - HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+356	288340.62	356 - OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+357	168640.34	357 - OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+358	65590.33	358 - OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+368	250939.86	368 - MAJOR ESOPHAGEAL DISORDERS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+369	72939.74	369 - MAJOR ESOPHAGEAL DISORDERS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+370	38347.0	370 - MAJOR ESOPHAGEAL DISORDERS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+371	140179.21	371 - MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+372	87367.92	372 - MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+373	56809.5	373 - MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+374	164083.63	374 - DIGESTIVE MALIGNANCY W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+375	101930.32	375 - DIGESTIVE MALIGNANCY W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+376	103237.83	376 - DIGESTIVE MALIGNANCY W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+377	170976.14	377 - G.I. HEMORRHAGE W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+378	78307.97	378 - G.I. HEMORRHAGE W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+379	48809.41	379 - G.I. HEMORRHAGE W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+380	266242.59	380 - COMPLICATED PEPTIC ULCER W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+381	79989.84	381 - COMPLICATED PEPTIC ULCER W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+382	62877.09	382 - COMPLICATED PEPTIC ULCER W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+383	88831.33	383 - UNCOMPLICATED PEPTIC ULCER W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+384	76164.39	384 - UNCOMPLICATED PEPTIC ULCER W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+385	94567.84	385 - INFLAMMATORY BOWEL DISEASE W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+386	103398.11	386 - INFLAMMATORY BOWEL DISEASE W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+387	66596.16	387 - INFLAMMATORY BOWEL DISEASE W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+388	125776.63	388 - G.I. OBSTRUCTION W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+389	65640.3	389 - G.I. OBSTRUCTION W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+390	43696.28	390 - G.I. OBSTRUCTION W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+391	78807.17	391 - ESOPHAGITIS; GASTROENT & MISC DIGEST DISORDERS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+392	53074.79	392 - ESOPHAGITIS; GASTROENT & MISC DIGEST DISORDERS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+393	154313.33	393 - OTHER DIGESTIVE SYSTEM DIAGNOSES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+394	74665.05	394 - OTHER DIGESTIVE SYSTEM DIAGNOSES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+395	33754.9	395 - OTHER DIGESTIVE SYSTEM DIAGNOSES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+405	489486.02	405 - PANCREAS; LIVER & SHUNT PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+406	199167.33	406 - PANCREAS; LIVER & SHUNT PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+407	188448.26	407 - PANCREAS; LIVER & SHUNT PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+408	193138.53	408 - BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+409	328491.5	409 - BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+410	27533.0	410 - BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+413	125098.0	413 - CHOLECYSTECTOMY W C.D.E. W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+414	184882.21	414 - CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+415	185952.01	415 - CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+416	123966.33	416 - CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+417	153021.0	417 - LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+418	124520.33	418 - LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+419	93478.22	419 - LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+420	493269.61	420 - HEPATOBILIARY DIAGNOSTIC PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+421	76217.0	421 - HEPATOBILIARY DIAGNOSTIC PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+423	257854.54	423 - OTHER HEPATOBILIARY OR PANCREAS O.R. PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+424	211433.25	424 - OTHER HEPATOBILIARY OR PANCREAS O.R. PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+432	152489.5	432 - CIRRHOSIS & ALCOHOLIC HEPATITIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+433	79383.71	433 - CIRRHOSIS & ALCOHOLIC HEPATITIS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+434	56538.33	434 - CIRRHOSIS & ALCOHOLIC HEPATITIS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+435	155860.88	435 - MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+436	79892.75	436 - MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+437	61347.0	437 - MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+438	157358.62	438 - DISORDERS OF PANCREAS EXCEPT MALIGNANCY W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+439	80536.04	439 - DISORDERS OF PANCREAS EXCEPT MALIGNANCY W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+440	48320.95	440 - DISORDERS OF PANCREAS EXCEPT MALIGNANCY W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+441	175396.54	441 - DISORDERS OF LIVER EXCEPT MALIG;CIRR;ALC HEPA W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+442	97788.93	442 - DISORDERS OF LIVER EXCEPT MALIG;CIRR;ALC HEPA W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+443	54749.9	443 - DISORDERS OF LIVER EXCEPT MALIG;CIRR;ALC HEPA W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+444	107538.8	444 - DISORDERS OF THE BILIARY TRACT W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+445	93507.22	445 - DISORDERS OF THE BILIARY TRACT W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+446	63045.73	446 - DISORDERS OF THE BILIARY TRACT W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+453	744425.89	453 - COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+454	412157.73	454 - COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+455	347211.6	455 - COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+456	561245.49	456 - SPINAL FUS EXC CERV W SPINAL CURV/MALIG/INFEC OR EXT FUS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+457	463159.5	457 - SPINAL FUS EXC CERV W SPINAL CURV MALIG/ INFEC OR EXT FUS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+458	336777.3	458 - SPINAL FUS EXC CERV W SPINAL CURV MALIG INFEC OR  EXT FUS WO CCMCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+459	446654.26	459 - SPINAL FUSION EXCEPT CERVICAL W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+460	328881.93	460 - SPINAL FUSION EXCEPT CERVICAL W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+461	441440.25	461 - BILATERAL OR MULTIPLE MAJOR JOINT PROCS OF LOWER EXTREMITY W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+462	272044.83	462 - BILATERAL OR MULTIPLE MAJOR JOINT PROCS OF LOWER EXTREMITY W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+463	360358.56	463 - WND DEBRID & SKN GRFT EXC HAND; FOR MUSCULO-CONN TISS DIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+464	201639.2	464 - WND DEBRID & SKN GRFT EXC HAND; FOR MUSCULO-CONN TISS DIS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+465	107423.28	465 - WND DEBRID & SKN GRFT EXC HAND; FOR MUSCULO-CONN TISS DIS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+466	367532.04	466 - REVISION OF HIP OR KNEE REPLACEMENT W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+467	245724.23	467 - REVISION OF HIP OR KNEE REPLACEMENT W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+468	225446.24	468 - REVISION OF HIP OR KNEE REPLACEMENT W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+469	210793.31	469 - MAJ HIP AND KNEE JNT REPL OR REATTACH OF LW EXTREM W MCC OR TOT ANKLE REPL	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+470	149944.71	470 - MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+471	344640.51	471 - CERVICAL SPINAL FUSION W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+472	218445.3	472 - CERVICAL SPINAL FUSION W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+473	135581.74	473 - CERVICAL SPINAL FUSION W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+474	687903.84	474 - AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+475	167644.68	475 - AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+476	146170.68	476 - AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+477	296009.44	477 - BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+478	141261.26	478 - BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+479	50800.67	479 - BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+480	248116.46	480 - HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+481	147782.87	481 - HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+482	123724.97	482 - HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+483	169281.97	483 - MAJOR JOINT & LIMB REATTACHMENT PROC OF UPPER EXTREMITY W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+485	364035.02	485 - KNEE PROCEDURES W PDX OF INFECTION W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+486	187545.61	486 - KNEE PROCEDURES W PDX OF INFECTION W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+487	245000.0	487 - KNEE PROCEDURES W PDX OF INFECTION W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+488	140392.15	488 - KNEE PROCEDURES W/O PDX OF INFECTION W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+489	74964.82	489 - KNEE PROCEDURES W/O PDX OF INFECTION W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+492	319921.38	492 - LOWER EXTREM & HUMER PROC EXCEPT HIP;FOOT;FEMUR W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+493	191425.2	493 - LOWER EXTREM & HUMER PROC EXCEPT HIP;FOOT;FEMUR W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+494	123191.6	494 - LOWER EXTREM & HUMER PROC EXCEPT HIP;FOOT;FEMUR W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+495	590617.01	495 - LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+496	171350.73	496 - LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+497	110441.52	497 - LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+498	197035.5	498 - LOCAL EXCISION & REMOVAL INT FIX DEVICES OF HIP & FEMUR W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+499	89063.0	499 - LOCAL EXCISION & REMOVAL INT FIX DEVICES OF HIP & FEMUR W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+500	308503.7	500 - SOFT TISSUE PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+501	123671.73	501 - SOFT TISSUE PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+502	71823.93	502 - SOFT TISSUE PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+503	668169.51	503 - FOOT PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+504	135861.34	504 - FOOT PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+505	121271.63	505 - FOOT PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+506	54257.0	506 - MAJOR THUMB OR JOINT PROCEDURES	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+507	133119.69	507 - MAJOR SHOULDER OR ELBOW JOINT PROCEDURES W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+510	159882.63	510 - SHOULDER;ELBOW OR FOREARM PROC;EXC MAJOR JOINT PROC W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+511	167273.12	511 - SHOULDER;ELBOW OR FOREARM PROC;EXC MAJOR JOINT PROC W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+512	103454.68	512 - SHOULDER;ELBOW OR FOREARM PROC;EXC MAJOR JOINT PROC W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+513	98919.13	513 - HAND OR WRIST PROC; EXCEPT MAJOR THUMB OR JOINT PROC W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+514	61102.38	514 - HAND OR WRIST PROC; EXCEPT MAJOR THUMB OR JOINT PROC W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+515	274732.92	515 - OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+516	192387.15	516 - OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+517	119178.96	517 - OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+518	203599.02	518 - BACK & NECK PROC EXC SPINAL FUSION W MCC OR DISC DEVICE/NEUROSTIM	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+519	121518.86	519 - BACK & NECK PROC EXC SPINAL FUSION W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+520	112176.53	520 - BACK & NECK PROC EXC SPINAL FUSION W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+534	52252.85	534 - FRACTURES OF FEMUR W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+535	112249.98	535 - FRACTURES OF HIP & PELVIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+536	58596.06	536 - FRACTURES OF HIP & PELVIS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+537	124651.0	537 - SPRAINS; STRAINS; & DISLOCATIONS OF HIP; PELVIS & THIGH W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+538	75087.03	538 - SPRAINS; STRAINS; & DISLOCATIONS OF HIP; PELVIS & THIGH W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+539	224074.28	539 - OSTEOMYELITIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+540	120996.46	540 - OSTEOMYELITIS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+541	75025.38	541 - OSTEOMYELITIS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+542	176216.72	542 - PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+543	100990.53	543 - PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+544	50013.03	544 - PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+545	279069.31	545 - CONNECTIVE TISSUE DISORDERS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+546	73865.0	546 - CONNECTIVE TISSUE DISORDERS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+547	59346.09	547 - CONNECTIVE TISSUE DISORDERS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+548	141868.25	548 - SEPTIC ARTHRITIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+549	146811.72	549 - SEPTIC ARTHRITIS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+550	71896.0	550 - SEPTIC ARTHRITIS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+551	156616.74	551 - MEDICAL BACK PROBLEMS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+552	77748.81	552 - MEDICAL BACK PROBLEMS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+553	160510.8	553 - BONE DISEASES & ARTHROPATHIES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+554	58430.12	554 - BONE DISEASES & ARTHROPATHIES W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+555	73521.96	555 - SIGNS & SYMPTOMS OF MUSCULOSKELETAL SYSTEM & CONN TISSUE W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+556	64895.21	556 - SIGNS & SYMPTOMS OF MUSCULOSKELETAL SYSTEM & CONN TISSUE W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+557	47956.61	557 - TENDONITIS; MYOSITIS & BURSITIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+558	46729.22	558 - TENDONITIS; MYOSITIS & BURSITIS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+559	138589.92	559 - AFTERCARE; MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+560	108398.04	560 - AFTERCARE; MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+561	80374.03	561 - AFTERCARE; MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+562	113200.36	562 - FX; SPRN; STRN & DISL EXCEPT FEMUR; HIP; PELVIS & THIGH W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+563	67248.69	563 - FX; SPRN; STRN & DISL EXCEPT FEMUR; HIP; PELVIS & THIGH W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+564	131624.27	564 - OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+565	76919.0	565 - OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+566	32849.77	566 - OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+570	154162.93	570 - SKIN DEBRIDEMENT W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+571	153998.42	571 - SKIN DEBRIDEMENT W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+572	60237.88	572 - SKIN DEBRIDEMENT W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+573	408932.58	573 - SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+579	264328.08	579 - OTHER SKIN; SUBCUT TISS & BREAST PROC W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+580	102816.47	580 - OTHER SKIN; SUBCUT TISS & BREAST PROC W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+581	68903.13	581 - OTHER SKIN; SUBCUT TISS & BREAST PROC W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+582	151552.0	582 - MASTECTOMY FOR MALIGNANCY W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+584	82661.0	584 - BREAST BIOPSY; LOCAL EXCISION & OTHER BREAST PROCEDURES W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+585	59416.0	585 - BREAST BIOPSY; LOCAL EXCISION & OTHER BREAST PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+592	121567.48	592 - SKIN ULCERS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+593	67501.75	593 - SKIN ULCERS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+595	137344.02	595 - MAJOR SKIN DISORDERS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+596	42233.13	596 - MAJOR SKIN DISORDERS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+597	155293.38	597 - MALIGNANT BREAST DISORDERS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+598	81280.32	598 - MALIGNANT BREAST DISORDERS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+599	52031.02	599 - MALIGNANT BREAST DISORDERS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+600	72848.67	600 - NON-MALIGNANT BREAST DISORDERS W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+601	22184.5	601 - NON-MALIGNANT BREAST DISORDERS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+602	89828.75	602 - CELLULITIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+603	49373.0	603 - CELLULITIS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+604	111758.89	604 - TRAUMA TO THE SKIN; SUBCUT TISS & BREAST W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+605	86514.68	605 - TRAUMA TO THE SKIN; SUBCUT TISS & BREAST W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+606	100610.84	606 - MINOR SKIN DISORDERS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+607	80686.28	607 - MINOR SKIN DISORDERS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+614	176005.26	614 - ADRENAL & PITUITARY PROCEDURES W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+615	162386.54	615 - ADRENAL & PITUITARY PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+616	275394.56	616 - AMPUTAT OF LOWER LIMB FOR ENDOCRINE;NUTRIT;& METABOL DIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+617	191734.93	617 - AMPUTAT OF LOWER LIMB FOR ENDOCRINE;NUTRIT;& METABOL DIS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+619	115426.0	619 - O.R. PROCEDURES FOR OBESITY W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+620	97681.0	620 - O.R. PROCEDURES FOR OBESITY W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+621	109449.58	621 - O.R. PROCEDURES FOR OBESITY W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+622	213164.55	622 - SKIN GRAFTS & WOUND DEBRID FOR ENDOC; NUTRIT & METAB DIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+623	167000.25	623 - SKIN GRAFTS & WOUND DEBRID FOR ENDOC; NUTRIT & METAB DIS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+624	81731.03	624 - SKIN GRAFTS & WOUND DEBRID FOR ENDOC; NUTRIT & METAB DIS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+626	184946.25	626 - THYROID; PARATHYROID & THYROGLOSSAL PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+628	657183.12	628 - OTHER ENDOCRINE; NUTRIT & METAB O.R. PROC W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+629	263973.8	629 - OTHER ENDOCRINE; NUTRIT & METAB O.R. PROC W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+637	95066.35	637 - DIABETES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+638	67678.29	638 - DIABETES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+639	55797.14	639 - DIABETES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+640	85491.09	640 - MISC DISORDERS OF NUTRITION;METABOLISM;FLUIDS/ELECTROLYTES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+641	54583.97	641 - MISC DISORDERS OF NUTRITION;METABOLISM;FLUIDS/ELECTROLYTES W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+642	80910.75	642 - INBORN AND OTHER DISORDERS OF METABOLISM	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+643	104714.77	643 - ENDOCRINE DISORDERS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+644	71789.58	644 - ENDOCRINE DISORDERS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+645	31625.27	645 - ENDOCRINE DISORDERS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+653	313533.0	653 - MAJOR BLADDER PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+654	150112.9	654 - MAJOR BLADDER PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+655	229974.33	655 - MAJOR BLADDER PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+656	191530.69	656 - KIDNEY & URETER PROCEDURES FOR NEOPLASM W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+657	159933.83	657 - KIDNEY & URETER PROCEDURES FOR NEOPLASM W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+658	107212.7	658 - KIDNEY & URETER PROCEDURES FOR NEOPLASM W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+659	194758.35	659 - KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+660	126009.86	660 - KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+661	108924.65	661 - KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+662	109956.0	662 - MINOR BLADDER PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+663	143952.67	663 - MINOR BLADDER PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+665	195333.28	665 - PROSTATECTOMY W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+666	139020.25	666 - PROSTATECTOMY W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+667	90120.36	667 - PROSTATECTOMY W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+668	347519.63	668 - TRANSURETHRAL PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+669	91195.82	669 - TRANSURETHRAL PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+670	84743.15	670 - TRANSURETHRAL PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+671	57700.0	671 - URETHRAL PROCEDURES W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+673	244631.86	673 - OTHER KIDNEY & URINARY TRACT PROCEDURES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+674	193615.21	674 - OTHER KIDNEY & URINARY TRACT PROCEDURES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+675	81717.0	675 - OTHER KIDNEY & URINARY TRACT PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+682	122055.93	682 - RENAL FAILURE W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+683	68951.43	683 - RENAL FAILURE W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+684	52986.7	684 - RENAL FAILURE W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+686	146354.78	686 - KIDNEY & URINARY TRACT NEOPLASMS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+687	65230.47	687 - KIDNEY & URINARY TRACT NEOPLASMS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+688	24821.0	688 - KIDNEY & URINARY TRACT NEOPLASMS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+689	93545.43	689 - KIDNEY & URINARY TRACT INFECTIONS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+690	57207.82	690 - KIDNEY & URINARY TRACT INFECTIONS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+691	118929.0	691 - URINARY STONES W ESW LITHOTRIPSY W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+693	72869.13	693 - URINARY STONES W/O ESW LITHOTRIPSY W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+694	56668.07	694 - URINARY STONES W/O ESW LITHOTRIPSY W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+695	121520.76	695 - KIDNEY & URINARY TRACT SIGNS & SYMPTOMS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+696	55919.43	696 - KIDNEY & URINARY TRACT SIGNS & SYMPTOMS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+698	124583.27	698 - OTHER KIDNEY & URINARY TRACT DIAGNOSES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+699	72066.0	699 - OTHER KIDNEY & URINARY TRACT DIAGNOSES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+700	57333.53	700 - OTHER KIDNEY & URINARY TRACT DIAGNOSES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+707	117210.76	707 - MAJOR MALE PELVIC PROCEDURES W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+708	156945.5	708 - MAJOR MALE PELVIC PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+709	90233.5	709 - PENIS PROCEDURES W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+710	99554.0	710 - PENIS PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+711	122974.01	711 - TESTES PROCEDURES W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+712	42304.09	712 - TESTES PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+713	84273.56	713 - TRANSURETHRAL PROSTATECTOMY W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+714	119859.22	714 - TRANSURETHRAL PROSTATECTOMY W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+715	112338.0	715 - OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC FOR MALIGNANCY W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+718	42737.0	718 - OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC EXC MALIGNANCY W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+723	83178.11	723 - MALIGNANCY; MALE REPRODUCTIVE SYSTEM W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+724	27569.34	724 - MALIGNANCY; MALE REPRODUCTIVE SYSTEM W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+726	61971.01	726 - BENIGN PROSTATIC HYPERTROPHY W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+727	42550.0	727 - INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+728	54474.54	728 - INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+729	79323.34	729 - OTHER MALE REPRODUCTIVE SYSTEM DIAGNOSES W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+734	213032.33	734 - PELVIC EVISCERATION; RAD HYSTERECTOMY & RAD VULVECTOMY W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+736	306084.21	736 - UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+737	165057.05	737 - UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+738	118246.01	738 - UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+739	233749.42	739 - UTERINE;ADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+740	95679.2	740 - UTERINE;ADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+741	90635.81	741 - UTERINE;ADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+742	148360.24	742 - UTERINE & ADNEXA PROC FOR NON-MALIGNANCY W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+743	71044.68	743 - UTERINE & ADNEXA PROC FOR NON-MALIGNANCY W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+744	84464.17	744 - D&C; CONIZATION; LAPAROSCOPY & TUBAL INTERRUPTION W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+745	49014.69	745 - D&C; CONIZATION; LAPAROSCOPY & TUBAL INTERRUPTION W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+746	167158.19	746 - VAGINA; CERVIX & VULVA PROCEDURES W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+747	71036.67	747 - VAGINA; CERVIX & VULVA PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+748	367471.52	748 - FEMALE REPRODUCTIVE SYSTEM RECONSTRUCTIVE PROCEDURES	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+749	255918.5	749 - OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+750	90481.5	750 - OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+754	101650.3	754 - MALIGNANCY; FEMALE REPRODUCTIVE SYSTEM W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+755	96712.11	755 - MALIGNANCY; FEMALE REPRODUCTIVE SYSTEM W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+756	39311.5	756 - MALIGNANCY; FEMALE REPRODUCTIVE SYSTEM W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+757	105687.33	757 - INFECTIONS; FEMALE REPRODUCTIVE SYSTEM W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+758	52156.7	758 - INFECTIONS; FEMALE REPRODUCTIVE SYSTEM W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+759	35423.43	759 - INFECTIONS; FEMALE REPRODUCTIVE SYSTEM W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+760	44197.49	760 - MENSTRUAL & OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+761	38431.47	761 - MENSTRUAL & OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+765	43512.74	765 - CESAREAN SECTION W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+766	30730.61	766 - CESAREAN SECTION W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+767	28401.76	767 - VAGINAL DELIVERY W STERILIZATION &/OR D&C	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+768	149045.69	768 - VAGINAL DELIVERY W O.R. PROC EXCEPT STERIL &/OR D&C	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+769	99418.51	769 - POSTPARTUM & POST ABORTION DIAGNOSES W O.R. PROCEDURE	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+770	48908.15	770 - ABORTION W D&C; ASPIRATION CURETTAGE OR HYSTEROTOMY	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+774	30270.84	774 - VAGINAL DELIVERY W COMPLICATING DIAGNOSES	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+775	20132.56	775 - VAGINAL DELIVERY W/O COMPLICATING DIAGNOSES	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+776	68315.9	776 - POSTPARTUM & POST ABORTION DIAGNOSES W/O O.R. PROCEDURE	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+777	61283.45	777 - ECTOPIC PREGNANCY	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+778	19153.18	778 - THREATENED ABORTION	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+779	24840.97	779 - ABORTION W/O D&C	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+780	9757.86	780 - FALSE LABOR	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+781	38388.82	781 - OTHER ANTEPARTUM DIAGNOSES W MEDICAL COMPLICATIONS	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+782	17443.33	782 - OTHER ANTEPARTUM DIAGNOSES W/O MEDICAL COMPLICATIONS	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+783	93692.5	783 - CESAREAN SECTION W STERILIZATION W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+786	129037.4	786 - CESAREAN SECTION W/O STERILIZATION W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+787	51840.0	787 - CESAREAN SECTION W/O STERILIZATION W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+788	32447.0	788 - CESAREAN SECTION W/O STERILIZATION W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+789	481161.88	789 - NEONATES; DIED OR TRANSFERRED TO ANOTHER ACUTE CARE FACILITY	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+790	637120.21	790 - EXTREME IMMATURITY OR RESPIRATORY DISTRESS SYNDROME; NEONATE	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+791	294836.33	791 - PREMATURITY W MAJOR PROBLEMS	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+792	30596.6	792 - PREMATURITY W/O MAJOR PROBLEMS	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+793	198930.58	793 - FULL TERM NEONATE W MAJOR PROBLEMS	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+794	15667.69	794 - NEONATE W OTHER SIGNIFICANT PROBLEMS	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+795	3980.39	795 - NORMAL NEWBORN	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+799	222534.5	799 - SPLENECTOMY W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+800	194622.58	800 - SPLENECTOMY W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+801	123254.25	801 - SPLENECTOMY W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+802	951006.53	802 - OTHER O.R. PROC OF THE BLOOD & BLOOD FORMING ORGANS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+803	70495.0	803 - OTHER O.R. PROC OF THE BLOOD & BLOOD FORMING ORGANS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+804	101294.25	804 - OTHER O.R. PROC OF THE BLOOD & BLOOD FORMING ORGANS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+805	34183.5	805 - VAGINAL DELIVERY W/O STERILIZATION/D&C W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+806	26030.5	806 - VAGINAL DELIVERY W/O STERILIZATION/D&C W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+807	23004.83	807 - VAGINAL DELIVERY W/O STERILIZATION/D&C W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+808	159330.28	808 - MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+809	103778.41	809 - MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+810	61149.9	810 - MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+811	89717.78	811 - RED BLOOD CELL DISORDERS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+812	53911.6	812 - RED BLOOD CELL DISORDERS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+813	107070.52	813 - COAGULATION DISORDERS	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+814	145899.86	814 - RETICULOENDOTHELIAL & IMMUNITY DISORDERS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+815	102944.91	815 - RETICULOENDOTHELIAL & IMMUNITY DISORDERS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+816	55100.85	816 - RETICULOENDOTHELIAL & IMMUNITY DISORDERS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+820	544223.88	820 - LYMPHOMA & LEUKEMIA W MAJOR O.R. PROCEDURE W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+821	256773.52	821 - LYMPHOMA & LEUKEMIA W MAJOR O.R. PROCEDURE W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+823	291727.67	823 - LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+824	186868.25	824 - LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+825	104423.0	825 - LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+827	143448.0	827 - MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+828	111994.0	828 - MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+829	561206.92	829 - MYELOPROLIF DISORD OR POORLY DIFF NEOPL W OTHER PROC W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+830	57150.0	830 - MYELOPROLIF DISORD OR POORLY DIFF NEOPL W OTHER PROC W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+834	405952.21	834 - ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+835	332881.44	835 - ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+836	150927.06	836 - ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+837	555815.46	837 - CHEMO W ACUTE LEUKEMIA AS SDX OR W HIGH DOSE CHEMO AGENT W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+840	215853.18	840 - LYMPHOMA & NON-ACUTE LEUKEMIA W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+841	93815.92	841 - LYMPHOMA & NON-ACUTE LEUKEMIA W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+842	188427.56	842 - LYMPHOMA & NON-ACUTE LEUKEMIA W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+844	42881.25	844 - OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+845	42997.5	845 - OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+846	201227.5	846 - CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+847	91487.27	847 - CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+848	80394.0	848 - CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+853	469709.88	853 - INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+854	173115.42	854 - INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+855	303413.67	855 - INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+856	308802.51	856 - POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+857	147892.84	857 - POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+862	142488.22	862 - POSTOPERATIVE & POST-TRAUMATIC INFECTIONS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+863	73457.38	863 - POSTOPERATIVE & POST-TRAUMATIC INFECTIONS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+864	44065.57	864 - FEVER	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+865	26965.25	865 - VIRAL ILLNESS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+866	51155.96	866 - VIRAL ILLNESS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+867	285520.13	867 - OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+868	123240.5	868 - OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+869	44462.33	869 - OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+870	538782.68	870 - SEPTICEMIA OR SEVERE SEPSIS W MV >96 HOURS	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+871	163831.27	871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+872	75459.97	872 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+880	50526.01	880 - ACUTE ADJUSTMENT REACTION & PSYCHOSOCIAL DYSFUNCTION	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+881	64139.04	881 - DEPRESSIVE NEUROSES	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+882	49502.5	882 - NEUROSES EXCEPT DEPRESSIVE	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+884	146752.02	884 - ORGANIC DISTURBANCES & INTELLECTUAL DISABILITY	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+885	114424.39	885 - PSYCHOSES	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+887	54557.0	887 - OTHER MENTAL DISORDER DIAGNOSES	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+894	41928.24	894 - ALCOHOL/DRUG ABUSE OR DEPENDENCE; LEFT AMA	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+896	112642.42	896 - ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHABILITATION THERAPY W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+897	52657.85	897 - ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHABILITATION THERAPY W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+901	620764.5	901 - WOUND DEBRIDEMENTS FOR INJURIES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+902	67245.38	902 - WOUND DEBRIDEMENTS FOR INJURIES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+903	80636.0	903 - WOUND DEBRIDEMENTS FOR INJURIES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+904	383868.52	904 - SKIN GRAFTS FOR INJURIES W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+906	109906.08	906 - HAND PROCEDURES FOR INJURIES	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+907	326003.23	907 - OTHER O.R. PROCEDURES FOR INJURIES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+908	181062.05	908 - OTHER O.R. PROCEDURES FOR INJURIES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+909	90016.68	909 - OTHER O.R. PROCEDURES FOR INJURIES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+913	272796.8	913 - TRAUMATIC INJURY W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+914	71596.27	914 - TRAUMATIC INJURY W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+915	158247.74	915 - ALLERGIC REACTIONS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+916	42248.81	916 - ALLERGIC REACTIONS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+917	115689.36	917 - POISONING & TOXIC EFFECTS OF DRUGS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+918	45589.52	918 - POISONING & TOXIC EFFECTS OF DRUGS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+919	130583.33	919 - COMPLICATIONS OF TREATMENT W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+920	61632.74	920 - COMPLICATIONS OF TREATMENT W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+921	41005.09	921 - COMPLICATIONS OF TREATMENT W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+922	229477.35	922 - OTHER INJURY; POISONING & TOXIC EFFECT DIAG W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+923	40545.19	923 - OTHER INJURY; POISONING & TOXIC EFFECT DIAG W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+935	113525.0	935 - NON-EXTENSIVE BURNS	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+939	292689.96	939 - O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+940	144131.91	940 - O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+941	132793.46	941 - O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+945	118715.42	945 - REHABILITATION W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+946	97278.58	946 - REHABILITATION W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+947	65911.9	947 - SIGNS & SYMPTOMS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+948	49345.63	948 - SIGNS & SYMPTOMS W/O MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+949	128413.73	949 - AFTERCARE W CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+950	61313.17	950 - AFTERCARE W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+951	11606.5	951 - OTHER FACTORS INFLUENCING HEALTH STATUS	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+955	662249.88	955 - CRANIOTOMY FOR MULTIPLE SIGNIFICANT TRAUMA	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+956	488378.6	956 - LIMB REATTACHMENT; HIP & FEMUR PROC FOR MULTIPLE SIGNIFICANT TRAUMA	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+957	441322.76	957 - OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+958	277318.16	958 - OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+959	223856.5	959 - OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+963	289567.92	963 - OTHER MULTIPLE SIGNIFICANT TRAUMA W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+964	128902.61	964 - OTHER MULTIPLE SIGNIFICANT TRAUMA W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+965	124999.5	965 - OTHER MULTIPLE SIGNIFICANT TRAUMA W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+969	530040.44	969 - HIV W EXTENSIVE O.R. PROCEDURE W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+974	270971.18	974 - HIV W MAJOR RELATED CONDITION W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+975	117027.82	975 - HIV W MAJOR RELATED CONDITION W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+976	92414.36	976 - HIV W MAJOR RELATED CONDITION W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+977	76605.66	977 - HIV W OR W/O OTHER RELATED CONDITION	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+981	327515.03	981 - EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+982	141346.36	982 - EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+983	110127.42	983 - EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W/O CC/MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+987	348915.19	987 - NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W MCC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+988	134836.79	988 - NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W CC	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_DRG.csv	drg
+894106	10175.0	SPCR SPNL 6MM NOVL 7D LR	sunrise-hospital-and-medical-center	FarWestDivision_SunriseHospitalAndMedicalCenter_CM.csv	standard
