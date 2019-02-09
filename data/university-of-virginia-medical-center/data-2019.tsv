@@ -1,0 +1,92 @@
+charge_code	price	description	hospital_id	filename	charge_type
+	1980	Adult semi-private (up to two patients) room and care in the Main Hospital	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	1980	Adult room and care in the Transitional Care Hospital	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	2310	Adult room and care on the Labor & Delivery unit	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	1980	Pediatric room and care	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	2448	Psychiatric room and care	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	1980	Normal newborn nursery room and care (includes babies staying in mother's room)	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	3917	Sick newborn nursery room and care	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	6272	Neonatal Step Down Intensive Care Unit (NICU) room and care	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	8010	Neonatal Intensive Care Unit (NICU) room and care	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	8010	Adult Intensive Care Unit (ICU) room and care	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	8010	Pediatric Intensive Care Unit (PICU) room and care	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	6272	Adult/Pediatric Step Down Intensive Care Unit (ICU) room and care in the Main Hospital	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	3971	Adult Step Down Intensive Care Unit (ICU) room and care in the Transitional Care Hospital	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	356	Emergency department visit, limited or minor problem	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	587	Emergency department visit, low to moderately severe problem	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	940	Emergency department visit, moderately severe problem	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	1535	Emergency department visit, problem of high severity	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	2808	Emergency department visit, problem with significant threat to life or function	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	4128	Critical care for a critically ill or injured patient, first 30-74 minutes	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	114	Operating room time per minute, all except heart/lung bypass	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	207	Operating room time per minute, heart/lung bypass only	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	303	Evaluation of physical therapy, typically 20 minutes	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	358	Evaluation of physical therapy, typically 30 minutes	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	441	Evaluation of physical therapy, typically 45 minutes	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	140	Walking training to 1 or more areas, each 15 minutes	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	140	Therapeutic activities to improve function, with one-on-one contact between patient and provider, each 15 minutes	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	140	Therapeutic procedures in a group setting	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	303	Evaluation of occupational therapy, typically 20 minutes	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	358	Evaluation of occupational therapy, typically 45 minutes	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	441	Evaluation of occupational therapy, typically 60 minutes	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	140	Therapeutic activities to improve function, with one-on-one contact between patient and provider, each 15 minutes	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	140	Therapeutic procedures in a group setting	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	171	Measurement of largest amount of air exhaled from lungs	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	248	Test for exercise-induced lung stress	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	446	Measurement and graphic recording of total and timed exhaled air capacity	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	413	Diagnostic testing in a pulmonary function lab	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	2153	CT scan of head or brain without contrast	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	5737	MRI scan of brain before and after contrast	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	344	X-ray of chest, 1 view	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	403	X-ray of chest, 2 views	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	2671	CT scan of chest without contrast	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	3278	CT scan of chest with contrast	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	548	X-ray of lower and sacral spine, 2 or 3 views	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	647	X-ray of shoulder, minimum of 2 views	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	647	X-ray of wrist, minimum of 3 views	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	607	X-ray of hand, minimum of 3 views	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	899	X-ray of hip with pelvis, 2-3 views	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	625	X-ray of knee, 1 or 2 views	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	860	X-ray of knee, 4 or more views	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	690	X-ray of ankle, minimum of 3 views	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	690	X-ray of foot, minimum of 3 views	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	357	X-ray of abdomen, 1 view	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	5548	CT scan of abdomen and pelvis without contrast	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	6195	CT scan of abdomen and pelvis with contrast	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	948	Ultrasound of head and neck	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	666	Ultrasound of one breast	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	801	Ultrasound of abdomen	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	906	Ultrasound behind abdominal cavity	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	532	Ultrasound re-evaluation of pregnant uterus, per fetus	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	890	Ultrasound of pelvis through vagina	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	652	Ultrasound guidance for accessing into blood vessel	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	810	Ultrasonic guidance imaging supervision and interpretation for insertion of needle	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	479	Diagnostic mammography of one breast	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	476	Screening mammography of both breasts,SCREENING MAMMOGRAPHY	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	747	Bone density measurement using dedicated X-ray machine	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	221	Blood test, basic group of blood chemicals	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	387	Blood test, comprehensive group of blood chemicals	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	228	Blood test, lipids (cholesterol and triglycerides)	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	96	Manual urinalysis test with examination using microscope,URINALYSIS	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	48	Analysis of urine	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	334	Vitamin D-3 level	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	82	Calcium level	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	370	Blood gases measurement,BLOOD GASES: PH	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	65	Blood glucose (sugar) level,ASSAY, GLUCOSE	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	48	Blood glucose (sugar) test performed by hand-held instrument	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	143	Methemoglobin (hemoglobin) analysis	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	163	Lactic acid level	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	97	Magnesium level	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	74	Phosphate level	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	74	Blood potassium level	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	79	Blood sodium level	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	224	Blood test, thyroid stimulating hormone (TSH)	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	228	Troponin (protein) analysis,ASSAY OF TROPONIN	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	139	Complete blood cell count (red cells, white blood cell, platelets), automated test	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	107	Complete blood cell count (red cells, white blood cell, platelets), automated test,COMPLETE CBC	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	70	Blood test, clotting time	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	91	Coagulation assessment blood test,THROMBOPLASTIN TIME	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	106	Blood group typing (ABO),BLOOD TYPING	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	106	Blood typing for Rh (D) antigen,BLOOD TYPING	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	207	Bacterial colony count, urine	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
+	378	Pathology examination of tissue using a microscope	university-of-virginia-medical-center	university-of-virginia-medical-center.csv	standard
