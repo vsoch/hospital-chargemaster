@@ -37,7 +37,6 @@ columns = ['charge_code',
 
 df = pandas.DataFrame(columns=columns)
 
-# First parse standard charges (doesn't have DRG header)
 for result in results:
     filename = os.path.join(latest, result['filename'])
     if not os.path.exists(filename):
