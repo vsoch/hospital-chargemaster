@@ -1,6 +1,7 @@
 # Hospital Chargemaster
 
-This is the hospital chargemaster [Dinosaur Dataset](https://vsoch.github.io/datasets)
+This is the hospital chargemaster [Dinosaur Dataset](https://vsoch.github.io/datasets/2019/hospital-chargemasters/)
+[![DOI](https://zenodo.org/badge/166080583.svg)](https://zenodo.org/badge/latestdoi/166080583)
 
 <a target="_blank" href="https://camo.githubusercontent.com/d0eb19f161d4795a9c137b9b71c70b008d7c5e8e/68747470733a2f2f76736f63682e6769746875622e696f2f64617461736574732f6173736574732f696d672f61766f6361646f2e706e67"><img src="https://camo.githubusercontent.com/d0eb19f161d4795a9c137b9b71c70b008d7c5e8e/68747470733a2f2f76736f63682e6769746875622e696f2f64617461736574732f6173736574732f696d672f61766f6361646f2e706e67" alt="https://vsoch.github.io/datasets/assets/img/avocado.png" data-canonical-src="https://vsoch.github.io/datasets/assets/img/avocado.png" style="max-width:100%; float:right" width="100px"></a>
 
@@ -101,6 +102,8 @@ important and deserving to belong here! If you want to add a hospital:
  1. Add your hospital name, identifier, and (human friendly) link to the [hospitals.tsv](hospitals.tsv) file. If you add a hospital folder and fail to update this file, or update the file and forget or misname the folder an error will be triggered.
  2. Create a subfolder based on the `hospital_uri` from the file.
  3. Write a `scrape.py` script in the folder. You can use others as templates, but the file should generate an output directory with the present date, and recursive copy the new folder to be latest.
+ 4. Write a `parse.py` file to generate the latest-* data frames (you can use other folders as starting templates).
+
 
 The data will be updated on an annual basis, or when a pull request is issued to update the repository.
 Upon merge, the generated latest data will be pushed back to the repository.

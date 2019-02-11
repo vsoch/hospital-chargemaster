@@ -41,7 +41,7 @@ columns = ['charge_code',
 df = pandas.DataFrame(columns=columns)
 
 seen = []
-for r in range(397 ,len(results)):
+for r in range(420 ,len(results)):
     result = results[r]
     filename = os.path.join(latest, result['filename'])
     if not os.path.exists(filename):
@@ -312,6 +312,13 @@ for r in range(397 ,len(results)):
             code_key =  'CHARGE #'
             description_key = 'CHARGE DESCRIPTION'
             price_key = 'PT CHG $'
+
+        # ['Reference ID', 'Description', 'Price']
+        elif "106364014_CDM" in filename or "106364502_CDM" in filename or "106361246_CDM" in filename or "106334589_CDM" in filename:
+            content = pandas.read_excel(filename, skiprows=4)
+            code_key =  'Reference ID'
+            description_key = 'Description'
+            price_key = 'Price'
 
         elif "106090793_CDM_RX" in filename:
             content = pandas.read_excel(filename)
