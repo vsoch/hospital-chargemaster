@@ -14,8 +14,8 @@ folder = os.path.basename(here)
 latest = '%s/latest' % here
 year = datetime.datetime.today().year
 
-output_data = os.path.join(here, 'data-latest.tsv')
-output_year = os.path.join(here, 'data-%s.tsv' % year)
+output_data = os.path.join(here, 'data-latest-1.tsv')
+output_year = os.path.join(here, 'data-%s-1.tsv' % year)
 
 # Don't continue if we don't have latest folder
 if not os.path.exists(latest):
@@ -41,7 +41,8 @@ columns = ['charge_code',
 df = pandas.DataFrame(columns=columns)
 
 seen = []
-for result in results:
+for r in range(397 ,len(results)):
+    result = results[r]
     filename = os.path.join(latest, result['filename'])
     if not os.path.exists(filename):
         print('%s is not found in latest folder.' % filename)
@@ -120,6 +121,12 @@ for result in results:
                          'inpatient']            
                 df.loc[idx,:] = entry
 
+        # ['Charge code', 'Charge Description', 'Charge Cat', 'Previous Price', 'Current Price', 'UOS', 'Charges', 'Change', '% Change', 'Note'],
+        elif "106190449_CDM" in filename:
+            content = pandas.read_excel(filename, skiprows=1)
+            description_key = 'Charge Description'
+            price_key = 'Current Price' 
+            code_key = 'Charge code'
 
         # ['CDM NO', 'DISPENSED DESCRIPTION', 'PRICE ', 'TYPE', 'NOTE'
         elif "106331152_CDM" in filename:
@@ -232,6 +239,13 @@ for result in results:
             price_key = "CHARGE"
             code_key = 'PROC (CDM)'
 
+       #['PROCEDURE', 'DESCRIPTION', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'STD AMOUNT']
+        elif "106010887_CDM" in filename:
+            content = pandas.read_excel(filename, skiprows=3)
+            description_key = "DESCRIPTION"
+            price_key = "STD AMOUNT"
+            code_key = "PROCEDURE"
+
         # ['PROC_NAME', 'CHARGE_AMOUNT', 'COMMENT']
         elif "106074097_CDM" in filename:
             content = pandas.read_excel(filename, skiprows=1)
@@ -253,11 +267,18 @@ for result in results:
             price_key = "Cost"
             code_key = 'Code '
 
-        elif "106331194_CDM" in filename:
+        elif "106301127_CDM" in filename:
             content = pandas.read_excel(filename)
             description_key = "chg_desc"
             price_key = "chg_amt_1"
             code_key = "chg_code"
+
+        # ['PROCEDURE', 'DESCRIPTION', 'DEPARTMENT', 'CHG CAT', 'COST', 'STD AMOUNT  CPT      HCPC', 'A']
+        elif "106331194_CDM" in filename:
+            content = pandas.read_excel(filename)
+            description_key = "DESCRIPTION"
+            price_key = 'STD AMOUNT  CPT      HCPC'
+            code_key = "PROCEDURE"
 
         elif "106370749_" in filename:
             content = pandas.read_excel(filename)
@@ -363,6 +384,12 @@ for result in results:
                     price_key = "CHARGE_AMOUNT"        
                     code_key = None
 
+                if description_key not in content.columns.tolist():
+                    description_key = "DESCRIPTION"
+                    price_key = "STD AMOUNT"        
+                    code_key = "PROCEDURE"
+
+
         elif "cdm(" in filename.lower():
             # CDM #                    Description   Price
             content = pandas.read_excel(filename, skiprows=4)
@@ -400,10 +427,17 @@ for result in results:
                      charge_type]            
             df.loc[idx,:] = entry
 
-# Remove empty rows
-df = df.dropna(how='all')
+        # When we get to index 350 (hospital_id 'kaiser-foundation-hospital---walnut-creek')
+        # It's time to save and start a new data file, we just hit the max Github file size
+        if result['hospital_id'] == 'kaiser-foundation-hospital---walnut-creek':
 
-# Save data!
-print(df.shape)
-df.to_csv(output_data, sep='\t', index=False)
-df.to_csv(output_year, sep='\t', index=False)
+            # Remove empty rows
+            df = df.dropna(how='all')
+
+            # Save data!
+            print(df.shape)
+            df.to_csv(output_data, sep='\t', index=False)
+            df.to_csv(output_year, sep='\t', index=False)
+            output_data = os.path.join(here, 'data-latest-2.tsv')
+            output_year = os.path.join(here, 'data-%s-2.tsv' % year)
+            df = pandas.DataFrame(columns=columns)
