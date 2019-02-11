@@ -6,6 +6,9 @@ import json
 import pandas
 import datetime
 
+# This is a challenging dataset because it's so big!
+# We will do our best to break the data into pieces
+
 here = os.path.dirname(os.path.abspath(__file__))
 folder = os.path.basename(here)
 latest = '%s/latest' % here
