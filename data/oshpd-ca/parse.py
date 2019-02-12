@@ -41,7 +41,7 @@ columns = ['charge_code',
 df = pandas.DataFrame(columns=columns)
 
 seen = []
-for r in range(420 ,len(results)):
+for r in range(423 ,len(results)):
     result = results[r]
     filename = os.path.join(latest, result['filename'])
     if not os.path.exists(filename):
@@ -86,6 +86,23 @@ for r in range(420 ,len(results)):
             description_key = 'Charge Description'
             price_key = 'Price' 
             code_key = 'Charge Code'
+
+        # ['Description', 'Code', 'Unnamed: 2', 'Unnamed: 3', 'Price', 'Tier  Code', 'Dept', 'Subd', 'Elem', 'Stat']
+        # Writing over row of dashes ----
+        elif "106420491_CDM" in filename:
+             content = pandas.read_excel(filename, skiprows=2)
+             content.columns = ['Description', 
+                                'Code', 
+                                'Unnamed: 2', 'Unnamed: 3', 
+                                'Price', 
+                                'Tier  Code', 
+                                'Dept', 
+                                'Subd', 
+                                'Elem', 
+                                'Stat']
+            description_key = 'Description'
+            price_key = 'Price' 
+            code_key = 'Code'
 
         # ['Fac', 'Charge #', 'Description', 'Price', 'GL Key']
         elif "106301357_CDM" in filename:

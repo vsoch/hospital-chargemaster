@@ -114,3 +114,9 @@ for r in range(0, len(results)):
         output_data = os.path.join(here, 'data-latest-2.tsv')
         output_year = os.path.join(here, 'data-%s-2.tsv' % year)
         df = pandas.DataFrame(columns=columns)
+
+
+# Final Save
+print(df.shape)
+df.to_csv(output_data, sep='\t', index=False)
+df.to_csv(output_year, sep='\t', index=False)
