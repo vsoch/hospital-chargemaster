@@ -9,7 +9,8 @@ import datetime
 # This is a challenging dataset because it's so big!
 # We will do our best to break the data into pieces
 
-here = os.path.dirname(os.path.abspath(__file__))
+here = os.getcwd()
+#here = os.path.dirname(os.path.abspath(__file__))
 folder = os.path.basename(here)
 latest = '%s/latest' % here
 year = datetime.datetime.today().year
@@ -41,7 +42,7 @@ columns = ['charge_code',
 df = pandas.DataFrame(columns=columns)
 
 seen = []
-for r in range(423 ,len(results)):
+for r in range(351, len(results)):
     result = results[r]
     filename = os.path.join(latest, result['filename'])
     if not os.path.exists(filename):
@@ -87,7 +88,38 @@ for r in range(423 ,len(results)):
             price_key = 'Price' 
             code_key = 'Charge Code'
 
-        # ['Description', 'Code', 'Unnamed: 2', 'Unnamed: 3', 'Price', 'Tier  Code', 'Dept', 'Subd', 'Elem', 'Stat']
+        # ['Chrg Dept', 'Chrg Code', 'Chrg Bill Desc', 'Chrg Rev Code',
+        # 'Chrg HCPCS Proc', 'Chrg CPT Code', 'Chrg Amt IP', 'Chrg Amt OP',
+        # 'Chrg Type']
+        elif "106560492_CDM" in filename:
+            content = pandas.read_excel(filename, skiprows=6)
+            description_key = 'Chrg Bill Desc'
+            code_key = 'Chrg Code'
+
+            for row in content.iterrows():
+ 
+                if not pandas.isnull(row[1]['Chrg Amt OP']):
+                    # Outpatient
+                    idx = df.shape[0] + 1
+                    entry = [row[1][code_key],             # charge code
+                             row[1]['Chrg Amt OP'],        # price
+                             row[1][description_key],      # description
+                             result["hospital_id"],        # hospital_id
+                             result['filename'],
+                             'outpatient']            
+                    df.loc[idx,:] = entry
+
+                if not pandas.isnull(row[1]['Chrg Amt IP']):
+                    # Inpatient
+                    idx = df.shape[0] + 1
+                    entry = [row[1][code_key],             # charge code
+                             row[1]['Chrg Amt IP'],        # price
+                             row[1][description_key],      # description
+                             result["hospital_id"],        # hospital_id
+                             result['filename'],
+                             'inpatient']            
+                    df.loc[idx,:] = entry
+
         # Writing over row of dashes ----
         elif "106420491_CDM" in filename:
              content = pandas.read_excel(filename, skiprows=2)
@@ -100,16 +132,41 @@ for r in range(423 ,len(results)):
                                 'Subd', 
                                 'Elem', 
                                 'Stat']
-            description_key = 'Description'
-            price_key = 'Price' 
-            code_key = 'Code'
+             description_key = 'Description'
+             price_key = 'Price' 
+             code_key = 'Code'
 
+        # ['Charge Code', 'Charge Description', 'Charge Code and Description', 'org_nm', 'gl_account_id', 'gl_sub_acct', 'NRV', 'Charge Amount', 'CPT']
+        elif "106450936_CDM" in filename:
+            content = pandas.read_excel(filename)
+            description_key = 'Charge Description'
+            price_key = 'Charge Amount' 
+            code_key = 'Charge Code'
+
+        # ['Charge Code ', 'Description', 'Primary Price', 'Comments']
+        elif "106434040_CDM" in filename:
+            content = pandas.read_excel(filename, skiprows=5)
+            description_key = 'Description'
+            price_key = 'Primary Price' 
+            code_key = 'Charge Code '
+ 
         # ['Fac', 'Charge #', 'Description', 'Price', 'GL Key']
-        elif "106301357_CDM" in filename:
+        elif "106301357_CDM" in filename or "106190570_CDM" in filename:
             content = pandas.read_excel(filename, skiprows=5)
             description_key = 'Description'
             price_key = 'Price' 
             code_key = 'Charge #'
+
+        # ['Chg Code', 'Chrg Description', 'ref_eff_ts', 'row_sta_cd',
+        # 'table_int_id', 'ref_int_id', 'org_int_id', 'lst_mod_id', 'lst_mod_ts',
+        # 'compute_0010', 'org_nm', 'gl_account_id', 'gl_sub_acct',
+        # 'chg_type_int_id', 'cod_dtl_ds', 'active_dt', 'Rev Code', 'Price',
+        # 'CPT/HCPCS', 'gl_stat']
+        elif "106334018_CDM" in filename:
+            content = pandas.read_excel(filename, skiprows=1)
+            description_key = 'Chrg Description'
+            code_key = 'Chg Code'
+            price_key = 'Price'
 
         # ['Chrg Code', 'Chrg Desc', 'Chrg Amt IP', 'Chrg Amt OP']
         elif "106430779_CDM" in filename:
@@ -159,12 +216,26 @@ for r in range(423 ,len(results)):
             price_key = 'Price' 
             code_key = None
 
+        # ['ITEM #', 'DESCRIPTION', 'PRICE', 'CPT CODE']
+        elif "106040937_CDM" in filename:
+            content = pandas.read_excel(filename, skiprows=2)
+            description_key = 'DESCRIPTION'
+            price_key = 'PRICE' 
+            code_key = 'ITEM #'
+
         # ['Item # ', 'Description', 'Unit of Measure', 'Patient Charge']
         elif "106331168_CDM(2)" in filename:
             content = pandas.read_excel(filename)
             description_key = 'Description'
             price_key = 'Patient Charge' 
             code_key = 'Item # '
+
+        # ['Fac', 'Charge #', 'Description', 'Price', 'GL Key']
+        elif "106190198_CDM" in filename:
+            content = pandas.read_excel(filename, skiprows=5)
+            description_key = 'Description'
+            price_key = 'Price'
+            code_key = 'Charge #'
 
         # ['Procedure Code', 'Description', 'Unit Price']
         elif "106331168_CDM(1)" in filename:
@@ -215,11 +286,41 @@ for r in range(423 ,len(results)):
             code_key = "Charge Code"
 
         #  Code       Description Code.1   Amount
-        elif "106190766_CDM" in filename or "106190197_CDM" in filename:
+        elif "106190766_CDM" in filename or "106190197_CDM" in filename or "106190521_CDM" in filename:
             content = pandas.read_excel(filename, skiprows=4)
+            content.columns = ['Code', 'Description', 'Code.1', 'Amount']
             description_key = "Description"
             price_key = "Amount"        
             code_key = "Code"
+
+        # ['PROC_CODE', 'PROC_NAME', 'INPAT_FEE', 'OUTPAT_FEE']
+        elif "106090933_CDM" in filename:
+            content = pandas.read_excel(filename)
+
+            for row in content.iterrows():
+                # Outpatient
+                idx = df.shape[0] + 1
+                price_key = 'OP/Default Price'
+                entry = [row[1]['PROC_CODE'],             # charge code
+                         row[1]['OUTPAT_FEE'],  # price
+                         row[1]['PROC_NAME'],      # description
+                         result["hospital_id"],        # hospital_id
+                         result['filename'],
+                         'outpatient']            
+                df.loc[idx,:] = entry
+
+                # Inpatient
+                idx = df.shape[0] + 1
+                entry = [row[1]['PROC_CODE'],             # charge code
+                         row[1]['INPAT_FEE'],            # price
+                         row[1]['PROC_NAME'],      # description
+                         result["hospital_id"],        # hospital_id
+                         result['filename'],
+                         'inpatient']            
+                df.loc[idx,:] = entry
+
+            continue
+
 
         # ['PROC_NAME', 'CHARGE_AMOUNT', 'COMMENT', 'Unnamed: 3']
         elif "106304409_CDM" in filename or "106196035_CDM" in filename or "106196403_CDM" in filename or "106361223_CDM" in filename or "106014132_CDM" in filename or "106104062_CDM" in filename or  "106190429_CDM" in filename or "106394009_CDM" in filename:
@@ -227,6 +328,16 @@ for r in range(423 ,len(results)):
             description_key = "PROC_NAME"
             price_key = "CHARGE_AMOUNT"        
             code_key = None
+
+        # ['CDM #', 'CDM Description', 'gl_account_id', 'Account Name',
+        # 'gl_sub_acct', 'chg_type_int_id', 'Charge Type', 'active_dt',
+        # 'Rev Code', 'Price', 'CPT or HCPCS CD', 'Price.1']
+        elif "106301566_CDM" in filename:
+            content = pandas.read_excel(filename, skiprows=1)
+            description_key = "CDM Description"
+            price_key = "Price"        
+            code_key = "CDM #"
+
 
         # ['CDM#', 'CDM Description', 'Facility', 'gl_account_id', 'Rev Code', 'Price', 'CPT/HCPCS']
         elif "106301188_CDM" in filename or "106301140_CDM" in filename:
@@ -277,6 +388,23 @@ for r in range(423 ,len(results)):
             price_key = "Price ($)"
             code_key = 'Service ID'
 
+        elif "106201281_CDM" in filename:
+            content = pandas.read_excel(filename)
+            additional_row = content.columns.tolist()
+            idx = content.shape[0] + 1
+            content.loc[idx] = additional_row
+            content.columns = ["CODE", 'DESCRIPTION', "PRICE"]
+            code_key = "CODE"
+            description_key = "DESCRIPTION"
+            price_key = 'PRICE'
+
+        # ['Charge#', 'Description', 'Charge Price', 'Unnamed: 3']
+        elif "106260011_CDM" in filename:
+            content = pandas.read_excel(filename, skiprows=5)
+            description_key = "Description"
+            price_key = "Charge Price"
+            code_key = 'Charge#'
+
         # ['Code ', 'Procedure_Name', 'Cost']
         elif "106304159_CDM" in filename:
             content = pandas.read_excel(filename, skiprows=2)
@@ -284,14 +412,8 @@ for r in range(423 ,len(results)):
             price_key = "Cost"
             code_key = 'Code '
 
-        elif "106301127_CDM" in filename:
-            content = pandas.read_excel(filename)
-            description_key = "chg_desc"
-            price_key = "chg_amt_1"
-            code_key = "chg_code"
-
         # ['PROCEDURE', 'DESCRIPTION', 'DEPARTMENT', 'CHG CAT', 'COST', 'STD AMOUNT  CPT      HCPC', 'A']
-        elif "106331194_CDM" in filename:
+        elif "106301127_CDM" in filename:
             content = pandas.read_excel(filename)
             description_key = "DESCRIPTION"
             price_key = 'STD AMOUNT  CPT      HCPC'
@@ -309,6 +431,13 @@ for r in range(423 ,len(results)):
             description_key = 'Level of Care'
             price_key = 'Base Price '
             code_key = None
+
+        # ['CHARGE CODE', 'BILLING DESCRIPTION', 'CHARGE PRICE TIER 1', 'CHARGE PRICE TIER 2']
+        elif "106211006_CDM" in filename:
+            content = pandas.read_excel(filename)
+            description_key = 'BILLING DESCRIPTION'
+            price_key = 'CHARGE PRICE TIER 1'
+            code_key = 'CHARGE CODE'
 
         elif "106196404_CDM(3)" in filename:
             content = pandas.read_excel(filename, skiprows=7)
@@ -361,7 +490,7 @@ for r in range(423 ,len(results)):
             description_key = "CODE DESCRIPTION"
             price_key = 'UNIT CHARGE AMOUNT'
 
-        elif "106190555_CDM" in filename:
+        elif "106190555_CDM" in filename or "106190500_CDM" in filename:
             # 'Charge\nCode', 'Description', 'CPT/ HCPCS\nCode', 'OP/ Default Price', 'IP/ER\nPrice'
             content = pandas.read_excel(filename, skiprows=4)
             code_key = 'Charge\nCode'
@@ -370,8 +499,11 @@ for r in range(423 ,len(results)):
 
                 # Outpatient
                 idx = df.shape[0] + 1
+                price_key = 'OP/Default Price'
+                if price_key not in content.columns.tolist():
+                    price_key = 'OP/ Default Price'
                 entry = [row[1][code_key],             # charge code
-                         row[1]['OP/ Default Price'],  # price
+                         row[1][price_key],  # price
                          row[1][description_key],      # description
                          result["hospital_id"],        # hospital_id
                          result['filename'],
@@ -450,6 +582,7 @@ for r in range(423 ,len(results)):
                      result['filename'],
                      charge_type]            
             df.loc[idx,:] = entry
+
 
         # When we get to index 350 (hospital_id 'kaiser-foundation-hospital---walnut-creek')
         # It's time to save and start a new data file, we just hit the max Github file size
