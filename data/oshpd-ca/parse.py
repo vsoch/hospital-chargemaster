@@ -42,7 +42,7 @@ columns = ['charge_code',
 df = pandas.DataFrame(columns=columns)
 
 seen = []
-for r in range(351, len(results)):
+for r in range(423, len(results)):
     result = results[r]
     filename = os.path.join(latest, result['filename'])
     if not os.path.exists(filename):
@@ -119,6 +119,7 @@ for r in range(351, len(results)):
                              result['filename'],
                              'inpatient']            
                     df.loc[idx,:] = entry
+            continue
 
         # Writing over row of dashes ----
         elif "106420491_CDM" in filename:
@@ -460,7 +461,14 @@ for r in range(351, len(results)):
             price_key = 'PT CHG $'
 
         # ['Reference ID', 'Description', 'Price']
-        elif "106364014_CDM" in filename or "106364502_CDM" in filename or "106361246_CDM" in filename or "106334589_CDM" in filename:
+        elif "106364014_CDM" in filename or "106334589_CDM" in filename or "106361246_CDM" in filename or "106364502_CDM" in filename:
+            content = pandas.read_excel(filename)
+            code_key =  'Reference ID'
+            description_key = 'Description'
+            price_key = 'Price'
+
+        # ['Reference ID', 'Description', 'Price']
+        elif "106364014_CDM" in filename:
             content = pandas.read_excel(filename, skiprows=4)
             code_key =  'Reference ID'
             description_key = 'Description'
@@ -583,7 +591,6 @@ for r in range(351, len(results)):
                      charge_type]            
             df.loc[idx,:] = entry
 
-
         # When we get to index 350 (hospital_id 'kaiser-foundation-hospital---walnut-creek')
         # It's time to save and start a new data file, we just hit the max Github file size
         if result['hospital_id'] == 'kaiser-foundation-hospital---walnut-creek':
@@ -592,7 +599,7 @@ for r in range(351, len(results)):
             df = df.dropna(how='all')
 
             # Save data!
-            print(df.shape)
+            print(df.shape)  # 440
             df.to_csv(output_data, sep='\t', index=False)
             df.to_csv(output_year, sep='\t', index=False)
             output_data = os.path.join(here, 'data-latest-2.tsv')
