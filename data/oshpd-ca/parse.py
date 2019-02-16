@@ -42,7 +42,7 @@ columns = ['charge_code',
 df = pandas.DataFrame(columns=columns)
 
 seen = []
-for r in range(423, len(results)):
+for r in range(548, len(results)):
     result = results[r]
     filename = os.path.join(latest, result['filename'])
     if not os.path.exists(filename):
@@ -73,6 +73,24 @@ for r in range(423, len(results)):
         # Unfortunately cdm_all files are inconsistent, would need custom parsing (for sheets) each
         elif "cdm_all" in filename.lower():
             continue
+
+        #['CHG CODE', 'BILLING DESC', 'DEPT',
+        #' 2017 Price Per Unit for Infussion and Pharmacy',
+        #'2018 Price Per Unit for Infussion and Pharmacy',
+        #'Infussion and Pharmacy Price Change', '2018 Current PRICE',
+        # '2017 PRICE', 'Price Difference', 'CPT']
+        elif "106130760_CDM" in filename:
+            content = pandas.read_excel(filename)
+            description_key = 'BILLING DESC'
+            price_key = '2018 Current PRICE'
+            code_key = 'CHG CODE'
+
+        # ['Charge Code', 'Description', 'Std Charge', 'Outpt Charge', 'Comment']
+        elif "106190680_CDM" in filename:
+            content = pandas.read_excel(filename, skiprows=3) 
+            description_key = 'Description'
+            price_key = 'Std Charge' 
+            code_key = 'Charge Code'
 
         # ['Charge Code', 'Charge Description', 'Charge Amount', 'Comments']
         elif "106071018_CDM" in filename or "106070988_CDM" in filename:
@@ -157,6 +175,17 @@ for r in range(423, len(results)):
             description_key = 'Description'
             price_key = 'Price' 
             code_key = 'Charge #'
+
+        # ['CDM/SPSI', 'SERVICE DESCRIPTION', 'RATE TYPE', 'PRICE PER UNIT',
+        # 'MIN UNIT', 'START VALUE1', 'STOP VALUE1', 'MIN PER UNIT1',
+        # 'UNIT PRICE1', 'START VALUE2', 'STOP VALUE2', 'MIN PER UNIT2',
+        # 'UNIT PRICE2', 'START VALUE3', 'STOP VALUE3', 'MIN PER UNIT3',
+        # 'UNIT PRICE3']
+        elif "106190630_CDM" in filename:
+            content = pandas.read_excel(filename, skiprows=3)
+            description_key = 'SERVICE DESCRIPTION'
+            price_key = 'PRICE PER UNIT' 
+            code_key = 'CDM/SPSI'
 
         # ['Chg Code', 'Chrg Description', 'ref_eff_ts', 'row_sta_cd',
         # 'table_int_id', 'ref_int_id', 'org_int_id', 'lst_mod_id', 'lst_mod_ts',
@@ -375,12 +404,26 @@ for r in range(423, len(results)):
             price_key = "STD AMOUNT"
             code_key = "PROCEDURE"
 
+        # ['CDM NO', 'DISPENSED DESCRIPTION', 'PRICE ', 'TYPE', 'NOTE']
+        elif "106196405_CDM" in filename:
+            content = pandas.read_excel(filename)
+            description_key = "DISPENSED DESCRIPTION"
+            price_key = "PRICE "
+            code_key = "CDM NO"
+
         # ['PROC_NAME', 'CHARGE_AMOUNT', 'COMMENT']
         elif "106074097_CDM" in filename:
             content = pandas.read_excel(filename, skiprows=1)
             description_key = "PROC_NAME"
             price_key = "CHARGE_AMOUNT"
             code_key = None
+
+        # ['Charge Code', 'Description', 'Std Charge', 'Outpt Charge', 'Comment']
+        elif "106190385_CDM" in filename or "106190470_CDM" in filename:
+            content = pandas.read_excel(filename, skiprows=3)
+            description_key = "Description"
+            price_key = "Std Charge"
+            code_key = 'Charge Code'
 
         # Service ID', 'User Gen. Service ID', 'Service Name', 'Effective Date', 'Price ($)'
         elif "106474007_CDM" in filename:
@@ -401,7 +444,7 @@ for r in range(423, len(results)):
 
         # ['Charge#', 'Description', 'Charge Price', 'Unnamed: 3']
         elif "106260011_CDM" in filename:
-            content = pandas.read_excel(filename, skiprows=5)
+            content = pandas.read_excel(filename, skiprows=6)
             description_key = "Description"
             price_key = "Charge Price"
             code_key = 'Charge#'
@@ -599,7 +642,7 @@ for r in range(423, len(results)):
             df = df.dropna(how='all')
 
             # Save data!
-            print(df.shape)  # 440
+            print(df.shape)  # 547
             df.to_csv(output_data, sep='\t', index=False)
             df.to_csv(output_year, sep='\t', index=False)
             output_data = os.path.join(here, 'data-latest-2.tsv')
