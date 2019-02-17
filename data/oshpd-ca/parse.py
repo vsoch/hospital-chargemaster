@@ -42,7 +42,7 @@ columns = ['charge_code',
 df = pandas.DataFrame(columns=columns)
 
 seen = []
-for r in range(548, len(results)):
+for r in range(574, len(results)):
     result = results[r]
     filename = os.path.join(latest, result['filename'])
     if not os.path.exists(filename):
@@ -74,6 +74,13 @@ for r in range(548, len(results)):
         elif "cdm_all" in filename.lower():
             continue
 
+        # ['CDM', 'Description', 'Standard Charge', 'Surgery Center/Procedure Room Charge', 'L&D Charge', 'Supply Charge Range']
+        elif "106190930_CDM" in filename:
+            content = pandas.read_excel(filename)
+            description_key = 'Description'
+            price_key = 'Standard Charge'
+            code_key = 'CDM'
+
         #['CHG CODE', 'BILLING DESC', 'DEPT',
         #' 2017 Price Per Unit for Infussion and Pharmacy',
         #'2018 Price Per Unit for Infussion and Pharmacy',
@@ -85,8 +92,15 @@ for r in range(548, len(results)):
             price_key = '2018 Current PRICE'
             code_key = 'CHG CODE'
 
+        # ['Procedure Code', 'Procedure Name', 'Revenue Code', 'Price']
+        elif "106370673_CDM" in filename:
+            content = pandas.read_excel(filename)
+            description_key = 'Procedure Name'
+            price_key = 'Price' 
+            code_key = 'Revenue Code'
+
         # ['Charge Code', 'Description', 'Std Charge', 'Outpt Charge', 'Comment']
-        elif "106190680_CDM" in filename:
+        elif "106190680_CDM" in filename or "106190756_CDM" in filename or "106190758_CDM" in filename:
             content = pandas.read_excel(filename, skiprows=3) 
             description_key = 'Description'
             price_key = 'Std Charge' 
@@ -596,6 +610,12 @@ for r in range(548, len(results)):
                     price_key = "STD AMOUNT"        
                     code_key = "PROCEDURE"
 
+                if code_key not in content.columns.tolist():
+                    content = pandas.read_excel(filename, skiprows=3) 
+                    description_key = 'Description'
+                    price_key = 'Std Charge' 
+                    code_key = 'Charge Code'
+
 
         elif "cdm(" in filename.lower():
             # CDM #                    Description   Price
@@ -642,7 +662,7 @@ for r in range(548, len(results)):
             df = df.dropna(how='all')
 
             # Save data!
-            print(df.shape)  # 547
+            print(df.shape)  # 573
             df.to_csv(output_data, sep='\t', index=False)
             df.to_csv(output_year, sep='\t', index=False)
             output_data = os.path.join(here, 'data-latest-2.tsv')
