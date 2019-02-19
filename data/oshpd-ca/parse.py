@@ -270,7 +270,7 @@ for r in range(628, len(results)):
             code_key = 'Charge code'
 
         #  ['Group', 'ChargeCode', 'ChargeCode Description', 'Fee Schedule Charge 1']
-        elif "106370875_CDM" in filename or "106370689_CDM" in filename or "106370714_CDM" in filename:
+        elif "106370875_CDM" in filename or "106370689_CDM" in filename or "106370714_CDM" in filename or "106370694_CDM" in filename:
             content = pandas.read_excel(filename)
             description_key = 'ChargeCode Description'
             price_key = 'Fee Schedule Charge 1'
@@ -693,7 +693,7 @@ for r in range(628, len(results)):
             df = df.dropna(how='all')
 
             # Save data!
-            print(df.shape)  # 627
+            print(df.shape)  # 630
             df.to_csv(output_data, sep='\t', index=False)
             df.to_csv(output_year, sep='\t', index=False)
             output_data = os.path.join(here, 'data-latest-2.tsv')
