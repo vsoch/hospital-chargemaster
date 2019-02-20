@@ -42,7 +42,7 @@ columns = ['charge_code',
 df = pandas.DataFrame(columns=columns)
 
 seen = []
-for r in range(641, len(results)):
+for r in range(652, len(results)):
     result = results[r]
     filename = os.path.join(latest, result['filename'])
     if not os.path.exists(filename):
@@ -306,6 +306,20 @@ for r in range(641, len(results)):
             description_key = 'Charge Description'
             price_key = 'Price' 
             code_key = None
+
+        # ['Fac', 'Charge #', 'Description', 'Price', 'GL Key'],
+        elif "106190380_CDM" in filename:
+            content = pandas.read_excel(filename, skiprows=5)
+            description_key = 'Description'
+            price_key = 'Price' 
+            code_key = 'Charge #'
+
+        # ['Charge Code', 'Charge Description', 'CPT-4', 'Amount']
+        elif "106190110_CDM" in filename:
+            content = pandas.read_excel(filename, skiprows=5)
+            description_key = 'Charge Description'
+            price_key = 'Amount' 
+            code_key = 'Charge Code'
 
         # ['ITEM #', 'DESCRIPTION', 'PRICE', 'CPT CODE']
         elif "106040937_CDM" in filename:
@@ -709,7 +723,7 @@ for r in range(641, len(results)):
             df = df.dropna(how='all')
 
             # Save data!
-            print(df.shape)  # 640
+            print(df.shape)  # 651
             df.to_csv(output_data, sep='\t', index=False)
             df.to_csv(output_year, sep='\t', index=False)
             output_data = os.path.join(here, 'data-latest-2.tsv')
