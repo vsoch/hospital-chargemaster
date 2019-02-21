@@ -42,7 +42,7 @@ columns = ['charge_code',
 df = pandas.DataFrame(columns=columns)
 
 seen = []
-for r in range(652, len(results)):
+for r in range(687, len(results)):
     result = results[r]
     filename = os.path.join(latest, result['filename'])
     if not os.path.exists(filename):
@@ -105,6 +105,19 @@ for r in range(652, len(results)):
             description_key = 'Procedure Name'
             price_key = 'Price' 
             code_key = 'Revenue Code'
+
+        # ['Count', 'Description', 'Procedure Type']
+        # Doesn't have prices
+        elif "106560508_CDM" in filename or "106560529_CDM" in filename:
+            continue
+
+        # ['CHARGE CODE', 'CHARGE DESCRIPTION', 'CHARGE AMOUNT ']
+        elif "106010967_CDM" in filename:
+            content = pandas.read_excel(filename, skiprows=1) 
+            description_key = 'CHARGE DESCRIPTION'
+            price_key = 'CHARGE AMOUNT ' 
+            code_key = 'CHARGE CODE'
+
 
         # ['Charge Code', 'Description', 'Std Charge', 'Outpt Charge', 'Comment']
         elif "106190680_CDM" in filename or "106190756_CDM" in filename or "106190758_CDM" in filename:
@@ -314,6 +327,13 @@ for r in range(652, len(results)):
             price_key = 'Price' 
             code_key = 'Charge #'
 
+        # ['CDM NO', 'DISPENSED DESCRIPTION', 'PRICE', 'TYPE', 'NOTE']
+        elif "106334068_CDM" in filename:
+            content = pandas.read_excel(filename)
+            description_key = 'DISPENSED DESCRIPTION'
+            price_key = 'PRICE' 
+            code_key = 'CDM NO'
+
         # ['Charge Code', 'Charge Description', 'CPT-4', 'Amount']
         elif "106190110_CDM" in filename:
             content = pandas.read_excel(filename, skiprows=5)
@@ -442,6 +462,14 @@ for r in range(652, len(results)):
             description_key = "CDM Description"
             price_key = "Price"        
             code_key = "CDM #"
+
+
+        # ['CDM NO', 'DISPENSED DESCRIPTION', 'PRICE', 'TYPE', 'NOTE']
+        elif "106334564_CDM" in filename:
+            content = pandas.read_excel(filename)
+            description_key = "DISPENSED DESCRIPTION"
+            price_key = "PRICE"  
+            code_key = "CDM NO"
 
 
         # ['CDM#', 'CDM Description', 'Facility', 'gl_account_id', 'Rev Code', 'Price', 'CPT/HCPCS']
@@ -723,7 +751,7 @@ for r in range(652, len(results)):
             df = df.dropna(how='all')
 
             # Save data!
-            print(df.shape)  # 651
+            print(df.shape)  # 654
             df.to_csv(output_data, sep='\t', index=False)
             df.to_csv(output_year, sep='\t', index=False)
             output_data = os.path.join(here, 'data-latest-2.tsv')
