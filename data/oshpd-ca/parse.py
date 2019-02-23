@@ -42,7 +42,7 @@ columns = ['charge_code',
 df = pandas.DataFrame(columns=columns)
 
 seen = []
-for r in range(730, len(results)):
+for r in range(733, len(results)):
     result = results[r]
     filename = os.path.join(latest, result['filename'])
     if not os.path.exists(filename):
@@ -80,6 +80,34 @@ for r in range(730, len(results)):
             description_key = 'Description'
             price_key = 'Standard Charge'
             code_key = 'CDM'
+
+        # ['NDC ID', 'NDC_CODE', 'RAW_11_DIGIT_NDC', 'RAW_NDC_CODE',
+        # 'Medication ID', 'Medication Name', 'PACKAGE_SIZE', 'MED Units',
+        # 'PACKAGE_QUANTITY', 'PRICE_CODE_C', 'Price COde', 'PRICE',
+        # 'PRICE_PER_UNIT_YN']
+        elif "106370782_CDM_Rx" in filename:
+            content = pandas.read_excel(filename)
+
+            # This distinguishes between inpatient / outpatient price code
+            # ['Inpt/Contract Costs', 'Outpatient Cost']
+
+            for row in content.iterrows():
+ 
+                charge_type = 'outpatient'
+                if row[1]['Price COde'] == 'Inpt/Contract Costs':
+                    charge_type = 'inpatient'
+
+                    idx = df.shape[0] + 1
+                    entry = [row[1]['PRICE_CODE_C'],       # charge code
+                             row[1]['PRICE'],        # price
+                             row[1]['Medication Name'],      # description
+                             result["hospital_id"],        # hospital_id
+                             result['filename'],
+                             charge_type]     
+                    df.loc[idx,:] = entry
+
+            continue
+
 
         #['CHG CODE', 'BILLING DESC', 'DEPT',
         #' 2017 Price Per Unit for Infussion and Pharmacy',
@@ -759,7 +787,7 @@ for r in range(730, len(results)):
             df = df.dropna(how='all')
 
             # Save data!
-            print(df.shape)  # 732
+            print(df.shape)  # 737
             df.to_csv(output_data, sep='\t', index=False)
             df.to_csv(output_year, sep='\t', index=False)
             output_data = os.path.join(here, 'data-latest-2.tsv')
