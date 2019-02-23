@@ -42,7 +42,7 @@ columns = ['charge_code',
 df = pandas.DataFrame(columns=columns)
 
 seen = []
-for r in range(733, len(results)):
+for r in range(740, len(results)):
     result = results[r]
     filename = os.path.join(latest, result['filename'])
     if not os.path.exists(filename):
@@ -161,6 +161,21 @@ for r in range(733, len(results)):
             price_key = 'Charge Amount' 
             code_key = 'Charge Code'
 
+        # ['Item ID', 'Item Name', 'External IDs', 'Alias', 'Active?',
+        # 'Effective Date', 'Description', 'Supply or Drug?', 'Type of Item',
+        # 'LDA Type', 'Reusable?', 'OR Location', 'Inv Location', 'Supplier',
+        # 'Supplier Catalog No.', 'Supplier Price', 'Supplier Pkg Type',
+        # 'Supplier Pkg to Shelf Ratio', 'Last Supplier', 'Last Catalog No.',
+        # 'Last Purchase Price', 'Manufacturer', 'Manuf Catalog No.',
+        # 'Manuf Pkg to Shelf Ratio', 'Order Ratio', 'Order Pack Type', 'GTINs',
+        # 'Used by Areas', 'Chargeable', 'Charge Code EAP', 'Charge Code FT',
+        # 'Charge Per Unit', 'Cost Per Unit', 'Unnamed: 33']
+        elif "106370782_CDM(2)" in filename:
+            content = pandas.read_excel(filename, skiprows=3)
+            description_key = 'Item Name'
+            price_key = 'Cost Per Unit'
+            code_key = 'Item ID'
+
         # ['CDM#', 'CDM Description', 'Facility', 'gl_account_id', 'gl_sub_acct',
         #'chg_type_int_id', 'cod_dtl_ds', 'active_dt', 'Rev Code', 'Price',
         # 'CPT/HCPCS', 'Unnamed: 11']
@@ -184,6 +199,14 @@ for r in range(733, len(results)):
             price_key = 'PS:Price Sched Price'
             code_key = 'SJGH_CDM'
 
+        # ['procedure status', 'procedure master #', 'procedure name', 'Default',
+        #'Trauma variants', 'OP Rx (not in  Pharmacy file)',
+        #'OP Rx (not in  Pharmacy file, MediCal only)', 'Note']
+        elif "106370782_CDM(1)" in filename:
+            content = pandas.read_excel(filename)
+            description_key = 'procedure name'
+            price_key = 'Default'
+            code_key = 'procedure master #'
 
         # ['Charge Code', 'Charge Description', 'Price', 'Comments']
         elif "106074039_CDM" in filename:
@@ -680,6 +703,39 @@ for r in range(733, len(results)):
             description_key = "CODE DESCRIPTION"
             price_key = 'UNIT CHARGE AMOUNT'
 
+        # ['Charge Code', 'Charge Description', 'CPT/HCPCS Code',
+        # 'Inpatient \nPrice', 'Outpatient \nPrice']
+        elif "106341006_CDM" in filename:
+            content = pandas.read_excel(filename, skiprows=5)
+            code_key = 'Charge Code'
+            description_key = "Charge Description"
+
+            for row in content.iterrows():
+
+                # Outpatient
+                idx = df.shape[0] + 1
+                entry = [row[1][code_key],             # charge code
+                         row[1]['Outpatient \nPrice'], # price
+                         row[1][description_key],      # description
+                         result["hospital_id"],        # hospital_id
+                         result['filename'],
+                         'outpatient']            
+                df.loc[idx,:] = entry
+
+                # Inpatient
+                idx = df.shape[0] + 1
+                entry = [row[1][code_key],             # charge code
+                         row[1]['Inpatient \nPrice'],  # price
+                         row[1][description_key],      # description
+                         result["hospital_id"],        # hospital_id
+                         result['filename'],
+                         'inpatient']            
+                df.loc[idx,:] = entry
+
+            continue
+
+
+
         elif "106190555_CDM" in filename or "106190500_CDM" in filename:
             # 'Charge\nCode', 'Description', 'CPT/ HCPCS\nCode', 'OP/ Default Price', 'IP/ER\nPrice'
             content = pandas.read_excel(filename, skiprows=4)
@@ -787,7 +843,7 @@ for r in range(733, len(results)):
             df = df.dropna(how='all')
 
             # Save data!
-            print(df.shape)  # 737
+            print(df.shape)  # 743
             df.to_csv(output_data, sep='\t', index=False)
             df.to_csv(output_year, sep='\t', index=False)
             output_data = os.path.join(here, 'data-latest-2.tsv')
