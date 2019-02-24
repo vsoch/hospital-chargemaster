@@ -42,7 +42,7 @@ columns = ['charge_code',
 df = pandas.DataFrame(columns=columns)
 
 seen = []
-for r in range(740, len(results)):
+for r in range(744, len(results)):
     result = results[r]
     filename = os.path.join(latest, result['filename'])
     if not os.path.exists(filename):
@@ -651,6 +651,38 @@ for r in range(740, len(results)):
             price_key = 'Base Price '
             code_key = None
 
+        # ['CDM', 'CDM DESCRIPTION', 'CPT/HCPC', 'OP', 'IP', 'FQHC', 'LAB OP',
+        # 'LAB IP', 'RAD OP', 'RAD IP']
+        elif "106301279_CDM" in filename:
+            content = pandas.read_excel(filename)
+            description_key = "CDM DESCRIPTION"
+            code_key = 'CDM' 
+
+            for row in content.iterrows():
+
+                # Outpatient
+                if row[1]['OP'] != 0:
+                    idx = df.shape[0] + 1
+                    entry = [row[1][code_key],             # charge code
+                             row[1]['OP'], # price
+                             row[1][description_key],      # description
+                             result["hospital_id"],        # hospital_id
+                             result['filename'],
+                             'outpatient']            
+                    df.loc[idx,:] = entry
+
+                if row[1]['IP'] != 0:
+                    idx = df.shape[0] + 1
+                    entry = [row[1][code_key],             # charge code
+                             row[1]['IP'],                 # price
+                             row[1][description_key],      # description
+                             result["hospital_id"],        # hospital_id
+                             result['filename'],
+                             'inpatient']            
+                    df.loc[idx,:] = entry
+
+            continue
+
         # ['PROC (CDM)', 'DRUG DESCRIPTION', 'CHARGE']
         elif "106364231_CDM_RX" in filename:
             content = pandas.read_excel(filename, skiprows=7)
@@ -843,9 +875,18 @@ for r in range(740, len(results)):
             df = df.dropna(how='all')
 
             # Save data!
-            print(df.shape)  # 743
+            print(df.shape)  # 746
             df.to_csv(output_data, sep='\t', index=False)
             df.to_csv(output_year, sep='\t', index=False)
             output_data = os.path.join(here, 'data-latest-2.tsv')
             output_year = os.path.join(here, 'data-%s-2.tsv' % year)
+            df = pandas.DataFrame(columns=columns)
+
+        elif result['hospital_id'] == 'unversity-of-california-irvine-medical-center':
+
+            df = df.dropna(how='all')
+            df.to_csv(output_data, sep='\t', index=False)
+            df.to_csv(output_year, sep='\t', index=False)
+            output_data = os.path.join(here, 'data-latest-3.tsv')
+            output_year = os.path.join(here, 'data-%s-3.tsv' % year)
             df = pandas.DataFrame(columns=columns)
