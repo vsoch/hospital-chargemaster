@@ -9,8 +9,7 @@ import datetime
 # This is a challenging dataset because it's so big!
 # We will do our best to break the data into pieces
 
-here = os.getcwd()
-#here = os.path.dirname(os.path.abspath(__file__))
+here = os.path.dirname(os.path.abspath(__file__))
 folder = os.path.basename(here)
 latest = '%s/latest' % here
 year = datetime.datetime.today().year
@@ -42,7 +41,7 @@ columns = ['charge_code',
 df = pandas.DataFrame(columns=columns)
 
 seen = []
-for r in range(747, len(results)):
+for r in range(0, len(results)):
     result = results[r]
     filename = os.path.join(latest, result['filename'])
     if not os.path.exists(filename):
@@ -186,7 +185,7 @@ for r in range(747, len(results)):
         # ['CDM#', 'CDM Description', 'Facility', 'gl_account_id', 'gl_sub_acct',
         #'chg_type_int_id', 'cod_dtl_ds', 'active_dt', 'Rev Code', 'Price',
         # 'CPT/HCPCS', 'Unnamed: 11']
-        elif "106301258_CDM" in filename:
+        elif "106301258_CDM" in filename or "106361370_CDM_" in filename:
             content = pandas.read_excel(filename, skiprows=1)
             description_key = 'CDM Description'
             price_key = 'Price'
@@ -711,6 +710,7 @@ for r in range(747, len(results)):
             description_key = 'Description'
             price_key = 'Price'
 
+
         # ['Reference ID', 'Description', 'Price']
         elif "106364014_CDM" in filename:
             content = pandas.read_excel(filename, skiprows=4)
@@ -882,19 +882,15 @@ for r in range(747, len(results)):
             df = df.dropna(how='all')
 
             # Save data!
-            print(df.shape)  # 746
+            print(df.shape)  # 757
             df.to_csv(output_data, sep='\t', index=False)
             df.to_csv(output_year, sep='\t', index=False)
             output_data = os.path.join(here, 'data-latest-2.tsv')
             output_year = os.path.join(here, 'data-%s-2.tsv' % year)
             df = pandas.DataFrame(columns=columns)
 
-#
-#        elif result['hospital_id'] == 'unversity-of-california-irvine-medical-center':
 
-            df = df.dropna(how='all')
-            df.to_csv(output_data, sep='\t', index=False)
-            df.to_csv(output_year, sep='\t', index=False)
-            output_data = os.path.join(here, 'data-latest-3.tsv')
-            output_year = os.path.join(here, 'data-%s-3.tsv' % year)
-            df = pandas.DataFrame(columns=columns)
+# One final save
+print(df.shape)
+df.to_csv(output_data, sep='\t', index=False)
+df.to_csv(output_year, sep='\t', index=False)
